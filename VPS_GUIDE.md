@@ -131,7 +131,7 @@ scp root@165.227.107.74:/root/edgar/bis-china_monitor/bis_china_disclosures.csv 
 
 **1. Commit and push to GitHub:**
 ```powershell
-cd C:\Users\8010317\projects\government-bots\SEC-cyber
+cd C:\Users\8010317\projects\government-bots\edgar
 git add .
 git commit -m "description of changes"
 git push
