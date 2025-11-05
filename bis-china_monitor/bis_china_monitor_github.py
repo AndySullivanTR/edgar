@@ -297,6 +297,11 @@ This is an automated alert from the BIS/China Trade Monitor.
         if filing['filing_url'] in self.seen_filings:
             return False
         
+        # ONLY process 8-K filings (material events, not routine disclosures)
+        if filing['filing_type'] not in ['8-K']:
+            self.seen_filings.add(filing['filing_url'])
+            return False
+        
         print(f"  Checking: {filing['filing_type']} from {filing['filing_date']}")
         
         content = self.fetch_filing_content(filing['filing_url'])

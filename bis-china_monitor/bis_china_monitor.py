@@ -69,13 +69,11 @@ COMPANIES = {
 # Search terms - based on actual Cadence filing language
 BIS_TERMS = [
     "bureau of industry and security",
-    "bis",
     "export control",
     "export controls",
     "export restriction",
     "export restrictions",
     "export administration regulations",
-    "ear",
     "commerce department",
     "trade restriction",
     "trade restrictions",
@@ -330,6 +328,11 @@ This is an automated alert from the BIS/China Trade Monitor.
     def process_filing(self, filing):
         """Process a single filing and check for matches"""
         if filing['filing_url'] in self.seen_filings:
+            return False
+        
+        # ONLY process 8-K filings (material events, not routine disclosures)
+        if filing['filing_type'] not in ['8-K']:
+            self.seen_filings.add(filing['filing_url'])
             return False
         
         ticker = self.get_ticker_for_cik(filing['cik'])
