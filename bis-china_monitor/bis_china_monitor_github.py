@@ -70,7 +70,6 @@ TARGET_COMPANIES = {
 # Search terms for BIS/trade restrictions
 BIS_TERMS = [
     "bureau of industry and security",
-    "bis",
     "export control",
     "export controls",
     "export restriction",
@@ -80,13 +79,10 @@ BIS_TERMS = [
     "trade restriction",
     "trade restrictions",
     "foreign direct product rule",
-    "fdpr",
     "entity list",
     "denied persons list",
     "unverified list",
     "commerce control list",
-    "ccl",
-    "ear", 
     "export administration regulations"
 ]
 
@@ -94,12 +90,7 @@ CHINA_TERMS = [
     "china",
     "chinese",
     "prc",
-    "people's republic of china",
-    "beijing",
-    "hong kong",
-    "huawei",
-    "smic",
-    "semiconductor manufacturing international"
+    "people's republic of china"
 ]
 
 PROXIMITY_WINDOW = 100
