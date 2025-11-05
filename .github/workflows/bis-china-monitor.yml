@@ -1,0 +1,44 @@
+name: BIS China Trade Monitor
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'  # Every 15 minutes
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+        
+    - name: Run BIS monitor
+      env:
+        GMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+        GMAIL_APP_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+        ALERT_RECIPIENTS: ${{ secrets.RECIPIENT_EMAIL }}
+      run: |
+        cd bis-china_monitor
+        python bis_china_monitor.py
+        
+    - name: Commit results
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add bis-china_monitor/bis_china_disclosures.csv bis-china_monitor/bis_seen_filings.json
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update BIS disclosures data"
+        
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
