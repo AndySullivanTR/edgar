@@ -1,0 +1,13 @@
+```
+# Data files - don't commit
+*.csv
+*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+venv/
+.env
