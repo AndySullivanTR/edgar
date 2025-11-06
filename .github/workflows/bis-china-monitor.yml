@@ -29,7 +29,7 @@ jobs:
         ALERT_RECIPIENTS: ${{ secrets.RECIPIENT_EMAIL }}
       run: |
         cd bis-china_monitor
-        python bis_china_monitor_github.py
+        python bis_china_monitor.py
         
     - name: Commit results
       run: |
