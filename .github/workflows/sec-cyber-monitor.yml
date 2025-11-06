@@ -1,44 +1,44 @@
-name: SEC Cyber Incident Monitor
+name: SEC Cyber Monitor
 
 on:
-  #schedule:
-  #  - cron: '*/15 * * * *'  # Every 15 minutes
-  workflow_dispatch:  # Manual trigger
+  schedule:
+    # Run every 15 minutes
+    - cron: '*/15 * * * *'
+  workflow_dispatch:  # Allow manual triggers
 
 jobs:
   monitor:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v4
       
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.11'
         
     - name: Install dependencies
       run: |
-        pip install -r requirements.txt
+        pip install --upgrade pip
+        pip install requests beautifulsoup4 lxml httpx
         
-    - name: Run cyber monitor
+    - name: Run SEC Cyber Monitor
       env:
-        GMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
-        GMAIL_APP_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
-        ALERT_RECIPIENTS: ${{ secrets.RECIPIENT_EMAIL }}
+        ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        GMAIL_USER: ${{ secrets.GMAIL_USER }}
+        GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        EMAIL_RECIPIENTS: ${{ secrets.EMAIL_RECIPIENTS }}
+      working-directory: ./sec-cyber-monitor
+      run: |
+        python sec_cyber_monitor.py
+        
+    - name: Commit and push state files
       run: |
         cd sec-cyber-monitor
-        python sec_cyber_monitor_github.py
-        
-    - name: Commit results
-      run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add sec-cyber-monitor/cyber_incidents.csv sec-cyber-monitor/seen_filings.json
-        git diff --quiet && git diff --staged --quiet || git commit -m "Update cyber incidents data"
-        
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        git add seen_filings.json || true
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update cyber monitor state [skip ci]" || true
+        git push || true

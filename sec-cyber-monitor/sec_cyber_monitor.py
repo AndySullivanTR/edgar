@@ -1,491 +1,531 @@
 #!/usr/bin/env python3
 """
 SEC EDGAR Cybersecurity Incident Monitor
-Monitors SEC filings for mentions of nation-state cyber attacks
+- Polls the SEC "current filings" Atom feed every 15 minutes
+- Classifies filings for NEW disclosures of cyber incidents by foreign/state-backed actors
+- Emails alerts on NEW
+- Persists state to avoid re-processing the same filings
+
+Run: python sec_cyber_monitor.py
+Stop: Ctrl + C
 """
 
-import requests
-import time
-import csv
+import os
 import re
-from datetime import datetime
-from pathlib import Path
-import xml.etree.ElementTree as ET
-from bs4 import BeautifulSoup
 import json
-from urllib.parse import urljoin
+import time
+import httpx
 import smtplib
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
+import requests
+from email.message import EmailMessage
+from datetime import datetime, timezone
+from bs4 import BeautifulSoup
+from xml.etree import ElementTree as ET
 
-# Configuration
-RSS_FEED_URL = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&CIK=&type=&company=&dateb=&owner=include&start=0&count=100&output=atom"
-CHECK_INTERVAL = 300  # 5 minutes in seconds
-OUTPUT_DIR = Path(r"C:\Users\8010317\projects\government-bots\SEC-cyber")
-CSV_FILE = OUTPUT_DIR / "cyber_incidents.csv"
-SEEN_FILE = OUTPUT_DIR / "seen_filings.json"
+# ========================
+# Simple config (edit these)
+# ========================
+
+
+# Email configuration (using Gmail)
+GMAIL_USER = os.getenv("GMAIL_USER", "")
+GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD", "")
+EMAIL_RECIPIENTS = os.getenv("EMAIL_RECIPIENTS", "andy.sullivan@thomsonreuters.com,chris.sanders@thomsonreuters.com").split(",")
+SEND_EMAILS = bool(GMAIL_USER and GMAIL_APP_PASSWORD)
+
+# Feed & polling
+SEC_ATOM_FEED = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&count=100&output=atom"
+POLL_SECONDS = 15 * 60   # 15 minutes
+RUN_ONCE = False         # set to True to test one cycle and exit
+
+# User-Agent for SEC requests
 USER_AGENT = "Andy Sullivan andy.sullivan@thomsonreuters.com"
 
-# Email configuration
-GMAIL_ADDRESS = "andy.sullivan@gmail.com"
-GMAIL_APP_PASSWORD = "awgoydeecxhksgwt"
-ALERT_RECIPIENTS = ["andy.sullivan@thomsonreuters.com", "chris.sanders@thomsonreuters.com"]
+# LLM (optional): set ANTHROPIC_API_KEY in your environment to enable.
+ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
+ANTHROPIC_BASE_URL = os.getenv("ANTHROPIC_BASE_URL", "https://api.anthropic.com").rstrip("/")
+ANTHROPIC_URL = f"{ANTHROPIC_BASE_URL}/v1/messages"
+ANTHROPIC_MODEL = "claude-sonnet-4-5"
+MAX_EXCERPT_CHARS = 2000
 
-# Search terms
+# State file
+STATE_FILE = "seen_filings.json"
+
+# Forms to consider (tune as needed)
+WATCH_FORMS = {"8-K", "10-Q", "10-K"}
+
+# ========================
+# Lexicons & Regex (same logic as your passing test)
+# ========================
+
 CYBER_TERMS = [
-    "cybersecurity incident",
-    "cyber incident", 
-    "cyber attack",
-    "cyberattack",
-    "data breach",
-    "security breach",
-    "unauthorized access",
-    "network intrusion",
-    "security intrusion",
-    "malicious actor",
-    "threat actor"
+    "cybersecurity incident", "cybersecurity", "cyber attack", "cyberattack",
+    "threat actor", "threat actors", "unauthorized access", "compromise",
+    "breach", "ransomware", "malware", "exfiltrat", "intrusion", "lateral movement",
+    "apt", "advanced persistent threat", "credential theft", "persistence"
 ]
 
 NATION_STATE_TERMS = [
-    "nation-state",
-    "nation state",
-    "state-sponsored",
-    "state sponsored",
-    "foreign government",
-    "foreign actor",
-    "foreign threat",
-    "advanced persistent threat",
-    "apt ",
-    "apt,",
-    "apt."
+    "nation-state", "state-sponsored", "state-affiliated", "state-backed", "government-backed",
+    "foreign intelligence", "foreign adversary", "apt", "advanced persistent threat",
+    "prc", "chinese", "china", "russia", "russian", "gru", "fsb", "svr", "mss",
+    "iran", "irgc", "dprk", "north korean", "vietnam", "apt32", "oceanlotus",
+    "lazarus", "sandworm", "cozy bear", "apt29", "apt28", "unc", "volt typhoon",
+    "believed to be", "linked to", "attributed to", "suspected"
 ]
 
-PROXIMITY_WINDOW = 100  # words
+SPLIT_SENTENCES = re.compile(r'(?<=[\.\?\!])\s+(?=[A-Z(“"])')
+SPLIT_PARAS = re.compile(r'\n{2,}|\r{2,}|\s{2,}')
 
-class SECCyberMonitor:
-    def __init__(self):
-        self.session = requests.Session()
-        self.session.headers.update({"User-Agent": USER_AGENT})
-        self.seen_filings = self.load_seen_filings()
-        OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-        self.initialize_csv()
-    
-    def load_seen_filings(self):
-        """Load set of already-processed filing URLs"""
-        if SEEN_FILE.exists():
-            with open(SEEN_FILE, 'r') as f:
-                return set(json.load(f))
-        return set()
-    
-    def save_seen_filings(self):
-        """Save set of processed filing URLs"""
-        with open(SEEN_FILE, 'w') as f:
-            json.dump(list(self.seen_filings), f)
-    
-    def initialize_csv(self):
-        """Create CSV file with headers if it doesn't exist"""
-        if not CSV_FILE.exists():
-            with open(CSV_FILE, 'w', newline='', encoding='utf-8') as f:
-                writer = csv.writer(f)
-                writer.writerow([
-                    'timestamp',
-                    'company_name',
-                    'cik',
-                    'filing_type',
-                    'filing_date',
-                    'filing_url',
-                    'page_number',
-                    'cyber_terms_found',
-                    'nation_state_terms_found',
-                    'excerpt'
-                ])
-    
-    def send_email(self, filing, excerpt, cyber_terms, nation_terms):
-        """Send email alert when a match is found"""
-        try:
-            msg = MIMEMultipart()
-            msg['From'] = GMAIL_ADDRESS
-            msg['To'] = ', '.join(ALERT_RECIPIENTS)
-            msg['Subject'] = f"SEC Cyber Alert: {filing['company_name']} - {filing['filing_type']}"
-            
-            body = f"""
-A potential nation-state cyber incident disclosure has been detected:
+DATE_RE = re.compile(
+    r'\b(on\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+20\d{2})'
+    r'|\b(20\d{2}-\d{2}-\d{2})'
+    r'|\b(in\s+(?:early|late)?\s*(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\s+20\d{2})',
+    re.I
+)
+MODALS_RE = re.compile(r'\b(may|could|might|would)\b', re.I)
 
-Company: {filing['company_name']}
-Filing Type: {filing['filing_type']}
-Filing Date: {filing['filing_date']}
-Filing URL: {filing['filing_url']}
+RISK_RE = re.compile(r'item\s+1a\.\s*risk factors|forward-looking statements', re.I)
+ITEM105_RE = re.compile(r'item\s+1\.05', re.I)
+ITEM801_RE = re.compile(r'item\s+8\.01', re.I)
+ITEM5_RE = re.compile(r'item\s+5\.\s*other information', re.I)
+CYBER_DISCLOSURE_RE = re.compile(r'cybersecurity incident disclosure', re.I)
 
-Cyber Terms Found: {', '.join(cyber_terms)}
-Nation-State Terms Found: {', '.join(nation_terms)}
+RESPONSE_SIGNALS = [
+    "learned", "discovered", "detected", "became aware",
+    "gained unauthorized access", "gained access", "exfiltrat", "persist",
+    "initiated incident response", "activated incident response",
+    "engaged third-party", "engaged cybersecurity", "forensic",
+    "law enforcement", "contain", "contained", "remediat", "investigation"
+]
 
-Excerpt:
-{excerpt}
+def modal_density(text: str) -> float:
+    tokens = re.findall(r'\w+', text)
+    if not tokens:
+        return 0.0
+    return len(MODALS_RE.findall(text)) / max(1, len(tokens))
 
----
-This is an automated alert from the SEC Cyber Monitor.
+def is_time_anchored(text: str) -> bool:
+    return bool(DATE_RE.search(text))
+
+def section_score(context: str) -> int:
+    s = 0
+    text = context
+    if ITEM105_RE.search(text) or ITEM801_RE.search(text):
+        s += 2
+    if ITEM5_RE.search(text):
+        s += 1
+    if CYBER_DISCLOSURE_RE.search(text):
+        s += 1
+    if RISK_RE.search(text):
+        s -= 2
+    return s
+
+def looks_like_boilerplate(text: str) -> bool:
+    return modal_density(text) > 0.02 or bool(RISK_RE.search(text))
+
+def verb_signal_score(text: str) -> int:
+    t = text.lower()
+    return sum(1 for v in RESPONSE_SIGNALS if v in t)
+
+def has_nation_state_token(text: str) -> bool:
+    low = (text or "").lower()
+    return any(term.lower() in low for term in NATION_STATE_TERMS)
+
+def obvious_new(text: str) -> bool:
+    return is_time_anchored(text) and (verb_signal_score(text) >= 2) and (section_score(text) >= 1)
+
+def windows(text: str):
+    paras = [p.strip() for p in SPLIT_PARAS.split(text) if p and p.strip()]
+    for p in paras:
+        sents = [s.strip() for s in SPLIT_SENTENCES.split(p) if s and s.strip()]
+        for s in sents:
+            yield ("sentence", s)
+        yield ("paragraph", p)
+
+def proximity_by_scope(text: str, terms1, terms2):
+    hits = []
+    for scope, chunk in windows(text):
+        low = chunk.lower()
+        t1 = [t for t in terms1 if t.lower() in low]
+        t2 = [t for t in terms2 if t.lower() in low]
+        if t1 and t2:
+            hits.append((scope, t1, t2, chunk))
+    hits.sort(key=lambda h: 0 if h[0] == "sentence" else 1)
+    return hits
+
+def excerpt_score(scope: str, excerpt: str) -> int:
+    score = 0
+    if scope == "sentence":
+        score += 2
+    if is_time_anchored(excerpt):
+        score += 2
+    score += verb_signal_score(excerpt)
+    score += section_score(excerpt)
+    if modal_density(excerpt) > 0.02:
+        score -= 2
+    if RISK_RE.search(excerpt):
+        score -= 3
+    return score
+
+# ========================
+# Fetch & parse
+# ========================
+
+def fetch_text_from_sec(url: str) -> str:
+    with requests.Session() as s:
+        s.headers.update({"User-Agent": USER_AGENT})
+        r = s.get(url, timeout=45)
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+        for tag in soup(["script", "style", "noscript"]):
+            tag.extract()
+        text = soup.get_text(separator="\n")
+        text = re.sub(r'[ \t]+', ' ', text)
+        text = re.sub(r'\n{3,}', '\n\n', text)
+        return text
+
+def fetch_atom():
+    """Return a list of entries: each is dict(title, link, updated, summary)."""
+    headers = {"User-Agent": USER_AGENT}
+    resp = requests.get(SEC_ATOM_FEED, headers=headers, timeout=45)
+    resp.raise_for_status()
+    root = ET.fromstring(resp.content)
+
+    # Atom namespace handling
+    ns = {"a": "http://www.w3.org/2005/Atom"}
+    entries = []
+    for e in root.findall("a:entry", ns):
+        title = (e.findtext("a:title", default="", namespaces=ns) or "").strip()
+        link_el = e.find("a:link", ns)
+        link = link_el.get("href") if link_el is not None else ""
+        updated = (e.findtext("a:updated", default="", namespaces=ns) or "").strip()
+        summary = (e.findtext("a:summary", default="", namespaces=ns) or "").strip()
+        entries.append({"title": title, "link": link, "updated": updated, "summary": summary})
+    return entries
+
+def parse_form_from_title(title: str) -> str:
+    # Example Atom title often contains the form: "8-K - Company Name (CIK 000000)"
+    m = re.search(r'\b(8-K|10-Q|10-K)\b', title, flags=re.I)
+    return m.group(1).upper() if m else ""
+
+# ========================
+# LLM (optional)
+# ========================
+
+CLAUDE_PROMPT = """You are classifying SEC filing text.
+
+Return exactly one word:
+- NEW        -> if this is a disclosure of a specific, already-occurred cybersecurity incident attributed to or reportedly involving a foreign/state-backed actor.
+- BOILERPLATE-> if this is generic risk language, hypothetical/forward-looking statements, or lacks a concrete, past-tense incident.
+
+Think carefully but output ONLY 'NEW' or 'BOILERPLATE'.
 """
-            
-            msg.attach(MIMEText(body, 'plain'))
-            
-            server = smtplib.SMTP('smtp.gmail.com', 587)
-            server.starttls()
-            server.login(GMAIL_ADDRESS, GMAIL_APP_PASSWORD)
-            text = msg.as_string()
-            server.sendmail(GMAIL_ADDRESS, ALERT_RECIPIENTS, text)
-            server.quit()
-            
-            print(f"  Email alert sent to {', '.join(ALERT_RECIPIENTS)}")
-        except Exception as e:
-            print(f"  Error sending email: {e}")
-    
-    def get_last_check_time(self):
-        """Get timestamp of most recent check from CSV (Option C for overnight gaps)"""
-        if not CSV_FILE.exists():
-            return None
+
+def claude_classify(excerpt: str):
+    """
+    Returns (label, err) where err is None on success, otherwise a short code.
+    If ANTHROPIC_API_KEY is not set, we return ("BOILERPLATE", "NO_KEY").
+    """
+    if not ANTHROPIC_API_KEY:
+        return ("BOILERPLATE", "NO_KEY")
+
+    ex = (excerpt or "").strip()[:MAX_EXCERPT_CHARS]
+    headers = {
+        "x-api-key": ANTHROPIC_API_KEY,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
+    }
+    payload = {
+        "model": ANTHROPIC_MODEL,
+        "max_tokens": 10,
+        "temperature": 0,
+        "system": CLAUDE_PROMPT,
+        "messages": [{"role": "user", "content": ex}],
+    }
+    print(f"[Claude] POST -> {ANTHROPIC_URL}")
+
+    try:
+        with httpx.Client(timeout=40.0, trust_env=False) as client:
+            resp = client.post(ANTHROPIC_URL, headers=headers, json=payload)
+            if resp.status_code in (404, 405):
+                print(f"  ⚠️ Anthropic {resp.status_code}. Body (trunc): {resp.text[:400]}")
+                return ("BOILERPLATE", str(resp.status_code))
+            if resp.status_code == 401:
+                print("  ⚠️ Anthropic 401 Unauthorized (check API key).")
+                return ("BOILERPLATE", "401")
+            resp.raise_for_status()
+            data = resp.json()
+            out = (data.get("content", [{}])[0].get("text") or "").strip().upper()
+            return (("NEW" if out == "NEW" else "BOILERPLATE"), None)
+    except httpx.HTTPError as e:
+        print(f"  ⚠️ HTTP error calling Anthropic: {e}")
+        return ("BOILERPLATE", "HTTP")
+    except Exception as e:
+        print(f"  ⚠️ Unexpected error calling Anthropic: {e}")
+        return ("BOILERPLATE", "EXC")
+
+# ========================
+# Email
+# ========================
+
+
+def send_email(subject: str, body: str):
+    """Send email alert via Gmail SMTP"""
+    if not SEND_EMAILS:
+        print("\n=== EMAIL ALERT (printing because Gmail not configured) ===")
+        print(subject)
+        print(body)
+        print("=== END EMAIL ALERT ===\n")
+        return
+
+    try:
+        msg = EmailMessage()
+        msg["From"] = GMAIL_USER
+        msg["To"] = ", ".join(EMAIL_RECIPIENTS)
+        msg["Subject"] = subject
+        msg.set_content(body)
+
+        # Use Gmail SMTP with SSL
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=30) as server:
+            server.login(GMAIL_USER, GMAIL_APP_PASSWORD)
+            server.send_message(msg)
         
+        print(f"  📧 Alert emailed to {len(EMAIL_RECIPIENTS)} recipient(s)")
+    except Exception as e:
+        print(f"  ✗ Email failed: {e}")
+
+
+# ========================
+# State (seen filings)
+# ========================
+
+def load_state():
+    """
+    Loads state from seen_filings.json.
+    Accepts legacy/corrupt shapes and migrates to:
+      {"last_checked": <iso or None>, "seen": {<url>: {...}}}
+    """
+    default = {"last_checked": None, "seen": {}}
+    if not os.path.exists(STATE_FILE):
+        return default
+
+    try:
+        with open(STATE_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception:
+        # unreadable -> start fresh but keep a backup
         try:
-            with open(CSV_FILE, 'r', encoding='utf-8') as f:
-                reader = csv.DictReader(f)
-                rows = list(reader)
-                if rows:
-                    # Get the most recent timestamp
-                    last_timestamp = rows[-1]['timestamp']
-                    return datetime.fromisoformat(last_timestamp)
-        except Exception as e:
-            print(f"Error reading last check time: {e}")
-        
-        return None
-    
-    def fetch_rss_feed(self, start=0):
-        """Fetch and parse the SEC RSS feed"""
+            os.replace(STATE_FILE, STATE_FILE + ".bad")
+            print(f"  ⚠️ State file unreadable. Renamed to {STATE_FILE}.bad and starting fresh.")
+        except Exception:
+            print("  ⚠️ State file unreadable and could not be renamed. Starting fresh.")
+        return default
+
+    # Already in the new shape
+    if isinstance(data, dict) and "seen" in data:
+        if not isinstance(data["seen"], dict):
+            data["seen"] = {}
+        data.setdefault("last_checked", None)
+        return data
+
+    # Legacy: list of URLs (or list of dicts). Migrate.
+    if isinstance(data, list):
+        migrated_seen = {}
+        for item in data:
+            if isinstance(item, str):
+                migrated_seen[item] = {"title": "", "updated": "", "label": "UNKNOWN", "reason": "migrated_list", "first_seen": datetime.now(timezone.utc).isoformat()}
+            elif isinstance(item, dict):
+                # Try to pull a URL-ish key
+                url = item.get("url") or item.get("link") or item.get("href") or item.get("filing_url")
+                if isinstance(url, str) and url:
+                    migrated_seen[url] = {
+                        "title": item.get("title", ""),
+                        "updated": item.get("updated", ""),
+                        "label": item.get("label", "UNKNOWN"),
+                        "reason": "migrated_obj",
+                        "first_seen": item.get("first_seen", datetime.now(timezone.utc).isoformat()),
+                    }
+        print(f"  ℹ️ Migrated legacy state list with {len(migrated_seen)} entries.")
+        return {"last_checked": None, "seen": migrated_seen}
+
+    # Anything else -> start fresh but back it up
+    try:
+        os.replace(STATE_FILE, STATE_FILE + ".unknown")
+        print(f"  ⚠️ Unexpected state format. Renamed to {STATE_FILE}.unknown and starting fresh.")
+    except Exception:
+        print("  ⚠️ Unexpected state format and could not be renamed. Starting fresh.")
+    return default
+
+
+def save_state(state):
+    tmp = STATE_FILE + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(state, f, indent=2)
+    os.replace(tmp, STATE_FILE)
+
+# ========================
+# Core classify for a filing page
+# ========================
+
+def classify_filing(url: str):
+    text = fetch_text_from_sec(url)
+    matches = proximity_by_scope(text, CYBER_TERMS, NATION_STATE_TERMS)
+
+    if not matches:
+        return ("BOILERPLATE", None, None)
+
+    # choose best by score
+    ranked = sorted(
+        ((scope, t1, t2, chunk, excerpt_score(scope, chunk)) for (scope, t1, t2, chunk) in matches),
+        key=lambda x: x[4],
+        reverse=True
+    )
+    scope, t1, t2, best_excerpt, best_score = ranked[0]
+
+    # Heuristic-only decisions
+    if looks_like_boilerplate(best_excerpt) and section_score(best_excerpt) < 1 and verb_signal_score(best_excerpt) < 2 and not is_time_anchored(best_excerpt):
+        return ("BOILERPLATE", best_excerpt, "heuristics_boilerplate")
+
+    if obvious_new(best_excerpt):
+        return ("NEW", best_excerpt, "heuristics_obvious_new")
+
+    # Try LLM (optional)
+    label, err = claude_classify(best_excerpt)
+    if err is not None:
+        # If LLM failed but the excerpt is strong, promote to NEW
+        if is_time_anchored(best_excerpt) and verb_signal_score(best_excerpt) >= 2 and has_nation_state_token(best_excerpt):
+            return ("NEW", best_excerpt, f"promoted_no_llm_{err}")
+        return (label, best_excerpt, f"llm_fallback_{err}")
+    return (label, best_excerpt, "llm_ok")
+
+# ========================
+# One poll cycle
+# ========================
+
+def poll_once(state):
+    print("\n=== Polling SEC Atom feed ===")
+    entries = fetch_atom()
+    if not entries:
+        print("No entries found.")
+        return state, 0
+
+    last_checked = state.get("last_checked")
+    seen = state.get("seen", {})
+
+    # parse feed entries and filter new ones
+    new_entries = []
+    for ent in entries:
+        link = ent.get("link") or ""
+        title = ent.get("title") or ""
+        updated = ent.get("updated") or ""
+        form = parse_form_from_title(title)
+        if not link or form not in WATCH_FORMS:
+            continue
+
+        # Use link as primary unique key
+        if link in seen:
+            continue
+
+        # If we have a last_checked timestamp, skip entries older than that (best-effort)
+        # Atom 'updated' example: 2025-10-29T22:03:00-04:00
+        if last_checked:
+            try:
+                updated_dt = datetime.fromisoformat(updated.replace("Z", "+00:00"))
+                last_dt = datetime.fromisoformat(last_checked)
+                if updated_dt <= last_dt:
+                    continue
+            except Exception:
+                # If parsing fails, still queue it (we won't skip due to timestamp)
+                pass
+
+        new_entries.append(ent)
+
+    print(f"Found {len(new_entries)} new candidate filings (forms: {', '.join(sorted(WATCH_FORMS))}).")
+
+    alerts_sent = 0
+
+    for ent in new_entries:
+        link = ent["link"]
+        title = ent["title"]
+        updated = ent["updated"]
+        print(f"\nProcessing: {title}\n{link}\nUpdated: {updated}")
+
         try:
-            url = f"https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&CIK=&type=&company=&dateb=&owner=include&start={start}&count=100&output=atom"
-            response = self.session.get(url, timeout=30)
-            response.raise_for_status()
-            time.sleep(0.1)  # Be nice to SEC servers
-            return response.content
+            label, excerpt, reason = classify_filing(link)
         except Exception as e:
-            print(f"Error fetching RSS feed: {e}")
-            return None
-    
-    def parse_rss_feed(self, xml_content):
-        """Parse RSS feed and extract filing information"""
-        filings = []
-        try:
-            root = ET.fromstring(xml_content)
-            # Handle Atom namespace
-            ns = {'atom': 'http://www.w3.org/2005/Atom'}
-            
-            for entry in root.findall('atom:entry', ns):
-                title = entry.find('atom:title', ns)
-                link = entry.find('atom:link', ns)
-                updated = entry.find('atom:updated', ns)
-                
-                if title is not None and link is not None:
-                    title_text = title.text
-                    # Parse title: "8-K - COMPANY NAME (CIK)"
-                    match = re.search(r'^([\w\-/]+)\s+-\s+(.+?)\s+\((\d+)\)', title_text)
-                    if match:
-                        filing_type = match.group(1)
-                        company_name = match.group(2)
-                        cik = match.group(3)
-                        filing_url = link.get('href')
-                        filing_date = updated.text if updated is not None else ''
-                        
-                        filings.append({
-                            'company_name': company_name,
-                            'cik': cik,
-                            'filing_type': filing_type,
-                            'filing_date': filing_date,
-                            'filing_url': filing_url
-                        })
-        except Exception as e:
-            print(f"Error parsing RSS feed: {e}")
-        
-        return filings
-    
-    def fetch_filing_content(self, filing_url):
-        """Fetch the actual filing document content"""
-        try:
-            # Handle inline XBRL URLs (/ix?doc=...)
-            url = filing_url
-            if '/ix?doc=' in filing_url:
-                # Extract the actual document path
-                doc_path = filing_url.split('/ix?doc=')[1]
-                # Build the direct URL
-                url = f"https://www.sec.gov{doc_path}"
-            
-            response = self.session.get(url, timeout=30)
-            response.raise_for_status()
-            time.sleep(0.1)  # Rate limiting
-            return response.text
-        except Exception as e:
-            print(f"Error fetching filing content from {filing_url}: {e}")
-            return None
-    
-    def extract_text_from_html(self, html_content):
-        """Extract text from HTML filing"""
-        try:
-            soup = BeautifulSoup(html_content, 'html.parser')
-            # Remove script and style elements
-            for script in soup(["script", "style"]):
-                script.decompose()
-            text = soup.get_text(separator=' ', strip=True)
-            return text
-        except Exception as e:
-            print(f"Error extracting text from HTML: {e}")
-            return ""
-    
-    def find_page_number(self, html_content, text, position):
-        """
-        Try to determine page number near a position in the text
-        Looks for common page indicators in SEC filings
-        """
-        # Strategy 1: Look in the extracted text around the position
-        search_start = max(0, position - 3000)
-        search_end = min(len(text), position + 500)
-        search_text = text[search_start:search_end]
-        
-        # Get a snippet to search in raw HTML too
-        text_snippet = text[max(0, position - 100):min(len(text), position + 100)]
-        text_snippet = text_snippet.strip()[:50]  # First 50 chars for searching
-        
-        # Find this snippet in HTML to get the HTML position
-        html_lower = html_content.lower()
-        text_lower = text.lower()
-        
-        # Common patterns in SEC filings
-        patterns = [
-            (r'<[^>]*>\s*(\d+)\s*<', 'HTML tag with number'),  # Number between tags
-            (r'page\s+(\d+)', 'Page indicator'),
-            (r'^\s*(\d+)\s*$', 'Standalone number on line'),
-            (r'\|\s*(\d+)\s*\|', 'Number between pipes'),
-            (r'(?:^|\n)\s*(\d+)\s*(?:\n|$)', 'Number on own line'),
-        ]
-        
-        # Try to find in nearby text first
-        page_num = None
-        for pattern, desc in patterns:
-            matches = list(re.finditer(pattern, search_text, re.MULTILINE | re.IGNORECASE))
-            if matches:
-                # Look for numbers that could be page numbers (typically 1-300 for most filings)
-                for match in reversed(matches):  # Start from closest to position
-                    num = match.group(1)
-                    if num.isdigit() and 1 <= int(num) <= 300:
-                        page_num = num
-                        break
-                if page_num:
-                    break
-        
-        # Strategy 2: If no page found in text, try searching HTML near the match
-        if not page_num and text_snippet:
-            # Find where our text appears in HTML
-            snippet_clean = re.sub(r'\s+', ' ', text_snippet.lower())
-            html_clean = re.sub(r'\s+', ' ', html_lower)
-            
-            html_pos = html_clean.find(snippet_clean[:40])
-            if html_pos != -1:
-                # Search backwards in HTML for page indicators
-                html_search = html_content[max(0, html_pos - 2000):html_pos]
-                
-                # Look for common HTML page markers
-                html_patterns = [
-                    r'<[^>]*page[^>]*>.*?(\d+).*?</',
-                    r'<[^>]*>\s*(\d+)\s*</[^>]*>',
-                    r'style="[^"]*page[^"]*"[^>]*>(\d+)',
-                ]
-                
-                for pattern in html_patterns:
-                    matches = list(re.finditer(pattern, html_search, re.IGNORECASE | re.DOTALL))
-                    if matches:
-                        for match in reversed(matches):
-                            num = match.group(1)
-                            if num.isdigit() and 1 <= int(num) <= 300:
-                                page_num = num
-                                break
-                        if page_num:
-                            break
-        
-        return page_num
-    
-    def proximity_search(self, html_content, text, terms1, terms2, window=100):
-        """
-        Search for terms1 within 'window' words of terms2
-        Returns list of (term1, term2, excerpt, page_num) tuples
-        """
-        text_lower = text.lower()
-        matches = []
-        
-        # Find all positions of both term sets
-        cyber_positions = []
-        for term in terms1:
-            term_lower = term.lower()
-            start = 0
-            while True:
-                pos = text_lower.find(term_lower, start)
-                if pos == -1:
-                    break
-                cyber_positions.append((pos, term))
-                start = pos + 1
-        
-        nation_positions = []
-        for term in terms2:
-            term_lower = term.lower()
-            start = 0
-            while True:
-                pos = text_lower.find(term_lower, start)
-                if pos == -1:
-                    break
-                nation_positions.append((pos, term))
-                start = pos + 1
-        
-        # Check for proximity
-        for cyber_pos, cyber_term in cyber_positions:
-            for nation_pos, nation_term in nation_positions:
-                # Calculate word distance (rough approximation)
-                char_distance = abs(cyber_pos - nation_pos)
-                word_distance = char_distance / 6  # Average word length + space
-                
-                if word_distance <= window:
-                    # Extract excerpt around the match
-                    start_pos = max(0, min(cyber_pos, nation_pos) - 200)
-                    end_pos = min(len(text), max(cyber_pos, nation_pos) + 200)
-                    excerpt = text[start_pos:end_pos].strip()
-                    
-                    # Try to find page number
-                    match_pos = min(cyber_pos, nation_pos)
-                    page_num = self.find_page_number(html_content, text, match_pos)
-                    
-                    matches.append((cyber_term, nation_term, excerpt, page_num))
-        
-        return matches
-    
-    def log_match(self, filing, cyber_terms, nation_terms, excerpt, page_num):
-        """Log a matching filing to CSV and send email alert"""
-        with open(CSV_FILE, 'a', newline='', encoding='utf-8') as f:
-            writer = csv.writer(f)
-            writer.writerow([
-                datetime.now().isoformat(),
-                filing['company_name'],
-                filing['cik'],
-                filing['filing_type'],
-                filing['filing_date'],
-                filing['filing_url'],
-                page_num if page_num else 'N/A',
-                ', '.join(set(cyber_terms)),
-                ', '.join(set(nation_terms)),
-                excerpt[:500]  # Limit excerpt length
-            ])
-        
-        # Send email alert
-        self.send_email(filing, excerpt, cyber_terms, nation_terms)
-    
-    def process_filing(self, filing):
-        """Process a single filing and check for matches"""
-        if filing['filing_url'] in self.seen_filings:
-            return False
-        
-        print(f"Checking: {filing['company_name']} - {filing['filing_type']}")
-        
-        content = self.fetch_filing_content(filing['filing_url'])
-        if not content:
-            self.seen_filings.add(filing['filing_url'])
-            return False
-        
-        text = self.extract_text_from_html(content)
-        
-        matches = self.proximity_search(content, text, CYBER_TERMS, NATION_STATE_TERMS, PROXIMITY_WINDOW)
-        
-        if matches:
-            print(f"  *** MATCH FOUND: {filing['company_name']} ***")
-            # Combine all unique terms found
-            cyber_terms_found = list(set([m[0] for m in matches]))
-            nation_terms_found = list(set([m[1] for m in matches]))
-            # Use the first match's excerpt and page number
-            excerpt = matches[0][2]
-            page_num = matches[0][3]
-            
-            if page_num:
-                print(f"  Page: {page_num}")
-            
-            self.log_match(filing, cyber_terms_found, nation_terms_found, excerpt, page_num)
-            self.seen_filings.add(filing['filing_url'])
-            return True
-        
-        self.seen_filings.add(filing['filing_url'])
-        return False
-    
-    def run(self):
-        """Main monitoring loop"""
-        print(f"Starting SEC Cybersecurity Incident Monitor")
-        print(f"Output directory: {OUTPUT_DIR}")
-        print(f"Checking every {CHECK_INTERVAL/60} minutes")
-        print(f"Email alerts will be sent to: {', '.join(ALERT_RECIPIENTS)}")
-        print(f"Press Ctrl+C to stop\n")
-        
-        try:
-            while True:
-                print(f"\n[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Checking for new filings...")
-                
-                # Check if we've been offline (Option C)
-                last_check = self.get_last_check_time()
-                if last_check:
-                    time_since_last = datetime.now() - last_check
-                    if time_since_last.total_seconds() > 7200:  # More than 2 hours
-                        print(f"  Detected {time_since_last.total_seconds()/3600:.1f} hour gap since last check - doing deep scan")
-                
-                # Fetch filings with pagination (Option B)
-                all_filings = []
-                start = 0
-                while True:
-                    xml_content = self.fetch_rss_feed(start)
-                    if not xml_content:
-                        break
-                    
-                    filings = self.parse_rss_feed(xml_content)
-                    if not filings:
-                        break
-                    
-                    # Check if we've hit filings we've already seen
-                    new_filings = []
-                    for filing in filings:
-                        if filing['filing_url'] not in self.seen_filings:
-                            new_filings.append(filing)
-                    
-                    all_filings.extend(new_filings)
-                    
-                    # If all filings in this batch were already seen, stop paginating
-                    if len(new_filings) == 0:
-                        print(f"  All filings in batch starting at {start} already processed")
-                        break
-                    
-                    # If we got fewer than 100 new filings, we've likely hit the end
-                    if len(new_filings) < 100:
-                        break
-                    
-                    start += 100
-                    print(f"  Fetching next page (start={start})...")
-                
-                print(f"Found {len(all_filings)} new filings to process")
-                
-                matches_found = 0
-                for filing in all_filings:
-                    if self.process_filing(filing):
-                        matches_found += 1
-                
-                if matches_found > 0:
-                    print(f"\n*** {matches_found} MATCH(ES) FOUND THIS CYCLE ***")
-                
-                self.save_seen_filings()
-                
-                print(f"Next check in {CHECK_INTERVAL/60} minutes...")
-                time.sleep(CHECK_INTERVAL)
-                
-        except KeyboardInterrupt:
-            print("\n\nMonitoring stopped by user")
-            self.save_seen_filings()
+            print(f"  ⚠️ Error classifying filing: {e}")
+            label, excerpt, reason = ("BOILERPLATE", None, "exception")
+
+        print(f"  -> Classification: {label} (reason: {reason})")
+
+        # mark as seen regardless of label (so we don't reprocess)
+        seen[link] = {
+            "title": title,
+            "updated": updated,
+            "label": label,
+            "reason": reason,
+            "first_seen": datetime.now(timezone.utc).isoformat()
+        }
+        save_state({"last_checked": datetime.now(timezone.utc).isoformat(), "seen": seen})
+
+        if label == "NEW":
+            # build email
+            subject = f"[SEC CYBER] NEW disclosure detected — {title}"
+            body_lines = [
+                f"Title: {title}",
+                f"URL: {link}",
+                f"Updated: {updated}",
+                "",
+                "Classification: NEW",
+                f"Reason: {reason}",
+                "",
+                "Excerpt:",
+                (excerpt or "(excerpt unavailable)")[:1000],
+                "",
+                "--",
+                "SEC Cyber Monitor",
+                datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC"),
+            ]
+            send_email(subject, "\n".join(body_lines))
+            alerts_sent += 1
+
+        # politeness to SEC
+        time.sleep(1.0)
+
+    # update last_checked even if nothing was new
+    state["last_checked"] = datetime.now(timezone.utc).isoformat()
+    state["seen"] = seen
+    save_state(state)
+    return state, alerts_sent
+
+# ========================
+# Main loop
+# ========================
+
+def main():
+    print("="*80)
+    print("SEC CYBER MONITOR")
+    print("="*80)
+    if not ANTHROPIC_API_KEY:
+        print("Note: ANTHROPIC_API_KEY not set; using heuristics only (still good).")
+    else:
+        print("Anthropic key detected; LLM will be used as a secondary check.")
+    print(f"Polling feed: {SEC_ATOM_FEED}")
+    print(f"Alerts to: {ALERT_EMAIL_TO}")
+    print("="*80)
+
+    state = load_state()
+    try:
+        while True:
+            state, count = poll_once(state)
+            print(f"\nCycle complete. Alerts sent this cycle: {count}")
+            if RUN_ONCE:
+                break
+            print(f"Sleeping {POLL_SECONDS} seconds...")
+            time.sleep(POLL_SECONDS)
+    except KeyboardInterrupt:
+        print("\nStopping. Goodbye!")
 
 if __name__ == "__main__":
-    monitor = SECCyberMonitor()
-    monitor.run()
+    main()
