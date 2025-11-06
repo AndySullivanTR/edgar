@@ -512,7 +512,7 @@ def main():
     else:
         print("Anthropic key detected; LLM will be used as a secondary check.")
     print(f"Polling feed: {SEC_ATOM_FEED}")
-    print(f"Alerts to: {ALERT_EMAIL_TO}")
+    print(f"Alerts to: {", ".join(EMAIL_RECIPIENTS)}")
     print("="*80)
 
     state = load_state()
