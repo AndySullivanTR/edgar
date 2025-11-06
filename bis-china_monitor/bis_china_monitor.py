@@ -30,7 +30,7 @@ from bs4 import BeautifulSoup
 # Config
 # =========================
 CHECK_INTERVAL = 15 * 60              # 15 minutes
-BACKFILL_ON_START = True
+BACKFILL_ON_START = False
 BACKFILL_DAYS = 200                   # ~6–7 months
 TARGET_FORMS = {"8-K", "10-Q", "10-K", "6-K"}  # include 6-K for foreign issuers
 
