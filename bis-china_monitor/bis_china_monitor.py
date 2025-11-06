@@ -176,6 +176,10 @@ Excerpt:
 This is an automated alert from the BIS/China Monitor
 """
         
+        # Prepare excerpt for HTML (can't use backslash in f-string)
+        excerpt_html = excerpt[:800].replace('\n', '<br>')
+        timestamp = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')
+
         # HTML version
         html = f"""<!DOCTYPE html>
 <html>
@@ -202,12 +206,12 @@ This is an automated alert from the BIS/China Monitor
         
         <div class="excerpt">
             <strong>Excerpt:</strong><br>
-            {excerpt[:800].replace('\n', '<br>')}
+            {excerpt_html}
         </div>
         
         <div class="footer">
             This is an automated alert from the BIS/China Monitor<br>
-            Generated at {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}
+            Generated at {timestamp}
         </div>
     </div>
 </body>
