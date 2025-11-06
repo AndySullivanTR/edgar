@@ -5,9 +5,15 @@ on:
     - cron: '*/15 * * * *'
   workflow_dispatch:
 
+# Prevent multiple instances from running simultaneously
+concurrency:
+  group: bis-china-monitor
+  cancel-in-progress: false
+
 jobs:
   monitor:
     runs-on: ubuntu-latest
+    timeout-minutes: 30 # Add timeout to prevent indefinite hangs
     
     steps:
     - name: Checkout repository
