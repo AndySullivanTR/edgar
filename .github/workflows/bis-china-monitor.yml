@@ -1,44 +1,44 @@
-name: BIS China Trade Monitor
+name: BIS/China Monitor
 
 on:
-  #schedule:
-  #  - cron: '*/15 * * * *'  # Every 15 minutes
-  workflow_dispatch:  # Manual trigger
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
 
 jobs:
   monitor:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v4
       
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.11'
         
     - name: Install dependencies
       run: |
-        pip install -r requirements.txt
+        pip install --upgrade pip
+        pip install requests beautifulsoup4 lxml httpx
         
-    - name: Run BIS monitor
+    - name: Run BIS/China Monitor
       env:
-        GMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
-        GMAIL_APP_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
-        ALERT_RECIPIENTS: ${{ secrets.RECIPIENT_EMAIL }}
+        ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        GMAIL_USER: ${{ secrets.GMAIL_USER }}
+        GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        EMAIL_RECIPIENTS: ${{ secrets.EMAIL_RECIPIENTS }}
+        OUTPUT_DIR: ./bis-china_monitor
+      working-directory: ./bis-china_monitor
       run: |
-        cd bis-china_monitor
         python bis_china_monitor.py
         
-    - name: Commit results
+    - name: Commit and push state files
       run: |
+        cd bis-china_monitor
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add bis-china_monitor/bis_china_disclosures.csv bis-china_monitor/bis_seen_filings.json
-        git diff --quiet && git diff --staged --quiet || git commit -m "Update BIS disclosures data"
-        
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        git add bis_seen_filings.json bis_events_seen.json || true
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update BIS monitor state [skip ci]" || true
+        git push || true
