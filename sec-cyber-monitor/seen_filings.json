@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-07T19:40:11.075352+00:00",
+  "last_checked": "2025-11-07T19:53:14.602063+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -11060,6 +11060,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-07T19:40:10.066280+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1043121/000103754025000013/0001037540-25-000013-index.htm": {
+      "title": "10-Q - BOSTON PROPERTIES LTD PARTNERSHIP (0001043121) (Filer)",
+      "updated": "2025-11-07T14:52:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T19:53:06.662434+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1037540/000103754025000013/0001037540-25-000013-index.htm": {
+      "title": "10-Q - BXP, Inc. (0001037540) (Filer)",
+      "updated": "2025-11-07T14:52:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T19:53:07.768381+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1946997/000194699725000153/0001946997-25-000153-index.htm": {
+      "title": "8-K - EQT Exeter Real Estate Income Trust, Inc. (0001946997) (Filer)",
+      "updated": "2025-11-07T14:50:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T19:53:08.850655+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2035428/000203542825000038/0002035428-25-000038-index.htm": {
+      "title": "10-Q - Franklin BSP Real Estate Debt, Inc. (0002035428) (Filer)",
+      "updated": "2025-11-07T14:48:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T19:53:10.167980+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1587987/000162828025050582/0001628280-25-050582-index.htm": {
+      "title": "10-Q - NewtekOne, Inc. (0001587987) (Filer)",
+      "updated": "2025-11-07T14:46:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T19:53:11.396716+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1692376/000119312525272032/0001193125-25-272032-index.htm": {
+      "title": "8-K - Velocity Financial, Inc. (0001692376) (Filer)",
+      "updated": "2025-11-07T14:41:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T19:53:12.507698+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1338749/000119312525272023/0001193125-25-272023-index.htm": {
+      "title": "10-Q - POTLATCHDELTIC CORP (0001338749) (Filer)",
+      "updated": "2025-11-07T14:40:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T19:53:13.592741+00:00"
     }
   }
 }
