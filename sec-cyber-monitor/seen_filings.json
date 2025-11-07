@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-07T15:57:19.949191+00:00",
+  "last_checked": "2025-11-07T16:31:30.654983+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -10465,6 +10465,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-07T15:57:18.940592+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/355811/000035581125000052/0000355811-25-000052-index.htm": {
+      "title": "10-Q - GENTEX CORP (0000355811) (Filer)",
+      "updated": "2025-11-07T11:26:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T16:31:25.083227+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1971213/000197121325000073/0001971213-25-000073-index.htm": {
+      "title": "10-Q - Sinclair, Inc. (0001971213) (Filer)",
+      "updated": "2025-11-07T11:22:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T16:31:26.221747+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/912752/000197121325000073/0001971213-25-000073-index.htm": {
+      "title": "10-Q - Sinclair Broadcast Group, LLC (0000912752) (Filer)",
+      "updated": "2025-11-07T11:22:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T16:31:27.412069+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1950572/000119312525271491/0001193125-25-271491-index.htm": {
+      "title": "10-Q - BIP Ventures Evergreen BDC (0001950572) (Filer)",
+      "updated": "2025-11-07T11:18:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T16:31:28.523969+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1919369/000119312525271488/0001193125-25-271488-index.htm": {
+      "title": "10-Q - VISTA CREDIT STRATEGIC LENDING CORP. (0001919369) (Filer)",
+      "updated": "2025-11-07T11:18:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T16:31:29.645196+00:00"
     }
   }
 }
