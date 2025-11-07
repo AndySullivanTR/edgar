@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-07T17:55:48.665921+00:00",
+  "last_checked": "2025-11-07T18:37:03.736894+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -10780,6 +10780,97 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-07T17:55:47.656938+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/711669/000071166925000158/0000711669-25-000158-index.htm": {
+      "title": "10-Q - COLONY BANKCORP INC (0000711669) (Filer)",
+      "updated": "2025-11-07T13:31:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T18:36:49.698843+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1132651/000143774925033807/0001437749-25-033807-index.htm": {
+      "title": "10-Q - AMES NATIONAL CORP (0001132651) (Filer)",
+      "updated": "2025-11-07T13:31:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T18:36:50.772065+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1307954/000143774925033805/0001437749-25-033805-index.htm": {
+      "title": "10-Q - Huntsman CORP (0001307954) (Filer)",
+      "updated": "2025-11-07T13:29:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T18:36:51.846025+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1089748/000143774925033805/0001437749-25-033805-index.htm": {
+      "title": "10-Q - HUNTSMAN INTERNATIONAL LLC (0001089748) (Filer)",
+      "updated": "2025-11-07T13:29:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T18:36:52.921915+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1598665/000159866525000076/0001598665-25-000076-index.htm": {
+      "title": "10-Q - Heritage Insurance Holdings, Inc. (0001598665) (Filer)",
+      "updated": "2025-11-07T13:28:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T18:36:54.023800+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2035428/000203542825000036/0002035428-25-000036-index.htm": {
+      "title": "8-K - Franklin BSP Real Estate Debt, Inc. (0002035428) (Filer)",
+      "updated": "2025-11-07T13:26:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T18:36:55.114904+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1746109/000110465925108332/0001104659-25-108332-index.htm": {
+      "title": "10-Q - Bank First Corp (0001746109) (Filer)",
+      "updated": "2025-11-07T13:21:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T18:36:56.267064+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1902649/000119312525271826/0001193125-25-271826-index.htm": {
+      "title": "10-Q - BlackRock Private Credit Fund (0001902649) (Filer)",
+      "updated": "2025-11-07T13:19:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T18:36:57.348498+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/810958/000110465925108331/0001104659-25-108331-index.htm": {
+      "title": "10-Q - CITIZENS & NORTHERN CORP (0000810958) (Filer)",
+      "updated": "2025-11-07T13:19:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T18:36:58.418961+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1758021/000175802125000009/0001758021-25-000009-index.htm": {
+      "title": "10-Q - Karat Packaging Inc. (0001758021) (Filer)",
+      "updated": "2025-11-07T13:18:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T18:36:59.495498+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1834543/000119312525271820/0001193125-25-271820-index.htm": {
+      "title": "10-Q - BlackRock Direct Lending Corp. (0001834543) (Filer)",
+      "updated": "2025-11-07T13:18:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T18:37:00.566917+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2091679/000110465925108328/0001104659-25-108328-index.htm": {
+      "title": "8-K - Hyundai Auto Receivables Trust 2025-D (0002091679) (Filer)",
+      "updated": "2025-11-07T13:14:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T18:37:01.641742+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1260125/000110465925108328/0001104659-25-108328-index.htm": {
+      "title": "8-K - HYUNDAI ABS FUNDING LLC (0001260125) (Filer)",
+      "updated": "2025-11-07T13:14:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T18:37:02.727835+00:00"
     }
   }
 }
