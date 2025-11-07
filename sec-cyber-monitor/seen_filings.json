@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-07T19:53:14.602063+00:00",
+  "last_checked": "2025-11-07T20:25:55.992025+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -11109,6 +11109,139 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-07T19:53:13.592741+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/893847/000089384725000042/0000893847-25-000042-index.htm": {
+      "title": "10-Q - HAWTHORN BANCSHARES, INC. (0000893847) (Filer)",
+      "updated": "2025-11-07T15:24:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:25:33.981213+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1479247/000110465925108406/0001104659-25-108406-index.htm": {
+      "title": "10-Q - United States Commodity Index Funds Trust (0001479247) (Filer)",
+      "updated": "2025-11-07T15:23:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:25:35.077629+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1472494/000110465925108402/0001104659-25-108402-index.htm": {
+      "title": "10-Q - United States Brent Oil Fund, LP (0001472494) (Filer)",
+      "updated": "2025-11-07T15:21:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:25:36.460048+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1755755/000175575525000018/0001755755-25-000018-index.htm": {
+      "title": "10-Q - VINEBROOK HOMES TRUST, INC. (0001755755) (Filer)",
+      "updated": "2025-11-07T15:20:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:25:37.601330+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1471420/000119312525272149/0001193125-25-272149-index.htm": {
+      "title": "8-K - Columbia Seligman Premium Technology Growth Fund, Inc. (0001471420) (Filer)",
+      "updated": "2025-11-07T15:19:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:25:38.684991+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1405528/000110465925108398/0001104659-25-108398-index.htm": {
+      "title": "10-Q - United States 12 Month Oil Fund, LP (0001405528) (Filer)",
+      "updated": "2025-11-07T15:18:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:25:39.881452+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1756761/000175676125000127/0001756761-25-000127-index.htm": {
+      "title": "10-Q - Invesco Real Estate Income Trust Inc. (0001756761) (Filer)",
+      "updated": "2025-11-07T15:18:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:25:40.975694+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1405513/000110465925108393/0001104659-25-108393-index.htm": {
+      "title": "10-Q - United States 12 Month Natural Gas Fund, LP (0001405513) (Filer)",
+      "updated": "2025-11-07T15:16:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:25:42.101220+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1275477/000143774925033846/0001437749-25-033846-index.htm": {
+      "title": "10-Q - BIMINI CAPITAL MANAGEMENT, INC. (0001275477) (Filer)",
+      "updated": "2025-11-07T15:15:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:25:43.470689+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1415311/000119312525272134/0001193125-25-272134-index.htm": {
+      "title": "10-Q - ProShares Trust II (0001415311) (Filer)",
+      "updated": "2025-11-07T15:15:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:25:44.596896+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/885275/000119312525272133/0001193125-25-272133-index.htm": {
+      "title": "10-Q - WILSON BANK HOLDING CO (0000885275) (Filer)",
+      "updated": "2025-11-07T15:13:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:25:45.689972+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1966394/000119312525272126/0001193125-25-272126-index.htm": {
+      "title": "8-K - Fortress Net Lease REIT (0001966394) (Filer)",
+      "updated": "2025-11-07T15:09:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:25:46.787113+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/910612/000119312525272118/0001193125-25-272118-index.htm": {
+      "title": "10-Q - CBL & ASSOCIATES PROPERTIES INC (0000910612) (Filer)",
+      "updated": "2025-11-07T15:07:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:25:47.875990+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/932781/000155278125000402/0001552781-25-000402-index.htm": {
+      "title": "10-Q - FIRST COMMUNITY CORP /SC/ (0000932781) (Filer)",
+      "updated": "2025-11-07T15:06:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:25:49.279241+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1218683/000121390025107574/0001213900-25-107574-index.htm": {
+      "title": "8-K - Mawson Infrastructure Group Inc. (0001218683) (Filer)",
+      "updated": "2025-11-07T15:05:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:25:50.355653+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2026738/000119312525272114/0001193125-25-272114-index.htm": {
+      "title": "8-K - FORTRESS CREDIT REALTY INCOME TRUST (0002026738) (Filer)",
+      "updated": "2025-11-07T15:05:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:25:51.490411+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/910612/000119312525272111/0001193125-25-272111-index.htm": {
+      "title": "8-K - CBL & ASSOCIATES PROPERTIES INC (0000910612) (Filer)",
+      "updated": "2025-11-07T15:04:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:25:52.570352+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1784700/000119312525272110/0001193125-25-272110-index.htm": {
+      "title": "8-K - Varagon Capital Corp (0001784700) (Filer)",
+      "updated": "2025-11-07T15:04:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:25:53.648323+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1057706/000105770625000012/0001057706-25-000012-index.htm": {
+      "title": "10-Q - FIRST BANCORP /PR/ (0001057706) (Filer)",
+      "updated": "2025-11-07T15:04:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:25:54.982798+00:00"
     }
   }
 }
