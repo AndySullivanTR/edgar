@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-07T17:22:59.512326+00:00",
+  "last_checked": "2025-11-07T17:42:53.464629+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -10654,6 +10654,97 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-07T17:22:58.503566+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/863110/000086311025000109/0000863110-25-000109-index.htm": {
+      "title": "10-Q - ARTESIAN RESOURCES CORP (0000863110) (Filer)",
+      "updated": "2025-11-07T12:41:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:42:39.527752+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1062231/000106223125000097/0001062231-25-000097-index.htm": {
+      "title": "10-Q - AMERICAN AXLE & MANUFACTURING HOLDINGS INC (0001062231) (Filer)",
+      "updated": "2025-11-07T12:40:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:42:40.600469+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/718937/000119312525271708/0001193125-25-271708-index.htm": {
+      "title": "8-K - STAAR SURGICAL CO (0000718937) (Filer)",
+      "updated": "2025-11-07T12:39:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:42:41.675135+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1856485/000185648525000031/0001856485-25-000031-index.htm": {
+      "title": "10-Q - Sylvamo Corp (0001856485) (Filer)",
+      "updated": "2025-11-07T12:38:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:42:42.762591+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1315257/000131525725000012/0001315257-25-000012-index.htm": {
+      "title": "10-Q - Koppers Holdings Inc. (0001315257) (Filer)",
+      "updated": "2025-11-07T12:37:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:42:43.833034+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1567094/000156709425000011/0001567094-25-000011-index.htm": {
+      "title": "10-Q - CNH Industrial N.V. (0001567094) (Filer)",
+      "updated": "2025-11-07T12:32:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:42:44.904007+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/351569/000035156925000037/0000351569-25-000037-index.htm": {
+      "title": "10-Q - Ameris Bancorp (0000351569) (Filer)",
+      "updated": "2025-11-07T12:32:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:42:45.977129+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/763563/000117184325007130/0001171843-25-007130-index.htm": {
+      "title": "8-K - CHEMUNG FINANCIAL CORP (0000763563) (Filer)",
+      "updated": "2025-11-07T12:30:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:42:47.070099+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/944075/000094407525000083/0000944075-25-000083-index.htm": {
+      "title": "10-Q - SOCKET MOBILE, INC. (0000944075) (Filer)",
+      "updated": "2025-11-07T12:30:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:42:48.143458+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1050743/000119312525271685/0001193125-25-271685-index.htm": {
+      "title": "10-Q - PEAPACK GLADSTONE FINANCIAL CORP (0001050743) (Filer)",
+      "updated": "2025-11-07T12:25:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:42:49.225352+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1661306/000166130625000087/0001661306-25-000087-index.htm": {
+      "title": "10-Q - Hancock Park Corporate Income, Inc. (0001661306) (Filer)",
+      "updated": "2025-11-07T12:24:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:42:50.296524+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/906345/000162828025050524/0001628280-25-050524-index.htm": {
+      "title": "10-Q - CAMDEN PROPERTY TRUST (0000906345) (Filer)",
+      "updated": "2025-11-07T12:23:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:42:51.368336+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1118004/000119312525271680/0001193125-25-271680-index.htm": {
+      "title": "10-Q - BANCPLUS CORP (0001118004) (Filer)",
+      "updated": "2025-11-07T12:23:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:42:52.456047+00:00"
     }
   }
 }
