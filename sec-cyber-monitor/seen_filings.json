@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-07T21:40:30.378978+00:00",
+  "last_checked": "2025-11-07T21:53:25.446989+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -11662,6 +11662,111 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-07T21:40:29.369336+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1820302/000119312525272524/0001193125-25-272524-index.htm": {
+      "title": "8-K/A - Bakkt Holdings, Inc. (0001820302) (Filer)",
+      "updated": "2025-11-07T16:52:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:53:08.553860+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331875/000133187525000105/0001331875-25-000105-index.htm": {
+      "title": "8-K - Fidelity National Financial, Inc. (0001331875) (Filer)",
+      "updated": "2025-11-07T16:52:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:53:09.676213+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/764622/000076462225000090/0000764622-25-000090-index.htm": {
+      "title": "8-K - PINNACLE WEST CAPITAL CORP (0000764622) (Filer)",
+      "updated": "2025-11-07T16:52:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:53:10.847697+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/7286/000076462225000090/0000764622-25-000090-index.htm": {
+      "title": "8-K - ARIZONA PUBLIC SERVICE CO (0000007286) (Filer)",
+      "updated": "2025-11-07T16:52:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:53:11.990335+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2078653/000119312525272521/0001193125-25-272521-index.htm": {
+      "title": "10-Q - Range Capital Acquisition Corp II (0002078653) (Filer)",
+      "updated": "2025-11-07T16:51:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:53:13.112414+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/763532/000143774925033883/0001437749-25-033883-index.htm": {
+      "title": "10-Q - LSI INDUSTRIES INC (0000763532) (Filer)",
+      "updated": "2025-11-07T16:51:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:53:14.249013+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1448893/000144889325000093/0001448893-25-000093-index.htm": {
+      "title": "10-Q - Essent Group Ltd. (0001448893) (Filer)",
+      "updated": "2025-11-07T16:50:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:53:15.380481+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1854795/000121390025107660/0001213900-25-107660-index.htm": {
+      "title": "10-Q - INTEGRATED RAIL & RESOURCES ACQUISITION CORP (0001854795) (Filer)",
+      "updated": "2025-11-07T16:50:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:53:16.530736+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1898604/000149315225021298/0001493152-25-021298-index.htm": {
+      "title": "8-K - Vestand Inc. (0001898604) (Filer)",
+      "updated": "2025-11-07T16:49:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:53:17.666180+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1547546/000110465925108539/0001104659-25-108539-index.htm": {
+      "title": "8-K - Lument Finance Trust, Inc. (0001547546) (Filer)",
+      "updated": "2025-11-07T16:49:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:53:18.786038+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1581990/000158199025000028/0001581990-25-000028-index.htm": {
+      "title": "10-Q - PLAINS GP HOLDINGS LP (0001581990) (Filer)",
+      "updated": "2025-11-07T16:47:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:53:19.953461+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1053691/000143774925033879/0001437749-25-033879-index.htm": {
+      "title": "10-Q - CervoMed Inc. (0001053691) (Filer)",
+      "updated": "2025-11-07T16:47:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:53:21.077657+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1450922/000199937125017270/0001999371-25-017270-index.htm": {
+      "title": "10-Q - abrdn Silver ETF Trust (0001450922) (Filer)",
+      "updated": "2025-11-07T16:46:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:53:22.171263+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1835856/000162828025050690/0001628280-25-050690-index.htm": {
+      "title": "8-K - Better Home & Finance Holding Co (0001835856) (Filer)",
+      "updated": "2025-11-07T16:46:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:53:23.309826+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1187953/000147793225007978/0001477932-25-007978-index.htm": {
+      "title": "10-Q - CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC. (0001187953) (Filer)",
+      "updated": "2025-11-07T16:46:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:53:24.437748+00:00"
     }
   }
 }
