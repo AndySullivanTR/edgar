@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-07T20:25:55.992025+00:00",
+  "last_checked": "2025-11-07T20:42:27.199894+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -11242,6 +11242,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-07T20:25:54.982798+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1538990/000119312525272219/0001193125-25-272219-index.htm": {
+      "title": "10-Q - STORE CAPITAL LLC (0001538990) (Filer)",
+      "updated": "2025-11-07T15:40:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:42:15.001667+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1895316/000110465925108430/0001104659-25-108430-index.htm": {
+      "title": "10-Q - Brightwood Capital Corp I (0001895316) (Filer)",
+      "updated": "2025-11-07T15:38:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:42:16.122934+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/719733/000071973325000104/0000719733-25-000104-index.htm": {
+      "title": "10-Q - KEY TRONIC CORP (0000719733) (Filer)",
+      "updated": "2025-11-07T15:33:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:42:17.211897+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1046257/000162828025050593/0001628280-25-050593-index.htm": {
+      "title": "10-Q - Ingredion Inc (0001046257) (Filer)",
+      "updated": "2025-11-07T15:32:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:42:18.343497+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1327068/000110465925108424/0001104659-25-108424-index.htm": {
+      "title": "10-Q - United States Oil Fund, LP (0001327068) (Filer)",
+      "updated": "2025-11-07T15:31:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:42:19.477536+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1010470/000101047025000005/0001010470-25-000005-index.htm": {
+      "title": "10-Q - PROVIDENT FINANCIAL HOLDINGS INC (0001010470) (Filer)",
+      "updated": "2025-11-07T15:30:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:42:20.562307+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1841514/000119312525272185/0001193125-25-272185-index.htm": {
+      "title": "8-K - Commonwealth Credit Partners BDC I, Inc. (0001841514) (Filer)",
+      "updated": "2025-11-07T15:30:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:42:21.692307+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1376227/000110465925108416/0001104659-25-108416-index.htm": {
+      "title": "10-Q - United States Natural Gas Fund, LP (0001376227) (Filer)",
+      "updated": "2025-11-07T15:29:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:42:22.813138+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1987221/000119312525272175/0001193125-25-272175-index.htm": {
+      "title": "8-K - John Hancock Comvest Private Income Fund (0001987221) (Filer)",
+      "updated": "2025-11-07T15:27:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:42:23.935926+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1070524/000114036125041132/0001140361-25-041132-index.htm": {
+      "title": "10-Q - GREENE COUNTY BANCORP INC (0001070524) (Filer)",
+      "updated": "2025-11-07T15:26:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:42:25.059814+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1396878/000110465925108412/0001104659-25-108412-index.htm": {
+      "title": "10-Q - United States Gasoline Fund, LP (0001396878) (Filer)",
+      "updated": "2025-11-07T15:26:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:42:26.190334+00:00"
     }
   }
 }
