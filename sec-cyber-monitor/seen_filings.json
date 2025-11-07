@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-07T17:42:53.464629+00:00",
+  "last_checked": "2025-11-07T17:55:48.665921+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -10745,6 +10745,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-07T17:42:52.456047+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/832428/000083242825000058/0000832428-25-000058-index.htm": {
+      "title": "10-Q - E.W. SCRIPPS Co (0000832428) (Filer)",
+      "updated": "2025-11-07T12:51:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:55:43.351515+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2000046/000119312525271731/0001193125-25-271731-index.htm": {
+      "title": "10-Q - Fidelity Ethereum Fund (0002000046) (Filer)",
+      "updated": "2025-11-07T12:49:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:55:44.423783+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1109242/000119312525271719/0001193125-25-271719-index.htm": {
+      "title": "10-Q - HANMI FINANCIAL CORP (0001109242) (Filer)",
+      "updated": "2025-11-07T12:45:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:55:45.499244+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1852317/000119312525271721/0001193125-25-271721-index.htm": {
+      "title": "10-Q - Fidelity Wise Origin Bitcoin Fund (0001852317) (Filer)",
+      "updated": "2025-11-07T12:45:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:55:46.578820+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/715072/000071507225000234/0000715072-25-000234-index.htm": {
+      "title": "10-Q - RENASANT CORP (0000715072) (Filer)",
+      "updated": "2025-11-07T12:43:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:55:47.656938+00:00"
     }
   }
 }
