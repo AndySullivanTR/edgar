@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-06T16:40:34.866119+00:00",
+  "last_checked": "2025-11-07T14:29:45.069689+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -10101,6 +10101,258 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-06T16:40:33.854202+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1437958/000143795825000168/0001437958-25-000168-index.htm": {
+      "title": "10-Q - COASTAL FINANCIAL CORP (0001437958) (Filer)",
+      "updated": "2025-11-07T09:27:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:06.818101+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1546296/000143774925033739/0001437749-25-033739-index.htm": {
+      "title": "8-K - Professional Diversity Network, Inc. (0001546296) (Filer)",
+      "updated": "2025-11-07T09:27:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:07.888574+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1599298/000159929825000166/0001599298-25-000166-index.htm": {
+      "title": "8-K - Summit Therapeutics Inc. (0001599298) (Filer)",
+      "updated": "2025-11-07T09:23:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:08.959383+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1050441/000105044125000134/0001050441-25-000134-index.htm": {
+      "title": "10-Q - EAGLE BANCORP INC (0001050441) (Filer)",
+      "updated": "2025-11-07T09:22:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:10.036901+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1341766/000134176625000144/0001341766-25-000144-index.htm": {
+      "title": "10-Q - Celsius Holdings, Inc. (0001341766) (Filer)",
+      "updated": "2025-11-07T09:21:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:11.109129+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1047335/000143774925033736/0001437749-25-033736-index.htm": {
+      "title": "8-K - NATIONAL HEALTHCARE CORP (0001047335) (Filer)",
+      "updated": "2025-11-07T09:20:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:12.170427+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1047335/000143774925033734/0001437749-25-033734-index.htm": {
+      "title": "8-K - NATIONAL HEALTHCARE CORP (0001047335) (Filer)",
+      "updated": "2025-11-07T09:18:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:13.230106+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1172052/000117205225000036/0001172052-25-000036-index.htm": {
+      "title": "10-Q - SAFETY INSURANCE GROUP INC (0001172052) (Filer)",
+      "updated": "2025-11-07T09:18:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:14.290913+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1070680/000119312525271208/0001193125-25-271208-index.htm": {
+      "title": "10-Q - CF BANKSHARES INC. (0001070680) (Filer)",
+      "updated": "2025-11-07T09:16:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:15.349502+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1498710/000095010325014454/0000950103-25-014454-index.htm": {
+      "title": "8-K - Spirit Aviation Holdings, Inc. (0001498710) (Filer)",
+      "updated": "2025-11-07T09:16:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:16.413193+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1849635/000114036125040969/0001140361-25-040969-index.htm": {
+      "title": "8-K - Trump Media & Technology Group Corp. (0001849635) (Filer)",
+      "updated": "2025-11-07T09:15:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:17.471474+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1878313/000149315225021195/0001493152-25-021195-index.htm": {
+      "title": "8-K - MAIA Biotechnology, Inc. (0001878313) (Filer)",
+      "updated": "2025-11-07T09:15:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:18.539456+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/798941/000079894125000050/0000798941-25-000050-index.htm": {
+      "title": "10-Q - FIRST CITIZENS BANCSHARES INC /DE/ (0000798941) (Filer)",
+      "updated": "2025-11-07T09:11:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:19.607686+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1570827/000119312525271198/0001193125-25-271198-index.htm": {
+      "title": "10-Q - Victory Capital Holdings, Inc. (0001570827) (Filer)",
+      "updated": "2025-11-07T09:11:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:20.674528+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/946155/000094615525000030/0000946155-25-000030-index.htm": {
+      "title": "8-K - TIAA REAL ESTATE ACCOUNT (0000946155) (Filer)",
+      "updated": "2025-11-07T09:11:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:21.738501+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1842279/000162828025050443/0001628280-25-050443-index.htm": {
+      "title": "8-K - OPAL Fuels Inc. (0001842279) (Filer)",
+      "updated": "2025-11-07T09:11:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:22.798379+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2028293/000121390025107392/0001213900-25-107392-index.htm": {
+      "title": "8-K - Rain Enhancement Technologies Holdco, Inc. (0002028293) (Filer)",
+      "updated": "2025-11-07T09:11:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:23.858450+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1822966/000110465925108186/0001104659-25-108186-index.htm": {
+      "title": "8-K - NUSCALE POWER Corp (0001822966) (Filer)",
+      "updated": "2025-11-07T09:10:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:24.928349+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1350653/000119312525271197/0001193125-25-271197-index.htm": {
+      "title": "8-K - Alphatec Holdings, Inc. (0001350653) (Filer)",
+      "updated": "2025-11-07T09:10:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:25.997517+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1013272/000101327225000004/0001013272-25-000004-index.htm": {
+      "title": "10-Q - NORWOOD FINANCIAL CORP (0001013272) (Filer)",
+      "updated": "2025-11-07T09:09:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:27.075381+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1801169/000114036125040966/0001140361-25-040966-index.htm": {
+      "title": "8-K - Opendoor Technologies Inc. (0001801169) (Filer)",
+      "updated": "2025-11-07T09:08:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:28.133731+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2029303/000147793225007961/0001477932-25-007961-index.htm": {
+      "title": "10-Q - Tech Tonic Group Corp. (0002029303) (Filer)",
+      "updated": "2025-11-07T09:07:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:29.192282+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1551306/000155130625000190/0001551306-25-000190-index.htm": {
+      "title": "10-Q - Progyny, Inc. (0001551306) (Filer)",
+      "updated": "2025-11-07T09:06:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:30.255569+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/94344/000110465925108182/0001104659-25-108182-index.htm": {
+      "title": "8-K - STEWART INFORMATION SERVICES CORP (0000094344) (Filer)",
+      "updated": "2025-11-07T09:05:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:31.316755+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1840233/000119312525271189/0001193125-25-271189-index.htm": {
+      "title": "8-K - Xilio Therapeutics, Inc. (0001840233) (Filer)",
+      "updated": "2025-11-07T09:05:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:32.378620+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1767258/000176725825000068/0001767258-25-000068-index.htm": {
+      "title": "10-Q - XPEL, Inc. (0001767258) (Filer)",
+      "updated": "2025-11-07T09:05:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:33.438855+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1006830/000143774925033730/0001437749-25-033730-index.htm": {
+      "title": "10-Q - CONSUMERS BANCORP INC /OH/ (0001006830) (Filer)",
+      "updated": "2025-11-07T09:04:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:34.500852+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/706863/000070686325000101/0000706863-25-000101-index.htm": {
+      "title": "8-K - UNION BANKSHARES INC (0000706863) (Filer)",
+      "updated": "2025-11-07T09:02:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:35.568174+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1492691/000149269125000077/0001492691-25-000077-index.htm": {
+      "title": "8-K - Knight-Swift Transportation Holdings Inc. (0001492691) (Filer)",
+      "updated": "2025-11-07T09:02:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:36.629698+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/350852/000114036125040959/0001140361-25-040959-index.htm": {
+      "title": "10-Q - COMMUNITY TRUST BANCORP INC /KY/ (0000350852) (Filer)",
+      "updated": "2025-11-07T09:02:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:37.691285+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1031623/000114036125040961/0001140361-25-040961-index.htm": {
+      "title": "8-K - GULF ISLAND FABRICATION INC (0001031623) (Filer)",
+      "updated": "2025-11-07T09:01:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:38.750973+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1638287/000110465925108179/0001104659-25-108179-index.htm": {
+      "title": "8-K - MetaVia Inc. (0001638287) (Filer)",
+      "updated": "2025-11-07T09:01:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:39.810355+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1964333/000196433325000245/0001964333-25-000245-index.htm": {
+      "title": "10-Q - Burke & Herbert Financial Services Corp. (0001964333) (Filer)",
+      "updated": "2025-11-07T09:01:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:40.872455+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1289460/000110465925108178/0001104659-25-108178-index.htm": {
+      "title": "10-Q - Texas Roadhouse, Inc. (0001289460) (Filer)",
+      "updated": "2025-11-07T09:01:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:41.932088+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1735041/000121390025107388/0001213900-25-107388-index.htm": {
+      "title": "10-Q - Greenland Technologies Holding Corp. (0001735041) (Filer)",
+      "updated": "2025-11-07T09:00:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:42.997173+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1750735/000175073525000077/0001750735-25-000077-index.htm": {
+      "title": "10-Q - Meridian Corp (0001750735) (Filer)",
+      "updated": "2025-11-07T08:58:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:29:44.060755+00:00"
     }
   }
 }
