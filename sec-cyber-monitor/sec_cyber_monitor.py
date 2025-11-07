@@ -36,7 +36,7 @@ SEND_EMAILS = bool(GMAIL_USER and GMAIL_APP_PASSWORD)
 # Feed & polling
 SEC_ATOM_FEED = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&count=100&output=atom"
 POLL_SECONDS = 15 * 60   # 15 minutes
-RUN_ONCE = False         # set to True to test one cycle and exit
+RUN_ONCE = os.getenv("RUN_ONCE", "false").lower() == "true"  # For GitHub Actions - check once and exit
 
 # User-Agent for SEC requests
 USER_AGENT = "Andy Sullivan andy.sullivan@thomsonreuters.com"
@@ -273,10 +273,10 @@ def claude_classify(excerpt: str):
 def send_email(subject: str, body: str):
     """Send email alert via Gmail SMTP"""
     if not SEND_EMAILS:
-        print("\n=== EMAIL ALERT (printing because Gmail not configured) ===")
-        print(subject)
-        print(body)
-        print("=== END EMAIL ALERT ===\n")
+        print("\n=== EMAIL ALERT (printing because Gmail not configured) ===", flush=True)
+        print(subject, flush=True)
+        print(body, flush=True)
+        print("=== END EMAIL ALERT ===\n", flush=True)
         return
 
     try:
@@ -291,9 +291,9 @@ def send_email(subject: str, body: str):
             server.login(GMAIL_USER, GMAIL_APP_PASSWORD)
             server.send_message(msg)
         
-        print(f"  📧 Alert emailed to {len(EMAIL_RECIPIENTS)} recipient(s)")
+        print(f"  📧 Alert emailed to {len(EMAIL_RECIPIENTS)} recipient(s)", flush=True)
     except Exception as e:
-        print(f"  ✗ Email failed: {e}")
+        print(f"  ✗ Email failed: {e}", flush=True)
 
 
 # ========================
@@ -504,29 +504,29 @@ def poll_once(state):
 # ========================
 
 def main():
-    print("="*80)
-    print("SEC CYBER MONITOR")
-    print("="*80)
+    print("="*80, flush=True)
+    print("SEC CYBER MONITOR", flush=True)
+    print("="*80, flush=True)
     if not ANTHROPIC_API_KEY:
-        print("Note: ANTHROPIC_API_KEY not set; using heuristics only (still good).")
+        print("Note: ANTHROPIC_API_KEY not set; using heuristics only (still good).", flush=True)
     else:
-        print("Anthropic key detected; LLM will be used as a secondary check.")
-    print(f"Polling feed: {SEC_ATOM_FEED}")
+        print("Anthropic key detected; LLM will be used as a secondary check.", flush=True)
+    print(f"Polling feed: {SEC_ATOM_FEED}", flush=True)
     recipients_str = ", ".join(EMAIL_RECIPIENTS)
-    print(f"Alerts to: {recipients_str}")
-    print("="*80)
+    print(f"Alerts to: {recipients_str}", flush=True)
+    print("="*80, flush=True)
 
     state = load_state()
     try:
         while True:
             state, count = poll_once(state)
-            print(f"\nCycle complete. Alerts sent this cycle: {count}")
+            print(f"\nCycle complete. Alerts sent this cycle: {count}", flush=True)
             if RUN_ONCE:
                 break
-            print(f"Sleeping {POLL_SECONDS} seconds...")
+            print(f"Sleeping {POLL_SECONDS} seconds...", flush=True)
             time.sleep(POLL_SECONDS)
     except KeyboardInterrupt:
-        print("\nStopping. Goodbye!")
+        print("\nStopping. Goodbye!", flush=True)
 
 if __name__ == "__main__":
     main()
