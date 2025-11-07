@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-07T16:31:30.654983+00:00",
+  "last_checked": "2025-11-07T16:55:19.959362+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -10500,6 +10500,62 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-07T16:31:29.645196+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1868275/000186827525000092/0001868275-25-000092-index.htm": {
+      "title": "10-Q - Constellation Energy Corp (0001868275) (Filer)",
+      "updated": "2025-11-07T11:49:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T16:55:11.126571+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1168165/000186827525000092/0001868275-25-000092-index.htm": {
+      "title": "10-Q - CONSTELLATION ENERGY GENERATION LLC (0001168165) (Filer)",
+      "updated": "2025-11-07T11:49:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T16:55:12.259770+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/779227/000143774925033777/0001437749-25-033777-index.htm": {
+      "title": "8-K - STEELE BANCORP INC (0000779227) (Filer)",
+      "updated": "2025-11-07T11:49:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T16:55:13.379150+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2089171/000110465925108281/0001104659-25-108281-index.htm": {
+      "title": "8-K - Honda Auto Receivables 2025-4 Owner Trust (0002089171) (Filer)",
+      "updated": "2025-11-07T11:44:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T16:55:14.487209+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/890975/000110465925108281/0001104659-25-108281-index.htm": {
+      "title": "8-K - AMERICAN HONDA RECEIVABLES LLC (0000890975) (Filer)",
+      "updated": "2025-11-07T11:44:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T16:55:15.600154+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/784199/000162828025050502/0001628280-25-050502-index.htm": {
+      "title": "10-Q - ARTIVION, INC. (0000784199) (Filer)",
+      "updated": "2025-11-07T11:41:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T16:55:16.723214+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331451/000133145125000226/0001331451-25-000226-index.htm": {
+      "title": "10-Q - Federal Home Loan Bank of Chicago (0001331451) (Filer)",
+      "updated": "2025-11-07T11:40:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T16:55:17.838644+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1396440/000139644025000184/0001396440-25-000184-index.htm": {
+      "title": "10-Q - Main Street Capital CORP (0001396440) (Filer)",
+      "updated": "2025-11-07T11:39:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T16:55:18.950463+00:00"
     }
   }
 }
