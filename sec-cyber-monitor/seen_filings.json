@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-07T14:47:18.679074+00:00",
+  "last_checked": "2025-11-07T15:26:46.731984+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -10381,6 +10381,62 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-07T14:47:17.670541+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/731653/000110465925108221/0001104659-25-108221-index.htm": {
+      "title": "8-K - UNITED BANCORP INC /OH/ (0000731653) (Filer)",
+      "updated": "2025-11-07T10:23:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T15:26:37.894675+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/24090/000002409025000126/0000024090-25-000126-index.htm": {
+      "title": "8-K - CITIZENS, INC. (0000024090) (Filer)",
+      "updated": "2025-11-07T10:16:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T15:26:39.002623+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1842563/000184256325000022/0001842563-25-000022-index.htm": {
+      "title": "10-Q - Go Go Buyers, Inc. (0001842563) (Filer)",
+      "updated": "2025-11-07T10:15:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T15:26:40.118246+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1847398/000110465925108218/0001104659-25-108218-index.htm": {
+      "title": "10-Q - NorthEast Community Bancorp, Inc./MD/ (0001847398) (Filer)",
+      "updated": "2025-11-07T10:14:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T15:26:41.226210+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1747068/000174706825000061/0001747068-25-000061-index.htm": {
+      "title": "10-Q - MetroCity Bankshares, Inc. (0001747068) (Filer)",
+      "updated": "2025-11-07T10:11:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T15:26:42.346375+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/710752/000119312525271338/0001193125-25-271338-index.htm": {
+      "title": "8-K - SABINE ROYALTY TRUST (0000710752) (Filer)",
+      "updated": "2025-11-07T10:10:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T15:26:43.468719+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1298946/000129894625000085/0001298946-25-000085-index.htm": {
+      "title": "10-Q - DiamondRock Hospitality Co (0001298946) (Filer)",
+      "updated": "2025-11-07T10:02:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T15:26:44.576756+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1429764/000149315225021197/0001493152-25-021197-index.htm": {
+      "title": "10-Q - Blink Charging Co. (0001429764) (Filer)",
+      "updated": "2025-11-07T09:50:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T15:26:45.721824+00:00"
     }
   }
 }
