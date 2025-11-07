@@ -33,6 +33,7 @@ CHECK_INTERVAL = 15 * 60              # 15 minutes
 BACKFILL_ON_START = False
 BACKFILL_DAYS = 200                   # ~6–7 months
 TARGET_FORMS = {"8-K", "10-Q", "10-K", "6-K"}  # include 6-K for foreign issuers
+RUN_ONCE = os.getenv("RUN_ONCE", "false").lower() == "true"  # For GitHub Actions - check once and exit
 
 USER_AGENT = "Andy Sullivan andy.sullivan@thomsonreuters.com"
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
@@ -773,16 +774,16 @@ def backfill_last_days(days: int, seen: set, events_seen: dict):
 # Polling (global feed)
 # =========================
 def run_monitor():
-    print("============================================================")
-    print("BIS/China Monitor with Email Alerts")
-    print(f"Anthropic key present: {'YES' if ANTHROPIC_API_KEY else 'NO (default BOILERPLATE)'}")
-    print(f"Email alerts: {'ENABLED' if SEND_EMAILS else 'DISABLED (configure GMAIL_USER and GMAIL_APP_PASSWORD)'}")
+    print("============================================================", flush=True)
+    print("BIS/China Monitor with Email Alerts", flush=True)
+    print(f"Anthropic key present: {'YES' if ANTHROPIC_API_KEY else 'NO (default BOILERPLATE)'}", flush=True)
+    print(f"Email alerts: {'ENABLED' if SEND_EMAILS else 'DISABLED (configure GMAIL_USER and GMAIL_APP_PASSWORD)'}", flush=True)
     if SEND_EMAILS:
-        print(f"Email recipients: {', '.join(EMAIL_RECIPIENTS)}")
-    print(f"Tracking {len(TARGET_CIKS)} CIKs; forms: {', '.join(sorted(TARGET_FORMS))}")
-    print(f"Startup backfill: {'YES' if BACKFILL_ON_START else 'NO'} (last {BACKFILL_DAYS} day(s))")
-    print(f"Polling every {CHECK_INTERVAL//60} minutes thereafter")
-    print("============================================================")
+        print(f"Email recipients: {', '.join(EMAIL_RECIPIENTS)}", flush=True)
+    print(f"Tracking {len(TARGET_CIKS)} CIKs; forms: {', '.join(sorted(TARGET_FORMS))}", flush=True)
+    print(f"Startup backfill: {'YES' if BACKFILL_ON_START else 'NO'} (last {BACKFILL_DAYS} day(s))", flush=True)
+    print(f"Run mode: {'ONCE (for GitHub Actions)' if RUN_ONCE else f'CONTINUOUS (poll every {CHECK_INTERVAL//60} min)'}", flush=True)
+    print("============================================================", flush=True)
 
     seen = load_seen()
     events_seen = load_events_seen()
@@ -794,11 +795,13 @@ def run_monitor():
 
     try:
         while True:
-            print(f"\n[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Checking SEC feed…")
+            print(f"\n[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Checking SEC feed…", flush=True)
             xml = fetch_global_feed(start=0)
             filings = parse_atom(xml) if xml else []
             if not filings:
-                print("  No entries (or feed temporarily unavailable)")
+                print("  No entries (or feed temporarily unavailable)", flush=True)
+                if RUN_ONCE:
+                    break
                 time.sleep(CHECK_INTERVAL); continue
 
             new_filings = [
@@ -808,9 +811,9 @@ def run_monitor():
             ]
 
             if not new_filings:
-                print("  No new filings for target companies.")
+                print("  No new filings for target companies.", flush=True)
             else:
-                print(f"  Found {len(new_filings)} new filing(s) for target companies.")
+                print(f"  Found {len(new_filings)} new filing(s) for target companies.", flush=True)
                 for f in new_filings:
                     rec = {
                         "company": f["company"], "cik": f["cik"], "form": f["form"],
@@ -823,7 +826,12 @@ def run_monitor():
 
             save_seen(seen)
             save_events_seen(events_seen)
-            print(f"\nSleeping {CHECK_INTERVAL//60} minutes…")
+            
+            if RUN_ONCE:
+                print("\n[RUN_ONCE mode] Check complete. Exiting.", flush=True)
+                break
+            
+            print(f"\nSleeping {CHECK_INTERVAL//60} minutes…", flush=True)
             time.sleep(CHECK_INTERVAL)
 
     except KeyboardInterrupt:
