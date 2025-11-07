@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-07T16:55:19.959362+00:00",
+  "last_checked": "2025-11-07T17:22:59.512326+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -10556,6 +10556,104 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-07T16:55:18.950463+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1169445/000116944525000077/0001169445-25-000077-index.htm": {
+      "title": "10-Q - TruBridge, Inc. (0001169445) (Filer)",
+      "updated": "2025-11-07T12:22:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:22:43.728474+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/760498/000119312525271672/0001193125-25-271672-index.htm": {
+      "title": "10-Q - BANCFIRST CORP /OK/ (0000760498) (Filer)",
+      "updated": "2025-11-07T12:21:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:22:44.886672+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1637880/000163788025000057/0001637880-25-000057-index.htm": {
+      "title": "10-Q - Tri-State Generation & Transmission Association, Inc. (0001637880) (Filer)",
+      "updated": "2025-11-07T12:17:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:22:46.003542+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1145604/000182646625000096/0001826466-25-000096-index.htm": {
+      "title": "10-Q - NIKA PHARMACEUTICALS, INC (0001145604) (Filer)",
+      "updated": "2025-11-07T12:14:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:22:47.129202+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1326771/000132677125000204/0001326771-25-000204-index.htm": {
+      "title": "10-Q - Federal Home Loan Bank of Cincinnati (0001326771) (Filer)",
+      "updated": "2025-11-07T12:14:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:22:48.242022+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1326160/000132616025000192/0001326160-25-000192-index.htm": {
+      "title": "10-Q - Duke Energy CORP (0001326160) (Filer)",
+      "updated": "2025-11-07T12:13:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:22:49.400579+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1094093/000132616025000192/0001326160-25-000192-index.htm": {
+      "title": "10-Q - PROGRESS ENERGY INC (0001094093) (Filer)",
+      "updated": "2025-11-07T12:13:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:22:50.540099+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/81020/000132616025000192/0001326160-25-000192-index.htm": {
+      "title": "10-Q - Duke Energy Indiana, LLC (0000081020) (Filer)",
+      "updated": "2025-11-07T12:13:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:22:51.690402+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/78460/000132616025000192/0001326160-25-000192-index.htm": {
+      "title": "10-Q - PIEDMONT NATURAL GAS CO INC (0000078460) (Filer)",
+      "updated": "2025-11-07T12:13:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:22:52.829189+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/37637/000132616025000192/0001326160-25-000192-index.htm": {
+      "title": "10-Q - DUKE ENERGY FLORIDA, LLC (0000037637) (Filer)",
+      "updated": "2025-11-07T12:13:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:22:53.958562+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/30371/000132616025000192/0001326160-25-000192-index.htm": {
+      "title": "10-Q - Duke Energy Carolinas, LLC (0000030371) (Filer)",
+      "updated": "2025-11-07T12:13:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:22:55.091942+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/20290/000132616025000192/0001326160-25-000192-index.htm": {
+      "title": "10-Q - Duke Energy Ohio, Inc. (0000020290) (Filer)",
+      "updated": "2025-11-07T12:13:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:22:56.231304+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/17797/000132616025000192/0001326160-25-000192-index.htm": {
+      "title": "10-Q - DUKE ENERGY PROGRESS, LLC. (0000017797) (Filer)",
+      "updated": "2025-11-07T12:13:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:22:57.395385+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1901637/000156276225000269/0001562762-25-000269-index.htm": {
+      "title": "10-Q - USCB FINANCIAL HOLDINGS, INC. (0001901637) (Filer)",
+      "updated": "2025-11-07T12:09:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T17:22:58.503566+00:00"
     }
   }
 }
