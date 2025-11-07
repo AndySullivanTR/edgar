@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-07T18:54:03.833648+00:00",
+  "last_checked": "2025-11-07T19:20:41.305029+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -10920,6 +10920,90 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-07T18:54:02.824501+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1041061/000104106125000109/0001041061-25-000109-index.htm": {
+      "title": "10-Q - YUM BRANDS INC (0001041061) (Filer)",
+      "updated": "2025-11-07T14:19:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T19:20:27.413140+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1368757/000119312525271942/0001193125-25-271942-index.htm": {
+      "title": "10-Q - GTJ REIT, INC. (0001368757) (Filer)",
+      "updated": "2025-11-07T14:16:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T19:20:28.504111+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/875657/000143774925033824/0001437749-25-033824-index.htm": {
+      "title": "NT 10-Q - ULTRALIFE CORP (0000875657) (Filer)",
+      "updated": "2025-11-07T14:14:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T19:20:29.675392+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1070750/000107075025000168/0001070750-25-000168-index.htm": {
+      "title": "10-Q - HOST HOTELS & RESORTS, INC. (0001070750) (Filer)",
+      "updated": "2025-11-07T14:13:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T19:20:31.214484+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1061937/000107075025000168/0001070750-25-000168-index.htm": {
+      "title": "10-Q - HOST HOTELS & RESORTS L.P. (0001061937) (Filer)",
+      "updated": "2025-11-07T14:13:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T19:20:32.332408+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/19871/000001987125000008/0000019871-25-000008-index.htm": {
+      "title": "10-Q - CHICAGO RIVET & MACHINE CO (0000019871) (Filer)",
+      "updated": "2025-11-07T14:12:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T19:20:33.472358+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/311094/000117184325007134/0001171843-25-007134-index.htm": {
+      "title": "10-Q - WESTAMERICA BANCORPORATION (0000311094) (Filer)",
+      "updated": "2025-11-07T14:12:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T19:20:34.556720+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1041368/000104136825000004/0001041368-25-000004-index.htm": {
+      "title": "10-Q - RIVERVIEW BANCORP INC (0001041368) (Filer)",
+      "updated": "2025-11-07T14:12:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T19:20:35.924707+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/810958/000110465925108359/0001104659-25-108359-index.htm": {
+      "title": "8-K - CITIZENS & NORTHERN CORP (0000810958) (Filer)",
+      "updated": "2025-11-07T14:10:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T19:20:37.006159+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1837671/000183767125000077/0001837671-25-000077-index.htm": {
+      "title": "8-K - Copper Property CTL Pass Through Trust (0001837671) (Filer)",
+      "updated": "2025-11-07T14:06:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T19:20:38.149462+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/89439/000008943925000060/0000089439-25-000060-index.htm": {
+      "title": "8-K - MUELLER INDUSTRIES INC (0000089439) (Filer)",
+      "updated": "2025-11-07T14:05:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T19:20:39.227786+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1921963/000192196325000134/0001921963-25-000134-index.htm": {
+      "title": "10-Q - Atmus Filtration Technologies Inc. (0001921963) (Filer)",
+      "updated": "2025-11-07T14:04:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T19:20:40.295921+00:00"
     }
   }
 }
