@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-07T21:20:02.606660+00:00",
+  "last_checked": "2025-11-07T21:40:30.378978+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -11592,6 +11592,76 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-07T21:20:01.597216+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/926660/000119312525272484/0001193125-25-272484-index.htm": {
+      "title": "8-K - Apartment Income REIT, L.P. (0000926660) (Filer)",
+      "updated": "2025-11-07T16:39:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:40:19.698354+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1124796/000112479625000154/0001124796-25-000154-index.htm": {
+      "title": "10-Q - NLIGHT, INC. (0001124796) (Filer)",
+      "updated": "2025-11-07T16:38:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:40:20.772109+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1474903/000147490325000144/0001474903-25-000144-index.htm": {
+      "title": "8-K - BGSF, INC. (0001474903) (Filer)",
+      "updated": "2025-11-07T16:37:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:40:21.842072+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1777835/000177783525000185/0001777835-25-000185-index.htm": {
+      "title": "10-Q - Perella Weinberg Partners (0001777835) (Filer)",
+      "updated": "2025-11-07T16:37:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:40:22.913590+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1138118/000119312525272474/0001193125-25-272474-index.htm": {
+      "title": "8-K - CBRE GROUP, INC. (0001138118) (Filer)",
+      "updated": "2025-11-07T16:37:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:40:23.985815+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1870940/000187094025000040/0001870940-25-000040-index.htm": {
+      "title": "10-Q - Airsculpt Technologies, Inc. (0001870940) (Filer)",
+      "updated": "2025-11-07T16:37:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:40:25.056804+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1841925/000119312525272468/0001193125-25-272468-index.htm": {
+      "title": "10-Q - indie Semiconductor, Inc. (0001841925) (Filer)",
+      "updated": "2025-11-07T16:35:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:40:26.138754+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1384195/000138419525000022/0001384195-25-000022-index.htm": {
+      "title": "8-K - RING ENERGY, INC. (0001384195) (Filer)",
+      "updated": "2025-11-07T16:35:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:40:27.219856+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/22701/000002270125000015/0000022701-25-000015-index.htm": {
+      "title": "10-Q - SUNation Energy, Inc. (0000022701) (Filer)",
+      "updated": "2025-11-07T16:35:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:40:28.294346+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/898173/000089817325000057/0000898173-25-000057-index.htm": {
+      "title": "10-Q - O REILLY AUTOMOTIVE INC (0000898173) (Filer)",
+      "updated": "2025-11-07T16:34:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T21:40:29.369336+00:00"
     }
   }
 }
