@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-07T22:23:57.196716+00:00",
+  "last_checked": "2025-11-07T22:42:48.476231+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -11858,6 +11858,69 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-07T22:23:56.186488+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1685040/000168504025000071/0001685040-25-000071-index.htm": {
+      "title": "10-Q - Brighthouse Financial, Inc. (0001685040) (Filer)",
+      "updated": "2025-11-07T17:31:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:42:38.660049+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/354647/000119312525272614/0001193125-25-272614-index.htm": {
+      "title": "10-Q - CVB FINANCIAL CORP (0000354647) (Filer)",
+      "updated": "2025-11-07T17:31:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:42:39.725788+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/13156/000119312525272617/0001193125-25-272617-index.htm": {
+      "title": "10-Q - Galaxy Gaming, Inc. (0000013156) (Filer)",
+      "updated": "2025-11-07T17:31:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:42:40.797748+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/920371/000162828025050724/0001628280-25-050724-index.htm": {
+      "title": "10-Q - Simpson Manufacturing Co., Inc. (0000920371) (Filer)",
+      "updated": "2025-11-07T17:30:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:42:41.912797+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/93314/000147793225007984/0001477932-25-007984-index.htm": {
+      "title": "8-K - VOLITIONRX LTD (0000093314) (Filer)",
+      "updated": "2025-11-07T17:30:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:42:42.978293+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1526113/000110465925108591/0001104659-25-108591-index.htm": {
+      "title": "8-K - Global Net Lease, Inc. (0001526113) (Filer)",
+      "updated": "2025-11-07T17:29:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:42:44.092522+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1687187/000121390025107720/0001213900-25-107720-index.htm": {
+      "title": "8-K - Ramaco Resources, Inc. (0001687187) (Filer)",
+      "updated": "2025-11-07T17:27:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:42:45.209897+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1543418/000110465925108587/0001104659-25-108587-index.htm": {
+      "title": "8-K - Trilogy Metals Inc. (0001543418) (Filer)",
+      "updated": "2025-11-07T17:26:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:42:46.389462+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1873835/000149315225021325/0001493152-25-021325-index.htm": {
+      "title": "10-Q - Immix Biopharma, Inc. (0001873835) (Filer)",
+      "updated": "2025-11-07T17:25:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:42:47.466135+00:00"
     }
   }
 }
