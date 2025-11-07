@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-07T20:42:27.199894+00:00",
+  "last_checked": "2025-11-07T20:55:06.586415+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -11319,6 +11319,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-07T20:42:26.190334+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/746514/000110465925108441/0001104659-25-108441-index.htm": {
+      "title": "10-Q - NEW ENGLAND REALTY ASSOCIATES LIMITED PARTNERSHIP (0000746514) (Filer)",
+      "updated": "2025-11-07T15:53:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:54:59.688283+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/357301/000114036125041145/0001140361-25-041145-index.htm": {
+      "title": "10-Q - TRUSTCO BANK CORP N Y (0000357301) (Filer)",
+      "updated": "2025-11-07T15:52:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:55:00.878586+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1487718/000149315225021245/0001493152-25-021245-index.htm": {
+      "title": "10-Q - AMERICAN BATTERY MATERIALS, INC. (0001487718) (Filer)",
+      "updated": "2025-11-07T15:52:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:55:02.016494+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1841968/000119312525272253/0001193125-25-272253-index.htm": {
+      "title": "10-Q - P10, Inc. (0001841968) (Filer)",
+      "updated": "2025-11-07T15:50:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:55:03.237336+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/700565/000119312525272249/0001193125-25-272249-index.htm": {
+      "title": "10-Q - FIRST MID BANCSHARES, INC. (0000700565) (Filer)",
+      "updated": "2025-11-07T15:49:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:55:04.373605+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1327978/000132797825000074/0001327978-25-000074-index.htm": {
+      "title": "8-K - Ares Real Estate Income Trust Inc. (0001327978) (Filer)",
+      "updated": "2025-11-07T15:48:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T20:55:05.577055+00:00"
     }
   }
 }
