@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-07T15:26:46.731984+00:00",
+  "last_checked": "2025-11-07T15:43:55.117346+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -10437,6 +10437,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-07T15:26:45.721824+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/859070/000143774925033752/0001437749-25-033752-index.htm": {
+      "title": "10-Q - FIRST COMMUNITY BANKSHARES INC /VA/ (0000859070) (Filer)",
+      "updated": "2025-11-07T10:28:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T15:43:54.108422+00:00"
     }
   }
 }
