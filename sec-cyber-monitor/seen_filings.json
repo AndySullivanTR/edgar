@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-07T21:53:25.446989+00:00",
+  "last_checked": "2025-11-07T22:23:57.196716+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -11767,6 +11767,97 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-07T21:53:24.437748+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1595527/000110465925108583/0001104659-25-108583-index.htm": {
+      "title": "8-K - American Strategic Investment Co. (0001595527) (Filer)",
+      "updated": "2025-11-07T17:22:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:23:43.311001+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/930236/000110465925108582/0001104659-25-108582-index.htm": {
+      "title": "8-K - REDWOOD TRUST INC (0000930236) (Filer)",
+      "updated": "2025-11-07T17:21:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:23:44.375919+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1725430/000149315225021323/0001493152-25-021323-index.htm": {
+      "title": "8-K - INTELLIGENT BIO SOLUTIONS INC. (0001725430) (Filer)",
+      "updated": "2025-11-07T17:20:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:23:45.440494+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1859035/000182912625008933/0001829126-25-008933-index.htm": {
+      "title": "8-K - Mountain Crest Acquisition Corp. V (0001859035) (Filer)",
+      "updated": "2025-11-07T17:20:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:23:46.508943+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1517413/000151741325000299/0001517413-25-000299-index.htm": {
+      "title": "10-Q - Fastly, Inc. (0001517413) (Filer)",
+      "updated": "2025-11-07T17:19:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:23:47.575383+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1334933/000143774925033897/0001437749-25-033897-index.htm": {
+      "title": "8-K - URANIUM ENERGY CORP (0001334933) (Filer)",
+      "updated": "2025-11-07T17:18:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:23:48.637195+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1576280/000119312525272592/0001193125-25-272592-index.htm": {
+      "title": "8-K - Guardant Health, Inc. (0001576280) (Filer)",
+      "updated": "2025-11-07T17:17:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:23:49.705326+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1372807/000119312525272589/0001193125-25-272589-index.htm": {
+      "title": "8-K - BCP Investment Corp (0001372807) (Filer)",
+      "updated": "2025-11-07T17:16:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:23:50.776683+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1687187/000121390025107683/0001213900-25-107683-index.htm": {
+      "title": "8-K - Ramaco Resources, Inc. (0001687187) (Filer)",
+      "updated": "2025-11-07T17:16:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:23:51.846225+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1674356/000167435625000034/0001674356-25-000034-index.htm": {
+      "title": "10-Q - Terra Property Trust, Inc. (0001674356) (Filer)",
+      "updated": "2025-11-07T17:16:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:23:52.917016+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1756180/000168316825008084/0001683168-25-008084-index.htm": {
+      "title": "8-K - NOCERA, INC. (0001756180) (Filer)",
+      "updated": "2025-11-07T17:16:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:23:54.018608+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1506983/000149315225021320/0001493152-25-021320-index.htm": {
+      "title": "8-K - Glucotrack, Inc. (0001506983) (Filer)",
+      "updated": "2025-11-07T17:15:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:23:55.091579+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1577134/000157713425000024/0001577134-25-000024-index.htm": {
+      "title": "10-Q - Terra Income Fund 6, LLC (0001577134) (Filer)",
+      "updated": "2025-11-07T17:15:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T22:23:56.186488+00:00"
     }
   }
 }
