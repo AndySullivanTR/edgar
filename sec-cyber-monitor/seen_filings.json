@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-07T15:43:55.117346+00:00",
+  "last_checked": "2025-11-07T15:57:19.949191+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -10444,6 +10444,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-07T15:43:54.108422+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1323468/000110465925108244/0001104659-25-108244-index.htm": {
+      "title": "10-Q - GLOBAL PARTNERS LP (0001323468) (Filer)",
+      "updated": "2025-11-07T10:56:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T15:57:16.818043+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2033695/000158064225007106/0001580642-25-007106-index.htm": {
+      "title": "8-K - New Mountain Net Lease Trust (0002033695) (Filer)",
+      "updated": "2025-11-07T10:55:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T15:57:17.877255+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1778784/000143774925033757/0001437749-25-033757-index.htm": {
+      "title": "10-Q - Provident Bancorp, Inc. /MD/ (0001778784) (Filer)",
+      "updated": "2025-11-07T10:46:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T15:57:18.940592+00:00"
     }
   }
 }
