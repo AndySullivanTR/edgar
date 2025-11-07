@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-07T18:37:03.736894+00:00",
+  "last_checked": "2025-11-07T18:54:03.833648+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -10871,6 +10871,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-07T18:37:02.727835+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/928658/000143774925033809/0001437749-25-033809-index.htm": {
+      "title": "10-Q - COVENANT LOGISTICS GROUP, INC. (0000928658) (Filer)",
+      "updated": "2025-11-07T13:47:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T18:53:56.451829+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1938570/000121390025107523/0001213900-25-107523-index.htm": {
+      "title": "10-Q - Unite Acquisition 2 Corp. (0001938570) (Filer)",
+      "updated": "2025-11-07T13:46:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T18:53:57.512886+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/710752/000119312525271873/0001193125-25-271873-index.htm": {
+      "title": "10-Q - SABINE ROYALTY TRUST (0000710752) (Filer)",
+      "updated": "2025-11-07T13:44:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T18:53:58.571696+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/857855/000085785525000164/0000857855-25-000164-index.htm": {
+      "title": "10-Q - UNITED COMMUNITY BANKS INC (0000857855) (Filer)",
+      "updated": "2025-11-07T13:42:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T18:53:59.633094+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1370218/000114036125041100/0001140361-25-041100-index.htm": {
+      "title": "8-K - SLM Student Loan Trust 2006-7 (0001370218) (Filer)",
+      "updated": "2025-11-07T13:40:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T18:54:00.693885+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2091679/000110465925108338/0001104659-25-108338-index.htm": {
+      "title": "8-K - Hyundai Auto Receivables Trust 2025-D (0002091679) (Filer)",
+      "updated": "2025-11-07T13:40:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T18:54:01.754986+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1260125/000110465925108338/0001104659-25-108338-index.htm": {
+      "title": "8-K - HYUNDAI ABS FUNDING LLC (0001260125) (Filer)",
+      "updated": "2025-11-07T13:40:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T18:54:02.824501+00:00"
     }
   }
 }
