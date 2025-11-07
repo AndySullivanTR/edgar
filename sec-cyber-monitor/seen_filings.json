@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-07T14:29:45.069689+00:00",
+  "last_checked": "2025-11-07T14:47:18.679074+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -10353,6 +10353,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-07T14:29:44.060755+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1849635/000114036125040977/0001140361-25-040977-index.htm": {
+      "title": "10-Q - Trump Media & Technology Group Corp. (0001849635) (Filer)",
+      "updated": "2025-11-07T09:40:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:47:14.375288+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1693577/000143774925033742/0001437749-25-033742-index.htm": {
+      "title": "10-Q - MainStreet Bancshares, Inc. (0001693577) (Filer)",
+      "updated": "2025-11-07T09:38:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:47:15.483397+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/821130/000082113025000072/0000821130-25-000072-index.htm": {
+      "title": "8-K - ARRAY DIGITAL INFRASTRUCTURE, INC. (0000821130) (Filer)",
+      "updated": "2025-11-07T09:36:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:47:16.557516+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1921865/000147793225007963/0001477932-25-007963-index.htm": {
+      "title": "8-K - ASP Isotopes Inc. (0001921865) (Filer)",
+      "updated": "2025-11-07T09:31:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-07T14:47:17.670541+00:00"
     }
   }
 }
