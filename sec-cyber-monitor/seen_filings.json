@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-10T21:42:16.350266+00:00",
+  "last_checked": "2025-11-10T21:55:18.641118+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -13559,6 +13559,69 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-10T21:42:15.339799+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/39092/000143774925034129/0001437749-25-034129-index.htm": {
+      "title": "8-K - FRIEDMAN INDUSTRIES INC (0000039092) (Filer)",
+      "updated": "2025-11-10T16:54:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:55:08.547998+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1518715/000114036125041409/0001140361-25-041409-index.htm": {
+      "title": "NT 10-Q - Mechanics Bancorp (0001518715) (Filer)",
+      "updated": "2025-11-10T16:54:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:55:09.674269+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1760689/000162828025051130/0001628280-25-051130-index.htm": {
+      "title": "8-K - Microvast Holdings, Inc. (0001760689) (Filer)",
+      "updated": "2025-11-10T16:54:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:55:10.819796+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/894627/000089462725000055/0000894627-25-000055-index.htm": {
+      "title": "8-K - VAALCO ENERGY INC /DE/ (0000894627) (Filer)",
+      "updated": "2025-11-10T16:51:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:55:11.907125+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/350852/000035085225000094/0000350852-25-000094-index.htm": {
+      "title": "8-K - COMMUNITY TRUST BANCORP INC /KY/ (0000350852) (Filer)",
+      "updated": "2025-11-10T16:50:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:55:13.048175+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1873923/000187392325000141/0001873923-25-000141-index.htm": {
+      "title": "8-K - Orion Properties Inc. (0001873923) (Filer)",
+      "updated": "2025-11-10T16:49:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:55:14.170604+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2024218/000202421825000069/0002024218-25-000069-index.htm": {
+      "title": "10-Q - Summit Midstream Corp (0002024218) (Filer)",
+      "updated": "2025-11-10T16:49:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:55:15.315349+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1760689/000162828025051119/0001628280-25-051119-index.htm": {
+      "title": "10-Q - Microvast Holdings, Inc. (0001760689) (Filer)",
+      "updated": "2025-11-10T16:48:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:55:16.491395+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1459839/000145983925000095/0001459839-25-000095-index.htm": {
+      "title": "10-Q - SI-BONE, Inc. (0001459839) (Filer)",
+      "updated": "2025-11-10T16:47:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:55:17.629978+00:00"
     }
   }
 }
