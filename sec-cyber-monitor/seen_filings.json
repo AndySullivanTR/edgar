@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-10T19:40:19.871202+00:00",
+  "last_checked": "2025-11-10T19:53:21.941430+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -13055,6 +13055,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-10T19:40:18.861032+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1227265/000119312525273980/0001193125-25-273980-index.htm": {
+      "title": "10-Q - CERES ORION L.P. (0001227265) (Filer)",
+      "updated": "2025-11-10T14:50:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T19:53:17.281837+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/815917/000119312525273977/0001193125-25-273977-index.htm": {
+      "title": "8-K - JONES FINANCIAL COMPANIES LLLP (0000815917) (Filer)",
+      "updated": "2025-11-10T14:48:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T19:53:18.552920+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/56047/000119312525273962/0001193125-25-273962-index.htm": {
+      "title": "10-Q - KIRBY CORP (0000056047) (Filer)",
+      "updated": "2025-11-10T14:44:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T19:53:19.772241+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1078271/000119312525273961/0001193125-25-273961-index.htm": {
+      "title": "8-K - EXTREME NETWORKS INC (0001078271) (Filer)",
+      "updated": "2025-11-10T14:43:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T19:53:20.930972+00:00"
     }
   }
 }
