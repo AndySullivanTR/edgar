@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-10T11:41:37.313531+00:00",
+  "last_checked": "2025-11-10T11:54:50.981621+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -12152,6 +12152,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-10T11:41:36.303446+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1883085/000188308525000191/0001883085-25-000191-index.htm": {
+      "title": "8-K - Pagaya Technologies Ltd. (0001883085) (Filer)",
+      "updated": "2025-11-10T06:53:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T11:54:47.827264+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1564708/000156470825000574/0001564708-25-000574-index.htm": {
+      "title": "8-K - NEWS CORP (0001564708) (Filer)",
+      "updated": "2025-11-10T06:47:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T11:54:48.900380+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1504008/000150400825000048/0001504008-25-000048-index.htm": {
+      "title": "8-K - BankUnited, Inc. (0001504008) (Filer)",
+      "updated": "2025-11-10T06:45:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T11:54:49.971697+00:00"
     }
   }
 }
