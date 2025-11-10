@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-10T15:28:46.989360+00:00",
+  "last_checked": "2025-11-10T15:46:24.049399+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -12859,6 +12859,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-10T15:28:45.978971+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/913241/000162828025050843/0001628280-25-050843-index.htm": {
+      "title": "10-Q - STEVEN MADDEN, LTD. (0000913241) (Filer)",
+      "updated": "2025-11-10T10:34:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T15:46:23.039049+00:00"
     }
   }
 }
