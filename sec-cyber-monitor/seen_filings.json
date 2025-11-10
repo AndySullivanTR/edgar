@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-10T16:58:27.732333+00:00",
+  "last_checked": "2025-11-10T17:26:50.155200+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -12887,6 +12887,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-10T16:58:26.719944+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1075736/000165495425012755/0001654954-25-012755-index.htm": {
+      "title": "8-K - Crexendo, Inc. (0001075736) (Filer)",
+      "updated": "2025-11-10T12:05:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T17:26:48.085244+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2033615/000092708925000202/0000927089-25-000202-index.htm": {
+      "title": "10-Q - Magnolia Bancorp, Inc. (0002033615) (Filer)",
+      "updated": "2025-11-10T12:03:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T17:26:49.144757+00:00"
     }
   }
 }
