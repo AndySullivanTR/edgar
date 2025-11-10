@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-10T13:55:46.007650+00:00",
+  "last_checked": "2025-11-10T14:27:48.298998+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -12747,6 +12747,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-10T13:55:44.997822+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1339005/000114036125041293/0001140361-25-041293-index.htm": {
+      "title": "8-K - FEMASYS INC (0001339005) (Filer)",
+      "updated": "2025-11-10T09:22:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T14:27:37.974582+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1658982/000119312525273427/0001193125-25-273427-index.htm": {
+      "title": "8-K - Chase Card Funding LLC (0001658982) (Filer)",
+      "updated": "2025-11-10T09:17:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T14:27:39.045067+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1174821/000119312525273427/0001193125-25-273427-index.htm": {
+      "title": "8-K - CHASE ISSUANCE TRUST (0001174821) (Filer)",
+      "updated": "2025-11-10T09:17:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T14:27:40.115177+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/869090/000119312525273427/0001193125-25-273427-index.htm": {
+      "title": "8-K - JPMORGAN CHASE BANK, NATIONAL ASSOCIATION (0000869090) (Filer)",
+      "updated": "2025-11-10T09:17:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T14:27:41.197374+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1173489/000143774925033972/0001437749-25-033972-index.htm": {
+      "title": "8-K - CEVA INC (0001173489) (Filer)",
+      "updated": "2025-11-10T09:15:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T14:27:42.289670+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1527753/000119312525273416/0001193125-25-273416-index.htm": {
+      "title": "8-K - Personalis, Inc. (0001527753) (Filer)",
+      "updated": "2025-11-10T09:11:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T14:27:43.361395+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1370053/000137005325000091/0001370053-25-000091-index.htm": {
+      "title": "8-K - ANAPTYSBIO, INC (0001370053) (Filer)",
+      "updated": "2025-11-10T09:10:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": "llm_ok",
+      "first_seen": "2025-11-10T14:27:47.288823+00:00"
     }
   }
 }
