@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-10T16:34:26.257912+00:00",
+  "last_checked": "2025-11-10T16:58:27.732333+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -12866,6 +12866,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-10T15:46:23.039049+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1779128/000162828025050870/0001628280-25-050870-index.htm": {
+      "title": "10-Q - Strata Critical Medical, Inc. (0001779128) (Filer)",
+      "updated": "2025-11-10T11:51:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T16:58:24.500335+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1744494/000182912625008952/0001829126-25-008952-index.htm": {
+      "title": "8-K - ADVENT TECHNOLOGIES HOLDINGS, INC. (0001744494) (Filer)",
+      "updated": "2025-11-10T11:51:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T16:58:25.594549+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1754226/000110465925108979/0001104659-25-108979-index.htm": {
+      "title": "10-Q - Orange County Bancorp, Inc. /DE/ (0001754226) (Filer)",
+      "updated": "2025-11-10T11:48:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T16:58:26.719944+00:00"
     }
   }
 }
