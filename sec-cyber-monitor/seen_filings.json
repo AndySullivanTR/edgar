@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-10T14:47:32.309543+00:00",
+  "last_checked": "2025-11-10T15:28:46.989360+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -12817,6 +12817,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-10T14:47:31.299039+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1329842/000165495425012741/0001654954-25-012741-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
+      "updated": "2025-11-10T10:23:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T15:28:40.593771+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1703157/000101738625000125/0001017386-25-000125-index.htm": {
+      "title": "8-K - Securetech Innovations, Inc. (0001703157) (Filer)",
+      "updated": "2025-11-10T10:03:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T15:28:41.666122+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/770460/000110465925108932/0001104659-25-108932-index.htm": {
+      "title": "10-Q - PEOPLES FINANCIAL CORP /MS/ (0000770460) (Filer)",
+      "updated": "2025-11-10T10:02:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T15:28:42.739993+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1434601/000168316825008116/0001683168-25-008116-index.htm": {
+      "title": "10-Q/A - Marquie Group, Inc. (0001434601) (Filer)",
+      "updated": "2025-11-10T10:00:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T15:28:43.814679+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1554859/000110465925108930/0001104659-25-108930-index.htm": {
+      "title": "8-K - Semler Scientific, Inc. (0001554859) (Filer)",
+      "updated": "2025-11-10T09:58:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T15:28:44.901720+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1976663/000147793225008002/0001477932-25-008002-index.htm": {
+      "title": "8-K - Nexscient, Inc. (0001976663) (Filer)",
+      "updated": "2025-11-10T09:51:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T15:28:45.978971+00:00"
     }
   }
 }
