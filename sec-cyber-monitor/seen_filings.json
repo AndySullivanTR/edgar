@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-10T20:54:50.335182+00:00",
+  "last_checked": "2025-11-10T21:24:26.393610+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -13230,6 +13230,216 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-10T20:54:49.323814+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/65312/000117494725001373/0001174947-25-001373-index.htm": {
+      "title": "8-K - EVI INDUSTRIES, INC. (0000065312) (Filer)",
+      "updated": "2025-11-10T16:23:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:23:52.747951+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1562476/000119312525274335/0001193125-25-274335-index.htm": {
+      "title": "8-K - Taylor Morrison Home Corp (0001562476) (Filer)",
+      "updated": "2025-11-10T16:23:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:23:53.885935+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/728387/000119312525274328/0001193125-25-274328-index.htm": {
+      "title": "10-Q - Perspective Therapeutics, Inc. (0000728387) (Filer)",
+      "updated": "2025-11-10T16:23:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:23:55.049712+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/801337/000080133725000104/0000801337-25-000104-index.htm": {
+      "title": "10-Q - WEBSTER FINANCIAL CORP (0000801337) (Filer)",
+      "updated": "2025-11-10T16:22:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:23:56.212985+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1004724/000119312525274329/0001193125-25-274329-index.htm": {
+      "title": "8-K - REGIONAL HEALTH PROPERTIES, INC (0001004724) (Filer)",
+      "updated": "2025-11-10T16:22:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:23:57.296432+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1841666/000184166625000035/0001841666-25-000035-index.htm": {
+      "title": "8-K - APA Corp (0001841666) (Filer)",
+      "updated": "2025-11-10T16:22:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:23:58.370398+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1898795/000189879525000197/0001898795-25-000197-index.htm": {
+      "title": "10-Q - LiveWire Group, Inc. (0001898795) (Filer)",
+      "updated": "2025-11-10T16:22:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:23:59.484034+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1386278/000138627825000074/0001386278-25-000074-index.htm": {
+      "title": "8-K - GREEN DOT CORP (0001386278) (Filer)",
+      "updated": "2025-11-10T16:22:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:00.547272+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1393883/000139388325000120/0001393883-25-000120-index.htm": {
+      "title": "10-Q - DHI GROUP, INC. (0001393883) (Filer)",
+      "updated": "2025-11-10T16:22:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:01.679390+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1579091/000157909125000097/0001579091-25-000097-index.htm": {
+      "title": "10-Q - Maplebear Inc. (0001579091) (Filer)",
+      "updated": "2025-11-10T16:21:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:02.745973+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1036044/000119312525274327/0001193125-25-274327-index.htm": {
+      "title": "8-K - Identiv, Inc. (0001036044) (Filer)",
+      "updated": "2025-11-10T16:21:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:03.810126+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2018064/000119312525274316/0001193125-25-274316-index.htm": {
+      "title": "10-Q - TechTarget, Inc. (0002018064) (Filer)",
+      "updated": "2025-11-10T16:21:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:05.094100+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/916540/000091654025000033/0000916540-25-000033-index.htm": {
+      "title": "8-K - DARLING INGREDIENTS INC. (0000916540) (Filer)",
+      "updated": "2025-11-10T16:21:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:06.256551+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1889123/000119312525274317/0001193125-25-274317-index.htm": {
+      "title": "10-Q - Fold Holdings, Inc. (0001889123) (Filer)",
+      "updated": "2025-11-10T16:20:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:07.791195+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1719714/000119312525274319/0001193125-25-274319-index.htm": {
+      "title": "8-K - Mereo BioPharma Group plc (0001719714) (Filer)",
+      "updated": "2025-11-10T16:20:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:08.851717+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/911147/000091114725000048/0000911147-25-000048-index.htm": {
+      "title": "8-K - CENTURY CASINOS INC /CO/ (0000911147) (Filer)",
+      "updated": "2025-11-10T16:20:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:09.921304+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/728387/000119312525274318/0001193125-25-274318-index.htm": {
+      "title": "8-K - Perspective Therapeutics, Inc. (0000728387) (Filer)",
+      "updated": "2025-11-10T16:20:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:11.028021+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2041610/000204161025000044/0002041610-25-000044-index.htm": {
+      "title": "10-Q - Paramount Skydance Corp (0002041610) (Filer)",
+      "updated": "2025-11-10T16:20:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:12.112044+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2018064/000119312525274315/0001193125-25-274315-index.htm": {
+      "title": "8-K - TechTarget, Inc. (0002018064) (Filer)",
+      "updated": "2025-11-10T16:20:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:13.274015+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1850270/000119312525274314/0001193125-25-274314-index.htm": {
+      "title": "8-K - PROKIDNEY CORP. (0001850270) (Filer)",
+      "updated": "2025-11-10T16:20:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:14.339632+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1821534/000119312525274308/0001193125-25-274308-index.htm": {
+      "title": "10-Q - Exodus Movement, Inc. (0001821534) (Filer)",
+      "updated": "2025-11-10T16:19:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:15.427523+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1847874/000149315225021522/0001493152-25-021522-index.htm": {
+      "title": "8-K - Mobile Infrastructure Corp (0001847874) (Filer)",
+      "updated": "2025-11-10T16:19:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:16.556108+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2025410/000119312525274305/0001193125-25-274305-index.htm": {
+      "title": "10-Q - StandardAero, Inc. (0002025410) (Filer)",
+      "updated": "2025-11-10T16:19:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:17.633388+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1110611/000162828025051062/0001628280-25-051062-index.htm": {
+      "title": "8-K - ON24 INC. (0001110611) (Filer)",
+      "updated": "2025-11-10T16:19:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:18.735546+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1321741/000119312525274307/0001193125-25-274307-index.htm": {
+      "title": "8-K - GLADSTONE INVESTMENT CORPORATION\\DE (0001321741) (Filer)",
+      "updated": "2025-11-10T16:19:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:19.801246+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1850270/000119312525274303/0001193125-25-274303-index.htm": {
+      "title": "10-Q - PROKIDNEY CORP. (0001850270) (Filer)",
+      "updated": "2025-11-10T16:18:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:20.889181+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1787400/000119312525274304/0001193125-25-274304-index.htm": {
+      "title": "10-Q - Nkarta, Inc. (0001787400) (Filer)",
+      "updated": "2025-11-10T16:18:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:21.999360+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/50292/000117494725001371/0001174947-25-001371-index.htm": {
+      "title": "8-K - IEH Corp (0000050292) (Filer)",
+      "updated": "2025-11-10T16:18:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:23.080488+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1392380/000139238025000032/0001392380-25-000032-index.htm": {
+      "title": "10-Q - Gevo, Inc. (0001392380) (Filer)",
+      "updated": "2025-11-10T16:18:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:24.292408+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1422930/000142293025000050/0001422930-25-000050-index.htm": {
+      "title": "10-Q - PubMatic, Inc. (0001422930) (Filer)",
+      "updated": "2025-11-10T16:18:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:24:25.382147+00:00"
     }
   }
 }
