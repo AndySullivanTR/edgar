@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-10T18:38:02.517393+00:00",
+  "last_checked": "2025-11-10T18:55:13.401150+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -12971,6 +12971,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-10T18:38:01.506401+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1471824/000143774925034040/0001437749-25-034040-index.htm": {
+      "title": "10-Q - Teucrium Commodity Trust (0001471824) (Filer)",
+      "updated": "2025-11-10T13:47:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T18:55:09.151230+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1600033/000160003325000058/0001600033-25-000058-index.htm": {
+      "title": "10-Q - e.l.f. Beauty, Inc. (0001600033) (Filer)",
+      "updated": "2025-11-10T13:47:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T18:55:10.222715+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331875/000133187525000111/0001331875-25-000111-index.htm": {
+      "title": "10-Q - Fidelity National Financial, Inc. (0001331875) (Filer)",
+      "updated": "2025-11-10T13:44:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T18:55:11.296393+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/22356/000002235625000093/0000022356-25-000093-index.htm": {
+      "title": "10-Q - COMMERCE BANCSHARES INC /MO/ (0000022356) (Filer)",
+      "updated": "2025-11-10T13:43:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T18:55:12.390625+00:00"
     }
   }
 }
