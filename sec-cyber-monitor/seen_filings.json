@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-10T17:55:40.867833+00:00",
+  "last_checked": "2025-11-10T18:38:02.517393+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -12915,6 +12915,62 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-10T17:55:39.857172+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1500375/000114036125041344/0001140361-25-041344-index.htm": {
+      "title": "10-Q - Home Federal Bancorp, Inc. of Louisiana (0001500375) (Filer)",
+      "updated": "2025-11-10T13:37:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T18:37:53.859909+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1934850/000193485025000072/0001934850-25-000072-index.htm": {
+      "title": "10-Q - F&G Annuities & Life, Inc. (0001934850) (Filer)",
+      "updated": "2025-11-10T13:32:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T18:37:54.980017+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1500881/000162828025050914/0001628280-25-050914-index.htm": {
+      "title": "10-Q - enCore Energy Corp. (0001500881) (Filer)",
+      "updated": "2025-11-10T13:31:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T18:37:56.093825+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/315958/000114036125041342/0001140361-25-041342-index.htm": {
+      "title": "10-Q - CREDITRISKMONITOR COM INC (0000315958) (Filer)",
+      "updated": "2025-11-10T13:31:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T18:37:57.177491+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/38723/000003872325000137/0000038723-25-000137-index.htm": {
+      "title": "8-K - 1st FRANKLIN FINANCIAL CORP (0000038723) (Filer)",
+      "updated": "2025-11-10T13:20:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T18:37:58.260100+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/731122/000117494725001364/0001174947-25-001364-index.htm": {
+      "title": "8-K - MUNCY COLUMBIA FINANCIAL Corp (0000731122) (Filer)",
+      "updated": "2025-11-10T13:15:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T18:37:59.341448+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1471727/000149315225021463/0001493152-25-021463-index.htm": {
+      "title": "8-K - SRx Health Solutions, Inc. (0001471727) (Filer)",
+      "updated": "2025-11-10T13:14:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T18:38:00.417842+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/732712/000119312525273787/0001193125-25-273787-index.htm": {
+      "title": "8-K - VERIZON COMMUNICATIONS INC (0000732712) (Filer)",
+      "updated": "2025-11-10T13:14:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T18:38:01.506401+00:00"
     }
   }
 }
