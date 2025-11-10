@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-10T18:55:13.401150+00:00",
+  "last_checked": "2025-11-10T19:21:18.461741+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -12999,6 +12999,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-10T18:55:12.390625+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/38777/000003877725000238/0000038777-25-000238-index.htm": {
+      "title": "10-K - FRANKLIN RESOURCES INC (0000038777) (Filer)",
+      "updated": "2025-11-10T14:19:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T19:21:14.059322+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/39092/000143774925034049/0001437749-25-034049-index.htm": {
+      "title": "8-K/A - FRIEDMAN INDUSTRIES INC (0000039092) (Filer)",
+      "updated": "2025-11-10T14:18:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T19:21:15.214473+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/891532/000149315225021473/0001493152-25-021473-index.htm": {
+      "title": "10-Q - PERMA FIX ENVIRONMENTAL SERVICES INC (0000891532) (Filer)",
+      "updated": "2025-11-10T14:08:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T19:21:16.307031+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1481028/000121390025108125/0001213900-25-108125-index.htm": {
+      "title": "10-Q - SUNHYDROGEN, INC. (0001481028) (Filer)",
+      "updated": "2025-11-10T14:07:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T19:21:17.451689+00:00"
     }
   }
 }
