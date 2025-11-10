@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-10T11:23:13.320505+00:00",
+  "last_checked": "2025-11-10T11:41:37.313531+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -12124,6 +12124,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-10T11:23:12.310617+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1847064/000110465925108776/0001104659-25-108776-index.htm": {
+      "title": "8-K - PSQ Holdings, Inc. (0001847064) (Filer)",
+      "updated": "2025-11-10T06:35:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T11:41:33.114996+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1819810/000181981025000251/0001819810-25-000251-index.htm": {
+      "title": "8-K - Redwire Corp (0001819810) (Filer)",
+      "updated": "2025-11-10T06:33:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T11:41:34.177414+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/906709/000121390025107821/0001213900-25-107821-index.htm": {
+      "title": "8-K - NEKTAR THERAPEUTICS (0000906709) (Filer)",
+      "updated": "2025-11-10T06:31:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T11:41:35.237960+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1015383/000119312525273158/0001193125-25-273158-index.htm": {
+      "title": "10-Q - Outdoor Holding Co (0001015383) (Filer)",
+      "updated": "2025-11-10T06:25:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T11:41:36.303446+00:00"
     }
   }
 }
