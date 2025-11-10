@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-10T21:55:18.641118+00:00",
+  "last_checked": "2025-11-10T22:26:22.514435+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -13622,6 +13622,195 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-10T21:55:17.629978+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1595527/000110465925109302/0001104659-25-109302-index.htm": {
+      "title": "8-K - American Strategic Investment Co. (0001595527) (Filer)",
+      "updated": "2025-11-10T17:25:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:25:53.408579+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1487712/000119312525274598/0001193125-25-274598-index.htm": {
+      "title": "8-K - AIR LEASE CORP (0001487712) (Filer)",
+      "updated": "2025-11-10T17:25:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:25:54.477183+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2009684/000110465925109303/0001104659-25-109303-index.htm": {
+      "title": "8-K - Seaport Entertainment Group Inc. (0002009684) (Filer)",
+      "updated": "2025-11-10T17:25:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:25:55.549156+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1290900/000162828025051174/0001628280-25-051174-index.htm": {
+      "title": "10-Q - Commercial Vehicle Group, Inc. (0001290900) (Filer)",
+      "updated": "2025-11-10T17:24:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:25:56.617725+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/788965/000110465925109301/0001104659-25-109301-index.htm": {
+      "title": "10-Q - HALLADOR ENERGY CO (0000788965) (Filer)",
+      "updated": "2025-11-10T17:24:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:25:57.701573+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1652130/000119312525274596/0001193125-25-274596-index.htm": {
+      "title": "8-K - Intellia Therapeutics, Inc. (0001652130) (Filer)",
+      "updated": "2025-11-10T17:24:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:25:58.783062+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/29905/000119312525274595/0001193125-25-274595-index.htm": {
+      "title": "8-K - DOVER Corp (0000029905) (Filer)",
+      "updated": "2025-11-10T17:24:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:25:59.849530+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1830081/000121390025108322/0001213900-25-108322-index.htm": {
+      "title": "8-K - Rumble Inc. (0001830081) (Filer)",
+      "updated": "2025-11-10T17:23:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:26:00.942944+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1517681/000149315225021567/0001493152-25-021567-index.htm": {
+      "title": "8-K - Propanc Biopharma, Inc. (0001517681) (Filer)",
+      "updated": "2025-11-10T17:22:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:26:02.006529+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/58361/000005836125000017/0000058361-25-000017-index.htm": {
+      "title": "8-K - LEE ENTERPRISES, Inc (0000058361) (Filer)",
+      "updated": "2025-11-10T17:22:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:26:03.071552+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1133869/000110465925109298/0001104659-25-109298-index.htm": {
+      "title": "10-Q - CAPRICOR THERAPEUTICS, INC. (0001133869) (Filer)",
+      "updated": "2025-11-10T17:20:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:26:04.154238+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/846617/000084661725000056/0000846617-25-000056-index.htm": {
+      "title": "8-K - Dime Community Bancshares, Inc. /NY/ (0000846617) (Filer)",
+      "updated": "2025-11-10T17:20:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:26:05.225203+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/874501/000162828025051169/0001628280-25-051169-index.htm": {
+      "title": "8-K - AMBAC FINANCIAL GROUP INC (0000874501) (Filer)",
+      "updated": "2025-11-10T17:20:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:26:06.289591+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1357874/000162828025051168/0001628280-25-051168-index.htm": {
+      "title": "8-K - PRECISION BIOSCIENCES INC (0001357874) (Filer)",
+      "updated": "2025-11-10T17:20:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:26:07.356408+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1567892/000162828025051167/0001628280-25-051167-index.htm": {
+      "title": "10-Q - Mallinckrodt plc (0001567892) (Filer)",
+      "updated": "2025-11-10T17:19:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:26:08.513820+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/732417/000073241725000043/0000732417-25-000043-index.htm": {
+      "title": "10-Q - HILLS BANCORPORATION (0000732417) (Filer)",
+      "updated": "2025-11-10T17:19:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:26:09.596675+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/889609/000168316825008154/0001683168-25-008154-index.htm": {
+      "title": "8-K - CONSUMER PORTFOLIO SERVICES, INC. (0000889609) (Filer)",
+      "updated": "2025-11-10T17:19:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:26:10.663665+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1699136/000162828025051166/0001628280-25-051166-index.htm": {
+      "title": "8-K - Cactus, Inc. (0001699136) (Filer)",
+      "updated": "2025-11-10T17:18:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:26:11.758480+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1756390/000162828025051164/0001628280-25-051164-index.htm": {
+      "title": "10-Q - Ascend Wellness Holdings, Inc. (0001756390) (Filer)",
+      "updated": "2025-11-10T17:18:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:26:12.825076+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1710072/000110465925109295/0001104659-25-109295-index.htm": {
+      "title": "8-K - Edgewise Therapeutics, Inc. (0001710072) (Filer)",
+      "updated": "2025-11-10T17:17:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:26:13.914149+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1290900/000162828025051165/0001628280-25-051165-index.htm": {
+      "title": "8-K - Commercial Vehicle Group, Inc. (0001290900) (Filer)",
+      "updated": "2025-11-10T17:17:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:26:14.997661+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1911066/000191106625000038/0001911066-25-000038-index.htm": {
+      "title": "10-Q - Nuveen Churchill Private Capital Income Fund (0001911066) (Filer)",
+      "updated": "2025-11-10T17:17:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:26:16.132685+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1005101/000149315225021565/0001493152-25-021565-index.htm": {
+      "title": "8-K - Marygold Companies, Inc. (0001005101) (Filer)",
+      "updated": "2025-11-10T17:17:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:26:17.210262+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1326200/000114036125041418/0001140361-25-041418-index.htm": {
+      "title": "8-K - GENCO SHIPPING & TRADING LTD (0001326200) (Filer)",
+      "updated": "2025-11-10T17:17:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:26:18.283890+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1360214/000149315225021562/0001493152-25-021562-index.htm": {
+      "title": "10-Q - HARROW, INC. (0001360214) (Filer)",
+      "updated": "2025-11-10T17:16:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:26:19.360520+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2012726/000110465925109288/0001104659-25-109288-index.htm": {
+      "title": "10-Q - Fifth District Bancorp, Inc. (0002012726) (Filer)",
+      "updated": "2025-11-10T17:16:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:26:20.429851+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1641631/000149315225021561/0001493152-25-021561-index.htm": {
+      "title": "10-Q - Beyond Air, Inc. (0001641631) (Filer)",
+      "updated": "2025-11-10T17:15:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:26:21.502755+00:00"
     }
   }
 }
