@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-10T14:27:48.298998+00:00",
+  "last_checked": "2025-11-10T14:47:32.309543+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -12796,6 +12796,27 @@
       "label": "BOILERPLATE",
       "reason": "llm_ok",
       "first_seen": "2025-11-10T14:27:47.288823+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1920406/000114036125041298/0001140361-25-041298-index.htm": {
+      "title": "8-K - Strive, Inc. (0001920406) (Filer)",
+      "updated": "2025-11-10T09:39:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T14:47:29.145415+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/717605/000093041325003404/0000930413-25-003404-index.htm": {
+      "title": "8-K - HEXCEL CORP /DE/ (0000717605) (Filer)",
+      "updated": "2025-11-10T09:28:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T14:47:30.223292+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1920406/000114036125041295/0001140361-25-041295-index.htm": {
+      "title": "8-K - Strive, Inc. (0001920406) (Filer)",
+      "updated": "2025-11-10T09:28:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T14:47:31.299039+00:00"
     }
   }
 }
