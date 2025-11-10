@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-10T13:36:46.030515+00:00",
+  "last_checked": "2025-11-10T13:55:46.007650+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -12670,6 +12670,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-10T13:36:45.019864+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/5981/000119312525273381/0001193125-25-273381-index.htm": {
+      "title": "10-Q - AMERICAN VANGUARD CORP (0000005981) (Filer)",
+      "updated": "2025-11-10T08:54:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T13:55:33.952008+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1830081/000121390025107926/0001213900-25-107926-index.htm": {
+      "title": "8-K - Rumble Inc. (0001830081) (Filer)",
+      "updated": "2025-11-10T08:48:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T13:55:35.072964+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1524358/000152435825000168/0001524358-25-000168-index.htm": {
+      "title": "8-K - MARRIOTT VACATIONS WORLDWIDE Corp (0001524358) (Filer)",
+      "updated": "2025-11-10T08:46:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T13:55:36.167844+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/715579/000162828025050807/0001628280-25-050807-index.htm": {
+      "title": "8-K - ACNB CORP (0000715579) (Filer)",
+      "updated": "2025-11-10T08:45:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T13:55:37.256814+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1819574/000181957425000047/0001819574-25-000047-index.htm": {
+      "title": "10-Q - Bark, Inc. (0001819574) (Filer)",
+      "updated": "2025-11-10T08:45:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T13:55:38.396607+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1829311/000149315225021429/0001493152-25-021429-index.htm": {
+      "title": "8-K - BITMINE IMMERSION TECHNOLOGIES, INC. (0001829311) (Filer)",
+      "updated": "2025-11-10T08:45:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T13:55:39.479353+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1156041/000149315225021430/0001493152-25-021430-index.htm": {
+      "title": "8-K - HOUSTON AMERICAN ENERGY CORP (0001156041) (Filer)",
+      "updated": "2025-11-10T08:45:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T13:55:40.562479+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1023024/000102302425000110/0001023024-25-000110-index.htm": {
+      "title": "8-K - ANI PHARMACEUTICALS INC (0001023024) (Filer)",
+      "updated": "2025-11-10T08:45:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T13:55:41.661846+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1984086/000119312525273375/0001193125-25-273375-index.htm": {
+      "title": "10-Q - Septerna, Inc. (0001984086) (Filer)",
+      "updated": "2025-11-10T08:44:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T13:55:42.777337+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1043000/000104300025000087/0001043000-25-000087-index.htm": {
+      "title": "10-Q - SONIDA SENIOR LIVING, INC. (0001043000) (Filer)",
+      "updated": "2025-11-10T08:43:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T13:55:43.916686+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1984086/000119312525273373/0001193125-25-273373-index.htm": {
+      "title": "8-K - Septerna, Inc. (0001984086) (Filer)",
+      "updated": "2025-11-10T08:42:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T13:55:44.997822+00:00"
     }
   }
 }
