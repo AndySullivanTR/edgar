@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-10T19:21:18.461741+00:00",
+  "last_checked": "2025-11-10T19:40:19.871202+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -13027,6 +13027,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-10T19:21:17.451689+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/706863/000070686325000103/0000706863-25-000103-index.htm": {
+      "title": "10-Q - UNION BANKSHARES INC (0000706863) (Filer)",
+      "updated": "2025-11-10T14:38:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T19:40:15.539114+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1776738/000177673825000052/0001776738-25-000052-index.htm": {
+      "title": "10-Q - Cannabist Co Holdings Inc. (0001776738) (Filer)",
+      "updated": "2025-11-10T14:30:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T19:40:16.644392+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1037868/000103786825000082/0001037868-25-000082-index.htm": {
+      "title": "8-K - AMETEK INC/ (0001037868) (Filer)",
+      "updated": "2025-11-10T14:24:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T19:40:17.750726+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/352955/000143774925034052/0001437749-25-034052-index.htm": {
+      "title": "10-Q - CKX LANDS, INC. (0000352955) (Filer)",
+      "updated": "2025-11-10T14:21:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T19:40:18.861032+00:00"
     }
   }
 }
