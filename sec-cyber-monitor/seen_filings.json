@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-10T22:26:22.514435+00:00",
+  "last_checked": "2025-11-10T22:45:19.293434+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -13811,6 +13811,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-10T22:26:21.502755+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1861657/000149315225021577/0001493152-25-021577-index.htm": {
+      "title": "8-K - Tharimmune, Inc. (0001861657) (Filer)",
+      "updated": "2025-11-10T17:31:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:45:07.539181+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1655050/000119312525274618/0001193125-25-274618-index.htm": {
+      "title": "8-K - Bain Capital Specialty Finance, Inc. (0001655050) (Filer)",
+      "updated": "2025-11-10T17:31:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:45:08.611887+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2073653/000110465925109315/0001104659-25-109315-index.htm": {
+      "title": "10-Q - FBRED-C Feeder REIT Trust (0002073653) (Filer)",
+      "updated": "2025-11-10T17:30:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:45:09.717198+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1932213/000149315225021571/0001493152-25-021571-index.htm": {
+      "title": "10-K/A - Blue Chip Capital Group Inc. (0001932213) (Filer)",
+      "updated": "2025-11-10T17:30:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:45:10.795441+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1693256/000110465925109314/0001104659-25-109314-index.htm": {
+      "title": "8-K - Select Water Solutions, Inc. (0001693256) (Filer)",
+      "updated": "2025-11-10T17:29:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:45:11.863591+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1787518/000121390025108340/0001213900-25-108340-index.htm": {
+      "title": "8-K - Nukkleus Inc. (0001787518) (Filer)",
+      "updated": "2025-11-10T17:29:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:45:12.925012+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1722731/000149315225021570/0001493152-25-021570-index.htm": {
+      "title": "8-K - FDCTECH, INC. (0001722731) (Filer)",
+      "updated": "2025-11-10T17:28:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:45:13.985394+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1680378/000162828025051177/0001628280-25-051177-index.htm": {
+      "title": "10-Q - SenesTech, Inc. (0001680378) (Filer)",
+      "updated": "2025-11-10T17:28:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:45:15.061570+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1425287/000121390025108335/0001213900-25-108335-index.htm": {
+      "title": "8-K - Workhorse Group Inc. (0001425287) (Filer)",
+      "updated": "2025-11-10T17:27:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:45:16.121199+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1872066/000152013825000345/0001520138-25-000345-index.htm": {
+      "title": "10-Q - MIAMI BREEZE CAR CARE INC (0001872066) (Filer)",
+      "updated": "2025-11-10T17:26:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:45:17.201977+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2042694/000119312525274602/0001193125-25-274602-index.htm": {
+      "title": "8-K - Primo Brands Corp (0002042694) (Filer)",
+      "updated": "2025-11-10T17:26:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T22:45:18.282178+00:00"
     }
   }
 }
