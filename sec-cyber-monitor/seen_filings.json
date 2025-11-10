@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-10T20:30:32.869942+00:00",
+  "last_checked": "2025-11-10T20:54:50.335182+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -13167,6 +13167,69 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-10T20:30:31.859164+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/799233/000079923325000053/0000799233-25-000053-index.htm": {
+      "title": "10-Q - HEARTLAND EXPRESS INC (0000799233) (Filer)",
+      "updated": "2025-11-10T15:54:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T20:54:40.529837+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/879585/000110465925109113/0001104659-25-109113-index.htm": {
+      "title": "10-Q - ATN International, Inc. (0000879585) (Filer)",
+      "updated": "2025-11-10T15:53:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T20:54:41.627397+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/818677/000143774925034089/0001437749-25-034089-index.htm": {
+      "title": "10-Q - SECURITY FEDERAL CORP (0000818677) (Filer)",
+      "updated": "2025-11-10T15:48:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T20:54:42.813434+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/50292/000121390025108184/0001213900-25-108184-index.htm": {
+      "title": "10-Q - IEH Corp (0000050292) (Filer)",
+      "updated": "2025-11-10T15:46:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T20:54:43.896228+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/879635/000087963525000179/0000879635-25-000179-index.htm": {
+      "title": "8-K - MID PENN BANCORP INC (0000879635) (Filer)",
+      "updated": "2025-11-10T15:45:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T20:54:44.980771+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1625941/000110465925109104/0001104659-25-109104-index.htm": {
+      "title": "10-Q - ARES INDUSTRIAL REAL ESTATE INCOME TRUST Inc. (0001625941) (Filer)",
+      "updated": "2025-11-10T15:42:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T20:54:46.066327+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1327978/000110465925109099/0001104659-25-109099-index.htm": {
+      "title": "10-Q - Ares Real Estate Income Trust Inc. (0001327978) (Filer)",
+      "updated": "2025-11-10T15:39:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T20:54:47.144325+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1590418/000168316825008135/0001683168-25-008135-index.htm": {
+      "title": "10-Q - FOCUS UNIVERSAL INC. (0001590418) (Filer)",
+      "updated": "2025-11-10T15:34:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T20:54:48.245416+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2091664/000153949725002883/0001539497-25-002883-index.htm": {
+      "title": "8-K - BBCMS Mortgage Trust 2025-5C38 (0002091664) (Filer)",
+      "updated": "2025-11-10T15:32:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T20:54:49.323814+00:00"
     }
   }
 }
