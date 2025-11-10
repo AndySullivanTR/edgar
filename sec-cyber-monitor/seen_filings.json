@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-10T21:24:26.393610+00:00",
+  "last_checked": "2025-11-10T21:42:16.350266+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -13440,6 +13440,125 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-10T21:24:25.382147+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/43920/000004392025000096/0000043920-25-000096-index.htm": {
+      "title": "8-K - GREIF, INC (0000043920) (Filer)",
+      "updated": "2025-11-10T16:41:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:41:56.973263+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/38264/000168316825008146/0001683168-25-008146-index.htm": {
+      "title": "8-K - Forward Industries, Inc. (0000038264) (Filer)",
+      "updated": "2025-11-10T16:41:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:41:58.109613+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1071739/000107173925000188/0001071739-25-000188-index.htm": {
+      "title": "8-K - CENTENE CORP (0001071739) (Filer)",
+      "updated": "2025-11-10T16:40:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:41:59.261599+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1795586/000179558625000019/0001795586-25-000019-index.htm": {
+      "title": "10-Q - Chime Financial, Inc. (0001795586) (Filer)",
+      "updated": "2025-11-10T16:40:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:42:00.402922+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/23795/000110465925109229/0001104659-25-109229-index.htm": {
+      "title": "8-K - CTO Realty Growth, Inc. (0000023795) (Filer)",
+      "updated": "2025-11-10T16:40:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:42:01.534344+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2030954/000149315225021532/0001493152-25-021532-index.htm": {
+      "title": "10-Q - TEN Holdings, Inc. (0002030954) (Filer)",
+      "updated": "2025-11-10T16:40:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:42:02.722098+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/916907/000110465925109227/0001104659-25-109227-index.htm": {
+      "title": "8-K - SOUTHERN MISSOURI BANCORP, INC. (0000916907) (Filer)",
+      "updated": "2025-11-10T16:40:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:42:03.856810+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1776738/000177673825000055/0001776738-25-000055-index.htm": {
+      "title": "8-K - Cannabist Co Holdings Inc. (0001776738) (Filer)",
+      "updated": "2025-11-10T16:40:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:42:04.979921+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2055592/000205559225000009/0002055592-25-000009-index.htm": {
+      "title": "10-Q - Gemini Space Station, Inc. (0002055592) (Filer)",
+      "updated": "2025-11-10T16:39:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:42:06.127277+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1786117/000110465925109223/0001104659-25-109223-index.htm": {
+      "title": "8-K - Alpine Income Property Trust, Inc. (0001786117) (Filer)",
+      "updated": "2025-11-10T16:39:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:42:07.308230+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/820313/000110465925109222/0001104659-25-109222-index.htm": {
+      "title": "8-K - AMPHENOL CORP /DE/ (0000820313) (Filer)",
+      "updated": "2025-11-10T16:39:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:42:08.426247+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/842517/000084251725000210/0000842517-25-000210-index.htm": {
+      "title": "10-Q - ISABELLA BANK CORP (0000842517) (Filer)",
+      "updated": "2025-11-10T16:39:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:42:09.582644+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1822359/000162828025051102/0001628280-25-051102-index.htm": {
+      "title": "10-Q - DocGo Inc. (0001822359) (Filer)",
+      "updated": "2025-11-10T16:39:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:42:10.717974+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1036044/000119312525274412/0001193125-25-274412-index.htm": {
+      "title": "10-Q - Identiv, Inc. (0001036044) (Filer)",
+      "updated": "2025-11-10T16:38:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:42:11.902935+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1530249/000143774925034119/0001437749-25-034119-index.htm": {
+      "title": "10-Q - FS Bancorp, Inc. (0001530249) (Filer)",
+      "updated": "2025-11-10T16:38:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:42:13.033606+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1705843/000162828025051101/0001628280-25-051101-index.htm": {
+      "title": "8-K - Cibus, Inc. (0001705843) (Filer)",
+      "updated": "2025-11-10T16:37:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:42:14.155216+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/39092/000143774925034118/0001437749-25-034118-index.htm": {
+      "title": "10-Q - FRIEDMAN INDUSTRIES INC (0000039092) (Filer)",
+      "updated": "2025-11-10T16:37:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-10T21:42:15.339799+00:00"
     }
   }
 }
