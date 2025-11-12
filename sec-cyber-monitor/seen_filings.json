@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T19:54:20.388316+00:00",
+  "last_checked": "2025-11-12T20:29:15.678948+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -14833,6 +14833,62 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T19:54:19.375977+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1394108/000155479525000234/0001554795-25-000234-index.htm": {
+      "title": "10-Q - SUIC Worldwide Holdings Ltd. (0001394108) (Filer)",
+      "updated": "2025-11-12T15:26:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T20:29:07.134644+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1811999/000109690625001802/0001096906-25-001802-index.htm": {
+      "title": "8-K - FARMHOUSE, INC. /NV (0001811999) (Filer)",
+      "updated": "2025-11-12T15:23:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T20:29:08.211533+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1811999/000109690625001801/0001096906-25-001801-index.htm": {
+      "title": "8-K - FARMHOUSE, INC. /NV (0001811999) (Filer)",
+      "updated": "2025-11-12T15:22:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T20:29:09.288119+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1528985/000119312525277309/0001193125-25-277309-index.htm": {
+      "title": "8-K - Inland Real Estate Income Trust, Inc. (0001528985) (Filer)",
+      "updated": "2025-11-12T15:22:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T20:29:10.362108+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1825248/000182524825000022/0001825248-25-000022-index.htm": {
+      "title": "10-Q - Franklin BSP Capital Corp (0001825248) (Filer)",
+      "updated": "2025-11-12T15:17:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T20:29:11.438582+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/716133/000119312525277296/0001193125-25-277296-index.htm": {
+      "title": "10-Q - CINCINNATI BELL INC (0000716133) (Filer)",
+      "updated": "2025-11-12T15:16:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T20:29:12.517033+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2091679/000110465925110265/0001104659-25-110265-index.htm": {
+      "title": "8-K - Hyundai Auto Receivables Trust 2025-D (0002091679) (Filer)",
+      "updated": "2025-11-12T15:14:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T20:29:13.589780+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1260125/000110465925110265/0001104659-25-110265-index.htm": {
+      "title": "8-K - HYUNDAI ABS FUNDING LLC (0001260125) (Filer)",
+      "updated": "2025-11-12T15:14:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T20:29:14.666594+00:00"
     }
   }
 }
