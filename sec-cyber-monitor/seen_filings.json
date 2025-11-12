@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T11:55:32.910247+00:00",
+  "last_checked": "2025-11-12T12:57:47.873086+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -14161,6 +14161,97 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T11:55:31.898587+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1672013/000167201325000070/0001672013-25-000070-index.htm": {
+      "title": "8-K - Acushnet Holdings Corp. (0001672013) (Filer)",
+      "updated": "2025-11-12T07:56:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T12:57:33.741452+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1654595/000110465925109790/0001104659-25-109790-index.htm": {
+      "title": "8-K - Medalist Diversified REIT, Inc. (0001654595) (Filer)",
+      "updated": "2025-11-12T07:52:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T12:57:34.884201+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1692345/000110465925109788/0001104659-25-109788-index.htm": {
+      "title": "10-Q - PROCACCIANTI HOTEL REIT, INC. (0001692345) (Filer)",
+      "updated": "2025-11-12T07:50:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T12:57:36.052544+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/864240/000143774925034239/0001437749-25-034239-index.htm": {
+      "title": "8-K - SYPRIS SOLUTIONS INC (0000864240) (Filer)",
+      "updated": "2025-11-12T07:50:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T12:57:37.138646+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1844505/000162828025051332/0001628280-25-051332-index.htm": {
+      "title": "10-Q - QT IMAGING HOLDINGS, INC. (0001844505) (Filer)",
+      "updated": "2025-11-12T07:47:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T12:57:38.205501+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/791908/000119312525275971/0001193125-25-275971-index.htm": {
+      "title": "8-K - XOMA Royalty Corp (0000791908) (Filer)",
+      "updated": "2025-11-12T07:46:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T12:57:39.272777+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1767837/000110465925109785/0001104659-25-109785-index.htm": {
+      "title": "8-K - Richmond Mutual Bancorporation, Inc. (0001767837) (Filer)",
+      "updated": "2025-11-12T07:46:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T12:57:40.346788+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/791908/000110465925109782/0001104659-25-109782-index.htm": {
+      "title": "10-Q - XOMA Royalty Corp (0000791908) (Filer)",
+      "updated": "2025-11-12T07:46:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T12:57:41.411990+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/104889/000162828025051331/0001628280-25-051331-index.htm": {
+      "title": "8-K - Graham Holdings Co (0000104889) (Filer)",
+      "updated": "2025-11-12T07:45:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T12:57:42.481483+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1739174/000121390025108722/0001213900-25-108722-index.htm": {
+      "title": "8-K - BiomX Inc. (0001739174) (Filer)",
+      "updated": "2025-11-12T07:45:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T12:57:43.623093+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1859199/000121390025108720/0001213900-25-108720-index.htm": {
+      "title": "8-K - reAlpha Tech Corp. (0001859199) (Filer)",
+      "updated": "2025-11-12T07:45:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T12:57:44.709419+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1569345/000119312525275969/0001193125-25-275969-index.htm": {
+      "title": "8-K - Sprinklr, Inc. (0001569345) (Filer)",
+      "updated": "2025-11-12T07:45:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T12:57:45.789473+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1410098/000121390025108716/0001213900-25-108716-index.htm": {
+      "title": "8-K - CorMedix Inc. (0001410098) (Filer)",
+      "updated": "2025-11-12T07:42:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T12:57:46.861355+00:00"
     }
   }
 }
