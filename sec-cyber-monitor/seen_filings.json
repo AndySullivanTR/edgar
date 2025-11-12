@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T17:29:57.109792+00:00",
+  "last_checked": "2025-11-12T17:45:14.401255+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -14623,6 +14623,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T17:29:56.098578+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/731653/000110465925110121/0001104659-25-110121-index.htm": {
+      "title": "10-Q - UNITED BANCORP INC /OH/ (0000731653) (Filer)",
+      "updated": "2025-11-12T12:38:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T17:45:11.126951+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/788816/000078881625000017/0000788816-25-000017-index.htm": {
+      "title": "10-Q - OGLETHORPE POWER CORP (0000788816) (Filer)",
+      "updated": "2025-11-12T12:37:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T17:45:12.253042+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1708599/000170859925000130/0001708599-25-000130-index.htm": {
+      "title": "8-K - Serina Therapeutics, Inc. (0001708599) (Filer)",
+      "updated": "2025-11-12T12:36:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T17:45:13.389069+00:00"
     }
   }
 }
