@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T19:23:19.806917+00:00",
+  "last_checked": "2025-11-12T19:41:13.607097+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -14763,6 +14763,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T19:23:18.794888+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331463/000133146325000217/0001331463-25-000217-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Boston (0001331463) (Filer)",
+      "updated": "2025-11-12T14:39:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T19:41:09.323805+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/912544/000149315225021861/0001493152-25-021861-index.htm": {
+      "title": "10-Q - NovelStem International Corp. (0000912544) (Filer)",
+      "updated": "2025-11-12T14:39:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T19:41:10.458208+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1920453/000119312525277125/0001193125-25-277125-index.htm": {
+      "title": "10-Q - Fidelity Private Credit Fund (0001920453) (Filer)",
+      "updated": "2025-11-12T14:35:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T19:41:11.526517+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/67887/000162828025051518/0001628280-25-051518-index.htm": {
+      "title": "8-K - MOOG INC. (0000067887) (Filer)",
+      "updated": "2025-11-12T14:33:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T19:41:12.594068+00:00"
     }
   }
 }
