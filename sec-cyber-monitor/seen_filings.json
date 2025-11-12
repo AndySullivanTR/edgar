@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T21:41:22.577962+00:00",
+  "last_checked": "2025-11-12T21:54:09.982993+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -15085,6 +15085,104 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T21:41:21.565560+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1869105/000119312525277834/0001193125-25-277834-index.htm": {
+      "title": "10-Q - BridgeBio Oncology Therapeutics, Inc. (0001869105) (Filer)",
+      "updated": "2025-11-12T16:52:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:53:53.883405+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/888981/000107997325001690/0001079973-25-001690-index.htm": {
+      "title": "10-Q - NOCOPI TECHNOLOGIES INC/MD/ (0000888981) (Filer)",
+      "updated": "2025-11-12T16:52:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:53:55.059696+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/883569/000119312525277835/0001193125-25-277835-index.htm": {
+      "title": "8-K - Fossil Group, Inc. (0000883569) (Filer)",
+      "updated": "2025-11-12T16:52:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:53:56.157242+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1702924/000149315225021986/0001493152-25-021986-index.htm": {
+      "title": "8-K - WRAP TECHNOLOGIES, INC. (0001702924) (Filer)",
+      "updated": "2025-11-12T16:51:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:53:57.408866+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1847064/000110465925110480/0001104659-25-110480-index.htm": {
+      "title": "8-K - PSQ Holdings, Inc. (0001847064) (Filer)",
+      "updated": "2025-11-12T16:50:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:53:58.626325+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2053799/000121390025109292/0001213900-25-109292-index.htm": {
+      "title": "10-Q - Kochav Defense Acquisition Corp. (0002053799) (Filer)",
+      "updated": "2025-11-12T16:50:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:53:59.849669+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/911216/000165495425012928/0001654954-25-012928-index.htm": {
+      "title": "8-K - PALATIN TECHNOLOGIES INC (0000911216) (Filer)",
+      "updated": "2025-11-12T16:50:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:54:01.126123+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1801417/000121390025109291/0001213900-25-109291-index.htm": {
+      "title": "10-Q - byNordic Acquisition Corp (0001801417) (Filer)",
+      "updated": "2025-11-12T16:50:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:54:02.218391+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/318833/000031883325000070/0000318833-25-000070-index.htm": {
+      "title": "10-Q - TEAM INC (0000318833) (Filer)",
+      "updated": "2025-11-12T16:49:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:54:03.326707+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1534708/000149315225021985/0001493152-25-021985-index.htm": {
+      "title": "8-K - Beeline Holdings, Inc. (0001534708) (Filer)",
+      "updated": "2025-11-12T16:49:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:54:04.403569+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1872525/000121390025109289/0001213900-25-109289-index.htm": {
+      "title": "10-Q - Stran & Company, Inc. (0001872525) (Filer)",
+      "updated": "2025-11-12T16:48:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:54:05.483151+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1434728/000162828025051658/0001628280-25-051658-index.htm": {
+      "title": "10-Q - Global Water Resources, Inc. (0001434728) (Filer)",
+      "updated": "2025-11-12T16:48:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:54:06.596723+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/318833/000031883325000069/0000318833-25-000069-index.htm": {
+      "title": "8-K - TEAM INC (0000318833) (Filer)",
+      "updated": "2025-11-12T16:48:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:54:07.701888+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1361658/000136165825000327/0001361658-25-000327-index.htm": {
+      "title": "8-K - Travel & Leisure Co. (0001361658) (Filer)",
+      "updated": "2025-11-12T16:47:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:54:08.970528+00:00"
     }
   }
 }
