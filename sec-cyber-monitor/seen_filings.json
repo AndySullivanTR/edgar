@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T13:56:35.348899+00:00",
+  "last_checked": "2025-11-12T14:29:53.403228+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -14434,6 +14434,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T13:56:34.336693+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1529113/000121390025108855/0001213900-25-108855-index.htm": {
+      "title": "8-K - XTI Aerospace, Inc. (0001529113) (Filer)",
+      "updated": "2025-11-12T09:28:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T14:29:48.121263+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/876343/000119312525276249/0001193125-25-276249-index.htm": {
+      "title": "8-K - Lineage Cell Therapeutics, Inc. (0000876343) (Filer)",
+      "updated": "2025-11-12T09:25:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T14:29:49.186005+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1876042/000187604225000047/0001876042-25-000047-index.htm": {
+      "title": "10-Q - Circle Internet Group, Inc. (0001876042) (Filer)",
+      "updated": "2025-11-12T09:21:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T14:29:50.266957+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1830072/000168316825008216/0001683168-25-008216-index.htm": {
+      "title": "8-K - iPower Inc. (0001830072) (Filer)",
+      "updated": "2025-11-12T09:20:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T14:29:51.329135+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1922335/000149315225021784/0001493152-25-021784-index.htm": {
+      "title": "8-K - Syra Health Corp (0001922335) (Filer)",
+      "updated": "2025-11-12T09:18:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T14:29:52.391364+00:00"
     }
   }
 }
