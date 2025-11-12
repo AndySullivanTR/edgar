@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T16:35:37.337365+00:00",
+  "last_checked": "2025-11-12T16:59:47.498555+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -14553,6 +14553,69 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T16:35:36.325364+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1062506/000106250625000007/0001062506-25-000007-index.htm": {
+      "title": "10-Q - ATLANTICA INC (0001062506) (Filer)",
+      "updated": "2025-11-12T11:57:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T16:59:37.759287+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/732417/000073241725000051/0000732417-25-000051-index.htm": {
+      "title": "NT 10-Q - HILLS BANCORPORATION (0000732417) (Filer)",
+      "updated": "2025-11-12T11:56:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T16:59:38.821055+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2013639/000119312525276708/0001193125-25-276708-index.htm": {
+      "title": "10-Q - FB Bancorp, Inc. /MD/ (0002013639) (Filer)",
+      "updated": "2025-11-12T11:50:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T16:59:39.925190+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1506492/000114036125041591/0001140361-25-041591-index.htm": {
+      "title": "8-K - Nuwellis, Inc. (0001506492) (Filer)",
+      "updated": "2025-11-12T11:49:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T16:59:40.989710+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331754/000133175425000230/0001331754-25-000230-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer)",
+      "updated": "2025-11-12T11:48:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T16:59:42.062679+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1626878/000117184325007233/0001171843-25-007233-index.htm": {
+      "title": "10-Q - XBiotech Inc. (0001626878) (Filer)",
+      "updated": "2025-11-12T11:45:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T16:59:43.134741+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/714712/000110465925110070/0001104659-25-110070-index.htm": {
+      "title": "10-Q - JUNIATA VALLEY FINANCIAL CORP (0000714712) (Filer)",
+      "updated": "2025-11-12T11:43:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T16:59:44.210531+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1853962/000119312525276696/0001193125-25-276696-index.htm": {
+      "title": "8-K - i-80 Gold Corp. (0001853962) (Filer)",
+      "updated": "2025-11-12T11:42:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T16:59:45.422096+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2089171/000110465925110064/0001104659-25-110064-index.htm": {
+      "title": "8-K - Honda Auto Receivables 2025-4 Owner Trust (0002089171) (Filer)",
+      "updated": "2025-11-12T11:39:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T16:59:46.486589+00:00"
     }
   }
 }
