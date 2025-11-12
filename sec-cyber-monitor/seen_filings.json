@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T12:57:47.873086+00:00",
+  "last_checked": "2025-11-12T13:39:31.577915+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -14252,6 +14252,139 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T12:57:46.861355+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/30697/000119312525276128/0001193125-25-276128-index.htm": {
+      "title": "8-K - Wendy's Co (0000030697) (Filer)",
+      "updated": "2025-11-12T08:37:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:39:04.819402+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1497649/000190359625000520/0001903596-25-000520-index.htm": {
+      "title": "10-Q - Graphene & Solar Technologies Ltd (0001497649) (Filer)",
+      "updated": "2025-11-12T08:37:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:39:05.942897+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1781983/000110465925109860/0001104659-25-109860-index.htm": {
+      "title": "8-K - Aprea Therapeutics, Inc. (0001781983) (Filer)",
+      "updated": "2025-11-12T08:35:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:39:07.098730+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1811210/000162828025051357/0001628280-25-051357-index.htm": {
+      "title": "8-K - Lucid Group, Inc. (0001811210) (Filer)",
+      "updated": "2025-11-12T08:34:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:39:08.226176+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1583648/000119312525276119/0001193125-25-276119-index.htm": {
+      "title": "10-Q - PALVELLA THERAPEUTICS, INC. (0001583648) (Filer)",
+      "updated": "2025-11-12T08:33:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:39:09.327315+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1852131/000185213125000069/0001852131-25-000069-index.htm": {
+      "title": "8-K - Nextpower Inc. (0001852131) (Filer)",
+      "updated": "2025-11-12T08:32:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:39:10.444107+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/91142/000009114225000153/0000091142-25-000153-index.htm": {
+      "title": "8-K - SMITH A O CORP (0000091142) (Filer)",
+      "updated": "2025-11-12T08:32:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:39:11.708098+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1999480/000199948025000090/0001999480-25-000090-index.htm": {
+      "title": "10-Q - Alto Neuroscience, Inc. (0001999480) (Filer)",
+      "updated": "2025-11-12T08:32:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:39:12.827396+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1737523/000147793225008044/0001477932-25-008044-index.htm": {
+      "title": "8-K - BioNexus Gene Lab Corp (0001737523) (Filer)",
+      "updated": "2025-11-12T08:32:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:39:13.961793+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2000178/000119312525276115/0001193125-25-276115-index.htm": {
+      "title": "8-K - Loar Holdings Inc. (0002000178) (Filer)",
+      "updated": "2025-11-12T08:31:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:39:15.095673+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1857044/000149315225021759/0001493152-25-021759-index.htm": {
+      "title": "10-Q - Indaptus Therapeutics, Inc. (0001857044) (Filer)",
+      "updated": "2025-11-12T08:31:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": "llm_ok",
+      "first_seen": "2025-11-12T13:39:18.555494+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1940177/000121390025108788/0001213900-25-108788-index.htm": {
+      "title": "8-K - PodcastOne, Inc. (0001940177) (Filer)",
+      "updated": "2025-11-12T08:31:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:39:19.700877+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/918251/000114036125041556/0001140361-25-041556-index.htm": {
+      "title": "8-K - MOTORCAR PARTS OF AMERICA INC (0000918251) (Filer)",
+      "updated": "2025-11-12T08:31:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:39:20.812780+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1491419/000121390025108787/0001213900-25-108787-index.htm": {
+      "title": "8-K - LiveOne, Inc. (0001491419) (Filer)",
+      "updated": "2025-11-12T08:30:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:39:22.008463+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1801170/000180117025000279/0001801170-25-000279-index.htm": {
+      "title": "8-K - CLOVER HEALTH INVESTMENTS, CORP. /DE (0001801170) (Filer)",
+      "updated": "2025-11-12T08:30:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:39:23.147060+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1404804/000109690625001782/0001096906-25-001782-index.htm": {
+      "title": "NT 10-Q - Omnitek Engineering Corp (0001404804) (Filer)",
+      "updated": "2025-11-12T08:30:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:39:24.302804+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1857044/000149315225021758/0001493152-25-021758-index.htm": {
+      "title": "8-K - Indaptus Therapeutics, Inc. (0001857044) (Filer)",
+      "updated": "2025-11-12T08:30:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": "llm_ok",
+      "first_seen": "2025-11-12T13:39:28.323408+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1854149/000119312525276106/0001193125-25-276106-index.htm": {
+      "title": "8-K - Agriculture & Natural Solutions Acquisition Corp (0001854149) (Filer)",
+      "updated": "2025-11-12T08:30:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:39:29.430508+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1956744/000149315225021757/0001493152-25-021757-index.htm": {
+      "title": "8-K - Tron Inc. (0001956744) (Filer)",
+      "updated": "2025-11-12T08:30:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:39:30.566020+00:00"
     }
   }
 }
