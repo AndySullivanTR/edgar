@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T22:25:17.217579+00:00",
+  "last_checked": "2025-11-12T22:42:24.547431+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -15372,6 +15372,111 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T22:25:16.204918+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/771266/000149315225022035/0001493152-25-022035-index.htm": {
+      "title": "10-Q - KOPIN CORP (0000771266) (Filer)",
+      "updated": "2025-11-12T17:31:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:42:08.307340+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/831641/000110465925110537/0001104659-25-110537-index.htm": {
+      "title": "8-K - TETRA TECH INC (0000831641) (Filer)",
+      "updated": "2025-11-12T17:31:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:42:09.381694+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1382574/000149315225022032/0001493152-25-022032-index.htm": {
+      "title": "10-Q - Scienture Holdings, Inc. (0001382574) (Filer)",
+      "updated": "2025-11-12T17:30:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:42:10.481184+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1844392/000121390025109390/0001213900-25-109390-index.htm": {
+      "title": "10-Q - Marpai, Inc. (0001844392) (Filer)",
+      "updated": "2025-11-12T17:29:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:42:11.548416+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2079253/000121390025109388/0001213900-25-109388-index.htm": {
+      "title": "8-K - Apex Treasury Corp (0002079253) (Filer)",
+      "updated": "2025-11-12T17:29:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:42:12.628484+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2016072/000121390025109387/0001213900-25-109387-index.htm": {
+      "title": "10-Q - M3-Brigade Acquisition V Corp. (0002016072) (Filer)",
+      "updated": "2025-11-12T17:29:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:42:13.698674+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/730349/000149315225022029/0001493152-25-022029-index.htm": {
+      "title": "10-Q - TOFUTTI BRANDS INC (0000730349) (Filer)",
+      "updated": "2025-11-12T17:29:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:42:14.764181+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/353184/000035318425000131/0000353184-25-000131-index.htm": {
+      "title": "8-K - AIR T INC (0000353184) (Filer)",
+      "updated": "2025-11-12T17:28:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:42:15.891679+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2059654/000118518525001689/0001185185-25-001689-index.htm": {
+      "title": "10-Q - Blue Acquisition Corp/Cayman (0002059654) (Filer)",
+      "updated": "2025-11-12T17:28:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:42:16.961936+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2074450/000119312525278022/0001193125-25-278022-index.htm": {
+      "title": "10-Q - Apollo IG Core Replacement, L.P. (0002074450) (Filer)",
+      "updated": "2025-11-12T17:28:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:42:18.026493+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1620459/000162045925000145/0001620459-25-000145-index.htm": {
+      "title": "8-K - James River Group Holdings, Inc. (0001620459) (Filer)",
+      "updated": "2025-11-12T17:28:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:42:19.157479+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/351998/000165495425012945/0001654954-25-012945-index.htm": {
+      "title": "10-Q - DATA I/O CORP (0000351998) (Filer)",
+      "updated": "2025-11-12T17:28:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:42:20.222937+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1850391/000121465925016344/0001214659-25-016344-index.htm": {
+      "title": "10-Q - WisdomTree Bitcoin Fund (0001850391) (Filer)",
+      "updated": "2025-11-12T17:28:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:42:21.339702+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1713407/000171340725000134/0001713407-25-000134-index.htm": {
+      "title": "10-Q - BROOKFIELD REAL ESTATE INCOME TRUST INC. (0001713407) (Filer)",
+      "updated": "2025-11-12T17:28:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:42:22.467392+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/730349/000149315225022028/0001493152-25-022028-index.htm": {
+      "title": "8-K - TOFUTTI BRANDS INC (0000730349) (Filer)",
+      "updated": "2025-11-12T17:27:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:42:23.534861+00:00"
     }
   }
 }
