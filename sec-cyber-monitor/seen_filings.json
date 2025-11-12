@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T17:45:14.401255+00:00",
+  "last_checked": "2025-11-12T18:34:57.000110+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -14644,6 +14644,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T17:45:13.389069+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/29332/000002933225000073/0000029332-25-000073-index.htm": {
+      "title": "10-Q - DIXIE GROUP INC (0000029332) (Filer)",
+      "updated": "2025-11-12T13:33:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T18:34:50.073803+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1039280/000149315225021835/0001493152-25-021835-index.htm": {
+      "title": "10-Q - NETSOL TECHNOLOGIES INC (0001039280) (Filer)",
+      "updated": "2025-11-12T13:28:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T18:34:51.179853+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331754/000133175425000232/0001331754-25-000232-index.htm": {
+      "title": "10-Q - Federal Home Loan Bank of Indianapolis (0001331754) (Filer)",
+      "updated": "2025-11-12T13:28:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T18:34:52.421709+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1916608/000119312525276920/0001193125-25-276920-index.htm": {
+      "title": "10-Q - TCW Star Direct Lending LLC (0001916608) (Filer)",
+      "updated": "2025-11-12T13:25:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T18:34:53.617645+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1988280/000119312525276918/0001193125-25-276918-index.htm": {
+      "title": "10-Q - Manulife Private Credit Fund (0001988280) (Filer)",
+      "updated": "2025-11-12T13:24:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T18:34:54.808812+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1825265/000119312525276913/0001193125-25-276913-index.htm": {
+      "title": "10-Q - TCW Direct Lending VIII LLC (0001825265) (Filer)",
+      "updated": "2025-11-12T13:22:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T18:34:55.987915+00:00"
     }
   }
 }
