@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T20:29:15.678948+00:00",
+  "last_checked": "2025-11-12T20:45:44.547725+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -14889,6 +14889,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T20:29:14.666594+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/753308/000075330825000058/0000753308-25-000058-index.htm": {
+      "title": "8-K - NEXTERA ENERGY INC (0000753308) (Filer)",
+      "updated": "2025-11-12T15:42:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T20:45:38.139249+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1289340/000149315225021881/0001493152-25-021881-index.htm": {
+      "title": "10-Q - Stereotaxis, Inc. (0001289340) (Filer)",
+      "updated": "2025-11-12T15:39:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T20:45:39.216189+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1031203/000103120325000063/0001031203-25-000063-index.htm": {
+      "title": "8-K - GROUP 1 AUTOMOTIVE INC (0001031203) (Filer)",
+      "updated": "2025-11-12T15:38:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T20:45:40.294671+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2066337/000199937125017519/0001999371-25-017519-index.htm": {
+      "title": "10-Q - CNL Strategic Residential Credit, Inc. (0002066337) (Filer)",
+      "updated": "2025-11-12T15:36:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T20:45:41.372249+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1588272/000119312525277351/0001193125-25-277351-index.htm": {
+      "title": "8-K - NexPoint Capital, Inc. (0001588272) (Filer)",
+      "updated": "2025-11-12T15:34:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T20:45:42.460699+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1675644/000167564425000146/0001675644-25-000146-index.htm": {
+      "title": "10-Q - FVCBankcorp, Inc. (0001675644) (Filer)",
+      "updated": "2025-11-12T15:31:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T20:45:43.535194+00:00"
     }
   }
 }
