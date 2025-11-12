@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T10:50:39.343037+00:00",
+  "last_checked": "2025-11-12T11:23:39.542588+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -13888,6 +13888,167 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-10T22:45:18.282178+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2019505/000121390025108537/0001213900-25-108537-index.htm": {
+      "title": "8-K - Health In Tech, Inc. (0002019505) (Filer)",
+      "updated": "2025-11-12T06:22:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:14.033141+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1962481/000149315225021655/0001493152-25-021655-index.htm": {
+      "title": "10-Q - BranchOut Food Inc. (0001962481) (Filer)",
+      "updated": "2025-11-12T06:21:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:15.146078+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1721484/000121390025108533/0001213900-25-108533-index.htm": {
+      "title": "8-K - Longeveron Inc. (0001721484) (Filer)",
+      "updated": "2025-11-12T06:20:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:16.250483+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1635077/000168316825008169/0001683168-25-008169-index.htm": {
+      "title": "10-Q - Aclarion, Inc. (0001635077) (Filer)",
+      "updated": "2025-11-12T06:20:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:17.357699+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2019505/000121390025108530/0001213900-25-108530-index.htm": {
+      "title": "8-K - Health In Tech, Inc. (0002019505) (Filer)",
+      "updated": "2025-11-12T06:20:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:18.464893+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1500881/000119312525275748/0001193125-25-275748-index.htm": {
+      "title": "8-K - enCore Energy Corp. (0001500881) (Filer)",
+      "updated": "2025-11-12T06:20:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:19.571009+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1590496/000121390025108526/0001213900-25-108526-index.htm": {
+      "title": "NT 10-Q - Aerkomm Inc. (0001590496) (Filer)",
+      "updated": "2025-11-12T06:19:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:20.672603+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/889971/000165495425012801/0001654954-25-012801-index.htm": {
+      "title": "8-K - LIGHTPATH TECHNOLOGIES INC (0000889971) (Filer)",
+      "updated": "2025-11-12T06:19:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:21.776827+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2019505/000121390025108520/0001213900-25-108520-index.htm": {
+      "title": "8-K - Health In Tech, Inc. (0002019505) (Filer)",
+      "updated": "2025-11-12T06:18:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:22.889075+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/716643/000071664325000041/0000716643-25-000041-index.htm": {
+      "title": "10-Q - REGIS CORP (0000716643) (Filer)",
+      "updated": "2025-11-12T06:18:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:23.994607+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1695295/000169529525000010/0001695295-25-000010-index.htm": {
+      "title": "10-Q - HYDROFARM HOLDINGS GROUP, INC. (0001695295) (Filer)",
+      "updated": "2025-11-12T06:18:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:25.099000+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/716643/000071664325000040/0000716643-25-000040-index.htm": {
+      "title": "8-K - REGIS CORP (0000716643) (Filer)",
+      "updated": "2025-11-12T06:17:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:26.203730+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1854963/000149315225021644/0001493152-25-021644-index.htm": {
+      "title": "10-Q - SHF Holdings, Inc. (0001854963) (Filer)",
+      "updated": "2025-11-12T06:17:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:27.307541+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1980845/000119312525275722/0001193125-25-275722-index.htm": {
+      "title": "8-K - enGene Holdings Inc. (0001980845) (Filer)",
+      "updated": "2025-11-12T06:16:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:28.426398+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1055726/000119312525275721/0001193125-25-275721-index.htm": {
+      "title": "8-K - INOVIO PHARMACEUTICALS, INC. (0001055726) (Filer)",
+      "updated": "2025-11-12T06:16:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:29.539770+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2032609/000147793225008029/0001477932-25-008029-index.htm": {
+      "title": "10-Q - Scientist Home Future Health Ltd (0002032609) (Filer)",
+      "updated": "2025-11-12T06:15:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:30.645365+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1416876/000149315225021640/0001493152-25-021640-index.htm": {
+      "title": "10-Q - First Choice Healthcare Solutions, Inc. (0001416876) (Filer)",
+      "updated": "2025-11-12T06:15:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:31.749036+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2068454/000182912625008965/0001829126-25-008965-index.htm": {
+      "title": "8-K - CSLM Digital Asset Acquisition Corp III, Ltd (0002068454) (Filer)",
+      "updated": "2025-11-12T06:15:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:32.852707+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/924717/000119312525275719/0001193125-25-275719-index.htm": {
+      "title": "8-K - SURMODICS INC (0000924717) (Filer)",
+      "updated": "2025-11-12T06:15:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:34.105557+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1311673/000149315225021638/0001493152-25-021638-index.htm": {
+      "title": "8-K - Yale Transaction Finders, Inc. (0001311673) (Filer)",
+      "updated": "2025-11-12T06:14:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:35.218344+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1187953/000147793225008027/0001477932-25-008027-index.htm": {
+      "title": "8-K - CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC. (0001187953) (Filer)",
+      "updated": "2025-11-12T06:12:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:36.322823+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1529628/000152962825000130/0001529628-25-000130-index.htm": {
+      "title": "8-K - Smart Sand, Inc. (0001529628) (Filer)",
+      "updated": "2025-11-12T06:12:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:37.426940+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1529628/000152962825000129/0001529628-25-000129-index.htm": {
+      "title": "10-Q - Smart Sand, Inc. (0001529628) (Filer)",
+      "updated": "2025-11-12T06:12:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:23:38.531647+00:00"
     }
   }
 }
