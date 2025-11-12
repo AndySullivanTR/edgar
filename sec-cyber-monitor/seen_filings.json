@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T16:59:47.498555+00:00",
+  "last_checked": "2025-11-12T17:29:57.109792+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -14616,6 +14616,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T16:59:46.486589+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1518336/000149315225021817/0001493152-25-021817-index.htm": {
+      "title": "NT 10-Q - Dream Homes & Development Corp. (0001518336) (Filer)",
+      "updated": "2025-11-12T12:27:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T17:29:56.098578+00:00"
     }
   }
 }
