@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T14:50:53.158338+00:00",
+  "last_checked": "2025-11-12T15:29:43.725752+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -14483,6 +14483,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T14:50:52.146584+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1690384/000173112225001509/0001731122-25-001509-index.htm": {
+      "title": "10-Q - BioCrude Technologies USA, Inc. (0001690384) (Filer)",
+      "updated": "2025-11-12T10:18:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T15:29:41.650784+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1499275/000149927525000008/0001499275-25-000008-index.htm": {
+      "title": "8-K - GROOVY COMPANY, INC. (0001499275) (Filer)",
+      "updated": "2025-11-12T10:18:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T15:29:42.713978+00:00"
     }
   }
 }
