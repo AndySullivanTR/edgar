@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T18:34:57.000110+00:00",
+  "last_checked": "2025-11-12T18:56:44.420350+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -14686,6 +14686,76 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T18:34:55.987915+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331757/000133175725000198/0001331757-25-000198-index.htm": {
+      "title": "10-Q - Federal Home Loan Bank of Dallas (0001331757) (Filer)",
+      "updated": "2025-11-12T13:55:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T18:56:33.377937+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1838876/000168316825008237/0001683168-25-008237-index.htm": {
+      "title": "10-Q - GeoSolar Technologies, Inc. (0001838876) (Filer)",
+      "updated": "2025-11-12T13:54:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T18:56:34.496974+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1497649/000190359625000523/0001903596-25-000523-index.htm": {
+      "title": "10-Q/A - Graphene & Solar Technologies Ltd (0001497649) (Filer)",
+      "updated": "2025-11-12T13:53:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T18:56:35.606426+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1024478/000102447825000116/0001024478-25-000116-index.htm": {
+      "title": "10-K - ROCKWELL AUTOMATION, INC (0001024478) (Filer)",
+      "updated": "2025-11-12T13:53:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T18:56:36.716063+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325814/000132581425000209/0001325814-25-000209-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer)",
+      "updated": "2025-11-12T13:53:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T18:56:37.824098+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2037804/000203780425000020/0002037804-25-000020-index.htm": {
+      "title": "10-Q - New Mountain Private Credit Fund (0002037804) (Filer)",
+      "updated": "2025-11-12T13:50:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T18:56:38.933495+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1703057/000170305725000029/0001703057-25-000029-index.htm": {
+      "title": "8-K - AbCellera Biologics Inc. (0001703057) (Filer)",
+      "updated": "2025-11-12T13:47:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T18:56:40.040402+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1542447/000154244725000124/0001542447-25-000124-index.htm": {
+      "title": "8-K - RREEF Property Trust, Inc. (0001542447) (Filer)",
+      "updated": "2025-11-12T13:43:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T18:56:41.153192+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1925531/000192553125000018/0001925531-25-000018-index.htm": {
+      "title": "10-Q - New Mountain Guardian IV BDC, L.L.C. (0001925531) (Filer)",
+      "updated": "2025-11-12T13:43:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T18:56:42.298968+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1329842/000165495425012894/0001654954-25-012894-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
+      "updated": "2025-11-12T13:41:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T18:56:43.407696+00:00"
     }
   }
 }
