@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T15:49:24.869454+00:00",
+  "last_checked": "2025-11-12T16:35:37.337365+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -14532,6 +14532,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T15:49:23.857546+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/885568/000119312525276681/0001193125-25-276681-index.htm": {
+      "title": "10-Q - OLD DOMINION ELECTRIC COOPERATIVE (0000885568) (Filer)",
+      "updated": "2025-11-12T11:33:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T16:35:34.178806+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/936528/000093652825000106/0000936528-25-000106-index.htm": {
+      "title": "8-K - WAFD INC (0000936528) (Filer)",
+      "updated": "2025-11-12T11:27:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T16:35:35.255898+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2071607/000149315225021808/0001493152-25-021808-index.htm": {
+      "title": "10-Q - BM Acquisition Corp. (0002071607) (Filer)",
+      "updated": "2025-11-12T11:26:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T16:35:36.325364+00:00"
     }
   }
 }
