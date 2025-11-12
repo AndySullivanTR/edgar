@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T13:39:31.577915+00:00",
+  "last_checked": "2025-11-12T13:56:35.348899+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -14385,6 +14385,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T13:39:30.566020+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1956439/000121390025108829/0001213900-25-108829-index.htm": {
+      "title": "10-Q - AParadise Acquisition Corp. (0001956439) (Filer)",
+      "updated": "2025-11-12T08:53:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:56:27.608747+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1219601/000162828025051361/0001628280-25-051361-index.htm": {
+      "title": "8-K - CROWN HOLDINGS, INC. (0001219601) (Filer)",
+      "updated": "2025-11-12T08:48:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:56:28.741919+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1876716/000121390025108806/0001213900-25-108806-index.htm": {
+      "title": "10-Q - ASPAC II Acquisition Corp. (0001876716) (Filer)",
+      "updated": "2025-11-12T08:46:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:56:29.866489+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1744489/000174448925000149/0001744489-25-000149-index.htm": {
+      "title": "8-K - Walt Disney Co (0001744489) (Filer)",
+      "updated": "2025-11-12T08:45:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:56:30.950791+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1488039/000119312525276160/0001193125-25-276160-index.htm": {
+      "title": "10-Q - ATOSSA THERAPEUTICS, INC. (0001488039) (Filer)",
+      "updated": "2025-11-12T08:45:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:56:32.081616+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1520262/000119312525276161/0001193125-25-276161-index.htm": {
+      "title": "8-K - Alkermes plc. (0001520262) (Filer)",
+      "updated": "2025-11-12T08:45:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:56:33.213072+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1050797/000105079725000162/0001050797-25-000162-index.htm": {
+      "title": "8-K - COLUMBIA SPORTSWEAR CO (0001050797) (Filer)",
+      "updated": "2025-11-12T08:45:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T13:56:34.336693+00:00"
     }
   }
 }
