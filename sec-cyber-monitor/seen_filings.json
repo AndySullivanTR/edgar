@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T11:42:21.105826+00:00",
+  "last_checked": "2025-11-12T11:55:32.910247+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -14154,6 +14154,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T11:42:20.094975+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1706524/000121390025108604/0001213900-25-108604-index.htm": {
+      "title": "8-K - urban-gro, Inc. (0001706524) (Filer)",
+      "updated": "2025-11-12T06:42:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:55:31.898587+00:00"
     }
   }
 }
