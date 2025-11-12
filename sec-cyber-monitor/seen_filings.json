@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T20:45:44.547725+00:00",
+  "last_checked": "2025-11-12T21:24:43.244804+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -14931,6 +14931,90 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T20:45:43.535194+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1988494/000119312525277698/0001193125-25-277698-index.htm": {
+      "title": "8-K - FrontView REIT, Inc. (0001988494) (Filer)",
+      "updated": "2025-11-12T16:23:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:24:29.923773+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/14930/000095015725000934/0000950157-25-000934-index.htm": {
+      "title": "8-K - BRUNSWICK CORP (0000014930) (Filer)",
+      "updated": "2025-11-12T16:23:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:24:31.001879+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/727510/000110465925110410/0001104659-25-110410-index.htm": {
+      "title": "10-Q - ENZON PHARMACEUTICALS, INC. (0000727510) (Filer)",
+      "updated": "2025-11-12T16:22:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:24:32.078135+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1326771/000132677125000206/0001326771-25-000206-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer)",
+      "updated": "2025-11-12T16:22:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:24:33.199006+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1730463/000173046325000088/0001730463-25-000088-index.htm": {
+      "title": "10-Q - Autolus Therapeutics plc (0001730463) (Filer)",
+      "updated": "2025-11-12T16:22:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:24:34.297494+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1645666/000162828025051623/0001628280-25-051623-index.htm": {
+      "title": "10-Q - Kezar Life Sciences, Inc. (0001645666) (Filer)",
+      "updated": "2025-11-12T16:21:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:24:35.574987+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1880438/000119312525277673/0001193125-25-277673-index.htm": {
+      "title": "10-Q - AN2 Therapeutics, Inc. (0001880438) (Filer)",
+      "updated": "2025-11-12T16:21:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:24:36.672578+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1644378/000164437825000043/0001644378-25-000043-index.htm": {
+      "title": "10-K - RMR GROUP INC. (0001644378) (Filer)",
+      "updated": "2025-11-12T16:20:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:24:37.770891+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2051587/000121390025109232/0001213900-25-109232-index.htm": {
+      "title": "10-Q - BEST SPAC I Acquisition Corp. (0002051587) (Filer)",
+      "updated": "2025-11-12T16:20:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:24:38.899790+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1930147/000182912625009055/0001829126-25-009055-index.htm": {
+      "title": "8-K - Sound Point Meridian Capital, Inc. (0001930147) (Filer)",
+      "updated": "2025-11-12T16:20:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:24:39.977498+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1529864/000119312525277671/0001193125-25-277671-index.htm": {
+      "title": "8-K - Enova International, Inc. (0001529864) (Filer)",
+      "updated": "2025-11-12T16:20:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:24:41.059440+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1806952/000162828025051619/0001628280-25-051619-index.htm": {
+      "title": "10-Q - Lyell Immunopharma, Inc. (0001806952) (Filer)",
+      "updated": "2025-11-12T16:20:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:24:42.232488+00:00"
     }
   }
 }
