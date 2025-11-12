@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T14:29:53.403228+00:00",
+  "last_checked": "2025-11-12T14:50:53.158338+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -14469,6 +14469,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T14:29:52.391364+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1960262/000121390025108860/0001213900-25-108860-index.htm": {
+      "title": "10-Q - LUDWIG ENTERPRISES, INC. (0001960262) (Filer)",
+      "updated": "2025-11-12T09:43:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T14:50:51.012382+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1084991/000108499125000149/0001084991-25-000149-index.htm": {
+      "title": "8-K - NATURAL GAS SERVICES GROUP INC (0001084991) (Filer)",
+      "updated": "2025-11-12T09:41:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T14:50:52.146584+00:00"
     }
   }
 }
