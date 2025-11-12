@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T11:23:39.542588+00:00",
+  "last_checked": "2025-11-12T11:42:21.105826+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -14049,6 +14049,111 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T11:23:38.531647+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/914208/000091420825000427/0000914208-25-000427-index.htm": {
+      "title": "8-K - Invesco Ltd. (0000914208) (Filer)",
+      "updated": "2025-11-12T06:41:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:42:05.096850+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1828161/000119312525275811/0001193125-25-275811-index.htm": {
+      "title": "8-K - FTC Solar, Inc. (0001828161) (Filer)",
+      "updated": "2025-11-12T06:40:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:42:06.159877+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1766140/000121390025108600/0001213900-25-108600-index.htm": {
+      "title": "10-Q - Unicycive Therapeutics, Inc. (0001766140) (Filer)",
+      "updated": "2025-11-12T06:39:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:42:07.233183+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1517302/000151730225000088/0001517302-25-000088-index.htm": {
+      "title": "8-K - Artisan Partners Asset Management Inc. (0001517302) (Filer)",
+      "updated": "2025-11-12T06:38:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:42:08.296396+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1844392/000121390025108593/0001213900-25-108593-index.htm": {
+      "title": "8-K - Marpai, Inc. (0001844392) (Filer)",
+      "updated": "2025-11-12T06:36:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:42:09.368927+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/890394/000121390025108587/0001213900-25-108587-index.htm": {
+      "title": "10-Q - Peraso Inc. (0000890394) (Filer)",
+      "updated": "2025-11-12T06:35:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:42:10.436343+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1342958/000149315225021680/0001493152-25-021680-index.htm": {
+      "title": "10-Q - DIGITAL ALLY, INC. (0001342958) (Filer)",
+      "updated": "2025-11-12T06:32:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:42:11.510343+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/798528/000119312525275786/0001193125-25-275786-index.htm": {
+      "title": "10-Q - ODYSSEY MARINE EXPLORATION INC (0000798528) (Filer)",
+      "updated": "2025-11-12T06:31:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:42:12.614095+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1538495/000149315225021677/0001493152-25-021677-index.htm": {
+      "title": "10-Q - Earth Science Tech, Inc. (0001538495) (Filer)",
+      "updated": "2025-11-12T06:30:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:42:13.681960+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1326160/000110465925109638/0001104659-25-109638-index.htm": {
+      "title": "8-K - Duke Energy CORP (0001326160) (Filer)",
+      "updated": "2025-11-12T06:30:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:42:14.747577+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/30371/000110465925109638/0001104659-25-109638-index.htm": {
+      "title": "8-K - Duke Energy Carolinas, LLC (0000030371) (Filer)",
+      "updated": "2025-11-12T06:30:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:42:15.827072+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1262823/000119312525275790/0001193125-25-275790-index.htm": {
+      "title": "8-K - WESTLAKE CORP (0001262823) (Filer)",
+      "updated": "2025-11-12T06:30:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:42:16.892927+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/736012/000168316825008171/0001683168-25-008171-index.htm": {
+      "title": "10-Q - INTRUSION INC (0000736012) (Filer)",
+      "updated": "2025-11-12T06:30:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:42:17.963587+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1856236/000119312525275768/0001193125-25-275768-index.htm": {
+      "title": "8-K - European Wax Center, Inc. (0001856236) (Filer)",
+      "updated": "2025-11-12T06:30:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:42:19.026212+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1876042/000187604225000045/0001876042-25-000045-index.htm": {
+      "title": "8-K - Circle Internet Group, Inc. (0001876042) (Filer)",
+      "updated": "2025-11-12T06:26:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T11:42:20.094975+00:00"
     }
   }
 }
