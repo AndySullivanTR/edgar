@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T21:54:09.982993+00:00",
+  "last_checked": "2025-11-12T22:25:17.217579+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -15183,6 +15183,195 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T21:54:08.970528+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2064947/000119312525278011/0001193125-25-278011-index.htm": {
+      "title": "8-K - WaterBridge Infrastructure LLC (0002064947) (Filer)",
+      "updated": "2025-11-12T17:24:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:24:44.860633+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1638833/000163883325000166/0001638833-25-000166-index.htm": {
+      "title": "8-K - Surgery Partners, Inc. (0001638833) (Filer)",
+      "updated": "2025-11-12T17:24:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:24:46.018119+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/783324/000078332425000058/0000783324-25-000058-index.htm": {
+      "title": "8-K - VISTA GOLD CORP (0000783324) (Filer)",
+      "updated": "2025-11-12T17:24:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:24:47.196112+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2064947/000119312525278007/0001193125-25-278007-index.htm": {
+      "title": "10-Q - WaterBridge Infrastructure LLC (0002064947) (Filer)",
+      "updated": "2025-11-12T17:23:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:24:48.285098+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2071778/000121390025109371/0001213900-25-109371-index.htm": {
+      "title": "10-Q - Fermi Inc. (0002071778) (Filer)",
+      "updated": "2025-11-12T17:23:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:24:49.386212+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2052152/000119312525278006/0001193125-25-278006-index.htm": {
+      "title": "10-Q - Apollo Origination II (Levered) Capital Trust (0002052152) (Filer)",
+      "updated": "2025-11-12T17:23:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:24:50.497820+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1624326/000149315225022017/0001493152-25-022017-index.htm": {
+      "title": "10-Q - PAVmed Inc. (0001624326) (Filer)",
+      "updated": "2025-11-12T17:23:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:24:51.588076+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1649739/000164973925000250/0001649739-25-000250-index.htm": {
+      "title": "10-Q - BayFirst Financial Corp. (0001649739) (Filer)",
+      "updated": "2025-11-12T17:22:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:24:52.675019+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1672013/000167201325000074/0001672013-25-000074-index.htm": {
+      "title": "8-K - Acushnet Holdings Corp. (0001672013) (Filer)",
+      "updated": "2025-11-12T17:22:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:24:53.760724+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1304492/000130449225000109/0001304492-25-000109-index.htm": {
+      "title": "10-Q - Anterix Inc. (0001304492) (Filer)",
+      "updated": "2025-11-12T17:21:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:24:54.928422+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/926660/000162828025051706/0001628280-25-051706-index.htm": {
+      "title": "10-Q - Apartment Income REIT, L.P. (0000926660) (Filer)",
+      "updated": "2025-11-12T17:21:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:24:56.013881+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1883814/000110465925110523/0001104659-25-110523-index.htm": {
+      "title": "10-Q - Southland Holdings, Inc. (0001883814) (Filer)",
+      "updated": "2025-11-12T17:21:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:24:57.176072+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1844392/000121390025109369/0001213900-25-109369-index.htm": {
+      "title": "8-K - Marpai, Inc. (0001844392) (Filer)",
+      "updated": "2025-11-12T17:21:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:24:58.266382+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1464521/000146452125000019/0001464521-25-000019-index.htm": {
+      "title": "10-Q - Heartflow, Inc. (0001464521) (Filer)",
+      "updated": "2025-11-12T17:20:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:24:59.384718+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2020385/000121390025109367/0001213900-25-109367-index.htm": {
+      "title": "10-Q - Tavia Acquisition Corp. (0002020385) (Filer)",
+      "updated": "2025-11-12T17:20:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:25:00.579728+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1840502/000114036125041711/0001140361-25-041711-index.htm": {
+      "title": "8-K - Taboola.com Ltd. (0001840502) (Filer)",
+      "updated": "2025-11-12T17:20:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:25:01.674478+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2040491/000204049125000015/0002040491-25-000015-index.htm": {
+      "title": "10-Q - Ategrity Specialty Insurance Co Holdings (0002040491) (Filer)",
+      "updated": "2025-11-12T17:20:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:25:02.896724+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1304492/000130449225000108/0001304492-25-000108-index.htm": {
+      "title": "8-K - Anterix Inc. (0001304492) (Filer)",
+      "updated": "2025-11-12T17:20:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": "llm_ok",
+      "first_seen": "2025-11-12T22:25:06.350652+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1282224/000107997325001694/0001079973-25-001694-index.htm": {
+      "title": "10-Q - Dolphin Entertainment, Inc. (0001282224) (Filer)",
+      "updated": "2025-11-12T17:20:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:25:07.459299+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/879911/000121390025109366/0001213900-25-109366-index.htm": {
+      "title": "10-Q - APPLIED ENERGETICS, INC. (0000879911) (Filer)",
+      "updated": "2025-11-12T17:20:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:25:08.548008+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1810806/000119312525277998/0001193125-25-277998-index.htm": {
+      "title": "8-K - Unity Software Inc. (0001810806) (Filer)",
+      "updated": "2025-11-12T17:19:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:25:09.645228+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1053369/000149315225022013/0001493152-25-022013-index.htm": {
+      "title": "8-K/A - ELITE PHARMACEUTICALS INC /NV/ (0001053369) (Filer)",
+      "updated": "2025-11-12T17:19:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:25:10.720325+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1841514/000119312525277996/0001193125-25-277996-index.htm": {
+      "title": "10-Q - Commonwealth Credit Partners BDC I, Inc. (0001841514) (Filer)",
+      "updated": "2025-11-12T17:19:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:25:11.809075+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1981535/000149315225022012/0001493152-25-022012-index.htm": {
+      "title": "8-K - SharpLink Gaming, Inc. (0001981535) (Filer)",
+      "updated": "2025-11-12T17:19:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:25:12.886274+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1547546/000110465925110520/0001104659-25-110520-index.htm": {
+      "title": "8-K - Lument Finance Trust, Inc. (0001547546) (Filer)",
+      "updated": "2025-11-12T17:19:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:25:13.978359+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1412408/000141240825000114/0001412408-25-000114-index.htm": {
+      "title": "8-K - Phreesia, Inc. (0001412408) (Filer)",
+      "updated": "2025-11-12T17:18:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:25:15.056046+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1995807/000119312525277992/0001193125-25-277992-index.htm": {
+      "title": "10-Q - LandBridge Co LLC (0001995807) (Filer)",
+      "updated": "2025-11-12T17:18:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T22:25:16.204918+00:00"
     }
   }
 }
