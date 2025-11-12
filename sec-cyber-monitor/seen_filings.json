@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T21:24:43.244804+00:00",
+  "last_checked": "2025-11-12T21:41:22.577962+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -15015,6 +15015,76 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T21:24:42.232488+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2024203/000149315225021969/0001493152-25-021969-index.htm": {
+      "title": "10-Q - Cayson Acquisition Corp (0002024203) (Filer)",
+      "updated": "2025-11-12T16:40:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:41:11.706170+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/897077/000089707725000119/0000897077-25-000119-index.htm": {
+      "title": "8-K - ALAMO GROUP INC (0000897077) (Filer)",
+      "updated": "2025-11-12T16:40:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:41:12.772620+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/34956/000119312525277793/0001193125-25-277793-index.htm": {
+      "title": "10-Q - TENAX THERAPEUTICS, INC. (0000034956) (Filer)",
+      "updated": "2025-11-12T16:40:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:41:13.893735+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1136893/000119312525277795/0001193125-25-277795-index.htm": {
+      "title": "8-K - Fidelity National Information Services, Inc. (0001136893) (Filer)",
+      "updated": "2025-11-12T16:39:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:41:14.960620+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1030192/000165495425012922/0001654954-25-012922-index.htm": {
+      "title": "10-Q - Idaho Strategic Resources, Inc. (0001030192) (Filer)",
+      "updated": "2025-11-12T16:39:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:41:16.072296+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1707919/000114036125041657/0001140361-25-041657-index.htm": {
+      "title": "10-Q - Cenntro Inc. (0001707919) (Filer)",
+      "updated": "2025-11-12T16:39:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:41:17.191656+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2012839/000162828025051646/0001628280-25-051646-index.htm": {
+      "title": "10-Q - KKR Enhanced US Direct Lending Fund-L Inc. (0002012839) (Filer)",
+      "updated": "2025-11-12T16:38:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:41:18.323220+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1936224/000119312525277789/0001193125-25-277789-index.htm": {
+      "title": "8-K - SURF AIR MOBILITY INC. (0001936224) (Filer)",
+      "updated": "2025-11-12T16:38:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:41:19.390098+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1825384/000119312525277785/0001193125-25-277785-index.htm": {
+      "title": "10-Q - Stone Point Credit Corp (0001825384) (Filer)",
+      "updated": "2025-11-12T16:38:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:41:20.499225+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/34956/000165495425012921/0001654954-25-012921-index.htm": {
+      "title": "8-K - TENAX THERAPEUTICS, INC. (0000034956) (Filer)",
+      "updated": "2025-11-12T16:38:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T21:41:21.565560+00:00"
     }
   }
 }
