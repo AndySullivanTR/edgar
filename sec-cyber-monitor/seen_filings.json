@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T19:41:13.607097+00:00",
+  "last_checked": "2025-11-12T19:54:20.388316+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -14791,6 +14791,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T19:41:12.594068+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1899996/000119312525277220/0001193125-25-277220-index.htm": {
+      "title": "10-Q - Fidelity Private Credit Co LLC (0001899996) (Filer)",
+      "updated": "2025-11-12T14:52:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T19:54:13.824140+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/936528/000093652825000113/0000936528-25-000113-index.htm": {
+      "title": "8-K - WAFD INC (0000936528) (Filer)",
+      "updated": "2025-11-12T14:47:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T19:54:14.938892+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1583771/000149315225021864/0001493152-25-021864-index.htm": {
+      "title": "10-Q - Hepion Pharmaceuticals, Inc. (0001583771) (Filer)",
+      "updated": "2025-11-12T14:44:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T19:54:16.051455+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1959961/000119312525277150/0001193125-25-277150-index.htm": {
+      "title": "10-Q - IPC Alternative Real Estate Income Trust, Inc. (0001959961) (Filer)",
+      "updated": "2025-11-12T14:44:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T19:54:17.175076+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1787414/000143774925034382/0001437749-25-034382-index.htm": {
+      "title": "10-Q - Bogota Financial Corp. (0001787414) (Filer)",
+      "updated": "2025-11-12T14:43:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T19:54:18.279830+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1846084/000119312525277145/0001193125-25-277145-index.htm": {
+      "title": "8-K - Global Crossing Airlines Group Inc. (0001846084) (Filer)",
+      "updated": "2025-11-12T14:42:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T19:54:19.375977+00:00"
     }
   }
 }
