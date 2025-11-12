@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-12T15:29:43.725752+00:00",
+  "last_checked": "2025-11-12T15:49:24.869454+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -14497,6 +14497,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T15:29:42.713978+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1920453/000119312525276561/0001193125-25-276561-index.htm": {
+      "title": "8-K - Fidelity Private Credit Fund (0001920453) (Filer)",
+      "updated": "2025-11-12T10:44:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T15:49:19.557210+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1899996/000119312525276558/0001193125-25-276558-index.htm": {
+      "title": "8-K - Fidelity Private Credit Co LLC (0001899996) (Filer)",
+      "updated": "2025-11-12T10:44:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T15:49:20.634093+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1780859/000188852425019582/0001888524-25-019582-index.htm": {
+      "title": "8-K - BANK 2019-BNK19 (0001780859) (Filer)",
+      "updated": "2025-11-12T10:44:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T15:49:21.705699+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1763925/000175392625001741/0001753926-25-001741-index.htm": {
+      "title": "10-Q - CoJax Oil & Gas Corp (0001763925) (Filer)",
+      "updated": "2025-11-12T10:40:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T15:49:22.778106+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1700844/000149315225021801/0001493152-25-021801-index.htm": {
+      "title": "10-K - EvoAir Holdings Inc. (0001700844) (Filer)",
+      "updated": "2025-11-12T10:36:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-12T15:49:23.857546+00:00"
     }
   }
 }
