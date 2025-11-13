@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T20:29:11.865815+00:00",
+  "last_checked": "2025-11-13T20:47:11.394151+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -16856,6 +16856,76 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T20:29:10.852224+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1894954/000190359625000530/0001903596-25-000530-index.htm": {
+      "title": "8-K - Expion360 Inc. (0001894954) (Filer)",
+      "updated": "2025-11-13T15:45:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T20:47:00.674906+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1912582/000121390025109942/0001213900-25-109942-index.htm": {
+      "title": "10-Q - Thunder Power Holdings, Inc. (0001912582) (Filer)",
+      "updated": "2025-11-13T15:45:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T20:47:01.740374+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1518336/000149315225022261/0001493152-25-022261-index.htm": {
+      "title": "10-Q - Dream Homes & Development Corp. (0001518336) (Filer)",
+      "updated": "2025-11-13T15:43:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T20:47:02.807428+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1876255/000119312525280042/0001193125-25-280042-index.htm": {
+      "title": "10-Q - AB Commercial Real Estate Private Debt Fund, LLC (0001876255) (Filer)",
+      "updated": "2025-11-13T15:40:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T20:47:03.901613+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1141688/000149315225022251/0001493152-25-022251-index.htm": {
+      "title": "10-Q - LANDMARK BANCORP INC (0001141688) (Filer)",
+      "updated": "2025-11-13T15:37:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T20:47:04.970414+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1870267/000119312525280026/0001193125-25-280026-index.htm": {
+      "title": "10-Q - Redwood Enhanced Income Corp. (0001870267) (Filer)",
+      "updated": "2025-11-13T15:36:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T20:47:06.035158+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2075239/000121390025109936/0001213900-25-109936-index.htm": {
+      "title": "10-Q - Var Acquisition Corp. (0002075239) (Filer)",
+      "updated": "2025-11-13T15:34:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T20:47:07.133107+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2066067/000121390025109935/0001213900-25-109935-index.htm": {
+      "title": "10-Q - Orielle Acquisition Corp. (0002066067) (Filer)",
+      "updated": "2025-11-13T15:33:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T20:47:08.237613+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2075109/000121390025109934/0001213900-25-109934-index.htm": {
+      "title": "10-Q - Los Altos Ventures Corp. (0002075109) (Filer)",
+      "updated": "2025-11-13T15:33:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T20:47:09.307197+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/78003/000007800325000159/0000078003-25-000159-index.htm": {
+      "title": "8-K - PFIZER INC (0000078003) (Filer)",
+      "updated": "2025-11-13T15:33:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T20:47:10.380333+00:00"
     }
   }
 }
