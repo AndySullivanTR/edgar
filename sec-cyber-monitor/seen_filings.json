@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T18:36:56.069155+00:00",
+  "last_checked": "2025-11-13T18:57:44.386858+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -16632,6 +16632,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T18:36:55.054998+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1310383/000110465925111159/0001104659-25-111159-index.htm": {
+      "title": "10-Q - Summit Healthcare REIT, Inc (0001310383) (Filer)",
+      "updated": "2025-11-13T13:54:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T18:57:42.271196+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1976927/000197692725000059/0001976927-25-000059-index.htm": {
+      "title": "8-K - Invesco Commercial Real Estate Finance Trust, Inc. (0001976927) (Filer)",
+      "updated": "2025-11-13T13:40:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T18:57:43.374024+00:00"
     }
   }
 }
