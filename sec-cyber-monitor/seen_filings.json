@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T13:57:19.286996+00:00",
+  "last_checked": "2025-11-13T14:27:45.265043+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -16282,6 +16282,132 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T13:57:18.272955+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1507957/000143774925034655/0001437749-25-034655-index.htm": {
+      "title": "10-Q - Ideal Power Inc. (0001507957) (Filer)",
+      "updated": "2025-11-13T09:26:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:27:26.051715+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1299969/000162828025051880/0001628280-25-051880-index.htm": {
+      "title": "10-Q - Comstock Holding Companies, Inc. (0001299969) (Filer)",
+      "updated": "2025-11-13T09:25:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:27:27.117059+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1507957/000143774925034653/0001437749-25-034653-index.htm": {
+      "title": "8-K - Ideal Power Inc. (0001507957) (Filer)",
+      "updated": "2025-11-13T09:25:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:27:28.184596+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1956741/000121390025109635/0001213900-25-109635-index.htm": {
+      "title": "8-K - CleanCore Solutions, Inc. (0001956741) (Filer)",
+      "updated": "2025-11-13T09:24:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:27:29.246996+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/931015/000119312525279172/0001193125-25-279172-index.htm": {
+      "title": "8-K - Polaris Inc. (0000931015) (Filer)",
+      "updated": "2025-11-13T09:23:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:27:30.314335+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1299969/000162828025051879/0001628280-25-051879-index.htm": {
+      "title": "8-K - Comstock Holding Companies, Inc. (0001299969) (Filer)",
+      "updated": "2025-11-13T09:22:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:27:31.382741+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1042776/000119312525279166/0001193125-25-279166-index.htm": {
+      "title": "8-K - Piedmont Realty Trust, Inc. (0001042776) (Filer)",
+      "updated": "2025-11-13T09:21:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:27:32.447005+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2011134/000201113425000020/0002011134-25-000020-index.htm": {
+      "title": "10-Q - Kioni Holdings Ltd (0002011134) (Filer)",
+      "updated": "2025-11-13T09:20:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:27:33.511858+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1637207/000163720725000079/0001637207-25-000079-index.htm": {
+      "title": "8-K - Planet Fitness, Inc. (0001637207) (Filer)",
+      "updated": "2025-11-13T09:19:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:27:34.616253+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1712184/000171218425000183/0001712184-25-000183-index.htm": {
+      "title": "8-K - Liberty Latin America Ltd. (0001712184) (Filer)",
+      "updated": "2025-11-13T09:18:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:27:35.694184+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1805526/000121390025109627/0001213900-25-109627-index.htm": {
+      "title": "8-K - DeFi Development Corp. (0001805526) (Filer)",
+      "updated": "2025-11-13T09:16:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:27:36.759830+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1185198/000118519825000016/0001185198-25-000016-index.htm": {
+      "title": "10-Q - AEI INCOME & GROWTH FUND 25 LLC (0001185198) (Filer)",
+      "updated": "2025-11-13T09:15:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:27:37.844653+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1279620/000121390025109626/0001213900-25-109626-index.htm": {
+      "title": "10-Q - Zoned Properties, Inc. (0001279620) (Filer)",
+      "updated": "2025-11-13T09:14:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:27:38.907901+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1023458/000102345825000025/0001023458-25-000025-index.htm": {
+      "title": "10-Q - AEI INCOME & GROWTH FUND XXII LTD PARTNERSHIP (0001023458) (Filer)",
+      "updated": "2025-11-13T09:11:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:27:39.976695+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/886136/000110465925110952/0001104659-25-110952-index.htm": {
+      "title": "8-K - SAGA COMMUNICATIONS INC (0000886136) (Filer)",
+      "updated": "2025-11-13T09:10:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:27:41.051654+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/931755/000093175525000020/0000931755-25-000020-index.htm": {
+      "title": "10-Q - AEI INCOME & GROWTH FUND XXI LTD PARTNERSHIP (0000931755) (Filer)",
+      "updated": "2025-11-13T09:08:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:27:42.123882+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/727273/000143774925034647/0001437749-25-034647-index.htm": {
+      "title": "10-Q - CADIZ INC (0000727273) (Filer)",
+      "updated": "2025-11-13T09:06:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:27:43.187123+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/895447/000119312525279150/0001193125-25-279150-index.htm": {
+      "title": "8-K - SHOE CARNIVAL INC (0000895447) (Filer)",
+      "updated": "2025-11-13T09:05:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:27:44.251270+00:00"
     }
   }
 }
