@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T17:29:37.474714+00:00",
+  "last_checked": "2025-11-13T17:47:28.687637+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -16569,6 +16569,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T17:29:36.460980+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1975218/000110465925111099/0001104659-25-111099-index.htm": {
+      "title": "10-Q - Nabors Energy Transition Corp. II (0001975218) (Filer)",
+      "updated": "2025-11-13T12:43:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T17:47:25.537655+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/744825/000143774925034719/0001437749-25-034719-index.htm": {
+      "title": "8-K - AMERICAN SHARED HOSPITAL SERVICES (0000744825) (Filer)",
+      "updated": "2025-11-13T12:42:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T17:47:26.603399+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1391933/000092708925000207/0000927089-25-000207-index.htm": {
+      "title": "10-Q - QUAINT OAK BANCORP, INC. (0001391933) (Filer)",
+      "updated": "2025-11-13T12:40:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T17:47:27.674181+00:00"
     }
   }
 }
