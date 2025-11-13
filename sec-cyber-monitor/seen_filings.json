@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T21:24:04.648966+00:00",
+  "last_checked": "2025-11-13T21:43:00.585224+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -17066,6 +17066,104 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T21:24:03.635024+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1757715/000143774925034878/0001437749-25-034878-index.htm": {
+      "title": "8-K/A - Aterian, Inc. (0001757715) (Filer)",
+      "updated": "2025-11-13T16:42:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:42:44.649256+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1843656/000147793225008191/0001477932-25-008191-index.htm": {
+      "title": "10-Q - Royalty Management Holding Corp (0001843656) (Filer)",
+      "updated": "2025-11-13T16:41:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:42:45.806935+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1947244/000149315225022369/0001493152-25-022369-index.htm": {
+      "title": "10-Q - U.S. GoldMining Inc. (0001947244) (Filer)",
+      "updated": "2025-11-13T16:40:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:42:46.950683+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1847367/000184736725000050/0001847367-25-000050-index.htm": {
+      "title": "10-Q - ALUMIS INC. (0001847367) (Filer)",
+      "updated": "2025-11-13T16:40:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:42:48.111316+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1757715/000143774925034871/0001437749-25-034871-index.htm": {
+      "title": "10-Q - Aterian, Inc. (0001757715) (Filer)",
+      "updated": "2025-11-13T16:39:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:42:49.235674+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/748268/000074826825000010/0000748268-25-000010-index.htm": {
+      "title": "10-Q - Red Cat Holdings, Inc. (0000748268) (Filer)",
+      "updated": "2025-11-13T16:38:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:42:50.364009+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1714562/000149315225022366/0001493152-25-022366-index.htm": {
+      "title": "8-K - GameSquare Holdings, Inc. (0001714562) (Filer)",
+      "updated": "2025-11-13T16:38:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:42:51.506405+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1854270/000162828025052083/0001628280-25-052083-index.htm": {
+      "title": "8-K - Senti Biosciences, Inc. (0001854270) (Filer)",
+      "updated": "2025-11-13T16:38:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:42:52.604743+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2073153/000110465925111398/0001104659-25-111398-index.htm": {
+      "title": "10-Q - Hoyne Bancorp, Inc. (0002073153) (Filer)",
+      "updated": "2025-11-13T16:38:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:42:53.755663+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/888471/000088847125000010/0000888471-25-000010-index.htm": {
+      "title": "10-Q - NESTOR PARTNERS (0000888471) (Filer)",
+      "updated": "2025-11-13T16:37:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:42:54.928632+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/895419/000119312525280307/0001193125-25-280307-index.htm": {
+      "title": "8-K - WOLFSPEED, INC. (0000895419) (Filer)",
+      "updated": "2025-11-13T16:37:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:42:56.023501+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1803498/000180349825000081/0001803498-25-000081-index.htm": {
+      "title": "10-Q - Blackstone Private Credit Fund (0001803498) (Filer)",
+      "updated": "2025-11-13T16:37:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:42:57.153391+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1853138/000185313825000018/0001853138-25-000018-index.htm": {
+      "title": "10-Q - Kodiak AI, Inc. (0001853138) (Filer)",
+      "updated": "2025-11-13T16:36:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:42:58.397606+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1378325/000137832525000040/0001378325-25-000040-index.htm": {
+      "title": "10-Q - CapsoVision, Inc (0001378325) (Filer)",
+      "updated": "2025-11-13T16:36:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:42:59.566189+00:00"
     }
   }
 }
