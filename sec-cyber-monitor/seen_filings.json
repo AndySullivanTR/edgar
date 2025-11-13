@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T19:53:46.161959+00:00",
+  "last_checked": "2025-11-13T20:29:11.865815+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -16814,6 +16814,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T19:53:45.148992+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1542447/000154244725000126/0001542447-25-000126-index.htm": {
+      "title": "10-Q - RREEF Property Trust, Inc. (0001542447) (Filer)",
+      "updated": "2025-11-13T15:27:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T20:29:05.419820+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1089815/000143774925034794/0001437749-25-034794-index.htm": {
+      "title": "10-Q - Elite Health Systems Inc. (0001089815) (Filer)",
+      "updated": "2025-11-13T15:24:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T20:29:06.510825+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1133470/000110465925111229/0001104659-25-111229-index.htm": {
+      "title": "8-K - CALAVO GROWERS INC (0001133470) (Filer)",
+      "updated": "2025-11-13T15:23:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T20:29:07.583214+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/880641/000119312525279991/0001193125-25-279991-index.htm": {
+      "title": "10-Q - EAGLE FINANCIAL SERVICES INC (0000880641) (Filer)",
+      "updated": "2025-11-13T15:20:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T20:29:08.654376+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1907730/000182912625009119/0001829126-25-009119-index.htm": {
+      "title": "NT 10-Q - Yotta Acquisition Corp (0001907730) (Filer)",
+      "updated": "2025-11-13T15:15:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T20:29:09.780046+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1907223/000121390025109920/0001213900-25-109920-index.htm": {
+      "title": "10-Q - Klotho Neurosciences, Inc. (0001907223) (Filer)",
+      "updated": "2025-11-13T15:14:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T20:29:10.852224+00:00"
     }
   }
 }
