@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T14:44:49.063976+00:00",
+  "last_checked": "2025-11-13T15:29:55.808187+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -16457,6 +16457,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T14:44:48.050382+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/276720/000110465925111010/0001104659-25-111010-index.htm": {
+      "title": "8-K - PURE CYCLE CORP (0000276720) (Filer)",
+      "updated": "2025-11-13T10:19:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T15:29:53.658186+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1494891/000175392625001772/0001753926-25-001772-index.htm": {
+      "title": "8-K - Sensus Healthcare, Inc. (0001494891) (Filer)",
+      "updated": "2025-11-13T10:06:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T15:29:54.794926+00:00"
     }
   }
 }
