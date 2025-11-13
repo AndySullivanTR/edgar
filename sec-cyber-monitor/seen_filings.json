@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T10:50:18.316033+00:00",
+  "last_checked": "2025-11-13T11:24:02.383776+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -15477,6 +15477,146 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-12T22:42:23.534861+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1713210/000149315225022092/0001493152-25-022092-index.htm": {
+      "title": "10-Q - Agape ATP Corp (0001713210) (Filer)",
+      "updated": "2025-11-13T06:21:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:23:39.924552+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/764630/000149315225022091/0001493152-25-022091-index.htm": {
+      "title": "10-Q - SHOREPOWER TECHNOLOGIES INC. (0000764630) (Filer)",
+      "updated": "2025-11-13T06:19:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:23:41.026837+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1759546/000149315225022090/0001493152-25-022090-index.htm": {
+      "title": "10-Q - NU RIDE INC. (0001759546) (Filer)",
+      "updated": "2025-11-13T06:19:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:23:42.122166+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1442836/000110465925110764/0001104659-25-110764-index.htm": {
+      "title": "8-K - Mersana Therapeutics, Inc. (0001442836) (Filer)",
+      "updated": "2025-11-13T06:17:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:23:43.195398+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1597846/000149315225022086/0001493152-25-022086-index.htm": {
+      "title": "10-Q - Greenpro Capital Corp. (0001597846) (Filer)",
+      "updated": "2025-11-13T06:16:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:23:44.274632+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1866838/000121390025109524/0001213900-25-109524-index.htm": {
+      "title": "8-K - Inception Growth Acquisition Ltd (0001866838) (Filer)",
+      "updated": "2025-11-13T06:15:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:23:45.469752+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1752372/000149315225022083/0001493152-25-022083-index.htm": {
+      "title": "10-Q - Ezagoo Ltd (0001752372) (Filer)",
+      "updated": "2025-11-13T06:14:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:23:46.611705+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1846235/000121390025109522/0001213900-25-109522-index.htm": {
+      "title": "10-Q - International Media Acquisition Corp. (0001846235) (Filer)",
+      "updated": "2025-11-13T06:13:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:23:47.815304+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1605481/000149315225022079/0001493152-25-022079-index.htm": {
+      "title": "10-Q - Nevada Canyon Gold Corp. (0001605481) (Filer)",
+      "updated": "2025-11-13T06:11:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:23:48.891568+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1096752/000162828025051816/0001628280-25-051816-index.htm": {
+      "title": "8-K - EDGEWELL PERSONAL CARE Co (0001096752) (Filer)",
+      "updated": "2025-11-13T06:08:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:23:49.993593+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1533998/000110465925110730/0001104659-25-110730-index.htm": {
+      "title": "10-Q - DarioHealth Corp. (0001533998) (Filer)",
+      "updated": "2025-11-13T06:05:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:23:51.066815+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1622229/000119312525278679/0001193125-25-278679-index.htm": {
+      "title": "8-K - Cogent Biosciences, Inc. (0001622229) (Filer)",
+      "updated": "2025-11-13T06:05:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:23:52.159448+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1708599/000170859925000135/0001708599-25-000135-index.htm": {
+      "title": "8-K - Serina Therapeutics, Inc. (0001708599) (Filer)",
+      "updated": "2025-11-13T06:05:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:23:53.233064+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1708599/000170859925000133/0001708599-25-000133-index.htm": {
+      "title": "10-Q - Serina Therapeutics, Inc. (0001708599) (Filer)",
+      "updated": "2025-11-13T06:03:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:23:54.306093+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1096752/000162828025051814/0001628280-25-051814-index.htm": {
+      "title": "8-K - EDGEWELL PERSONAL CARE Co (0001096752) (Filer)",
+      "updated": "2025-11-13T06:03:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:23:55.386362+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000215/0001818874-25-000215-index.htm": {
+      "title": "8-K - SoFi Technologies, Inc. (0001818874) (Filer)",
+      "updated": "2025-11-13T06:03:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:23:56.702991+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1930313/000119312525278669/0001193125-25-278669-index.htm": {
+      "title": "8-K - SBC Medical Group Holdings Inc (0001930313) (Filer)",
+      "updated": "2025-11-13T06:02:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:23:57.906114+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1498148/000106299325016697/0001062993-25-016697-index.htm": {
+      "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+      "updated": "2025-11-13T06:02:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:23:58.983257+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/912463/000119312525278667/0001193125-25-278667-index.htm": {
+      "title": "8-K - GUESS INC (0000912463) (Filer)",
+      "updated": "2025-11-13T06:02:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:24:00.310663+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/102109/000110465925110715/0001104659-25-110715-index.htm": {
+      "title": "NT 10-Q - UNIVERSAL SAFETY PRODUCTS, INC. (0000102109) (Filer)",
+      "updated": "2025-11-13T06:01:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:24:01.370951+00:00"
     }
   }
 }
