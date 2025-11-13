@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T13:38:22.798045+00:00",
+  "last_checked": "2025-11-13T13:57:19.286996+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -16219,6 +16219,69 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T13:38:21.784496+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1979330/000110465925110932/0001104659-25-110932-index.htm": {
+      "title": "8-K - NB Bancorp, Inc. (0001979330) (Filer)",
+      "updated": "2025-11-13T08:54:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T13:57:09.728230+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1702924/000114036125041816/0001140361-25-041816-index.htm": {
+      "title": "10-Q - WRAP TECHNOLOGIES, INC. (0001702924) (Filer)",
+      "updated": "2025-11-13T08:51:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T13:57:10.816088+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1210708/000121070825000126/0001210708-25-000126-index.htm": {
+      "title": "8-K - Star Equity Holdings, Inc. (0001210708) (Filer)",
+      "updated": "2025-11-13T08:50:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T13:57:11.881544+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1137789/000119312525279125/0001193125-25-279125-index.htm": {
+      "title": "8-K - Seagate Technology Holdings plc (0001137789) (Filer)",
+      "updated": "2025-11-13T08:48:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T13:57:12.945527+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1534525/000168316825008288/0001683168-25-008288-index.htm": {
+      "title": "8-K - Xenetic Biosciences, Inc. (0001534525) (Filer)",
+      "updated": "2025-11-13T08:45:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T13:57:14.006547+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1533615/000110465925110921/0001104659-25-110921-index.htm": {
+      "title": "8-K - Global Medical REIT Inc. (0001533615) (Filer)",
+      "updated": "2025-11-13T08:45:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T13:57:15.070925+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1342423/000110465925110919/0001104659-25-110919-index.htm": {
+      "title": "8-K - Limoneira CO (0001342423) (Filer)",
+      "updated": "2025-11-13T08:45:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T13:57:16.149144+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331754/000133175425000234/0001331754-25-000234-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer)",
+      "updated": "2025-11-13T08:43:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T13:57:17.211427+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1840748/000110465925110913/0001104659-25-110913-index.htm": {
+      "title": "8-K - LAVA Therapeutics NV (0001840748) (Filer)",
+      "updated": "2025-11-13T08:40:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T13:57:18.272955+00:00"
     }
   }
 }
