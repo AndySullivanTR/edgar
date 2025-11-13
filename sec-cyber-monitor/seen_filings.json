@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T19:39:52.447789+00:00",
+  "last_checked": "2025-11-13T19:53:46.161959+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -16751,6 +16751,69 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T19:39:51.433825+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1992870/000114036125041932/0001140361-25-041932-index.htm": {
+      "title": "10-Q - Franklin Templeton Digital Holdings Trust (0001992870) (Filer)",
+      "updated": "2025-11-13T14:50:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:53:36.376050+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1916099/000119312525279909/0001193125-25-279909-index.htm": {
+      "title": "10-Q - Diameter Credit Co (0001916099) (Filer)",
+      "updated": "2025-11-13T14:50:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:53:37.463944+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1085277/000166357725000309/0001663577-25-000309-index.htm": {
+      "title": "10-Q - SKINVISIBLE, INC. (0001085277) (Filer)",
+      "updated": "2025-11-13T14:48:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:53:38.566722+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1449794/000144979425000035/0001449794-25-000035-index.htm": {
+      "title": "10-Q - Embassy Bancorp, Inc. (0001449794) (Filer)",
+      "updated": "2025-11-13T14:46:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:53:39.657555+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1946997/000194699725000158/0001946997-25-000158-index.htm": {
+      "title": "10-Q - EQT Exeter Real Estate Income Trust, Inc. (0001946997) (Filer)",
+      "updated": "2025-11-13T14:46:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:53:40.773972+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1914496/000191449625000134/0001914496-25-000134-index.htm": {
+      "title": "10-Q - Sculptor Diversified Real Estate Income Trust, Inc. (0001914496) (Filer)",
+      "updated": "2025-11-13T14:44:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:53:41.862926+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1858258/000114036125041929/0001140361-25-041929-index.htm": {
+      "title": "10-Q - Franklin Templeton Holdings Trust (0001858258) (Filer)",
+      "updated": "2025-11-13T14:44:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:53:42.956764+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1444839/000109181825000152/0001091818-25-000152-index.htm": {
+      "title": "NT 10-Q - Bravo Multinational Inc. (0001444839) (Filer)",
+      "updated": "2025-11-13T14:42:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:53:44.064145+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1329606/000149315225022231/0001493152-25-022231-index.htm": {
+      "title": "NT 10-Q - Clean Energy Technologies, Inc. (0001329606) (Filer)",
+      "updated": "2025-11-13T14:42:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:53:45.148992+00:00"
     }
   }
 }
