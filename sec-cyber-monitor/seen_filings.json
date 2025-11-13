@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T20:47:11.394151+00:00",
+  "last_checked": "2025-11-13T21:24:04.648966+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -16926,6 +16926,146 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T20:47:10.380333+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1818383/000181838325000129/0001818383-25-000129-index.htm": {
+      "title": "8-K - MediaAlpha, Inc. (0001818383) (Filer)",
+      "updated": "2025-11-13T16:23:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:23:42.866617+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/915840/000091584025000074/0000915840-25-000074-index.htm": {
+      "title": "8-K - BEAZER HOMES USA INC (0000915840) (Filer)",
+      "updated": "2025-11-13T16:23:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:23:43.937001+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1407583/000149315225022326/0001493152-25-022326-index.htm": {
+      "title": "10-Q - Bunker Hill Mining Corp. (0001407583) (Filer)",
+      "updated": "2025-11-13T16:22:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:23:45.006525+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/915840/000091584025000073/0000915840-25-000073-index.htm": {
+      "title": "8-K - BEAZER HOMES USA INC (0000915840) (Filer)",
+      "updated": "2025-11-13T16:22:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:23:46.091532+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1600222/000095014225002961/0000950142-25-002961-index.htm": {
+      "title": "8-K - Phoenix Education Partners, Inc. (0001600222) (Filer)",
+      "updated": "2025-11-13T16:21:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:23:47.159429+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1574094/000149315225022325/0001493152-25-022325-index.htm": {
+      "title": "8-K - RenovoRx, Inc. (0001574094) (Filer)",
+      "updated": "2025-11-13T16:21:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:23:48.255003+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1001907/000143774925034849/0001437749-25-034849-index.htm": {
+      "title": "8-K - ASTROTECH Corp (0001001907) (Filer)",
+      "updated": "2025-11-13T16:21:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:23:49.353109+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/799165/000110465925111340/0001104659-25-111340-index.htm": {
+      "title": "10-Q - DAWSON GEOPHYSICAL CO (0000799165) (Filer)",
+      "updated": "2025-11-13T16:21:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:23:50.431628+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2076427/000121390025110013/0001213900-25-110013-index.htm": {
+      "title": "10-Q - Galata Acquisition Corp. II (0002076427) (Filer)",
+      "updated": "2025-11-13T16:20:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:23:51.506655+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1796280/000119312525280234/0001193125-25-280234-index.htm": {
+      "title": "10-Q - Oric Pharmaceuticals, Inc. (0001796280) (Filer)",
+      "updated": "2025-11-13T16:20:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:23:52.587395+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1774857/000119312525280235/0001193125-25-280235-index.htm": {
+      "title": "8-K - Aardvark Therapeutics, Inc. (0001774857) (Filer)",
+      "updated": "2025-11-13T16:20:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:23:53.696014+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1529864/000119312525280232/0001193125-25-280232-index.htm": {
+      "title": "8-K - Enova International, Inc. (0001529864) (Filer)",
+      "updated": "2025-11-13T16:20:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:23:54.764435+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1224133/000119312525280233/0001193125-25-280233-index.htm": {
+      "title": "8-K - MARCHEX INC (0001224133) (Filer)",
+      "updated": "2025-11-13T16:20:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:23:55.883496+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1356090/000135609025000034/0001356090-25-000034-index.htm": {
+      "title": "10-Q - PRECIGEN, INC. (0001356090) (Filer)",
+      "updated": "2025-11-13T16:20:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:23:57.010944+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1533040/000143774925034848/0001437749-25-034848-index.htm": {
+      "title": "8-K - Phio Pharmaceuticals Corp. (0001533040) (Filer)",
+      "updated": "2025-11-13T16:20:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:23:58.081214+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1566826/000121390025110012/0001213900-25-110012-index.htm": {
+      "title": "8-K - LogicMark, Inc. (0001566826) (Filer)",
+      "updated": "2025-11-13T16:20:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:23:59.156827+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1849221/000149315225022322/0001493152-25-022322-index.htm": {
+      "title": "10-Q - Perfect Moment Ltd. (0001849221) (Filer)",
+      "updated": "2025-11-13T16:20:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:24:00.256253+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1585101/000162828025052059/0001628280-25-052059-index.htm": {
+      "title": "8-K - HINES GLOBAL INCOME TRUST, INC. (0001585101) (Filer)",
+      "updated": "2025-11-13T16:20:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:24:01.331533+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1815903/000110465925111338/0001104659-25-111338-index.htm": {
+      "title": "10-Q - Petros Pharmaceuticals, Inc. (0001815903) (Filer)",
+      "updated": "2025-11-13T16:19:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:24:02.420735+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1742927/000143774925034846/0001437749-25-034846-index.htm": {
+      "title": "8-K - REVIVA PHARMACEUTICALS HOLDINGS, INC. (0001742927) (Filer)",
+      "updated": "2025-11-13T16:19:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:24:03.635024+00:00"
     }
   }
 }
