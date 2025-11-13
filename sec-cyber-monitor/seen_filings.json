@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T17:47:28.687637+00:00",
+  "last_checked": "2025-11-13T18:36:56.069155+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -16590,6 +16590,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T17:47:27.674181+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/84246/000008424625000020/0000084246-25-000020-index.htm": {
+      "title": "8-K - RLI CORP (0000084246) (Filer)",
+      "updated": "2025-11-13T13:36:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T18:36:49.607378+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1946563/000155485525002032/0001554855-25-002032-index.htm": {
+      "title": "10-Q - 60 DEGREES PHARMACEUTICALS, INC. (0001946563) (Filer)",
+      "updated": "2025-11-13T13:31:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T18:36:50.684274+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1944831/000194483125000037/0001944831-25-000037-index.htm": {
+      "title": "8-K - Willow Tree Capital Corp (0001944831) (Filer)",
+      "updated": "2025-11-13T13:29:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T18:36:51.795515+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1395585/000143774925034742/0001437749-25-034742-index.htm": {
+      "title": "10-Q - First Trinity Financial CORP (0001395585) (Filer)",
+      "updated": "2025-11-13T13:24:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T18:36:52.875140+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2078416/000110465925111133/0001104659-25-111133-index.htm": {
+      "title": "10-Q - Liberty Live Holdings, Inc. (0002078416) (Filer)",
+      "updated": "2025-11-13T13:24:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T18:36:53.945841+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331757/000133175725000200/0001331757-25-000200-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer)",
+      "updated": "2025-11-13T13:20:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T18:36:55.054998+00:00"
     }
   }
 }
