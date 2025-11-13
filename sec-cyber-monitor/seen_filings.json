@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T22:26:59.111827+00:00",
+  "last_checked": "2025-11-13T22:44:05.409293+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -17318,6 +17318,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T22:26:58.097641+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1974395/000197439525000010/0001974395-25-000010-index.htm": {
+      "title": "10-Q - Figure Certificate Co (0001974395) (Filer)",
+      "updated": "2025-11-13T17:31:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T22:44:04.395013+00:00"
     }
   }
 }
