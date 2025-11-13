@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T14:27:45.265043+00:00",
+  "last_checked": "2025-11-13T14:44:49.063976+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -16408,6 +16408,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T14:27:44.251270+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1293234/000106823825000217/0001068238-25-000217-index.htm": {
+      "title": "8-K - Select Notes Trust LT 2004-1 (0001293234) (Filer)",
+      "updated": "2025-11-13T09:43:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:44:41.300151+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1572386/000149315225022146/0001493152-25-022146-index.htm": {
+      "title": "10-Q - GREENWAY TECHNOLOGIES, INC. & SUBSIDIARIES (0001572386) (Filer)",
+      "updated": "2025-11-13T09:38:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:44:42.445472+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1976663/000147793225008147/0001477932-25-008147-index.htm": {
+      "title": "10-Q - Nexscient, Inc. (0001976663) (Filer)",
+      "updated": "2025-11-13T09:33:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:44:43.568387+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1330399/000119312525279183/0001193125-25-279183-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer)",
+      "updated": "2025-11-13T09:31:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:44:44.677737+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1386301/000110465925110966/0001104659-25-110966-index.htm": {
+      "title": "8-K - Research Solutions, Inc. (0001386301) (Filer)",
+      "updated": "2025-11-13T09:30:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:44:45.832777+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1625101/000143774925034658/0001437749-25-034658-index.htm": {
+      "title": "8-K - PULSE BIOSCIENCES, INC. (0001625101) (Filer)",
+      "updated": "2025-11-13T09:28:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:44:46.938503+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1956741/000121390025109642/0001213900-25-109642-index.htm": {
+      "title": "10-Q - CleanCore Solutions, Inc. (0001956741) (Filer)",
+      "updated": "2025-11-13T09:28:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T14:44:48.050382+00:00"
     }
   }
 }
