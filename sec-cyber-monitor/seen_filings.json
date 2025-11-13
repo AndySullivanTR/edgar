@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T16:32:45.612065+00:00",
+  "last_checked": "2025-11-13T16:58:40.808203+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -16513,6 +16513,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T16:32:44.598499+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/881787/000119312525279502/0001193125-25-279502-index.htm": {
+      "title": "10-Q - CROSS TIMBERS ROYALTY TRUST (0000881787) (Filer)",
+      "updated": "2025-11-13T11:57:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T16:58:36.587718+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1589150/000149315225022185/0001493152-25-022185-index.htm": {
+      "title": "8-K - Regen BioPharma Inc (0001589150) (Filer)",
+      "updated": "2025-11-13T11:57:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T16:58:37.658582+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1646188/000121390025109771/0001213900-25-109771-index.htm": {
+      "title": "8-K/A - Ondas Holdings Inc. (0001646188) (Filer)",
+      "updated": "2025-11-13T11:54:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T16:58:38.725086+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1085913/000114036125041853/0001140361-25-041853-index.htm": {
+      "title": "8-K - FARMERS & MERCHANTS BANCORP (0001085913) (Filer)",
+      "updated": "2025-11-13T11:52:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T16:58:39.794494+00:00"
     }
   }
 }
