@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T21:43:00.585224+00:00",
+  "last_checked": "2025-11-13T21:55:53.867930+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -17164,6 +17164,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T21:42:59.566189+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/915840/000091584025000075/0000915840-25-000075-index.htm": {
+      "title": "10-K - BEAZER HOMES USA INC (0000915840) (Filer)",
+      "updated": "2025-11-13T16:54:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:55:41.891877+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1831868/000143774925034884/0001437749-25-034884-index.htm": {
+      "title": "10-Q - SeaStar Medical Holding Corp (0001831868) (Filer)",
+      "updated": "2025-11-13T16:53:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:55:43.009086+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2040807/000119312525280387/0001193125-25-280387-index.htm": {
+      "title": "8-K - Metsera, Inc. (0002040807) (Filer)",
+      "updated": "2025-11-13T16:53:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:55:44.102787+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2001557/000162828025052110/0001628280-25-052110-index.htm": {
+      "title": "8-K - Innventure, Inc. (0002001557) (Filer)",
+      "updated": "2025-11-13T16:52:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:55:45.191812+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1776909/000162828025052108/0001628280-25-052108-index.htm": {
+      "title": "10-Q - CuriosityStream Inc. (0001776909) (Filer)",
+      "updated": "2025-11-13T16:52:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:55:46.276304+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/709283/000070928325000083/0000709283-25-000083-index.htm": {
+      "title": "8-K - QUANTUM CORP /DE/ (0000709283) (Filer)",
+      "updated": "2025-11-13T16:51:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:55:47.380574+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/866439/000168316825008335/0001683168-25-008335-index.htm": {
+      "title": "10-Q - DarkPulse, Inc. (0000866439) (Filer)",
+      "updated": "2025-11-13T16:51:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:55:48.464356+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1060822/000119312525280375/0001193125-25-280375-index.htm": {
+      "title": "8-K - CARTERS INC (0001060822) (Filer)",
+      "updated": "2025-11-13T16:51:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:55:49.556107+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1535778/000153577825000145/0001535778-25-000145-index.htm": {
+      "title": "8-K - MSC INCOME FUND, INC. (0001535778) (Filer)",
+      "updated": "2025-11-13T16:51:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:55:50.634942+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1282648/000110465925111422/0001104659-25-111422-index.htm": {
+      "title": "10-Q - BATTALION OIL CORP (0001282648) (Filer)",
+      "updated": "2025-11-13T16:50:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:55:51.733785+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1130166/000149315225022378/0001493152-25-022378-index.htm": {
+      "title": "8-K - Bio Green Med Solution, Inc. (0001130166) (Filer)",
+      "updated": "2025-11-13T16:50:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T21:55:52.852398+00:00"
     }
   }
 }
