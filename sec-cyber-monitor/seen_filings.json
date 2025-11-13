@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T11:42:23.501442+00:00",
+  "last_checked": "2025-11-13T11:55:19.557034+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -15652,6 +15652,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T11:42:22.488419+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1919246/000175392625001766/0001753926-25-001766-index.htm": {
+      "title": "8-K - Pelthos Therapeutics Inc. (0001919246) (Filer)",
+      "updated": "2025-11-13T06:50:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:55:12.973642+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1919246/000175392625001764/0001753926-25-001764-index.htm": {
+      "title": "10-Q - Pelthos Therapeutics Inc. (0001919246) (Filer)",
+      "updated": "2025-11-13T06:46:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:55:14.100771+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1845337/000110465925110812/0001104659-25-110812-index.htm": {
+      "title": "8-K - Day One Biopharmaceuticals, Inc. (0001845337) (Filer)",
+      "updated": "2025-11-13T06:46:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:55:15.238875+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1368458/000119312525278770/0001193125-25-278770-index.htm": {
+      "title": "8-K - Sally Beauty Holdings, Inc. (0001368458) (Filer)",
+      "updated": "2025-11-13T06:45:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:55:16.359255+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1744489/000174448925000155/0001744489-25-000155-index.htm": {
+      "title": "10-K - Walt Disney Co (0001744489) (Filer)",
+      "updated": "2025-11-13T06:44:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:55:17.458538+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1744489/000174448925000154/0001744489-25-000154-index.htm": {
+      "title": "8-K - Walt Disney Co (0001744489) (Filer)",
+      "updated": "2025-11-13T06:42:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:55:18.543203+00:00"
     }
   }
 }
