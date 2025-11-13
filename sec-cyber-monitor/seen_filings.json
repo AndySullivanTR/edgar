@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T16:58:40.808203+00:00",
+  "last_checked": "2025-11-13T17:29:37.474714+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -16541,6 +16541,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T16:58:39.794494+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2008748/000093041325003431/0000930413-25-003431-index.htm": {
+      "title": "10-Q - Lord Abbett Private Credit Fund (0002008748) (Filer)",
+      "updated": "2025-11-13T12:28:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T17:29:33.121413+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/351789/000155485525002030/0001554855-25-002030-index.htm": {
+      "title": "10-Q - ELECTRO SENSORS INC (0000351789) (Filer)",
+      "updated": "2025-11-13T12:22:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T17:29:34.300633+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1042187/000149315225022194/0001493152-25-022194-index.htm": {
+      "title": "10-Q - YUNHONG GREEN CTI LTD. (0001042187) (Filer)",
+      "updated": "2025-11-13T12:21:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T17:29:35.382945+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1558740/000147793225008161/0001477932-25-008161-index.htm": {
+      "title": "10-Q - Winvest Group Ltd (0001558740) (Filer)",
+      "updated": "2025-11-13T12:19:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T17:29:36.460980+00:00"
     }
   }
 }
