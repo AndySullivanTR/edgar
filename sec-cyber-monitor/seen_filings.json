@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T18:57:44.386858+00:00",
+  "last_checked": "2025-11-13T19:22:51.654754+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -16646,6 +16646,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T18:57:43.374024+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2091562/000153949725002913/0001539497-25-002913-index.htm": {
+      "title": "8-K - Morgan Stanley Bank of America Merrill Lynch Trust 2025-5C2 (0002091562) (Filer)",
+      "updated": "2025-11-13T14:19:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:22:44.242027+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1634452/000119312525279831/0001193125-25-279831-index.htm": {
+      "title": "8-K - AB Private Credit Investors Corp (0001634452) (Filer)",
+      "updated": "2025-11-13T14:19:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:22:45.308483+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1976719/000197671925000019/0001976719-25-000019-index.htm": {
+      "title": "10-Q - New Mountain Guardian IV Income Fund, L.L.C. (0001976719) (Filer)",
+      "updated": "2025-11-13T14:19:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:22:46.374453+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/862651/000149315225022223/0001493152-25-022223-index.htm": {
+      "title": "10-Q - Investview, Inc. (0000862651) (Filer)",
+      "updated": "2025-11-13T14:17:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:22:47.440156+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/319654/000119312525279804/0001193125-25-279804-index.htm": {
+      "title": "10-Q - PERMIAN BASIN ROYALTY TRUST (0000319654) (Filer)",
+      "updated": "2025-11-13T14:07:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:22:48.505688+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1556801/000164033425002067/0001640334-25-002067-index.htm": {
+      "title": "10-K - My City Builders, Inc. (0001556801) (Filer)",
+      "updated": "2025-11-13T14:05:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:22:49.572529+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325878/000132587825000240/0001325878-25-000240-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer)",
+      "updated": "2025-11-13T14:04:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:22:50.641263+00:00"
     }
   }
 }
