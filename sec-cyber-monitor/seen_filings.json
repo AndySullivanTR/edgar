@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T21:55:53.867930+00:00",
+  "last_checked": "2025-11-13T22:26:59.111827+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -17241,6 +17241,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T21:55:52.852398+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1663038/000147793225008200/0001477932-25-008200-index.htm": {
+      "title": "10-K - Quantumzyme Corp. (0001663038) (Filer)",
+      "updated": "2025-11-13T17:26:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T22:26:46.466366+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1595527/000110465925111497/0001104659-25-111497-index.htm": {
+      "title": "8-K - American Strategic Investment Co. (0001595527) (Filer)",
+      "updated": "2025-11-13T17:25:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T22:26:47.607686+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1462223/000168316825008338/0001683168-25-008338-index.htm": {
+      "title": "10-Q - Nixxy, Inc. (0001462223) (Filer)",
+      "updated": "2025-11-13T17:25:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T22:26:48.773313+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1145765/000114576525000008/0001145765-25-000008-index.htm": {
+      "title": "10-Q - GLOBAL MACRO TRUST (0001145765) (Filer)",
+      "updated": "2025-11-13T17:25:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T22:26:49.919750+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1836875/000183687525000172/0001836875-25-000172-index.htm": {
+      "title": "10-Q - Nuvve Holding Corp. (0001836875) (Filer)",
+      "updated": "2025-11-13T17:25:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T22:26:51.046323+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1840102/000152013825000354/0001520138-25-000354-index.htm": {
+      "title": "10-Q - SPECIFICITY, INC. (0001840102) (Filer)",
+      "updated": "2025-11-13T17:25:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T22:26:52.192430+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/861441/000199937125017699/0001999371-25-017699-index.htm": {
+      "title": "10-Q - LOCORR FUTURES PORTFOLIO FUND L.P. (0000861441) (Filer)",
+      "updated": "2025-11-13T17:24:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T22:26:53.332513+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/883569/000119312525280531/0001193125-25-280531-index.htm": {
+      "title": "8-K - Fossil Group, Inc. (0000883569) (Filer)",
+      "updated": "2025-11-13T17:23:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T22:26:54.487850+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2033770/000121390025110130/0001213900-25-110130-index.htm": {
+      "title": "10-Q - CID Holdco, Inc. (0002033770) (Filer)",
+      "updated": "2025-11-13T17:22:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T22:26:55.821698+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/96869/000119312525280527/0001193125-25-280527-index.htm": {
+      "title": "8-K - TEJON RANCH CO (0000096869) (Filer)",
+      "updated": "2025-11-13T17:21:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T22:26:56.961691+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1834032/000121390025110128/0001213900-25-110128-index.htm": {
+      "title": "10-Q - Constellation Acquisition Corp I (0001834032) (Filer)",
+      "updated": "2025-11-13T17:21:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T22:26:58.097641+00:00"
     }
   }
 }
