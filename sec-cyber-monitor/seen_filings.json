@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T11:55:19.557034+00:00",
+  "last_checked": "2025-11-13T12:56:38.002025+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -15694,6 +15694,286 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T11:55:18.543203+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/64040/000006404025000175/0000064040-25-000175-index.htm": {
+      "title": "8-K - S&P Global Inc. (0000064040) (Filer)",
+      "updated": "2025-11-13T07:55:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:55:55.295862+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1005210/000119312525279017/0001193125-25-279017-index.htm": {
+      "title": "8-K - SUBURBAN PROPANE PARTNERS LP (0001005210) (Filer)",
+      "updated": "2025-11-13T07:54:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:55:56.356531+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1298946/000129894625000089/0001298946-25-000089-index.htm": {
+      "title": "8-K - DiamondRock Hospitality Co (0001298946) (Filer)",
+      "updated": "2025-11-13T07:52:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:55:57.431164+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1850119/000110465925110862/0001104659-25-110862-index.htm": {
+      "title": "8-K - Century Therapeutics, Inc. (0001850119) (Filer)",
+      "updated": "2025-11-13T07:52:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:55:58.510658+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1822791/000143774925034613/0001437749-25-034613-index.htm": {
+      "title": "10-Q - Clene Inc. (0001822791) (Filer)",
+      "updated": "2025-11-13T07:51:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:55:59.577467+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/746210/000143774925034612/0001437749-25-034612-index.htm": {
+      "title": "10-Q - Oblong, Inc. (0000746210) (Filer)",
+      "updated": "2025-11-13T07:48:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:00.641608+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/749647/000149315225022118/0001493152-25-022118-index.htm": {
+      "title": "8-K - Imunon, Inc. (0000749647) (Filer)",
+      "updated": "2025-11-13T07:48:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:01.708038+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1374328/000143774925034610/0001437749-25-034610-index.htm": {
+      "title": "8-K - FITLIFE BRANDS, INC. (0001374328) (Filer)",
+      "updated": "2025-11-13T07:45:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:02.771078+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1840233/000119312525278837/0001193125-25-278837-index.htm": {
+      "title": "10-Q - Xilio Therapeutics, Inc. (0001840233) (Filer)",
+      "updated": "2025-11-13T07:40:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:03.832574+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1400118/000110465925110852/0001104659-25-110852-index.htm": {
+      "title": "8-K - Sagimet Biosciences Inc. (0001400118) (Filer)",
+      "updated": "2025-11-13T07:36:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:04.912423+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1101215/000110121525000183/0001101215-25-000183-index.htm": {
+      "title": "8-K - BREAD FINANCIAL HOLDINGS, INC. (0001101215) (Filer)",
+      "updated": "2025-11-13T07:35:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:05.977224+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1850119/000110465925110851/0001104659-25-110851-index.htm": {
+      "title": "10-Q - Century Therapeutics, Inc. (0001850119) (Filer)",
+      "updated": "2025-11-13T07:35:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:07.039187+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1472091/000114036125041805/0001140361-25-041805-index.htm": {
+      "title": "8-K - PDS Biotechnology Corp (0001472091) (Filer)",
+      "updated": "2025-11-13T07:35:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:08.101749+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1840233/000119312525278835/0001193125-25-278835-index.htm": {
+      "title": "8-K - Xilio Therapeutics, Inc. (0001840233) (Filer)",
+      "updated": "2025-11-13T07:35:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:09.170892+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2012706/000162828025051846/0001628280-25-051846-index.htm": {
+      "title": "8-K - Sunrise Realty Trust, Inc. (0002012706) (Filer)",
+      "updated": "2025-11-13T07:35:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:10.236752+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2022308/000147793225008134/0001477932-25-008134-index.htm": {
+      "title": "8-K - Classover Holdings, Inc. (0002022308) (Filer)",
+      "updated": "2025-11-13T07:31:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:11.304401+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1447028/000117184325007256/0001171843-25-007256-index.htm": {
+      "title": "8-K - Arbutus Biopharma Corp (0001447028) (Filer)",
+      "updated": "2025-11-13T07:31:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:12.374841+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1444192/000114036125041804/0001140361-25-041804-index.htm": {
+      "title": "10-Q - Grace Therapeutics, Inc. (0001444192) (Filer)",
+      "updated": "2025-11-13T07:31:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:13.452012+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1096275/000149315225022113/0001493152-25-022113-index.htm": {
+      "title": "10-Q - Worksport Ltd (0001096275) (Filer)",
+      "updated": "2025-11-13T07:31:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:14.515798+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1904286/000149315225022112/0001493152-25-022112-index.htm": {
+      "title": "10-Q - MIRA PHARMACEUTICALS, INC. (0001904286) (Filer)",
+      "updated": "2025-11-13T07:31:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:15.598087+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1447028/000144702825000126/0001447028-25-000126-index.htm": {
+      "title": "10-Q - Arbutus Biopharma Corp (0001447028) (Filer)",
+      "updated": "2025-11-13T07:31:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:16.662692+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1279704/000110465925110848/0001104659-25-110848-index.htm": {
+      "title": "8-K - Cellectar Biosciences, Inc. (0001279704) (Filer)",
+      "updated": "2025-11-13T07:30:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:17.726784+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2012706/000162828025051845/0001628280-25-051845-index.htm": {
+      "title": "10-Q - Sunrise Realty Trust, Inc. (0002012706) (Filer)",
+      "updated": "2025-11-13T07:30:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:18.793843+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1400118/000110465925110846/0001104659-25-110846-index.htm": {
+      "title": "10-Q - Sagimet Biosciences Inc. (0001400118) (Filer)",
+      "updated": "2025-11-13T07:30:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:19.856596+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/64463/000149315225022111/0001493152-25-022111-index.htm": {
+      "title": "8-K - Soluna Holdings, Inc (0000064463) (Filer)",
+      "updated": "2025-11-13T07:30:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:20.920745+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1374328/000143774925034607/0001437749-25-034607-index.htm": {
+      "title": "10-Q - FITLIFE BRANDS, INC. (0001374328) (Filer)",
+      "updated": "2025-11-13T07:30:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:21.983177+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1096275/000149315225022110/0001493152-25-022110-index.htm": {
+      "title": "8-K - Worksport Ltd (0001096275) (Filer)",
+      "updated": "2025-11-13T07:30:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:23.044201+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1130598/000110465925110845/0001104659-25-110845-index.htm": {
+      "title": "10-Q - Traws Pharma, Inc. (0001130598) (Filer)",
+      "updated": "2025-11-13T07:30:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:24.117368+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/101829/000010182925000044/0000101829-25-000044-index.htm": {
+      "title": "8-K - RTX Corp (0000101829) (Filer)",
+      "updated": "2025-11-13T07:29:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:25.178219+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1280776/000119380525001570/0001193805-25-001570-index.htm": {
+      "title": "8-K - IMMUNIC, INC. (0001280776) (Filer)",
+      "updated": "2025-11-13T07:26:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:26.240951+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1847903/000119312525278827/0001193125-25-278827-index.htm": {
+      "title": "8-K - Centessa Pharmaceuticals plc (0001847903) (Filer)",
+      "updated": "2025-11-13T07:24:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:27.318638+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1860742/000095010325014656/0000950103-25-014656-index.htm": {
+      "title": "8-K - Bausch & Lomb Corp (0001860742) (Filer)",
+      "updated": "2025-11-13T07:24:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:28.412644+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1496443/000168316825008281/0001683168-25-008281-index.htm": {
+      "title": "10-Q - Paysign, Inc. (0001496443) (Filer)",
+      "updated": "2025-11-13T07:17:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:29.491466+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1280776/000128077625000017/0001280776-25-000017-index.htm": {
+      "title": "10-Q - IMMUNIC, INC. (0001280776) (Filer)",
+      "updated": "2025-11-13T07:17:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:30.564165+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1409269/000143774925034606/0001437749-25-034606-index.htm": {
+      "title": "10-Q - Venus Concept Inc. (0001409269) (Filer)",
+      "updated": "2025-11-13T07:16:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:31.627297+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1697532/000119312525278818/0001193125-25-278818-index.htm": {
+      "title": "10-Q - Applied Therapeutics, Inc. (0001697532) (Filer)",
+      "updated": "2025-11-13T07:15:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:32.688499+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1317685/000131768525000020/0001317685-25-000020-index.htm": {
+      "title": "8-K - Alliance Laundry Holdings Inc. (0001317685) (Filer)",
+      "updated": "2025-11-13T07:15:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:33.751679+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1563577/000119312525278816/0001193125-25-278816-index.htm": {
+      "title": "10-Q - Galera Therapeutics, Inc. (0001563577) (Filer)",
+      "updated": "2025-11-13T07:15:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:34.820106+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1501796/000119312525278817/0001193125-25-278817-index.htm": {
+      "title": "10-Q - Aura Biosciences, Inc. (0001501796) (Filer)",
+      "updated": "2025-11-13T07:15:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:35.908310+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1947244/000149315225022107/0001493152-25-022107-index.htm": {
+      "title": "8-K - U.S. GoldMining Inc. (0001947244) (Filer)",
+      "updated": "2025-11-13T07:15:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T12:56:36.988820+00:00"
     }
   }
 }
