@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T19:22:51.654754+00:00",
+  "last_checked": "2025-11-13T19:39:52.447789+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -16695,6 +16695,62 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T19:22:50.641263+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1860788/000093041325003439/0000930413-25-003439-index.htm": {
+      "title": "10-Q - VanEck Ethereum ETF (0001860788) (Filer)",
+      "updated": "2025-11-13T14:36:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:39:43.852622+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/315545/000149315225022229/0001493152-25-022229-index.htm": {
+      "title": "10-Q - PROVECTUS BIOPHARMACEUTICALS, INC. (0000315545) (Filer)",
+      "updated": "2025-11-13T14:36:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:39:44.928171+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1838028/000093041325003438/0000930413-25-003438-index.htm": {
+      "title": "10-Q - VanEck Bitcoin ETF (0001838028) (Filer)",
+      "updated": "2025-11-13T14:35:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:39:46.041226+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1314152/000131415225000178/0001314152-25-000178-index.htm": {
+      "title": "8-K - JLL Income Property Trust, Inc. (0001314152) (Filer)",
+      "updated": "2025-11-13T14:31:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:39:47.120001+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1793497/000121390025109885/0001213900-25-109885-index.htm": {
+      "title": "10-Q - VS Trust (0001793497) (Filer)",
+      "updated": "2025-11-13T14:31:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:39:48.200671+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1631282/000121390025109884/0001213900-25-109884-index.htm": {
+      "title": "10-Q - DATASEA INC. (0001631282) (Filer)",
+      "updated": "2025-11-13T14:31:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:39:49.276775+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/897723/000089772325000042/0000897723-25-000042-index.htm": {
+      "title": "10-K - SANMINA CORP (0000897723) (Filer)",
+      "updated": "2025-11-13T14:29:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:39:50.355836+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1603480/000119312525279849/0001193125-25-279849-index.htm": {
+      "title": "10-Q - TCW Direct Lending LLC (0001603480) (Filer)",
+      "updated": "2025-11-13T14:29:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T19:39:51.433825+00:00"
     }
   }
 }
