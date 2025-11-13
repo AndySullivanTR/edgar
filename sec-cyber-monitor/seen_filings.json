@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T15:29:55.808187+00:00",
+  "last_checked": "2025-11-13T15:46:47.750818+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -16471,6 +16471,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T15:29:54.794926+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1496454/000149645425000020/0001496454-25-000020-index.htm": {
+      "title": "10-Q - CNL Healthcare Properties, Inc. (0001496454) (Filer)",
+      "updated": "2025-11-13T10:33:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T15:46:45.670716+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1530746/000190359625000525/0001903596-25-000525-index.htm": {
+      "title": "NT 10-Q - Kaya Holdings, Inc. (0001530746) (Filer)",
+      "updated": "2025-11-13T10:30:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T15:46:46.737017+00:00"
     }
   }
 }
