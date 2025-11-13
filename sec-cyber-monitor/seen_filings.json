@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T15:46:47.750818+00:00",
+  "last_checked": "2025-11-13T16:32:45.612065+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -16485,6 +16485,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T15:46:46.737017+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1581552/000143774925034698/0001437749-25-034698-index.htm": {
+      "title": "10-Q - Energy 11, L.P. (0001581552) (Filer)",
+      "updated": "2025-11-13T11:31:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T16:32:41.348297+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1043951/000114036125041850/0001140361-25-041850-index.htm": {
+      "title": "10-Q - CAMPBELL FUND TRUST (0001043951) (Filer)",
+      "updated": "2025-11-13T11:30:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T16:32:42.431311+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1132509/000147793225008154/0001477932-25-008154-index.htm": {
+      "title": "10-Q - New Momentum Corp. (0001132509) (Filer)",
+      "updated": "2025-11-13T11:20:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T16:32:43.535918+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2043020/000121390025109745/0001213900-25-109745-index.htm": {
+      "title": "NT 10-Q - Evolution Metals LLC (0002043020) (Filer)",
+      "updated": "2025-11-13T11:20:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T16:32:44.598499+00:00"
     }
   }
 }
