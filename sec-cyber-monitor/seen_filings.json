@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-13T11:24:02.383776+00:00",
+  "last_checked": "2025-11-13T11:42:23.501442+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -15617,6 +15617,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T11:24:01.370951+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1855644/000110465925110793/0001104659-25-110793-index.htm": {
+      "title": "10-Q - Zura Bio Ltd (0001855644) (Filer)",
+      "updated": "2025-11-13T06:32:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:42:18.093040+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1855644/000110465925110789/0001104659-25-110789-index.htm": {
+      "title": "8-K - Zura Bio Ltd (0001855644) (Filer)",
+      "updated": "2025-11-13T06:30:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:42:19.196079+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1966983/000119312525278745/0001193125-25-278745-index.htm": {
+      "title": "8-K - LITHIUM AMERICAS CORP. (0001966983) (Filer)",
+      "updated": "2025-11-13T06:30:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:42:20.299446+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1891101/000189110125000037/0001891101-25-000037-index.htm": {
+      "title": "8-K - BRC Inc. (0001891101) (Filer)",
+      "updated": "2025-11-13T06:30:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:42:21.395652+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1966983/000119312525278738/0001193125-25-278738-index.htm": {
+      "title": "10-Q - LITHIUM AMERICAS CORP. (0001966983) (Filer)",
+      "updated": "2025-11-13T06:25:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-13T11:42:22.488419+00:00"
     }
   }
 }
