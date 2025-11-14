@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T13:34:45.331186+00:00",
+  "last_checked": "2025-11-14T13:54:14.936492+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -17661,6 +17661,111 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T13:34:44.316708+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/732026/000143774925034999/0001437749-25-034999-index.htm": {
+      "title": "10-Q - TRIO-TECH INTERNATIONAL (0000732026) (Filer)",
+      "updated": "2025-11-14T08:49:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:53:58.849816+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1383312/000114036125042126/0001140361-25-042126-index.htm": {
+      "title": "8-K - BROADRIDGE FINANCIAL SOLUTIONS, INC. (0001383312) (Filer)",
+      "updated": "2025-11-14T08:49:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:53:59.927402+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1429260/000110465925111989/0001104659-25-111989-index.htm": {
+      "title": "10-Q - Fortress Biotech, Inc. (0001429260) (Filer)",
+      "updated": "2025-11-14T08:46:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:54:00.993235+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1211805/000149315225022615/0001493152-25-022615-index.htm": {
+      "title": "8-K - My Size, Inc. (0001211805) (Filer)",
+      "updated": "2025-11-14T08:45:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:54:02.058113+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1019034/000143774925034997/0001437749-25-034997-index.htm": {
+      "title": "8-K - BIO KEY INTERNATIONAL INC (0001019034) (Filer)",
+      "updated": "2025-11-14T08:45:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:54:03.127848+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1629210/000119312525281737/0001193125-25-281737-index.htm": {
+      "title": "10-Q - Paramount Gold Nevada Corp. (0001629210) (Filer)",
+      "updated": "2025-11-14T08:44:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:54:04.202298+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1376231/000121390025110392/0001213900-25-110392-index.htm": {
+      "title": "10-Q - VPR Brands, LP. (0001376231) (Filer)",
+      "updated": "2025-11-14T08:43:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:54:05.296649+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1888740/000168316825008372/0001683168-25-008372-index.htm": {
+      "title": "NT 10-Q - LSEB Creative Corp. (0001888740) (Filer)",
+      "updated": "2025-11-14T08:41:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:54:06.390967+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1854275/000121390025110391/0001213900-25-110391-index.htm": {
+      "title": "10-Q - Zoomcar Holdings, Inc. (0001854275) (Filer)",
+      "updated": "2025-11-14T08:41:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:54:07.458442+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1840563/000121390025110390/0001213900-25-110390-index.htm": {
+      "title": "10-Q - PMGC Holdings Inc. (0001840563) (Filer)",
+      "updated": "2025-11-14T08:41:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:54:08.540996+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/763907/000110465925111986/0001104659-25-111986-index.htm": {
+      "title": "8-K - FIRST UNITED CORP/MD/ (0000763907) (Filer)",
+      "updated": "2025-11-14T08:40:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:54:09.606073+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1837607/000183760725000085/0001837607-25-000085-index.htm": {
+      "title": "10-Q - AEON Biopharma, Inc. (0001837607) (Filer)",
+      "updated": "2025-11-14T08:35:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:54:10.699115+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1611046/000168316825008369/0001683168-25-008369-index.htm": {
+      "title": "10-Q - International Endeavors Corp (0001611046) (Filer)",
+      "updated": "2025-11-14T08:35:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:54:11.785859+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1513525/000121390025110385/0001213900-25-110385-index.htm": {
+      "title": "8-K - ADIAL PHARMACEUTICALS, INC. (0001513525) (Filer)",
+      "updated": "2025-11-14T08:35:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:54:12.856656+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1429260/000110465925111979/0001104659-25-111979-index.htm": {
+      "title": "8-K - Fortress Biotech, Inc. (0001429260) (Filer)",
+      "updated": "2025-11-14T08:35:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:54:13.922670+00:00"
     }
   }
 }
