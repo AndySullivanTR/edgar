@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T20:46:26.847698+00:00",
+  "last_checked": "2025-11-14T21:24:02.997511+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -18438,6 +18438,132 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T20:46:25.832780+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1745032/000110465925112565/0001104659-25-112565-index.htm": {
+      "title": "10-Q - Lodging Fund REIT III, Inc. (0001745032) (Filer)",
+      "updated": "2025-11-14T16:17:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:23:43.504731+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/914748/000091474825000015/0000914748-25-000015-index.htm": {
+      "title": "10-Q - EVEREST REINSURANCE HOLDINGS INC (0000914748) (Filer)",
+      "updated": "2025-11-14T16:17:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:23:44.604164+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/104894/000010489425000132/0000104894-25-000132-index.htm": {
+      "title": "8-K - Elme Communities (0000104894) (Filer)",
+      "updated": "2025-11-14T16:17:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:23:45.681495+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1766016/000176601625000004/0001766016-25-000004-index.htm": {
+      "title": "10-Q - Crucial Innovations, Corp. (0001766016) (Filer)",
+      "updated": "2025-11-14T16:17:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:23:46.781636+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/712534/000071253425000203/0000712534-25-000203-index.htm": {
+      "title": "8-K - FIRST MERCHANTS CORP (0000712534) (Filer)",
+      "updated": "2025-11-14T16:17:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:23:47.860765+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1852973/000121390025110867/0001213900-25-110867-index.htm": {
+      "title": "NT 10-Q - Borealis Foods Inc. (0001852973) (Filer)",
+      "updated": "2025-11-14T16:17:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:23:48.935794+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1868419/000186841925000018/0001868419-25-000018-index.htm": {
+      "title": "8-K - Cycurion, Inc. (0001868419) (Filer)",
+      "updated": "2025-11-14T16:17:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:23:50.016730+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1585101/000162828025052370/0001628280-25-052370-index.htm": {
+      "title": "10-Q - HINES GLOBAL INCOME TRUST, INC. (0001585101) (Filer)",
+      "updated": "2025-11-14T16:17:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:23:51.113871+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1509570/000150021725000071/0001500217-25-000071-index.htm": {
+      "title": "8-K - American Assets Trust, L.P. (0001509570) (Filer)",
+      "updated": "2025-11-14T16:17:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:23:52.203739+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1500217/000150021725000071/0001500217-25-000071-index.htm": {
+      "title": "8-K - American Assets Trust, Inc. (0001500217) (Filer)",
+      "updated": "2025-11-14T16:17:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:23:53.281095+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1918080/000121390025110860/0001213900-25-110860-index.htm": {
+      "title": "10-Q - Deep Isolation Nuclear, Inc. (0001918080) (Filer)",
+      "updated": "2025-11-14T16:17:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:23:54.388055+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1829280/000114036125042313/0001140361-25-042313-index.htm": {
+      "title": "10-Q - Forian Inc. (0001829280) (Filer)",
+      "updated": "2025-11-14T16:17:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:23:55.471329+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1690012/000119312525283017/0001193125-25-283017-index.htm": {
+      "title": "8-K - InPoint Commercial Real Estate Income, Inc. (0001690012) (Filer)",
+      "updated": "2025-11-14T16:17:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:23:56.557250+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1607962/000117891325003854/0001178913-25-003854-index.htm": {
+      "title": "10-Q - Lifeward Ltd. (0001607962) (Filer)",
+      "updated": "2025-11-14T16:17:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:23:57.637420+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1918414/000121390025110861/0001213900-25-110861-index.htm": {
+      "title": "10-Q - Newbridge Acquisition Ltd (0001918414) (Filer)",
+      "updated": "2025-11-14T16:16:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:23:58.731946+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/64463/000149315225023503/0001493152-25-023503-index.htm": {
+      "title": "10-Q - Soluna Holdings, Inc (0000064463) (Filer)",
+      "updated": "2025-11-14T16:16:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:23:59.818627+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1793229/000110465925112555/0001104659-25-112555-index.htm": {
+      "title": "8-K - Claritev Corp (0001793229) (Filer)",
+      "updated": "2025-11-14T16:16:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:24:00.903675+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1847986/000149315225023502/0001493152-25-023502-index.htm": {
+      "title": "10-Q - Dragonfly Energy Holdings Corp. (0001847986) (Filer)",
+      "updated": "2025-11-14T16:16:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:24:01.982326+00:00"
     }
   }
 }
