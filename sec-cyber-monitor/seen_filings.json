@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T20:29:13.367043+00:00",
+  "last_checked": "2025-11-14T20:46:26.847698+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -18368,6 +18368,76 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T20:29:12.351983+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/845819/000151597125000093/0001515971-25-000093-index.htm": {
+      "title": "NT 10-Q - KonaTel, Inc. (0000845819) (Filer)",
+      "updated": "2025-11-14T15:45:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T20:46:15.682348+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1452936/000145293625000113/0001452936-25-000113-index.htm": {
+      "title": "10-Q - Pacific Oak Strategic Opportunity REIT, Inc. (0001452936) (Filer)",
+      "updated": "2025-11-14T15:44:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T20:46:16.849891+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1992508/000121390025110784/0001213900-25-110784-index.htm": {
+      "title": "10-Q - 21Shares Ethereum ETF (0001992508) (Filer)",
+      "updated": "2025-11-14T15:42:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T20:46:17.966862+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1418372/000119312525282775/0001193125-25-282775-index.htm": {
+      "title": "10-K - Salamander Innisbrook, LLC (0001418372) (Filer)",
+      "updated": "2025-11-14T15:42:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T20:46:19.086893+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1971381/000119312525282771/0001193125-25-282771-index.htm": {
+      "title": "10-Q - Apollo Infrastructure Co LLC (0001971381) (Filer)",
+      "updated": "2025-11-14T15:42:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T20:46:20.202107+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1869699/000121390025110782/0001213900-25-110782-index.htm": {
+      "title": "10-Q - Ark 21Shares Bitcoin ETF (0001869699) (Filer)",
+      "updated": "2025-11-14T15:40:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T20:46:21.327591+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1313536/000119312525282761/0001193125-25-282761-index.htm": {
+      "title": "10-Q - SOTHERLY HOTELS LP (0001313536) (Filer)",
+      "updated": "2025-11-14T15:39:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T20:46:22.455757+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1301236/000119312525282761/0001193125-25-282761-index.htm": {
+      "title": "10-Q - Sotherly Hotels Inc. (0001301236) (Filer)",
+      "updated": "2025-11-14T15:39:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T20:46:23.583142+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1630113/000149315225023361/0001493152-25-023361-index.htm": {
+      "title": "10-Q - BIOTRICITY INC. (0001630113) (Filer)",
+      "updated": "2025-11-14T15:38:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T20:46:24.702313+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/716634/000071663425000050/0000716634-25-000050-index.htm": {
+      "title": "8-K - READING INTERNATIONAL INC (0000716634) (Filer)",
+      "updated": "2025-11-14T15:36:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T20:46:25.832780+00:00"
     }
   }
 }
