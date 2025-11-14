@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T17:57:18.169248+00:00",
+  "last_checked": "2025-11-14T18:38:44.956939+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -18053,6 +18053,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T17:57:17.154157+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2024306/000119312525282500/0001193125-25-282500-index.htm": {
+      "title": "10-Q - JFB Construction Holdings (0002024306) (Filer)",
+      "updated": "2025-11-14T13:37:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T18:38:40.663875+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1849670/000110465925112239/0001104659-25-112239-index.htm": {
+      "title": "10-Q - PB Bankshares, Inc. (0001849670) (Filer)",
+      "updated": "2025-11-14T13:32:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T18:38:41.762886+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2043508/000147793225008266/0001477932-25-008266-index.htm": {
+      "title": "10-Q - Lake Superior Acquisition Corp (0002043508) (Filer)",
+      "updated": "2025-11-14T13:31:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T18:38:42.864929+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/312257/000118518525001725/0001185185-25-001725-index.htm": {
+      "title": "8-K - INNOVATIVE FOOD HOLDINGS INC (0000312257) (Filer)",
+      "updated": "2025-11-14T13:26:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T18:38:43.943105+00:00"
     }
   }
 }
