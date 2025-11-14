@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T16:57:33.531198+00:00",
+  "last_checked": "2025-11-14T17:25:45.407131+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -17948,6 +17948,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T16:57:32.516537+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1610940/000121390025110548/0001213900-25-110548-index.htm": {
+      "title": "10-Q - Amplify Commodity Trust (0001610940) (Filer)",
+      "updated": "2025-11-14T12:25:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T17:25:43.311830+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1061219/000119312525282305/0001193125-25-282305-index.htm": {
+      "title": "8-K - ENTERPRISE PRODUCTS PARTNERS L.P. (0001061219) (Filer)",
+      "updated": "2025-11-14T12:24:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T17:25:44.392568+00:00"
     }
   }
 }
