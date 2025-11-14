@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T10:47:44.613951+00:00",
+  "last_checked": "2025-11-14T11:22:03.977281+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -17325,6 +17325,69 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-13T22:44:04.395013+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2071489/000149315225022479/0001493152-25-022479-index.htm": {
+      "title": "10-Q - Yellowstone Group Ltd. (0002071489) (Filer)",
+      "updated": "2025-11-14T06:20:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T11:21:54.052082+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1699031/000162828025052184/0001628280-25-052184-index.htm": {
+      "title": "8-K - GRAIL, Inc. (0001699031) (Filer)",
+      "updated": "2025-11-14T06:19:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T11:21:55.166879+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1324759/000149315225022478/0001493152-25-022478-index.htm": {
+      "title": "NT 10-Q - HONG YUAN HOLDING GROUP (0001324759) (Filer)",
+      "updated": "2025-11-14T06:18:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T11:21:56.276847+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1799191/000107997325001724/0001079973-25-001724-index.htm": {
+      "title": "8-K - Oncology Institute, Inc. (0001799191) (Filer)",
+      "updated": "2025-11-14T06:18:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T11:21:57.391305+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1560452/000118518525001711/0001185185-25-001711-index.htm": {
+      "title": "10-Q - Texas Republic Capital Corp (0001560452) (Filer)",
+      "updated": "2025-11-14T06:17:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T11:21:58.499062+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1710350/000121390025110283/0001213900-25-110283-index.htm": {
+      "title": "8-K - Bit Digital, Inc (0001710350) (Filer)",
+      "updated": "2025-11-14T06:15:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T11:21:59.605140+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1907425/000149315225022470/0001493152-25-022470-index.htm": {
+      "title": "10-Q - JOCOM HOLDINGS CORP. (0001907425) (Filer)",
+      "updated": "2025-11-14T06:14:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T11:22:00.723525+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1805521/000121390025110277/0001213900-25-110277-index.htm": {
+      "title": "8-K - FARADAY FUTURE INTELLIGENT ELECTRIC INC. (0001805521) (Filer)",
+      "updated": "2025-11-14T06:13:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T11:22:01.845927+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1807046/000149315225022469/0001493152-25-022469-index.htm": {
+      "title": "10-Q - Belpointe PREP, LLC (0001807046) (Filer)",
+      "updated": "2025-11-14T06:12:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T11:22:02.963094+00:00"
     }
   }
 }
