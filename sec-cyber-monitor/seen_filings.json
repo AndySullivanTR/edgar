@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T11:54:22.446807+00:00",
+  "last_checked": "2025-11-14T12:53:46.060384+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -17437,6 +17437,125 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T11:54:21.432460+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1727196/000110465925111956/0001104659-25-111956-index.htm": {
+      "title": "8-K - Scholar Rock Holding Corp (0001727196) (Filer)",
+      "updated": "2025-11-14T07:51:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T12:53:27.801674+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1133416/000114036125042116/0001140361-25-042116-index.htm": {
+      "title": "10-Q - GALECTIN THERAPEUTICS INC (0001133416) (Filer)",
+      "updated": "2025-11-14T07:50:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T12:53:28.876876+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1992243/000121390025110361/0001213900-25-110361-index.htm": {
+      "title": "8-K - T1 Energy Inc. (0001992243) (Filer)",
+      "updated": "2025-11-14T07:50:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T12:53:29.957152+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1829802/000119312525281590/0001193125-25-281590-index.htm": {
+      "title": "10-Q - Sensei Biotherapeutics, Inc. (0001829802) (Filer)",
+      "updated": "2025-11-14T07:45:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T12:53:31.033217+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1937987/000119312525281592/0001193125-25-281592-index.htm": {
+      "title": "8-K - Falcon's Beyond Global, Inc. (0001937987) (Filer)",
+      "updated": "2025-11-14T07:45:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T12:53:32.108777+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1824293/000182429325000151/0001824293-25-000151-index.htm": {
+      "title": "10-Q - GRI Bio, Inc. (0001824293) (Filer)",
+      "updated": "2025-11-14T07:45:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T12:53:33.187844+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1314052/000173112225001536/0001731122-25-001536-index.htm": {
+      "title": "8-K - ANAVEX LIFE SCIENCES CORP. (0001314052) (Filer)",
+      "updated": "2025-11-14T07:42:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T12:53:34.263424+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1817511/000149315225022564/0001493152-25-022564-index.htm": {
+      "title": "10-Q - SOCIETY PASS INCORPORATED. (0001817511) (Filer)",
+      "updated": "2025-11-14T07:41:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T12:53:35.341255+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1809750/000147793225008242/0001477932-25-008242-index.htm": {
+      "title": "8-K - Edible Garden AG Inc (0001809750) (Filer)",
+      "updated": "2025-11-14T07:40:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T12:53:36.418111+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1829802/000119312525281581/0001193125-25-281581-index.htm": {
+      "title": "8-K - Sensei Biotherapeutics, Inc. (0001829802) (Filer)",
+      "updated": "2025-11-14T07:35:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T12:53:37.502532+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1191070/000119312525281579/0001193125-25-281579-index.htm": {
+      "title": "10-Q - Neuphoria Therapeutics Inc. (0001191070) (Filer)",
+      "updated": "2025-11-14T07:34:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T12:53:38.578246+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2020987/000168316825008359/0001683168-25-008359-index.htm": {
+      "title": "10-Q - YHN Acquisition I Ltd (0002020987) (Filer)",
+      "updated": "2025-11-14T07:33:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T12:53:39.654135+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1937987/000119312525281562/0001193125-25-281562-index.htm": {
+      "title": "10-Q - Falcon's Beyond Global, Inc. (0001937987) (Filer)",
+      "updated": "2025-11-14T07:31:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T12:53:40.730386+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1640384/000119312525281570/0001193125-25-281570-index.htm": {
+      "title": "8-K - LM FUNDING AMERICA, INC. (0001640384) (Filer)",
+      "updated": "2025-11-14T07:30:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T12:53:41.805460+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1659323/000119312525281557/0001193125-25-281557-index.htm": {
+      "title": "10-Q - Iterum Therapeutics plc (0001659323) (Filer)",
+      "updated": "2025-11-14T07:30:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T12:53:42.881451+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1066764/000149315225022560/0001493152-25-022560-index.htm": {
+      "title": "10-Q - Bimergen Energy Corp (0001066764) (Filer)",
+      "updated": "2025-11-14T07:30:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T12:53:43.969919+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2026767/000149315225022559/0001493152-25-022559-index.htm": {
+      "title": "8-K - Calisa Acquisition Corp (0002026767) (Filer)",
+      "updated": "2025-11-14T07:30:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T12:53:45.045315+00:00"
     }
   }
 }
