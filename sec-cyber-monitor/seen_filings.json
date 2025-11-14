@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T22:25:25.583674+00:00",
+  "last_checked": "2025-11-14T22:43:28.195447+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -18900,6 +18900,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T22:25:24.568380+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1173204/000119312525283349/0001193125-25-283349-index.htm": {
+      "title": "10-Q - Cineverse Corp. (0001173204) (Filer)",
+      "updated": "2025-11-14T17:31:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:43:22.816641+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1808898/000119312525283351/0001193125-25-283351-index.htm": {
+      "title": "8-K - Benitec Biopharma Inc. (0001808898) (Filer)",
+      "updated": "2025-11-14T17:31:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:43:23.907761+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1784254/000178425425000031/0001784254-25-000031-index.htm": {
+      "title": "NT 10-Q - Mediaco Holding Inc. (0001784254) (Filer)",
+      "updated": "2025-11-14T17:30:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:43:24.995691+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1889450/000149315225023666/0001493152-25-023666-index.htm": {
+      "title": "NT 10-Q - FutureTech II Acquisition Corp. (0001889450) (Filer)",
+      "updated": "2025-11-14T17:29:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:43:26.082181+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1817004/000149315225023664/0001493152-25-023664-index.htm": {
+      "title": "10-Q - NEXTNRG, INC. (0001817004) (Filer)",
+      "updated": "2025-11-14T17:28:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:43:27.180703+00:00"
     }
   }
 }
