@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T14:46:42.632025+00:00",
+  "last_checked": "2025-11-14T15:24:12.304631+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -17822,6 +17822,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T14:46:41.618425+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/774415/000168316825008380/0001683168-25-008380-index.htm": {
+      "title": "NT 10-Q - King Resources, Inc. (0000774415) (Filer)",
+      "updated": "2025-11-14T10:20:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T15:24:10.223008+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1415332/000164033425002096/0001640334-25-002096-index.htm": {
+      "title": "10-Q - Lithium Corp (0001415332) (Filer)",
+      "updated": "2025-11-14T10:18:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T15:24:11.289883+00:00"
     }
   }
 }
