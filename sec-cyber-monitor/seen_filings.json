@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T21:41:28.939064+00:00",
+  "last_checked": "2025-11-14T21:54:02.840034+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -18697,6 +18697,76 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T21:41:27.924772+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2019804/000110465925112689/0001104659-25-112689-index.htm": {
+      "title": "8-K/A - Terrestrial Energy Inc. /DE/ (0002019804) (Filer)",
+      "updated": "2025-11-14T16:52:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:53:51.308692+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1828673/000119312525283238/0001193125-25-283238-index.htm": {
+      "title": "10-Q - HCW Biologics Inc. (0001828673) (Filer)",
+      "updated": "2025-11-14T16:52:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:53:52.449087+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1004724/000119312525283236/0001193125-25-283236-index.htm": {
+      "title": "10-Q - REGIONAL HEALTH PROPERTIES, INC (0001004724) (Filer)",
+      "updated": "2025-11-14T16:52:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:53:53.621661+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1427570/000121390025110980/0001213900-25-110980-index.htm": {
+      "title": "10-Q - Vyome Holdings, Inc (0001427570) (Filer)",
+      "updated": "2025-11-14T16:51:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:53:54.756003+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1321834/000149315225023598/0001493152-25-023598-index.htm": {
+      "title": "NT 10-Q - Q/C TECHNOLOGIES, INC. (0001321834) (Filer)",
+      "updated": "2025-11-14T16:51:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:53:56.030960+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1388320/000121390025110979/0001213900-25-110979-index.htm": {
+      "title": "10-Q - Actinium Pharmaceuticals, Inc. (0001388320) (Filer)",
+      "updated": "2025-11-14T16:50:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:53:57.237316+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2094373/000119312525283233/0001193125-25-283233-index.htm": {
+      "title": "8-K - Santander Drive Auto Receivables Trust 2025-4 (0002094373) (Filer)",
+      "updated": "2025-11-14T16:50:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:53:58.422540+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1383094/000119312525283233/0001193125-25-283233-index.htm": {
+      "title": "8-K - SANTANDER DRIVE AUTO RECEIVABLES LLC (0001383094) (Filer)",
+      "updated": "2025-11-14T16:50:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:53:59.595649+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1041657/000104165725000061/0001041657-25-000061-index.htm": {
+      "title": "8-K - URBAN ONE, INC. (0001041657) (Filer)",
+      "updated": "2025-11-14T16:50:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:54:00.732265+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1828673/000119312525283230/0001193125-25-283230-index.htm": {
+      "title": "8-K - HCW Biologics Inc. (0001828673) (Filer)",
+      "updated": "2025-11-14T16:50:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:54:01.824833+00:00"
     }
   }
 }
