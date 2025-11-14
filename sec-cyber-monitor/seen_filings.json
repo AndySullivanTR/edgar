@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T19:40:23.392859+00:00",
+  "last_checked": "2025-11-14T19:53:43.109577+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -18291,6 +18291,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T19:40:22.378838+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1763329/000109690625001848/0001096906-25-001848-index.htm": {
+      "title": "NT 10-Q - AIBOTICS, INC. (0001763329) (Filer)",
+      "updated": "2025-11-14T14:51:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:53:38.602044+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/8177/000114036125042270/0001140361-25-042270-index.htm": {
+      "title": "8-K - ATLANTIC AMERICAN CORP (0000008177) (Filer)",
+      "updated": "2025-11-14T14:47:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:53:39.882412+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1593184/000168316825008429/0001683168-25-008429-index.htm": {
+      "title": "10-Q - BIOREGENX, INC. (0001593184) (Filer)",
+      "updated": "2025-11-14T14:45:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:53:40.974084+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1121795/000107997325001737/0001079973-25-001737-index.htm": {
+      "title": "10-Q - GHST World Inc. (0001121795) (Filer)",
+      "updated": "2025-11-14T14:45:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:53:42.095134+00:00"
     }
   }
 }
