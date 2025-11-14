@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T11:22:03.977281+00:00",
+  "last_checked": "2025-11-14T11:41:16.931647+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -17388,6 +17388,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T11:22:02.963094+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1755953/000119312525281390/0001193125-25-281390-index.htm": {
+      "title": "10-Q - American Bitcoin Corp. (0001755953) (Filer)",
+      "updated": "2025-11-14T06:35:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T11:41:10.503178+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1674101/000167410125000028/0001674101-25-000028-index.htm": {
+      "title": "8-K - Vertiv Holdings Co (0001674101) (Filer)",
+      "updated": "2025-11-14T06:32:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T11:41:11.567030+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1650101/000149315225022485/0001493152-25-022485-index.htm": {
+      "title": "10-Q - ADDENTAX GROUP CORP. (0001650101) (Filer)",
+      "updated": "2025-11-14T06:30:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T11:41:12.696004+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1997698/000121390025110305/0001213900-25-110305-index.htm": {
+      "title": "NT 10-Q - IGTA Merger Sub Ltd (0001997698) (Filer)",
+      "updated": "2025-11-14T06:30:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T11:41:13.765268+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1866838/000121390025110304/0001213900-25-110304-index.htm": {
+      "title": "NT 10-Q - Inception Growth Acquisition Ltd (0001866838) (Filer)",
+      "updated": "2025-11-14T06:30:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T11:41:14.838031+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1873875/000121390025110299/0001213900-25-110299-index.htm": {
+      "title": "10-Q - Incannex Healthcare Inc. (0001873875) (Filer)",
+      "updated": "2025-11-14T06:24:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T11:41:15.917323+00:00"
     }
   }
 }
