@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T17:25:45.407131+00:00",
+  "last_checked": "2025-11-14T17:44:11.997263+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -17962,6 +17962,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T17:25:44.392568+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1080657/000149315225023231/0001493152-25-023231-index.htm": {
+      "title": "8-K - Presidio Property Trust, Inc. (0001080657) (Filer)",
+      "updated": "2025-11-14T12:42:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T17:44:02.698010+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1543637/000154363725000005/0001543637-25-000005-index.htm": {
+      "title": "10-Q - Nu-Med Plus, Inc. (0001543637) (Filer)",
+      "updated": "2025-11-14T12:41:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T17:44:03.885811+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1938571/000121390025110559/0001213900-25-110559-index.htm": {
+      "title": "10-Q - ADAPTIN BIO, INC. (0001938571) (Filer)",
+      "updated": "2025-11-14T12:39:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": "llm_ok",
+      "first_seen": "2025-11-14T17:44:08.685385+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1313536/000119312525282339/0001193125-25-282339-index.htm": {
+      "title": "8-K - SOTHERLY HOTELS LP (0001313536) (Filer)",
+      "updated": "2025-11-14T12:37:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T17:44:09.844503+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1301236/000119312525282339/0001193125-25-282339-index.htm": {
+      "title": "8-K - Sotherly Hotels Inc. (0001301236) (Filer)",
+      "updated": "2025-11-14T12:37:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T17:44:10.982677+00:00"
     }
   }
 }
