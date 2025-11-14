@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T15:56:28.952840+00:00",
+  "last_checked": "2025-11-14T16:36:07.332028+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -17878,6 +17878,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T15:56:27.938134+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1672773/000149315225023194/0001493152-25-023194-index.htm": {
+      "title": "NT 10-Q - Arboretum Silverleaf Income Fund, L.P. (0001672773) (Filer)",
+      "updated": "2025-11-14T11:35:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T16:36:01.910982+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1872292/000149315225023191/0001493152-25-023191-index.htm": {
+      "title": "10-Q - Rainmaker Worldwide Inc. (0001872292) (Filer)",
+      "updated": "2025-11-14T11:32:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T16:36:02.982455+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2052568/000205256825000018/0002052568-25-000018-index.htm": {
+      "title": "10-Q - Legence Corp. (0002052568) (Filer)",
+      "updated": "2025-11-14T11:30:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T16:36:04.060180+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1702015/000170201525000005/0001702015-25-000005-index.htm": {
+      "title": "10-Q - AIS Holdings Group, Inc. (0001702015) (Filer)",
+      "updated": "2025-11-14T11:26:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T16:36:05.145598+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2035016/000121390025110501/0001213900-25-110501-index.htm": {
+      "title": "10-Q - Ribbon Acquisition Corp. (0002035016) (Filer)",
+      "updated": "2025-11-14T11:25:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T16:36:06.317227+00:00"
     }
   }
 }
