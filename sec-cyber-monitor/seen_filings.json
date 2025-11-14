@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T19:22:39.554559+00:00",
+  "last_checked": "2025-11-14T19:40:23.392859+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -18207,6 +18207,90 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T19:22:38.539606+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1297341/000121390025110700/0001213900-25-110700-index.htm": {
+      "title": "10-Q - Kentucky First Federal Bancorp (0001297341) (Filer)",
+      "updated": "2025-11-14T14:37:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:40:09.311152+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1966394/000119312525282618/0001193125-25-282618-index.htm": {
+      "title": "10-Q - Fortress Net Lease REIT (0001966394) (Filer)",
+      "updated": "2025-11-14T14:37:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:40:10.503129+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1611983/000161198325000032/0001611983-25-000032-index.htm": {
+      "title": "8-K - Liberty Broadband Corp (0001611983) (Filer)",
+      "updated": "2025-11-14T14:36:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:40:11.593032+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1987221/000119312525282614/0001193125-25-282614-index.htm": {
+      "title": "10-Q - John Hancock Comvest Private Income Fund (0001987221) (Filer)",
+      "updated": "2025-11-14T14:36:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:40:12.825818+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1450722/000121390025110691/0001213900-25-110691-index.htm": {
+      "title": "10-Q - Frontier Masters Fund (0001450722) (Filer)",
+      "updated": "2025-11-14T14:35:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:40:13.980531+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1450720/000121390025110691/0001213900-25-110691-index.htm": {
+      "title": "10-Q - Frontier Diversified Fund (0001450720) (Filer)",
+      "updated": "2025-11-14T14:35:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:40:15.151742+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1389128/000121390025110691/0001213900-25-110691-index.htm": {
+      "title": "10-Q - Frontier Long/Short Commodity Fund (0001389128) (Filer)",
+      "updated": "2025-11-14T14:35:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:40:16.339893+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1389125/000121390025110691/0001213900-25-110691-index.htm": {
+      "title": "10-Q - Frontier Select Fund (0001389125) (Filer)",
+      "updated": "2025-11-14T14:35:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:40:17.541395+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1389124/000121390025110691/0001213900-25-110691-index.htm": {
+      "title": "10-Q - Frontier Global Fund (0001389124) (Filer)",
+      "updated": "2025-11-14T14:35:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:40:18.751082+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1389123/000121390025110691/0001213900-25-110691-index.htm": {
+      "title": "10-Q - Frontier Heritage Fund (0001389123) (Filer)",
+      "updated": "2025-11-14T14:35:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:40:19.980651+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1389122/000121390025110691/0001213900-25-110691-index.htm": {
+      "title": "10-Q - Frontier Balanced Fund (0001389122) (Filer)",
+      "updated": "2025-11-14T14:35:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:40:21.177602+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1261379/000121390025110691/0001213900-25-110691-index.htm": {
+      "title": "10-Q - Frontier Funds (0001261379) (Filer)",
+      "updated": "2025-11-14T14:35:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:40:22.378838+00:00"
     }
   }
 }
