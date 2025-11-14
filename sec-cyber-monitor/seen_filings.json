@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T12:53:46.060384+00:00",
+  "last_checked": "2025-11-14T13:34:45.331186+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -17556,6 +17556,111 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T12:53:45.045315+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1649749/000110465925111977/0001104659-25-111977-index.htm": {
+      "title": "8-K - FB Financial Corp (0001649749) (Filer)",
+      "updated": "2025-11-14T08:32:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:34:29.242952+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1710350/000121390025110383/0001213900-25-110383-index.htm": {
+      "title": "10-Q - Bit Digital, Inc (0001710350) (Filer)",
+      "updated": "2025-11-14T08:31:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:34:30.340545+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1837607/000183760725000084/0001837607-25-000084-index.htm": {
+      "title": "8-K - AEON Biopharma, Inc. (0001837607) (Filer)",
+      "updated": "2025-11-14T08:31:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:34:31.417074+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1943802/000119312525281704/0001193125-25-281704-index.htm": {
+      "title": "10-Q - First Seacoast Bancorp, Inc. (0001943802) (Filer)",
+      "updated": "2025-11-14T08:31:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:34:32.496720+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1490161/000119312525281709/0001193125-25-281709-index.htm": {
+      "title": "8-K - Sow Good Inc. (0001490161) (Filer)",
+      "updated": "2025-11-14T08:30:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:34:33.564236+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1436229/000149315225022605/0001493152-25-022605-index.htm": {
+      "title": "8-K - BTCS Inc. (0001436229) (Filer)",
+      "updated": "2025-11-14T08:30:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:34:34.638197+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/96869/000119312525281708/0001193125-25-281708-index.htm": {
+      "title": "8-K - TEJON RANCH CO (0000096869) (Filer)",
+      "updated": "2025-11-14T08:30:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:34:35.722375+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1712762/000149315225022604/0001493152-25-022604-index.htm": {
+      "title": "8-K - bioAffinity Technologies, Inc. (0001712762) (Filer)",
+      "updated": "2025-11-14T08:30:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:34:36.788253+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1412486/000149315225022603/0001493152-25-022603-index.htm": {
+      "title": "8-K - Cocrystal Pharma, Inc. (0001412486) (Filer)",
+      "updated": "2025-11-14T08:30:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:34:37.851517+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1809750/000147793225008250/0001477932-25-008250-index.htm": {
+      "title": "10-Q - Edible Garden AG Inc (0001809750) (Filer)",
+      "updated": "2025-11-14T08:30:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:34:38.922305+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2040381/000182912625009148/0001829126-25-009148-index.htm": {
+      "title": "10-Q - Pioneer Acquisition I Corp (0002040381) (Filer)",
+      "updated": "2025-11-14T08:28:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:34:39.987981+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1868640/000149315225022601/0001493152-25-022601-index.htm": {
+      "title": "8-K - Roadzen Inc. (0001868640) (Filer)",
+      "updated": "2025-11-14T08:27:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:34:41.063227+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1763660/000149315225022600/0001493152-25-022600-index.htm": {
+      "title": "10-Q - SEATech Ventures Corp. (0001763660) (Filer)",
+      "updated": "2025-11-14T08:27:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:34:42.161233+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/55234/000147793225008249/0001477932-25-008249-index.htm": {
+      "title": "10-Q - Global Asset Management Group, Inc. (0000055234) (Filer)",
+      "updated": "2025-11-14T08:27:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:34:43.228447+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1847345/000149315225022595/0001493152-25-022595-index.htm": {
+      "title": "10-Q - Aspire Biopharma Holdings, Inc. (0001847345) (Filer)",
+      "updated": "2025-11-14T08:20:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T13:34:44.316708+00:00"
     }
   }
 }
