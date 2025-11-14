@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T17:44:11.997263+00:00",
+  "last_checked": "2025-11-14T17:57:18.169248+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -17997,6 +17997,62 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T17:44:10.982677+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1884164/000168316825008410/0001683168-25-008410-index.htm": {
+      "title": "10-Q - KwikClick, Inc. (0001884164) (Filer)",
+      "updated": "2025-11-14T12:55:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T17:57:09.337557+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1811999/000109690625001826/0001096906-25-001826-index.htm": {
+      "title": "10-Q - FARMHOUSE, INC. /NV (0001811999) (Filer)",
+      "updated": "2025-11-14T12:52:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T17:57:10.481961+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1437517/000149315225023235/0001493152-25-023235-index.htm": {
+      "title": "10-Q - CYBERLOQ TECHNOLOGIES, INC. (0001437517) (Filer)",
+      "updated": "2025-11-14T12:49:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T17:57:11.585233+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1711799/000171179925000018/0001711799-25-000018-index.htm": {
+      "title": "10-Q - Nuveen Global Cities REIT, Inc. (0001711799) (Filer)",
+      "updated": "2025-11-14T12:48:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T17:57:12.735160+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/845698/000110465925112181/0001104659-25-112181-index.htm": {
+      "title": "10-Q - GRANT PARK FUTURES FUND LIMITED PARTNERSHIP (0000845698) (Filer)",
+      "updated": "2025-11-14T12:47:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T17:57:13.834498+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1911467/000109690625001824/0001096906-25-001824-index.htm": {
+      "title": "10-Q - Circle Energy, Inc./NV (0001911467) (Filer)",
+      "updated": "2025-11-14T12:46:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T17:57:14.923128+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2091562/000153949725002954/0001539497-25-002954-index.htm": {
+      "title": "8-K/A - Morgan Stanley Bank of America Merrill Lynch Trust 2025-5C2 (0002091562) (Filer)",
+      "updated": "2025-11-14T12:45:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T17:57:16.033420+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1530185/000137647425000932/0001376474-25-000932-index.htm": {
+      "title": "10-Q - Ameritek Ventures, Inc. (0001530185) (Filer)",
+      "updated": "2025-11-14T12:45:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T17:57:17.154157+00:00"
     }
   }
 }
