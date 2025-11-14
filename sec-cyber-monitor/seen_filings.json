@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T21:24:02.997511+00:00",
+  "last_checked": "2025-11-14T21:41:28.939064+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -18564,6 +18564,139 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T21:24:01.982326+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2073153/000110465925112641/0001104659-25-112641-index.htm": {
+      "title": "8-K - Hoyne Bancorp, Inc. (0002073153) (Filer)",
+      "updated": "2025-11-14T16:36:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:41:08.161161+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1410428/000110465925112636/0001104659-25-112636-index.htm": {
+      "title": "10-Q - XWELL, Inc. (0001410428) (Filer)",
+      "updated": "2025-11-14T16:35:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:41:09.290916+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1123360/000110465925112631/0001104659-25-112631-index.htm": {
+      "title": "8-K - GLOBAL PAYMENTS INC (0001123360) (Filer)",
+      "updated": "2025-11-14T16:34:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:41:10.372628+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/4127/000000412725000088/0000004127-25-000088-index.htm": {
+      "title": "8-K - SKYWORKS SOLUTIONS, INC. (0000004127) (Filer)",
+      "updated": "2025-11-14T16:34:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:41:11.482979+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1865200/000110465925112629/0001104659-25-112629-index.htm": {
+      "title": "8-K/A - Angel Studios, Inc. (0001865200) (Filer)",
+      "updated": "2025-11-14T16:33:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:41:12.559115+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1979330/000110465925112627/0001104659-25-112627-index.htm": {
+      "title": "8-K - NB Bancorp, Inc. (0001979330) (Filer)",
+      "updated": "2025-11-14T16:33:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:41:13.656978+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1899017/000119312525283129/0001193125-25-283129-index.htm": {
+      "title": "10-Q - Bain Capital Private Credit (0001899017) (Filer)",
+      "updated": "2025-11-14T16:32:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:41:14.811200+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1017655/000143774925035211/0001437749-25-035211-index.htm": {
+      "title": "10-Q - PAID INC (0001017655) (Filer)",
+      "updated": "2025-11-14T16:32:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:41:15.913333+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1843477/000110465925112614/0001104659-25-112614-index.htm": {
+      "title": "10-Q - Spring Valley Acquisition Corp. II (0001843477) (Filer)",
+      "updated": "2025-11-14T16:32:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:41:16.989625+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1474167/000147793225008322/0001477932-25-008322-index.htm": {
+      "title": "10-Q - Cosmos Health Inc. (0001474167) (Filer)",
+      "updated": "2025-11-14T16:32:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:41:18.082265+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1463972/000110465925112621/0001104659-25-112621-index.htm": {
+      "title": "8-K - Vuzix Corp (0001463972) (Filer)",
+      "updated": "2025-11-14T16:32:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:41:19.178328+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/764401/000143774925035214/0001437749-25-035214-index.htm": {
+      "title": "8-K - INSTEEL INDUSTRIES INC (0000764401) (Filer)",
+      "updated": "2025-11-14T16:32:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:41:20.317293+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1070296/000110465925112606/0001104659-25-112606-index.htm": {
+      "title": "10-Q - FIRST CAPITAL INC (0001070296) (Filer)",
+      "updated": "2025-11-14T16:32:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:41:21.401079+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1314727/000131472725000090/0001314727-25-000090-index.htm": {
+      "title": "10-K - Sonos Inc (0001314727) (Filer)",
+      "updated": "2025-11-14T16:32:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:41:22.479833+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/793306/000143774925035213/0001437749-25-035213-index.htm": {
+      "title": "8-K - BLUE DOLPHIN ENERGY CO (0000793306) (Filer)",
+      "updated": "2025-11-14T16:32:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:41:23.558214+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/5513/000000551325000135/0000005513-25-000135-index.htm": {
+      "title": "8-K - Unum Group (0000005513) (Filer)",
+      "updated": "2025-11-14T16:32:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:41:24.637615+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2067627/000121390025110922/0001213900-25-110922-index.htm": {
+      "title": "8-K - Terra Innovatum Global N.V. (0002067627) (Filer)",
+      "updated": "2025-11-14T16:32:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:41:25.715094+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1580490/000149315225023551/0001493152-25-023551-index.htm": {
+      "title": "10-Q - I-ON Digital Corp. (0001580490) (Filer)",
+      "updated": "2025-11-14T16:32:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:41:26.818608+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1526243/000110465925112609/0001104659-25-112609-index.htm": {
+      "title": "10-Q - PERPETUA RESOURCES CORP. (0001526243) (Filer)",
+      "updated": "2025-11-14T16:32:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T21:41:27.924772+00:00"
     }
   }
 }
