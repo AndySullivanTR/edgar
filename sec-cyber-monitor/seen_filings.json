@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T11:41:16.931647+00:00",
+  "last_checked": "2025-11-14T11:54:22.446807+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -17430,6 +17430,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T11:41:15.917323+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1930313/000119312525281439/0001193125-25-281439-index.htm": {
+      "title": "8-K - SBC Medical Group Holdings Inc (0001930313) (Filer)",
+      "updated": "2025-11-14T06:50:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T11:54:21.432460+00:00"
     }
   }
 }
