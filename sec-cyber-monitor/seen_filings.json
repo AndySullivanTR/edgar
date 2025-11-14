@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T21:54:02.840034+00:00",
+  "last_checked": "2025-11-14T22:25:25.583674+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -18767,6 +18767,139 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T21:54:01.824833+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1853825/000149315225023656/0001493152-25-023656-index.htm": {
+      "title": "10-Q - THUMZUP MEDIA Corp (0001853825) (Filer)",
+      "updated": "2025-11-14T17:24:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:25:04.640040+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1615219/000161521925000164/0001615219-25-000164-index.htm": {
+      "title": "10-Q - Salarius Pharmaceuticals, Inc. (0001615219) (Filer)",
+      "updated": "2025-11-14T17:23:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:25:05.706520+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2073537/000119312525283334/0001193125-25-283334-index.htm": {
+      "title": "10-Q - PIMCO Asset-Based Lending Co LLC (0002073537) (Filer)",
+      "updated": "2025-11-14T17:23:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:25:06.824342+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1937926/000110465925112725/0001104659-25-112725-index.htm": {
+      "title": "8-K - Brookfield Asset Management Ltd. (0001937926) (Filer)",
+      "updated": "2025-11-14T17:23:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:25:07.909281+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1774170/000149315225023650/0001493152-25-023650-index.htm": {
+      "title": "8-K - Powerfleet, Inc. (0001774170) (Filer)",
+      "updated": "2025-11-14T17:23:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:25:09.035690+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1720286/000147793225008344/0001477932-25-008344-index.htm": {
+      "title": "10-Q - INTERNET SCIENCES INC. (0001720286) (Filer)",
+      "updated": "2025-11-14T17:22:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:25:10.167563+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1012019/000143774925035247/0001437749-25-035247-index.htm": {
+      "title": "8-K - RUSH ENTERPRISES INC \\TX\\ (0001012019) (Filer)",
+      "updated": "2025-11-14T17:21:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:25:11.250697+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1918661/000121390025111074/0001213900-25-111074-index.htm": {
+      "title": "NT 10-Q - ESH Acquisition Corp. (0001918661) (Filer)",
+      "updated": "2025-11-14T17:21:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:25:12.406655+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2032020/000119312525283327/0001193125-25-283327-index.htm": {
+      "title": "10-Q - EQT Private Equity Co LLC (0002032020) (Filer)",
+      "updated": "2025-11-14T17:21:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:25:13.521148+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1509223/000110465925112722/0001104659-25-112722-index.htm": {
+      "title": "10-Q - Moatable, Inc. (0001509223) (Filer)",
+      "updated": "2025-11-14T17:21:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:25:14.669757+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1173204/000119312525283328/0001193125-25-283328-index.htm": {
+      "title": "8-K - Cineverse Corp. (0001173204) (Filer)",
+      "updated": "2025-11-14T17:21:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:25:15.757338+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1737523/000147793225008343/0001477932-25-008343-index.htm": {
+      "title": "10-Q - BioNexus Gene Lab Corp (0001737523) (Filer)",
+      "updated": "2025-11-14T17:21:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:25:16.869371+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1820302/000162828025052422/0001628280-25-052422-index.htm": {
+      "title": "8-K - Bakkt Holdings, Inc. (0001820302) (Filer)",
+      "updated": "2025-11-14T17:21:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:25:17.945213+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1449792/000149315225023644/0001493152-25-023644-index.htm": {
+      "title": "10-Q - PIONEER POWER SOLUTIONS, INC. (0001449792) (Filer)",
+      "updated": "2025-11-14T17:21:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:25:19.073240+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1716621/000143774925035245/0001437749-25-035245-index.htm": {
+      "title": "8-K - Catheter Precision, Inc. (0001716621) (Filer)",
+      "updated": "2025-11-14T17:20:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:25:20.164373+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2032019/000119312525283324/0001193125-25-283324-index.htm": {
+      "title": "10-Q - EQT Infrastructure Co LLC (0002032019) (Filer)",
+      "updated": "2025-11-14T17:20:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:25:21.293107+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1646972/000164697225000108/0001646972-25-000108-index.htm": {
+      "title": "8-K - Albertsons Companies, Inc. (0001646972) (Filer)",
+      "updated": "2025-11-14T17:20:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:25:22.378277+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1843165/000121390025111071/0001213900-25-111071-index.htm": {
+      "title": "10-Q - LQR House Inc. (0001843165) (Filer)",
+      "updated": "2025-11-14T17:19:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:25:23.490537+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1775734/000177573425000050/0001775734-25-000050-index.htm": {
+      "title": "8-K - Beneficient (0001775734) (Filer)",
+      "updated": "2025-11-14T17:19:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T22:25:24.568380+00:00"
     }
   }
 }
