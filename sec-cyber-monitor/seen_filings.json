@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T18:57:36.850719+00:00",
+  "last_checked": "2025-11-14T19:22:39.554559+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -18130,6 +18130,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T18:57:35.835992+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1581990/000110465925112283/0001104659-25-112283-index.htm": {
+      "title": "8-K - PLAINS GP HOLDINGS LP (0001581990) (Filer)",
+      "updated": "2025-11-14T14:21:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:22:27.577599+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1560385/000156038525000029/0001560385-25-000029-index.htm": {
+      "title": "8-K - Liberty Media Corp (0001560385) (Filer)",
+      "updated": "2025-11-14T14:21:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:22:28.660642+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1807689/000117152025000343/0001171520-25-000343-index.htm": {
+      "title": "10-Q - FAST CASUAL CONCEPTS, INC. (0001807689) (Filer)",
+      "updated": "2025-11-14T14:21:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:22:29.749694+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1477960/000147793225008276/0001477932-25-008276-index.htm": {
+      "title": "10-Q - Catalyst Crew Technologies Corp. (0001477960) (Filer)",
+      "updated": "2025-11-14T14:20:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:22:30.870739+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/779227/000143774925035129/0001437749-25-035129-index.htm": {
+      "title": "10-Q - STEELE BANCORP INC (0000779227) (Filer)",
+      "updated": "2025-11-14T14:19:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:22:31.955020+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1070423/000110465925112281/0001104659-25-112281-index.htm": {
+      "title": "8-K - PLAINS ALL AMERICAN PIPELINE LP (0001070423) (Filer)",
+      "updated": "2025-11-14T14:18:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:22:33.075001+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1174891/000149315225023306/0001493152-25-023306-index.htm": {
+      "title": "10-Q - CalEthos, Inc. (0001174891) (Filer)",
+      "updated": "2025-11-14T14:18:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:22:34.207743+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1755101/000109690625001840/0001096906-25-001840-index.htm": {
+      "title": "10-Q - APPlife Digital Solutions Inc (0001755101) (Filer)",
+      "updated": "2025-11-14T14:16:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:22:35.294579+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2036060/000119312525282568/0001193125-25-282568-index.htm": {
+      "title": "10-Q - Security Midwest Bancorp, Inc. (0002036060) (Filer)",
+      "updated": "2025-11-14T14:16:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:22:36.378837+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/706698/000109690625001839/0001096906-25-001839-index.htm": {
+      "title": "10-Q - UTAH MEDICAL PRODUCTS INC (0000706698) (Filer)",
+      "updated": "2025-11-14T14:15:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:22:37.461822+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1880431/000149315225023303/0001493152-25-023303-index.htm": {
+      "title": "NT 10-Q - Vocodia Holdings Corp (0001880431) (Filer)",
+      "updated": "2025-11-14T14:15:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T19:22:38.539606+00:00"
     }
   }
 }
