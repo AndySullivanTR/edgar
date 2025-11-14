@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T19:53:43.109577+00:00",
+  "last_checked": "2025-11-14T20:29:13.367043+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -18319,6 +18319,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T19:53:42.095134+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1594204/000121465925016592/0001214659-25-016592-index.htm": {
+      "title": "10-Q - ZHEN DING RESOURCES INC. (0001594204) (Filer)",
+      "updated": "2025-11-14T15:28:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T20:29:05.872657+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1868516/000110465925112396/0001104659-25-112396-index.htm": {
+      "title": "10-Q - StratCap Digital Infrastructure REIT, Inc. (0001868516) (Filer)",
+      "updated": "2025-11-14T15:26:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T20:29:06.951808+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1550913/000114036125042280/0001140361-25-042280-index.htm": {
+      "title": "10-Q - MacKenzie Realty Capital, Inc. (0001550913) (Filer)",
+      "updated": "2025-11-14T15:24:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T20:29:08.031266+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1619312/000118518525001737/0001185185-25-001737-index.htm": {
+      "title": "10-Q - Lightstone Value Plus REIT IV, Inc. (0001619312) (Filer)",
+      "updated": "2025-11-14T15:23:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T20:29:09.109747+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1111741/000119312525282709/0001193125-25-282709-index.htm": {
+      "title": "10-Q - DYNARESOURCE, INC. (0001111741) (Filer)",
+      "updated": "2025-11-14T15:22:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T20:29:10.197133+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1570937/000168316825008436/0001683168-25-008436-index.htm": {
+      "title": "10-Q - Premier Air Charter Holdings Inc. (0001570937) (Filer)",
+      "updated": "2025-11-14T15:22:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T20:29:11.274602+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/946563/000110465925112393/0001104659-25-112393-index.htm": {
+      "title": "8-K - RETRACTABLE TECHNOLOGIES INC (0000946563) (Filer)",
+      "updated": "2025-11-14T15:19:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T20:29:12.351983+00:00"
     }
   }
 }
