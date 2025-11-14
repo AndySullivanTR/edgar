@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T13:54:14.936492+00:00",
+  "last_checked": "2025-11-14T14:26:28.926823+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -17766,6 +17766,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T13:54:13.922670+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1437479/000117494725001388/0001174947-25-001388-index.htm": {
+      "title": "10-Q - ENB Financial Corp (0001437479) (Filer)",
+      "updated": "2025-11-14T09:25:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T14:26:21.328441+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1392449/000165495425013033/0001654954-25-013033-index.htm": {
+      "title": "10-Q - Green Planet Bio Engineering Co. Ltd. (0001392449) (Filer)",
+      "updated": "2025-11-14T09:24:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T14:26:22.538127+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1860871/000149315225022641/0001493152-25-022641-index.htm": {
+      "title": "10-Q - Tevogen Bio Holdings Inc. (0001860871) (Filer)",
+      "updated": "2025-11-14T09:22:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T14:26:23.614714+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1830072/000168316825008376/0001683168-25-008376-index.htm": {
+      "title": "8-K - iPower Inc. (0001830072) (Filer)",
+      "updated": "2025-11-14T09:20:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T14:26:24.683582+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1893657/000149315225022637/0001493152-25-022637-index.htm": {
+      "title": "NT 10-Q - Rubber Leaf Inc (0001893657) (Filer)",
+      "updated": "2025-11-14T09:18:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T14:26:25.757894+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2048951/000121390025110418/0001213900-25-110418-index.htm": {
+      "title": "8-K - Live Oak Acquisition Corp. V (0002048951) (Filer)",
+      "updated": "2025-11-14T09:15:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T14:26:26.844499+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1865494/000119312525281820/0001193125-25-281820-index.htm": {
+      "title": "10-Q - IO Biotech, Inc. (0001865494) (Filer)",
+      "updated": "2025-11-14T09:10:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T14:26:27.911916+00:00"
     }
   }
 }
