@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T14:26:28.926823+00:00",
+  "last_checked": "2025-11-14T14:46:42.632025+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -17815,6 +17815,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T14:26:27.911916+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1978528/000149315225022647/0001493152-25-022647-index.htm": {
+      "title": "10-Q - Quetta Acquisition Corp (0001978528) (Filer)",
+      "updated": "2025-11-14T09:40:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T14:46:41.618425+00:00"
     }
   }
 }
