@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-14T15:43:24.793346+00:00",
+  "last_checked": "2025-11-14T15:56:28.952840+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -17857,6 +17857,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T15:43:23.778936+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1279715/000121465925016507/0001214659-25-016507-index.htm": {
+      "title": "10-Q - Wright Investors Service Holdings, Inc. (0001279715) (Filer)",
+      "updated": "2025-11-14T10:55:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T15:56:25.618263+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/833444/000083344425000097/0000833444-25-000097-index.htm": {
+      "title": "10-K - Johnson Controls International plc (0000833444) (Filer)",
+      "updated": "2025-11-14T10:53:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T15:56:26.821136+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1113313/000171328225000811/0001713282-25-000811-index.htm": {
+      "title": "NT 10-Q/A - ARVANA INC (0001113313) (Filer)",
+      "updated": "2025-11-14T10:47:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-14T15:56:27.938134+00:00"
     }
   }
 }
