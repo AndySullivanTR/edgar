@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T12:55:20.519665+00:00",
+  "last_checked": "2025-11-17T13:37:21.413003+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -19369,6 +19369,195 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T12:55:19.503846+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/929351/000092935125000145/0000929351-25-000145-index.htm": {
+      "title": "8-K - STARZ ENTERTAINMENT CORP /CN/ (0000929351) (Filer)",
+      "updated": "2025-11-17T08:35:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:36:48.045326+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/780571/000117184325007373/0001171843-25-007373-index.htm": {
+      "title": "8-K - ITRON, INC. (0000780571) (Filer)",
+      "updated": "2025-11-17T08:35:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:36:49.172646+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/892553/000119312525283999/0001193125-25-283999-index.htm": {
+      "title": "8-K - CHART INDUSTRIES INC (0000892553) (Filer)",
+      "updated": "2025-11-17T08:35:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:36:50.289303+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1758057/000175805725000020/0001758057-25-000020-index.htm": {
+      "title": "8-K - Luminar Technologies, Inc./DE (0001758057) (Filer)",
+      "updated": "2025-11-17T08:30:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:36:51.406759+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1829794/000168316825008475/0001683168-25-008475-index.htm": {
+      "title": "8-K - Empery Digital Inc. (0001829794) (Filer)",
+      "updated": "2025-11-17T08:30:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:36:52.526923+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/711669/000071166925000165/0000711669-25-000165-index.htm": {
+      "title": "8-K - COLONY BANKCORP INC (0000711669) (Filer)",
+      "updated": "2025-11-17T08:30:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:36:53.667641+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1468174/000110465925112977/0001104659-25-112977-index.htm": {
+      "title": "8-K - Hyatt Hotels Corp (0001468174) (Filer)",
+      "updated": "2025-11-17T08:26:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:36:54.793249+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1179929/000143774925035305/0001437749-25-035305-index.htm": {
+      "title": "8-K - MOLINA HEALTHCARE, INC. (0001179929) (Filer)",
+      "updated": "2025-11-17T08:25:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:36:55.924479+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1050446/000119312525283991/0001193125-25-283991-index.htm": {
+      "title": "8-K - Strategy Inc (0001050446) (Filer)",
+      "updated": "2025-11-17T08:23:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:36:57.081318+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1661059/000110465925112975/0001104659-25-112975-index.htm": {
+      "title": "8-K - NextCure, Inc. (0001661059) (Filer)",
+      "updated": "2025-11-17T08:20:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:36:58.221114+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1494582/000143774925035304/0001437749-25-035304-index.htm": {
+      "title": "8-K - BOSTON OMAHA Corp (0001494582) (Filer)",
+      "updated": "2025-11-17T08:19:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:36:59.355501+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/704532/000119312525283980/0001193125-25-283980-index.htm": {
+      "title": "8-K - ONTO INNOVATION INC. (0000704532) (Filer)",
+      "updated": "2025-11-17T08:17:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:37:00.496430+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1377630/000119312525283977/0001193125-25-283977-index.htm": {
+      "title": "8-K - National CineMedia, Inc. (0001377630) (Filer)",
+      "updated": "2025-11-17T08:16:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:37:01.619539+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1012100/000119312525283978/0001193125-25-283978-index.htm": {
+      "title": "8-K - SEALED AIR CORP/DE (0001012100) (Filer)",
+      "updated": "2025-11-17T08:16:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:37:02.737307+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1141197/000165495425013122/0001654954-25-013122-index.htm": {
+      "title": "8-K - PEDEVCO CORP (0001141197) (Filer)",
+      "updated": "2025-11-17T08:08:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:37:03.861461+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1100682/000162828025052484/0001628280-25-052484-index.htm": {
+      "title": "8-K - CHARLES RIVER LABORATORIES INTERNATIONAL, INC. (0001100682) (Filer)",
+      "updated": "2025-11-17T08:06:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:37:04.982869+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1682639/000110465925112968/0001104659-25-112968-index.htm": {
+      "title": "8-K - HYPERION DEFI, INC. (0001682639) (Filer)",
+      "updated": "2025-11-17T08:06:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:37:06.118411+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/785956/000143774925035287/0001437749-25-035287-index.htm": {
+      "title": "8-K - J&J SNACK FOODS CORP (0000785956) (Filer)",
+      "updated": "2025-11-17T08:05:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:37:07.235959+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1773751/000177375125000362/0001773751-25-000362-index.htm": {
+      "title": "8-K - Hims & Hers Health, Inc. (0001773751) (Filer)",
+      "updated": "2025-11-17T08:04:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:37:08.416023+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1817004/000149315225023764/0001493152-25-023764-index.htm": {
+      "title": "8-K - NEXTNRG, INC. (0001817004) (Filer)",
+      "updated": "2025-11-17T08:00:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:37:09.533748+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1446159/000117184325007372/0001171843-25-007372-index.htm": {
+      "title": "8-K - Predictive Oncology Inc. (0001446159) (Filer)",
+      "updated": "2025-11-17T08:00:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:37:10.661903+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1786471/000149315225023766/0001493152-25-023766-index.htm": {
+      "title": "8-K - Aptera Motors Corp (0001786471) (Filer)",
+      "updated": "2025-11-17T08:00:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": "llm_ok",
+      "first_seen": "2025-11-17T13:37:14.779864+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1597846/000149315225023765/0001493152-25-023765-index.htm": {
+      "title": "8-K - Greenpro Capital Corp. (0001597846) (Filer)",
+      "updated": "2025-11-17T08:00:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:37:15.905471+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1104038/000121465925016768/0001214659-25-016768-index.htm": {
+      "title": "8-K - VerifyMe, Inc. (0001104038) (Filer)",
+      "updated": "2025-11-17T08:00:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:37:17.027235+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1817825/000121390025111268/0001213900-25-111268-index.htm": {
+      "title": "8-K - Steele Creek Capital Corp (0001817825) (Filer)",
+      "updated": "2025-11-17T08:00:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:37:18.154604+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1939365/000121390025111267/0001213900-25-111267-index.htm": {
+      "title": "8-K - INSPIRE VETERINARY PARTNERS, INC. (0001939365) (Filer)",
+      "updated": "2025-11-17T08:00:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:37:19.279966+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/702165/000119312525283950/0001193125-25-283950-index.htm": {
+      "title": "8-K - NORFOLK SOUTHERN CORP (0000702165) (Filer)",
+      "updated": "2025-11-17T08:00:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T13:37:20.398012+00:00"
     }
   }
 }
