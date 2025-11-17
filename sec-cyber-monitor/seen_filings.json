@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T16:58:58.600548+00:00",
+  "last_checked": "2025-11-17T17:29:06.297550+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -19838,6 +19838,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T16:58:57.584420+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/720875/000106299325016897/0001062993-25-016897-index.htm": {
+      "title": "NT 10-Q - DYNATRONICS CORP (0000720875) (Filer)",
+      "updated": "2025-11-17T12:18:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T17:29:01.570240+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1807616/000121390025111387/0001213900-25-111387-index.htm": {
+      "title": "NT 10-Q - Hi-Great Group Holding Co (0001807616) (Filer)",
+      "updated": "2025-11-17T12:13:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T17:29:02.713254+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/319655/000119312525284245/0001193125-25-284245-index.htm": {
+      "title": "8-K - SAN JUAN BASIN ROYALTY TRUST (0000319655) (Filer)",
+      "updated": "2025-11-17T12:10:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T17:29:03.923220+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1098146/000143774925035336/0001437749-25-035336-index.htm": {
+      "title": "8-K - PATRIOT NATIONAL BANCORP INC (0001098146) (Filer)",
+      "updated": "2025-11-17T12:02:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T17:29:05.279794+00:00"
     }
   }
 }
