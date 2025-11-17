@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T10:54:47.493176+00:00",
+  "last_checked": "2025-11-17T11:23:17.860657+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -18935,6 +18935,160 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-14T22:43:27.180703+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1639068/000149315225023734/0001493152-25-023734-index.htm": {
+      "title": "NT 10-Q - Hubilu Venture Corp (0001639068) (Filer)",
+      "updated": "2025-11-17T06:15:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:22:54.214905+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1687229/000168722925000055/0001687229-25-000055-index.htm": {
+      "title": "8-K - Invitation Homes Inc. (0001687229) (Filer)",
+      "updated": "2025-11-17T06:15:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:22:55.336358+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1578329/000118518525001761/0001185185-25-001761-index.htm": {
+      "title": "NT 10-Q - APEX 11 INC. (0001578329) (Filer)",
+      "updated": "2025-11-17T06:15:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:22:56.402968+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1673481/000149315225023733/0001493152-25-023733-index.htm": {
+      "title": "NT 10-Q - Lottery.com Inc. (0001673481) (Filer)",
+      "updated": "2025-11-17T06:14:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:22:57.471135+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1937653/000119312525283873/0001193125-25-283873-index.htm": {
+      "title": "8-K - Zymeworks Inc. (0001937653) (Filer)",
+      "updated": "2025-11-17T06:13:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:22:58.541492+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2011514/000114036125042395/0001140361-25-042395-index.htm": {
+      "title": "8-K - Anteris Technologies Global Corp. (0002011514) (Filer)",
+      "updated": "2025-11-17T06:11:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:22:59.610820+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1657214/000149315225023730/0001493152-25-023730-index.htm": {
+      "title": "NT 10-Q - International Land Alliance Inc. (0001657214) (Filer)",
+      "updated": "2025-11-17T06:10:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:23:00.677507+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1282980/000121390025111229/0001213900-25-111229-index.htm": {
+      "title": "NT 10-Q - Dror Ortho-Design, Inc. (0001282980) (Filer)",
+      "updated": "2025-11-17T06:10:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:23:01.750164+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1460702/000149315225023728/0001493152-25-023728-index.htm": {
+      "title": "8-K - Qualigen Therapeutics, Inc. (0001460702) (Filer)",
+      "updated": "2025-11-17T06:10:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:23:02.820670+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1828748/000149315225023726/0001493152-25-023726-index.htm": {
+      "title": "8-K - ASIAFIN HOLDINGS CORP. (0001828748) (Filer)",
+      "updated": "2025-11-17T06:10:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:23:03.910403+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1498148/000106299325016888/0001062993-25-016888-index.htm": {
+      "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+      "updated": "2025-11-17T06:08:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:23:04.979773+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2067627/000121390025111222/0001213900-25-111222-index.htm": {
+      "title": "8-K/A - Terra Innovatum Global N.V. (0002067627) (Filer)",
+      "updated": "2025-11-17T06:08:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:23:06.051424+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1345126/000134512625000068/0001345126-25-000068-index.htm": {
+      "title": "8-K - Compass Diversified Holdings (0001345126) (Filer)",
+      "updated": "2025-11-17T06:08:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:23:07.124984+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1345122/000134512625000068/0001345126-25-000068-index.htm": {
+      "title": "8-K - Compass Group Diversified Holdings LLC (0001345122) (Filer)",
+      "updated": "2025-11-17T06:08:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:23:08.207754+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/946644/000149315225023724/0001493152-25-023724-index.htm": {
+      "title": "NT 10-Q - AIM ImmunoTech Inc. (0000946644) (Filer)",
+      "updated": "2025-11-17T06:07:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:23:09.273842+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1559998/000149315225023722/0001493152-25-023722-index.htm": {
+      "title": "NT 10-Q - Gaucho Group Holdings, Inc. (0001559998) (Filer)",
+      "updated": "2025-11-17T06:07:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:23:10.340734+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1650648/000119312525283861/0001193125-25-283861-index.htm": {
+      "title": "8-K - 4D Molecular Therapeutics, Inc. (0001650648) (Filer)",
+      "updated": "2025-11-17T06:05:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:23:11.408249+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1692819/000119312525283860/0001193125-25-283860-index.htm": {
+      "title": "8-K - Vistra Corp. (0001692819) (Filer)",
+      "updated": "2025-11-17T06:05:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:23:12.477726+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1471781/000173112225001555/0001731122-25-001555-index.htm": {
+      "title": "10-Q - GBT Technologies Inc. (0001471781) (Filer)",
+      "updated": "2025-11-17T06:05:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:23:13.549535+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/4281/000110465925112874/0001104659-25-112874-index.htm": {
+      "title": "8-K - Howmet Aerospace Inc. (0000004281) (Filer)",
+      "updated": "2025-11-17T06:04:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:23:14.704368+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1012477/000110465925112857/0001104659-25-112857-index.htm": {
+      "title": "8-K - AVADEL PHARMACEUTICALS PLC (0001012477) (Filer)",
+      "updated": "2025-11-17T06:02:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:23:15.778342+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1595527/000110465925112852/0001104659-25-112852-index.htm": {
+      "title": "NT 10-Q - American Strategic Investment Co. (0001595527) (Filer)",
+      "updated": "2025-11-17T06:01:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:23:16.845225+00:00"
     }
   }
 }
