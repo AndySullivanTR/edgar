@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T21:42:49.385183+00:00",
+  "last_checked": "2025-11-17T21:55:29.178629+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -20244,6 +20244,62 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T21:42:48.368246+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/944148/000094414825000027/0000944148-25-000027-index.htm": {
+      "title": "8-K - CBIZ, Inc. (0000944148) (Filer)",
+      "updated": "2025-11-17T16:54:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:55:20.112290+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/948320/000149315225023906/0001493152-25-023906-index.htm": {
+      "title": "10-Q - LifeMD, Inc. (0000948320) (Filer)",
+      "updated": "2025-11-17T16:52:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:55:21.247167+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1698530/000169853025000105/0001698530-25-000105-index.htm": {
+      "title": "8-K - EXICURE, INC. (0001698530) (Filer)",
+      "updated": "2025-11-17T16:52:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:55:22.417951+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1759425/000175942525000057/0001759425-25-000057-index.htm": {
+      "title": "8-K - Mirum Pharmaceuticals, Inc. (0001759425) (Filer)",
+      "updated": "2025-11-17T16:52:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:55:23.560919+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1622345/000149315225023905/0001493152-25-023905-index.htm": {
+      "title": "NT 10-Q - Polar Power, Inc. (0001622345) (Filer)",
+      "updated": "2025-11-17T16:50:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:55:24.697117+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1097864/000114036125042498/0001140361-25-042498-index.htm": {
+      "title": "8-K - ON SEMICONDUCTOR CORP (0001097864) (Filer)",
+      "updated": "2025-11-17T16:47:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:55:25.826236+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1576873/000149315225023902/0001493152-25-023902-index.htm": {
+      "title": "8-K - AMERICAN BATTERY TECHNOLOGY Co (0001576873) (Filer)",
+      "updated": "2025-11-17T16:45:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:55:27.005702+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1759546/000149315225023901/0001493152-25-023901-index.htm": {
+      "title": "8-K - NU RIDE INC. (0001759546) (Filer)",
+      "updated": "2025-11-17T16:45:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:55:28.163094+00:00"
     }
   }
 }
