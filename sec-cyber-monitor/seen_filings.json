@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T20:29:13.659923+00:00",
+  "last_checked": "2025-11-17T20:44:25.430452+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -20090,6 +20090,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T20:29:12.643445+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1895249/000110465925113152/0001104659-25-113152-index.htm": {
+      "title": "8-K - ConnectM Technology Solutions, Inc. (0001895249) (Filer)",
+      "updated": "2025-11-17T15:34:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T20:44:23.270494+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331463/000133146325000223/0001331463-25-000223-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Boston (0001331463) (Filer)",
+      "updated": "2025-11-17T15:31:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T20:44:24.406656+00:00"
     }
   }
 }
