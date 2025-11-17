@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T15:29:32.478548+00:00",
+  "last_checked": "2025-11-17T15:47:59.945058+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -19754,6 +19754,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T15:29:31.461864+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1497230/000165495425013125/0001654954-25-013125-index.htm": {
+      "title": "NT 10-Q - Fyntechnical Innovations Inc (0001497230) (Filer)",
+      "updated": "2025-11-17T10:43:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T15:47:57.864176+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1771514/000119312525284095/0001193125-25-284095-index.htm": {
+      "title": "8-K - ExchangeRight Income Fund (0001771514) (Filer)",
+      "updated": "2025-11-17T10:30:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T15:47:58.929122+00:00"
     }
   }
 }
