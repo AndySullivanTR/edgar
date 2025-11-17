@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T11:54:59.704263+00:00",
+  "last_checked": "2025-11-17T12:55:20.519665+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -19166,6 +19166,209 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T11:54:58.688620+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1517022/000151702225000048/0001517022-25-000048-index.htm": {
+      "title": "8-K - Akebia Therapeutics, Inc. (0001517022) (Filer)",
+      "updated": "2025-11-17T07:54:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:54:49.441122+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1864531/000118518525001763/0001185185-25-001763-index.htm": {
+      "title": "8-K - VSEE HEALTH, INC. (0001864531) (Filer)",
+      "updated": "2025-11-17T07:50:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:54:50.506671+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/914139/000143774925035283/0001437749-25-035283-index.htm": {
+      "title": "8-K - PARKERVISION INC (0000914139) (Filer)",
+      "updated": "2025-11-17T07:49:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:54:51.571387+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2067627/000121390025111263/0001213900-25-111263-index.htm": {
+      "title": "8-K - Terra Innovatum Global N.V. (0002067627) (Filer)",
+      "updated": "2025-11-17T07:46:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:54:52.641674+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1039065/000110465925112952/0001104659-25-112952-index.htm": {
+      "title": "8-K - OSI SYSTEMS INC (0001039065) (Filer)",
+      "updated": "2025-11-17T07:45:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:54:53.705508+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1651992/000147793225008367/0001477932-25-008367-index.htm": {
+      "title": "NT 10-Q - Appsoft Technologies, Inc. (0001651992) (Filer)",
+      "updated": "2025-11-17T07:43:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:54:54.767481+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1420720/000142072025000043/0001420720-25-000043-index.htm": {
+      "title": "10-Q/A - iBio, Inc. (0001420720) (Filer)",
+      "updated": "2025-11-17T07:40:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:54:55.833756+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1434740/000147793225008366/0001477932-25-008366-index.htm": {
+      "title": "NT 10-Q - Ranger Gold Corp. (0001434740) (Filer)",
+      "updated": "2025-11-17T07:39:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:54:56.896123+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1095981/000119312525283935/0001193125-25-283935-index.htm": {
+      "title": "8-K - PLUS THERAPEUTICS, INC. (0001095981) (Filer)",
+      "updated": "2025-11-17T07:35:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:54:57.960337+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1581280/000158128025000025/0001581280-25-000025-index.htm": {
+      "title": "10-K - Twist Bioscience Corp (0001581280) (Filer)",
+      "updated": "2025-11-17T07:31:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:54:59.030863+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/64463/000149315225023755/0001493152-25-023755-index.htm": {
+      "title": "8-K - Soluna Holdings, Inc (0000064463) (Filer)",
+      "updated": "2025-11-17T07:31:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:55:00.116031+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1295810/000119312525283930/0001193125-25-283930-index.htm": {
+      "title": "8-K - Sunstone Hotel Investors, Inc. (0001295810) (Filer)",
+      "updated": "2025-11-17T07:30:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:55:01.192474+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1526119/000110465925112946/0001104659-25-112946-index.htm": {
+      "title": "8-K - Verastem, Inc. (0001526119) (Filer)",
+      "updated": "2025-11-17T07:30:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:55:02.266390+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1429260/000110465925112945/0001104659-25-112945-index.htm": {
+      "title": "8-K - Fortress Biotech, Inc. (0001429260) (Filer)",
+      "updated": "2025-11-17T07:30:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:55:03.332284+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1631574/000119312525283929/0001193125-25-283929-index.htm": {
+      "title": "8-K - Wave Life Sciences Ltd. (0001631574) (Filer)",
+      "updated": "2025-11-17T07:30:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:55:04.412324+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1673358/000119312525283928/0001193125-25-283928-index.htm": {
+      "title": "8-K - Yum China Holdings, Inc. (0001673358) (Filer)",
+      "updated": "2025-11-17T07:30:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:55:05.476573+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/935703/000093570325000093/0000935703-25-000093-index.htm": {
+      "title": "8-K - DOLLAR TREE, INC. (0000935703) (Filer)",
+      "updated": "2025-11-17T07:23:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:55:06.542770+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/846377/000147793225008363/0001477932-25-008363-index.htm": {
+      "title": "10-Q - Totaligent, Inc. (0000846377) (Filer)",
+      "updated": "2025-11-17T07:21:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:55:07.613865+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/746598/000074659825000060/0000746598-25-000060-index.htm": {
+      "title": "10-Q - BRADY CORP (0000746598) (Filer)",
+      "updated": "2025-11-17T07:18:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:55:08.681735+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1826000/000182600025000082/0001826000-25-000082-index.htm": {
+      "title": "NT 10-Q - Latch, Inc. (0001826000) (Filer)",
+      "updated": "2025-11-17T07:17:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:55:09.747985+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/746598/000074659825000059/0000746598-25-000059-index.htm": {
+      "title": "8-K - BRADY CORP (0000746598) (Filer)",
+      "updated": "2025-11-17T07:15:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:55:10.866205+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1826681/000119312525283918/0001193125-25-283918-index.htm": {
+      "title": "8-K - Palladyne AI Corp. (0001826681) (Filer)",
+      "updated": "2025-11-17T07:11:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:55:11.935213+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1482981/000148298125000167/0001482981-25-000167-index.htm": {
+      "title": "8-K - Vita Coco Company, Inc. (0001482981) (Filer)",
+      "updated": "2025-11-17T07:10:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:55:13.036135+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1430306/000199937125017964/0001999371-25-017964-index.htm": {
+      "title": "8-K - Tonix Pharmaceuticals Holding Corp. (0001430306) (Filer)",
+      "updated": "2025-11-17T07:05:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:55:14.133416+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1408198/000140819825000199/0001408198-25-000199-index.htm": {
+      "title": "8-K - MSCI Inc. (0001408198) (Filer)",
+      "updated": "2025-11-17T07:02:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:55:15.199144+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1417926/000149315225023751/0001493152-25-023751-index.htm": {
+      "title": "10-Q - INVO Fertility, Inc. (0001417926) (Filer)",
+      "updated": "2025-11-17T07:00:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:55:16.268458+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1920406/000114036125042409/0001140361-25-042409-index.htm": {
+      "title": "8-K - Strive, Inc. (0001920406) (Filer)",
+      "updated": "2025-11-17T07:00:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:55:17.336968+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/834365/000162828025052479/0001628280-25-052479-index.htm": {
+      "title": "8-K - BIOLIFE SOLUTIONS INC (0000834365) (Filer)",
+      "updated": "2025-11-17T07:00:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:55:18.439811+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1417926/000149315225023749/0001493152-25-023749-index.htm": {
+      "title": "NT 10-Q - INVO Fertility, Inc. (0001417926) (Filer)",
+      "updated": "2025-11-17T06:55:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T12:55:19.503846+00:00"
     }
   }
 }
