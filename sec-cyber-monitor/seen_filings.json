@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T21:26:09.461464+00:00",
+  "last_checked": "2025-11-17T21:42:49.385183+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -20188,6 +20188,62 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T21:26:08.444840+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1734342/000173434225000076/0001734342-25-000076-index.htm": {
+      "title": "8-K/A - Amerant Bancorp Inc. (0001734342) (Filer)",
+      "updated": "2025-11-17T16:40:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:42:40.866007+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/811596/000119312525284711/0001193125-25-284711-index.htm": {
+      "title": "8-K - KAISER ALUMINUM CORP (0000811596) (Filer)",
+      "updated": "2025-11-17T16:40:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:42:41.955675+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2076616/000121390025111562/0001213900-25-111562-index.htm": {
+      "title": "8-K - Tailwind 2.0 Acquisition Corp. (0002076616) (Filer)",
+      "updated": "2025-11-17T16:38:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:42:43.028840+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1936255/000121390025111561/0001213900-25-111561-index.htm": {
+      "title": "NT 10-Q - Four Leaf Acquisition Corp (0001936255) (Filer)",
+      "updated": "2025-11-17T16:37:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:42:44.096060+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1609550/000160955025000055/0001609550-25-000055-index.htm": {
+      "title": "8-K - Inspire Medical Systems, Inc. (0001609550) (Filer)",
+      "updated": "2025-11-17T16:36:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:42:45.163911+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/744452/000110465925113218/0001104659-25-113218-index.htm": {
+      "title": "8-K - BNB PLUS CORP. (0000744452) (Filer)",
+      "updated": "2025-11-17T16:36:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:42:46.232400+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1603454/000149315225023897/0001493152-25-023897-index.htm": {
+      "title": "8-K - Celcuity Inc. (0001603454) (Filer)",
+      "updated": "2025-11-17T16:36:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:42:47.299267+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/946644/000149315225023894/0001493152-25-023894-index.htm": {
+      "title": "10-Q - AIM ImmunoTech Inc. (0000946644) (Filer)",
+      "updated": "2025-11-17T16:36:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:42:48.368246+00:00"
     }
   }
 }
