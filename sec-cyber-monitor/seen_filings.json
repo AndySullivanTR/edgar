@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T22:25:50.260364+00:00",
+  "last_checked": "2025-11-17T22:44:21.840283+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -20370,6 +20370,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T22:25:49.243697+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1811063/000119312525284845/0001193125-25-284845-index.htm": {
+      "title": "8-K - Nuvation Bio Inc. (0001811063) (Filer)",
+      "updated": "2025-11-17T17:31:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T22:44:15.403001+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/69422/000149315225023938/0001493152-25-023938-index.htm": {
+      "title": "8-K - INTERGROUP CORP (0000069422) (Filer)",
+      "updated": "2025-11-17T17:31:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T22:44:16.483710+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1158324/000110465925113284/0001104659-25-113284-index.htm": {
+      "title": "8-K - COGENT COMMUNICATIONS HOLDINGS, INC. (0001158324) (Filer)",
+      "updated": "2025-11-17T17:30:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T22:44:17.569597+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1863460/000149315225023934/0001493152-25-023934-index.htm": {
+      "title": "8-K - PHP Ventures Acquisition Corp. (0001863460) (Filer)",
+      "updated": "2025-11-17T17:29:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T22:44:18.649852+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1716947/000149315225023933/0001493152-25-023933-index.htm": {
+      "title": "8-K - Ensysce Biosciences, Inc. (0001716947) (Filer)",
+      "updated": "2025-11-17T17:29:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T22:44:19.738158+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1728688/000172868825000118/0001728688-25-000118-index.htm": {
+      "title": "8-K - i3 Verticals, Inc. (0001728688) (Filer)",
+      "updated": "2025-11-17T17:29:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T22:44:20.823777+00:00"
     }
   }
 }
