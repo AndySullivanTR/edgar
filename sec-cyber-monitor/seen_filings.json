@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T21:55:29.178629+00:00",
+  "last_checked": "2025-11-17T22:25:50.260364+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -20300,6 +20300,76 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T21:55:28.163094+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1865861/000149315225023924/0001493152-25-023924-index.htm": {
+      "title": "NT 10-Q - Cactus Acquisition Corp. 1 Ltd (0001865861) (Filer)",
+      "updated": "2025-11-17T17:25:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T22:25:39.238146+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1646188/000121390025111625/0001213900-25-111625-index.htm": {
+      "title": "8-K - Ondas Holdings Inc. (0001646188) (Filer)",
+      "updated": "2025-11-17T17:24:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T22:25:40.304449+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1357878/000147237525000140/0001472375-25-000140-index.htm": {
+      "title": "10-Q - REGENEREX PHARMA, INC. (0001357878) (Filer)",
+      "updated": "2025-11-17T17:24:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T22:25:41.417623+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1615219/000161521925000166/0001615219-25-000166-index.htm": {
+      "title": "8-K - Salarius Pharmaceuticals, Inc. (0001615219) (Filer)",
+      "updated": "2025-11-17T17:23:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T22:25:42.591908+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1826681/000119312525284831/0001193125-25-284831-index.htm": {
+      "title": "8-K - Palladyne AI Corp. (0001826681) (Filer)",
+      "updated": "2025-11-17T17:23:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T22:25:43.722692+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1921865/000147793225008410/0001477932-25-008410-index.htm": {
+      "title": "8-K - ASP Isotopes Inc. (0001921865) (Filer)",
+      "updated": "2025-11-17T17:23:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T22:25:44.837927+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/846475/000110465925113280/0001104659-25-113280-index.htm": {
+      "title": "10-Q - ZYNEX INC (0000846475) (Filer)",
+      "updated": "2025-11-17T17:21:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T22:25:45.909120+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2020737/000149315225023919/0001493152-25-023919-index.htm": {
+      "title": "8-K - Caring Brands, Inc. (0002020737) (Filer)",
+      "updated": "2025-11-17T17:20:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T22:25:47.030397+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2030763/000149315225023918/0001493152-25-023918-index.htm": {
+      "title": "8-K - Wellgistics Health, Inc. (0002030763) (Filer)",
+      "updated": "2025-11-17T17:20:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T22:25:48.148999+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1922858/000121390025111620/0001213900-25-111620-index.htm": {
+      "title": "8-K - ECD Automotive Design, Inc. (0001922858) (Filer)",
+      "updated": "2025-11-17T17:20:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T22:25:49.243697+00:00"
     }
   }
 }
