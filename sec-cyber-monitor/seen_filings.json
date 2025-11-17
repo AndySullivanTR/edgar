@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T16:35:34.264749+00:00",
+  "last_checked": "2025-11-17T16:58:58.600548+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -19810,6 +19810,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T16:35:33.248560+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1126956/000119312525284201/0001193125-25-284201-index.htm": {
+      "title": "8-K - SPIRE INC (0001126956) (Filer)",
+      "updated": "2025-11-17T11:43:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T16:58:54.372789+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1284454/000147793225008377/0001477932-25-008377-index.htm": {
+      "title": "NT 10-Q - Nongfu Shop Digital New Retail Co., Ltd (0001284454) (Filer)",
+      "updated": "2025-11-17T11:40:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T16:58:55.446801+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1853047/000121390025111365/0001213900-25-111365-index.htm": {
+      "title": "NT 10-Q - Hudson Acquisition I Corp. (0001853047) (Filer)",
+      "updated": "2025-11-17T11:40:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T16:58:56.513807+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1680139/000121390025111363/0001213900-25-111363-index.htm": {
+      "title": "NT 10-Q - HealthLynked Corp (0001680139) (Filer)",
+      "updated": "2025-11-17T11:36:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T16:58:57.584420+00:00"
     }
   }
 }
