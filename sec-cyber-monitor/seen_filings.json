@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T19:53:35.970270+00:00",
+  "last_checked": "2025-11-17T20:29:13.659923+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -20055,6 +20055,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T19:53:34.954122+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1635341/000163534125000016/0001635341-25-000016-index.htm": {
+      "title": "NT 10-Q - Signature Holdings Corp (0001635341) (Filer)",
+      "updated": "2025-11-17T15:24:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T20:29:08.335667+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2067767/000149315225023827/0001493152-25-023827-index.htm": {
+      "title": "8-K - OFF THE HOOK YS INC. (0002067767) (Filer)",
+      "updated": "2025-11-17T15:19:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T20:29:09.404373+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1939937/000168316825008486/0001683168-25-008486-index.htm": {
+      "title": "8-K - LAMY (0001939937) (Filer)",
+      "updated": "2025-11-17T15:13:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T20:29:10.485812+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1133818/000166357725000332/0001663577-25-000332-index.htm": {
+      "title": "NT 10-Q - BIO-PATH HOLDINGS, INC. (0001133818) (Filer)",
+      "updated": "2025-11-17T15:07:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T20:29:11.558128+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/95953/000009595325000126/0000095953-25-000126-index.htm": {
+      "title": "8-K - ASCENT INDUSTRIES CO. (0000095953) (Filer)",
+      "updated": "2025-11-17T15:07:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T20:29:12.643445+00:00"
     }
   }
 }
