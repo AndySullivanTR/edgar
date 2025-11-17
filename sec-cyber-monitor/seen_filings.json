@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T20:57:45.547005+00:00",
+  "last_checked": "2025-11-17T21:26:09.461464+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -20125,6 +20125,69 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T20:57:44.529439+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1837014/000119312525284662/0001193125-25-284662-index.htm": {
+      "title": "8-K - SmartRent, Inc. (0001837014) (Filer)",
+      "updated": "2025-11-17T16:24:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:25:59.872859+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1444192/000114036125042491/0001140361-25-042491-index.htm": {
+      "title": "10-Q/A - Grace Therapeutics, Inc. (0001444192) (Filer)",
+      "updated": "2025-11-17T16:22:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:26:00.942653+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1563568/000143774925035430/0001437749-25-035430-index.htm": {
+      "title": "8-K - Envirotech Vehicles, Inc. (0001563568) (Filer)",
+      "updated": "2025-11-17T16:22:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:26:02.023579+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1571949/000119312525284651/0001193125-25-284651-index.htm": {
+      "title": "8-K - Intercontinental Exchange, Inc. (0001571949) (Filer)",
+      "updated": "2025-11-17T16:20:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:26:03.093544+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2049595/000119312525284645/0001193125-25-284645-index.htm": {
+      "title": "8-K - BlackRock Monticello Debt Real Estate Investment Trust (0002049595) (Filer)",
+      "updated": "2025-11-17T16:19:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:26:04.163775+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1032208/000103220825000068/0001032208-25-000068-index.htm": {
+      "title": "8-K - SEMPRA (0001032208) (Filer)",
+      "updated": "2025-11-17T16:18:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:26:05.237239+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/92108/000103220825000068/0001032208-25-000068-index.htm": {
+      "title": "8-K - SOUTHERN CALIFORNIA GAS CO (0000092108) (Filer)",
+      "updated": "2025-11-17T16:18:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:26:06.306936+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/86521/000103220825000068/0001032208-25-000068-index.htm": {
+      "title": "8-K - SAN DIEGO GAS & ELECTRIC CO (0000086521) (Filer)",
+      "updated": "2025-11-17T16:18:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:26:07.375786+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/717605/000093041325003469/0000930413-25-003469-index.htm": {
+      "title": "8-K - HEXCEL CORP /DE/ (0000717605) (Filer)",
+      "updated": "2025-11-17T16:18:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T21:26:08.444840+00:00"
     }
   }
 }
