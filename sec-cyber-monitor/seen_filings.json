@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T11:23:17.860657+00:00",
+  "last_checked": "2025-11-17T11:41:47.093383+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -19089,6 +19089,76 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T11:23:16.845225+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1712189/000171218925000083/0001712189-25-000083-index.htm": {
+      "title": "8-K - Target Hospitality Corp. (0001712189) (Filer)",
+      "updated": "2025-11-17T06:39:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:41:36.428409+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1584509/000158450925000214/0001584509-25-000214-index.htm": {
+      "title": "8-K - Aramark (0001584509) (Filer)",
+      "updated": "2025-11-17T06:36:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:41:37.512007+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1861560/000119312525283893/0001193125-25-283893-index.htm": {
+      "title": "8-K - Nuvalent, Inc. (0001861560) (Filer)",
+      "updated": "2025-11-17T06:36:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:41:38.576741+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1895249/000110465925112914/0001104659-25-112914-index.htm": {
+      "title": "10-Q - ConnectM Technology Solutions, Inc. (0001895249) (Filer)",
+      "updated": "2025-11-17T06:34:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:41:39.651988+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1722684/000172268425000081/0001722684-25-000081-index.htm": {
+      "title": "8-K - WYNDHAM HOTELS & RESORTS, INC. (0001722684) (Filer)",
+      "updated": "2025-11-17T06:31:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:41:40.718560+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1211583/000110465925112912/0001104659-25-112912-index.htm": {
+      "title": "8-K - FENNEC PHARMACEUTICALS INC. (0001211583) (Filer)",
+      "updated": "2025-11-17T06:30:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:41:41.785979+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1726711/000121390025111244/0001213900-25-111244-index.htm": {
+      "title": "NT 10-Q - Aditxt, Inc. (0001726711) (Filer)",
+      "updated": "2025-11-17T06:30:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:41:42.852811+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1639068/000149315225023741/0001493152-25-023741-index.htm": {
+      "title": "10-Q - Hubilu Venture Corp (0001639068) (Filer)",
+      "updated": "2025-11-17T06:28:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:41:43.944196+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1232524/000119312525283887/0001193125-25-283887-index.htm": {
+      "title": "8-K - Jazz Pharmaceuticals plc (0001232524) (Filer)",
+      "updated": "2025-11-17T06:28:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:41:45.010936+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1564708/000156470825000580/0001564708-25-000580-index.htm": {
+      "title": "8-K - NEWS CORP (0001564708) (Filer)",
+      "updated": "2025-11-17T06:25:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T11:41:46.077052+00:00"
     }
   }
 }
