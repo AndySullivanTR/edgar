@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T20:44:25.430452+00:00",
+  "last_checked": "2025-11-17T20:57:45.547005+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -20104,6 +20104,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T20:44:24.406656+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1550913/000155091325000164/0001550913-25-000164-index.htm": {
+      "title": "8-K - MacKenzie Realty Capital, Inc. (0001550913) (Filer)",
+      "updated": "2025-11-17T15:55:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T20:57:42.353402+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/908259/000149315225023834/0001493152-25-023834-index.htm": {
+      "title": "10-Q - Oncotelic Therapeutics, Inc. (0000908259) (Filer)",
+      "updated": "2025-11-17T15:45:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T20:57:43.439013+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1163389/000190359625000542/0001903596-25-000542-index.htm": {
+      "title": "10-Q/A - NEW PEOPLES BANKSHARES INC (0001163389) (Filer)",
+      "updated": "2025-11-17T15:44:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T20:57:44.529439+00:00"
     }
   }
 }
