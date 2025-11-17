@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T19:40:16.441075+00:00",
+  "last_checked": "2025-11-17T19:53:35.970270+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -20020,6 +20020,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T19:40:15.425501+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1528985/000119312525284472/0001193125-25-284472-index.htm": {
+      "title": "8-K - Inland Real Estate Income Trust, Inc. (0001528985) (Filer)",
+      "updated": "2025-11-17T14:52:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T19:53:30.677645+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1111741/000119312525284467/0001193125-25-284467-index.htm": {
+      "title": "8-K - DYNARESOURCE, INC. (0001111741) (Filer)",
+      "updated": "2025-11-17T14:49:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T19:53:31.743828+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1069394/000149315225023818/0001493152-25-023818-index.htm": {
+      "title": "8-K - FLEXIBLE SOLUTIONS INTERNATIONAL INC (0001069394) (Filer)",
+      "updated": "2025-11-17T14:46:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T19:53:32.809193+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2024460/000121390025111468/0001213900-25-111468-index.htm": {
+      "title": "10-Q - ChampionsGate Acquisition Corp (0002024460) (Filer)",
+      "updated": "2025-11-17T14:46:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T19:53:33.877230+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/89800/000119312525284461/0001193125-25-284461-index.htm": {
+      "title": "8-K - SHERWIN WILLIAMS CO (0000089800) (Filer)",
+      "updated": "2025-11-17T14:45:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T19:53:34.954122+00:00"
     }
   }
 }
