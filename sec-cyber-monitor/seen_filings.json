@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T14:49:07.855726+00:00",
+  "last_checked": "2025-11-17T15:29:32.478548+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -19733,6 +19733,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T14:29:08.837534+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1525306/000147793225008371/0001477932-25-008371-index.htm": {
+      "title": "10-Q - First America Resources Corp (0001525306) (Filer)",
+      "updated": "2025-11-17T10:14:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T15:29:29.268582+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1525306/000147793225008370/0001477932-25-008370-index.htm": {
+      "title": "NT 10-Q - First America Resources Corp (0001525306) (Filer)",
+      "updated": "2025-11-17T10:09:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T15:29:30.344165+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/795403/000110465925112999/0001104659-25-112999-index.htm": {
+      "title": "8-K - WATTS WATER TECHNOLOGIES INC (0000795403) (Filer)",
+      "updated": "2025-11-17T10:01:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T15:29:31.461864+00:00"
     }
   }
 }
