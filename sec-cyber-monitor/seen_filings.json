@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T18:36:38.579537+00:00",
+  "last_checked": "2025-11-17T18:56:06.097014+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -19929,6 +19929,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T18:36:37.563335+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1408534/000140853425000092/0001408534-25-000092-index.htm": {
+      "title": "10-Q - First Guaranty Bancshares, Inc. (0001408534) (Filer)",
+      "updated": "2025-11-17T13:49:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T18:56:02.846791+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1485074/000147793225008384/0001477932-25-008384-index.htm": {
+      "title": "10-Q - Freeze Tag, Inc. (0001485074) (Filer)",
+      "updated": "2025-11-17T13:40:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T18:56:03.948296+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1519472/000164033425002125/0001640334-25-002125-index.htm": {
+      "title": "8-K - SolarMax Technology, Inc. (0001519472) (Filer)",
+      "updated": "2025-11-17T13:38:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T18:56:05.080305+00:00"
     }
   }
 }
