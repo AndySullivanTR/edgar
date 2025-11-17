@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T13:56:08.187994+00:00",
+  "last_checked": "2025-11-17T14:29:09.854195+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -19621,6 +19621,118 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T13:56:07.172121+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/881787/000119312525284045/0001193125-25-284045-index.htm": {
+      "title": "8-K - CROSS TIMBERS ROYALTY TRUST (0000881787) (Filer)",
+      "updated": "2025-11-17T09:26:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T14:28:52.448843+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2028707/000121390025111321/0001213900-25-111321-index.htm": {
+      "title": "8-K - INFLECTION POINT ACQUISITION CORP. IV (0002028707) (Filer)",
+      "updated": "2025-11-17T09:21:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T14:28:53.569528+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/862022/000119312525284037/0001193125-25-284037-index.htm": {
+      "title": "8-K - HUGOTON ROYALTY TRUST (0000862022) (Filer)",
+      "updated": "2025-11-17T09:18:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T14:28:54.641613+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1808158/000119312525284035/0001193125-25-284035-index.htm": {
+      "title": "8-K - Repare Therapeutics Inc. (0001808158) (Filer)",
+      "updated": "2025-11-17T09:18:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T14:28:55.721582+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/912562/000114036125042426/0001140361-25-042426-index.htm": {
+      "title": "8-K - GIBRALTAR INDUSTRIES, INC. (0000912562) (Filer)",
+      "updated": "2025-11-17T09:11:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T14:28:56.790104+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/835662/000149315225023791/0001493152-25-023791-index.htm": {
+      "title": "NT 10-Q - AiXin Life International, Inc. (0000835662) (Filer)",
+      "updated": "2025-11-17T09:11:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T14:28:57.853982+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2001249/000121390025111312/0001213900-25-111312-index.htm": {
+      "title": "NT 10-Q - MEDICAL EXERCISE INC. (0002001249) (Filer)",
+      "updated": "2025-11-17T09:10:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T14:28:58.921624+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1176309/000121390025111310/0001213900-25-111310-index.htm": {
+      "title": "8-K - ORAMED PHARMACEUTICALS INC. (0001176309) (Filer)",
+      "updated": "2025-11-17T09:05:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T14:28:59.989508+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1651562/000114036125042425/0001140361-25-042425-index.htm": {
+      "title": "8-K - Coursera, Inc. (0001651562) (Filer)",
+      "updated": "2025-11-17T09:02:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T14:29:01.111972+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1646188/000121390025111306/0001213900-25-111306-index.htm": {
+      "title": "8-K - Ondas Holdings Inc. (0001646188) (Filer)",
+      "updated": "2025-11-17T09:02:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T14:29:02.180498+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1842566/000165495425013123/0001654954-25-013123-index.htm": {
+      "title": "8-K - Airship AI Holdings, Inc. (0001842566) (Filer)",
+      "updated": "2025-11-17T09:01:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T14:29:03.295800+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1770501/000149315225023784/0001493152-25-023784-index.htm": {
+      "title": "8-K - Venu Holding Corp (0001770501) (Filer)",
+      "updated": "2025-11-17T09:00:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T14:29:04.418125+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1032033/000103203325000040/0001032033-25-000040-index.htm": {
+      "title": "8-K - SLM Corp (0001032033) (Filer)",
+      "updated": "2025-11-17T09:00:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T14:29:05.503491+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2001184/000200118425000054/0002001184-25-000054-index.htm": {
+      "title": "NT 10-Q - PACS Group, Inc. (0002001184) (Filer)",
+      "updated": "2025-11-17T09:00:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T14:29:06.616167+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1802457/000180245725000076/0001802457-25-000076-index.htm": {
+      "title": "8-K - Origin Materials, Inc. (0001802457) (Filer)",
+      "updated": "2025-11-17T08:57:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T14:29:07.768326+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1646188/000121390025111302/0001213900-25-111302-index.htm": {
+      "title": "8-K - Ondas Holdings Inc. (0001646188) (Filer)",
+      "updated": "2025-11-17T08:57:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T14:29:08.837534+00:00"
     }
   }
 }
