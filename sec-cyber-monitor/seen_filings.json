@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T15:47:59.945058+00:00",
+  "last_checked": "2025-11-17T16:35:34.264749+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -19768,6 +19768,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T15:47:58.929122+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/319654/000119312525284183/0001193125-25-284183-index.htm": {
+      "title": "8-K - PERMIAN BASIN ROYALTY TRUST (0000319654) (Filer)",
+      "updated": "2025-11-17T11:29:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T16:35:27.681187+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1448705/000107997325001780/0001079973-25-001780-index.htm": {
+      "title": "NT 10-Q - BASANITE, INC. (0001448705) (Filer)",
+      "updated": "2025-11-17T11:27:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T16:35:28.749859+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1724009/000119312525284173/0001193125-25-284173-index.htm": {
+      "title": "8-K - PermRock Royalty Trust (0001724009) (Filer)",
+      "updated": "2025-11-17T11:18:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T16:35:29.920775+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/887151/000121390025111353/0001213900-25-111353-index.htm": {
+      "title": "8-K - Capstone Holding Corp. (0000887151) (Filer)",
+      "updated": "2025-11-17T11:12:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T16:35:30.991600+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/62362/000119312525284156/0001193125-25-284156-index.htm": {
+      "title": "8-K - MARINE PETROLEUM TRUST (0000062362) (Filer)",
+      "updated": "2025-11-17T11:09:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T16:35:32.068643+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1534708/000149315225023796/0001493152-25-023796-index.htm": {
+      "title": "8-K - Beeline Holdings, Inc. (0001534708) (Filer)",
+      "updated": "2025-11-17T10:59:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T16:35:33.248560+00:00"
     }
   }
 }
