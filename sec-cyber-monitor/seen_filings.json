@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T18:56:06.097014+00:00",
+  "last_checked": "2025-11-17T19:22:39.488498+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -19950,6 +19950,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T18:56:05.080305+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2092528/000092963825004315/0000929638-25-004315-index.htm": {
+      "title": "8-K - Exeter Automobile Receivables Trust 2025-5 (0002092528) (Filer)",
+      "updated": "2025-11-17T14:18:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T19:22:34.021283+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1654238/000092963825004315/0000929638-25-004315-index.htm": {
+      "title": "8-K - EFCAR, LLC (0001654238) (Filer)",
+      "updated": "2025-11-17T14:18:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T19:22:35.154622+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1939937/000168316825008482/0001683168-25-008482-index.htm": {
+      "title": "10-Q - LAMY (0001939937) (Filer)",
+      "updated": "2025-11-17T14:17:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T19:22:36.286439+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1651932/000164033425002132/0001640334-25-002132-index.htm": {
+      "title": "10-Q - Xenous Holdings, Inc. (0001651932) (Filer)",
+      "updated": "2025-11-17T14:10:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T19:22:37.377525+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1651932/000164033425002130/0001640334-25-002130-index.htm": {
+      "title": "NT 10-Q - Xenous Holdings, Inc. (0001651932) (Filer)",
+      "updated": "2025-11-17T14:01:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T19:22:38.471903+00:00"
     }
   }
 }
