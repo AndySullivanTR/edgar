@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-17T19:22:39.488498+00:00",
+  "last_checked": "2025-11-17T19:40:16.441075+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -19985,6 +19985,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T19:22:38.471903+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1437750/000147793225008386/0001477932-25-008386-index.htm": {
+      "title": "NT 10-Q - T-REX Acquisition Corp. (0001437750) (Filer)",
+      "updated": "2025-11-17T14:38:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T19:40:10.970335+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1330399/000119312525284440/0001193125-25-284440-index.htm": {
+      "title": "8-K/A - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer)",
+      "updated": "2025-11-17T14:36:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T19:40:12.097768+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1447380/000149315225023816/0001493152-25-023816-index.htm": {
+      "title": "NT 10-Q - MOBIVITY HOLDINGS CORP. (0001447380) (Filer)",
+      "updated": "2025-11-17T14:31:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T19:40:13.237285+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1727255/000168316825008483/0001683168-25-008483-index.htm": {
+      "title": "NT 10-Q - Chilean Cobalt Corp. (0001727255) (Filer)",
+      "updated": "2025-11-17T14:30:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T19:40:14.323340+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1131312/000143774925035363/0001437749-25-035363-index.htm": {
+      "title": "8-K - ZION OIL & GAS INC (0001131312) (Filer)",
+      "updated": "2025-11-17T14:26:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-17T19:40:15.425501+00:00"
     }
   }
 }
