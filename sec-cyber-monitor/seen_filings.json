@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-18T13:36:53.936496+00:00",
+  "last_checked": "2025-11-18T13:55:29.675587+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -20720,6 +20720,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-18T13:36:52.919629+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2055592/000205559225000013/0002055592-25-000013-index.htm": {
+      "title": "8-K - Gemini Space Station, Inc. (0002055592) (Filer)",
+      "updated": "2025-11-18T08:47:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T13:55:22.232901+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/831259/000083125925000052/0000831259-25-000052-index.htm": {
+      "title": "8-K - FREEPORT-MCMORAN INC (0000831259) (Filer)",
+      "updated": "2025-11-18T08:46:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T13:55:23.309267+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1892492/000149315225024002/0001493152-25-024002-index.htm": {
+      "title": "8-K - Eightco Holdings Inc. (0001892492) (Filer)",
+      "updated": "2025-11-18T08:45:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T13:55:24.383456+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1018963/000119312525285373/0001193125-25-285373-index.htm": {
+      "title": "8-K - ATI INC (0001018963) (Filer)",
+      "updated": "2025-11-18T08:41:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T13:55:25.452997+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1070235/000107023525000178/0001070235-25-000178-index.htm": {
+      "title": "8-K - BLACKBERRY Ltd (0001070235) (Filer)",
+      "updated": "2025-11-18T08:41:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T13:55:26.525609+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1364885/000110465925113477/0001104659-25-113477-index.htm": {
+      "title": "8-K - Spirit AeroSystems Holdings, Inc. (0001364885) (Filer)",
+      "updated": "2025-11-18T08:40:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T13:55:27.591657+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1726711/000121390025111790/0001213900-25-111790-index.htm": {
+      "title": "8-K - Aditxt, Inc. (0001726711) (Filer)",
+      "updated": "2025-11-18T08:37:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T13:55:28.658616+00:00"
     }
   }
 }
