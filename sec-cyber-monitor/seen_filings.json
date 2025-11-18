@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-18T11:24:13.275193+00:00",
+  "last_checked": "2025-11-18T11:41:59.565453+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -20489,6 +20489,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-18T11:24:12.258604+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1720286/000147793225008423/0001477932-25-008423-index.htm": {
+      "title": "10-Q/A - INTERNET SCIENCES INC. (0001720286) (Filer)",
+      "updated": "2025-11-18T06:34:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T11:41:54.267109+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/923796/000119312525285288/0001193125-25-285288-index.htm": {
+      "title": "8-K - GEO GROUP INC (0000923796) (Filer)",
+      "updated": "2025-11-18T06:33:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T11:41:55.333270+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1842556/000121390025111756/0001213900-25-111756-index.htm": {
+      "title": "8-K - EON Resources Inc. (0001842556) (Filer)",
+      "updated": "2025-11-18T06:31:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T11:41:56.403194+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1865494/000119312525285282/0001193125-25-285282-index.htm": {
+      "title": "8-K - IO Biotech, Inc. (0001865494) (Filer)",
+      "updated": "2025-11-18T06:30:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T11:41:57.478491+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/3453/000110465925113423/0001104659-25-113423-index.htm": {
+      "title": "8-K - Matson, Inc. (0000003453) (Filer)",
+      "updated": "2025-11-18T06:30:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T11:41:58.548533+00:00"
     }
   }
 }
