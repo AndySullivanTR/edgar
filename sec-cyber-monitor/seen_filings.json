@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-18T13:55:29.675587+00:00",
+  "last_checked": "2025-11-18T14:27:42.910218+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -20769,6 +20769,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-18T13:55:28.658616+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1261654/000119312525285413/0001193125-25-285413-index.htm": {
+      "title": "8-K - UNIVERSAL TECHNICAL INSTITUTE INC (0001261654) (Filer)",
+      "updated": "2025-11-18T09:20:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T14:27:28.814003+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1106838/000149315225024006/0001493152-25-024006-index.htm": {
+      "title": "8-K - Sonnet BioTherapeutics Holdings, Inc. (0001106838) (Filer)",
+      "updated": "2025-11-18T09:16:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T14:27:29.881763+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/860413/000086041325000168/0000860413-25-000168-index.htm": {
+      "title": "8-K - FIRST INTERSTATE BANCSYSTEM INC (0000860413) (Filer)",
+      "updated": "2025-11-18T09:15:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T14:27:30.953189+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1039065/000110465925113487/0001104659-25-113487-index.htm": {
+      "title": "8-K - OSI SYSTEMS INC (0001039065) (Filer)",
+      "updated": "2025-11-18T09:08:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T14:27:32.021559+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1646188/000121390025111796/0001213900-25-111796-index.htm": {
+      "title": "8-K - Ondas Holdings Inc. (0001646188) (Filer)",
+      "updated": "2025-11-18T09:07:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T14:27:33.088690+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1521332/000095010325014869/0000950103-25-014869-index.htm": {
+      "title": "8-K - Aptiv PLC (0001521332) (Filer)",
+      "updated": "2025-11-18T09:05:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": "llm_ok",
+      "first_seen": "2025-11-18T14:27:36.537885+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/816761/000162828025052782/0001628280-25-052782-index.htm": {
+      "title": "8-K - TERADATA CORP /DE/ (0000816761) (Filer)",
+      "updated": "2025-11-18T09:04:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T14:27:37.617993+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1130144/000110465925113483/0001104659-25-113483-index.htm": {
+      "title": "8-K - SIERRA BANCORP (0001130144) (Filer)",
+      "updated": "2025-11-18T09:00:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T14:27:38.686603+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1330399/000119312525285390/0001193125-25-285390-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer)",
+      "updated": "2025-11-18T08:59:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T14:27:39.754004+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1517302/000151730225000093/0001517302-25-000093-index.htm": {
+      "title": "8-K - Artisan Partners Asset Management Inc. (0001517302) (Filer)",
+      "updated": "2025-11-18T08:59:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T14:27:40.823679+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1627469/000162746925000003/0001627469-25-000003-index.htm": {
+      "title": "8-K - Photozou Holdings, Inc. (0001627469) (Filer)",
+      "updated": "2025-11-18T08:56:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T14:27:41.892807+00:00"
     }
   }
 }
