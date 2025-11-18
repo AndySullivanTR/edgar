@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-18T10:50:38.465659+00:00",
+  "last_checked": "2025-11-18T11:24:13.275193+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -20412,6 +20412,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-17T22:44:20.823777+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1798100/000179810025000104/0001798100-25-000104-index.htm": {
+      "title": "8-K - NETSTREIT Corp. (0001798100) (Filer)",
+      "updated": "2025-11-18T06:11:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T11:24:01.435592+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1758699/000164033425002157/0001640334-25-002157-index.htm": {
+      "title": "10-Q - TRANSUITE.ORG INC. (0001758699) (Filer)",
+      "updated": "2025-11-18T06:10:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T11:24:02.520096+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1060822/000106082225000164/0001060822-25-000164-index.htm": {
+      "title": "8-K - CARTERS INC (0001060822) (Filer)",
+      "updated": "2025-11-18T06:07:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T11:24:03.662919+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1970622/000197062225000081/0001970622-25-000081-index.htm": {
+      "title": "8-K - USA Rare Earth, Inc. (0001970622) (Filer)",
+      "updated": "2025-11-18T06:07:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T11:24:04.729613+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/354950/000035495025000238/0000354950-25-000238-index.htm": {
+      "title": "8-K - HOME DEPOT, INC. (0000354950) (Filer)",
+      "updated": "2025-11-18T06:05:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T11:24:05.808019+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1937653/000119312525285259/0001193125-25-285259-index.htm": {
+      "title": "8-K - Zymeworks Inc. (0001937653) (Filer)",
+      "updated": "2025-11-18T06:03:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T11:24:06.883364+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1498148/000106299325016916/0001062993-25-016916-index.htm": {
+      "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+      "updated": "2025-11-18T06:03:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T11:24:07.952793+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/77543/000007754325000257/0000077543-25-000257-index.htm": {
+      "title": "8-K - TUTOR PERINI CORP (0000077543) (Filer)",
+      "updated": "2025-11-18T06:02:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T11:24:09.030523+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1066605/000119312525285256/0001193125-25-285256-index.htm": {
+      "title": "8-K - HEIDRICK & STRUGGLES INTERNATIONAL INC (0001066605) (Filer)",
+      "updated": "2025-11-18T06:01:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T11:24:10.113380+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1414932/000119312525285254/0001193125-25-285254-index.htm": {
+      "title": "8-K - Oaktree Specialty Lending Corp (0001414932) (Filer)",
+      "updated": "2025-11-18T06:01:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T11:24:11.185443+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1804176/000180417625000015/0001804176-25-000015-index.htm": {
+      "title": "8-K - Butterfly Network, Inc. (0001804176) (Filer)",
+      "updated": "2025-11-18T06:01:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T11:24:12.258604+00:00"
     }
   }
 }
