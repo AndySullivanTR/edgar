@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-18T11:54:48.118020+00:00",
+  "last_checked": "2025-11-18T12:55:10.662464+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -20531,6 +20531,97 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-18T11:54:47.101326+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/887151/000121390025111773/0001213900-25-111773-index.htm": {
+      "title": "10-Q - Capstone Holding Corp. (0000887151) (Filer)",
+      "updated": "2025-11-18T07:31:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T12:54:56.789377+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1041024/000110465925113452/0001104659-25-113452-index.htm": {
+      "title": "8-K - ROCKWELL MEDICAL, INC. (0001041024) (Filer)",
+      "updated": "2025-11-18T07:30:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T12:54:57.860390+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1828673/000119312525285325/0001193125-25-285325-index.htm": {
+      "title": "8-K - HCW Biologics Inc. (0001828673) (Filer)",
+      "updated": "2025-11-18T07:30:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T12:54:58.931858+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/875657/000143774925035515/0001437749-25-035515-index.htm": {
+      "title": "8-K - ULTRALIFE CORP (0000875657) (Filer)",
+      "updated": "2025-11-18T07:30:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T12:54:59.997880+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/901491/000162828025052775/0001628280-25-052775-index.htm": {
+      "title": "8-K - PAPA JOHNS INTERNATIONAL INC (0000901491) (Filer)",
+      "updated": "2025-11-18T07:29:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T12:55:01.076520+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1451505/000145150525000127/0001451505-25-000127-index.htm": {
+      "title": "8-K - Transocean Ltd. (0001451505) (Filer)",
+      "updated": "2025-11-18T07:13:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T12:55:02.142702+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1595248/000143774925035514/0001437749-25-035514-index.htm": {
+      "title": "8-K - Genprex, Inc. (0001595248) (Filer)",
+      "updated": "2025-11-18T07:10:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T12:55:03.207761+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/868857/000110465925113439/0001104659-25-113439-index.htm": {
+      "title": "8-K - AECOM (0000868857) (Filer)",
+      "updated": "2025-11-18T07:08:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T12:55:04.275391+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1093691/000110465925113437/0001104659-25-113437-index.htm": {
+      "title": "8-K - PLUG POWER INC (0001093691) (Filer)",
+      "updated": "2025-11-18T07:05:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T12:55:05.355807+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1772016/000162828025052773/0001628280-25-052773-index.htm": {
+      "title": "8-K - BELLRING BRANDS, INC. (0001772016) (Filer)",
+      "updated": "2025-11-18T07:04:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T12:55:06.429720+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1632790/000163279025000087/0001632790-25-000087-index.htm": {
+      "title": "8-K - ENERGIZER HOLDINGS, INC. (0001632790) (Filer)",
+      "updated": "2025-11-18T07:02:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T12:55:07.505706+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1020859/000102085925000061/0001020859-25-000061-index.htm": {
+      "title": "8-K - UNITED NATURAL FOODS INC (0001020859) (Filer)",
+      "updated": "2025-11-18T07:01:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T12:55:08.573100+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/795800/000149315225023981/0001493152-25-023981-index.htm": {
+      "title": "8-K - NexMetals Mining Corp. (0000795800) (Filer)",
+      "updated": "2025-11-18T07:00:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T12:55:09.646049+00:00"
     }
   }
 }
