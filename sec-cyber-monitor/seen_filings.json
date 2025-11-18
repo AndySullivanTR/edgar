@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-18T18:38:27.673107+00:00",
+  "last_checked": "2025-11-18T18:58:46.819313+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21007,6 +21007,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-18T18:38:26.656346+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331465/000133146525000268/0001331465-25-000268-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer)",
+      "updated": "2025-11-18T13:50:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T18:58:44.709762+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1519449/000151944925000066/0001519449-25-000066-index.htm": {
+      "title": "8-K - Skyward Specialty Insurance Group, Inc. (0001519449) (Filer)",
+      "updated": "2025-11-18T13:43:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T18:58:45.802080+00:00"
     }
   }
 }
