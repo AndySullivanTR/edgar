@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-18T11:41:59.565453+00:00",
+  "last_checked": "2025-11-18T11:54:48.118020+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -20524,6 +20524,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-18T11:41:58.548533+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1613103/000162828025052771/0001628280-25-052771-index.htm": {
+      "title": "8-K - Medtronic plc (0001613103) (Filer)",
+      "updated": "2025-11-18T06:47:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T11:54:47.101326+00:00"
     }
   }
 }
