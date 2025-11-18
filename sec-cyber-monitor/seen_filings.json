@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-18T15:49:23.443827+00:00",
+  "last_checked": "2025-11-18T16:36:25.153303+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -20909,6 +20909,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-18T15:29:46.295886+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/834071/000095010325014887/0000950103-25-014887-index.htm": {
+      "title": "8-K - TOYOTA MOTOR CREDIT CORP (0000834071) (Filer)",
+      "updated": "2025-11-18T11:24:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T16:36:20.924707+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331757/000133175725000202/0001331757-25-000202-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer)",
+      "updated": "2025-11-18T11:23:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T16:36:21.996393+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/99614/000119312525285571/0001193125-25-285571-index.htm": {
+      "title": "8-K - TRI-CONTINENTAL Corp (0000099614) (Filer)",
+      "updated": "2025-11-18T11:08:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T16:36:23.065202+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/78239/000007823925000081/0000078239-25-000081-index.htm": {
+      "title": "8-K - PVH CORP. /DE/ (0000078239) (Filer)",
+      "updated": "2025-11-18T10:56:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T16:36:24.136344+00:00"
     }
   }
 }
