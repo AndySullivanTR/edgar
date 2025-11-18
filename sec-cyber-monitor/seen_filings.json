@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-18T22:26:12.510746+00:00",
+  "last_checked": "2025-11-18T22:44:31.690535+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21154,6 +21154,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-18T22:26:11.493320+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1289237/000168316825008523/0001683168-25-008523-index.htm": {
+      "title": "8-K - U. S. Premium Beef, LLC (0001289237) (Filer)",
+      "updated": "2025-11-18T17:26:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T22:44:30.673422+00:00"
     }
   }
 }
