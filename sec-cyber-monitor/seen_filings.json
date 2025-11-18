@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-18T18:58:46.819313+00:00",
+  "last_checked": "2025-11-18T19:23:11.806315+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21021,6 +21021,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-18T18:58:45.802080+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1403475/000140347525000074/0001403475-25-000074-index.htm": {
+      "title": "8-K - Bank of Marin Bancorp (0001403475) (Filer)",
+      "updated": "2025-11-18T14:17:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T19:23:09.705285+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1404804/000109690625001885/0001096906-25-001885-index.htm": {
+      "title": "10-Q - Omnitek Engineering Corp (0001404804) (Filer)",
+      "updated": "2025-11-18T14:08:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T19:23:10.788854+00:00"
     }
   }
 }
