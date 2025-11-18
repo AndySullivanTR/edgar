@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-18T19:40:06.234332+00:00",
+  "last_checked": "2025-11-18T19:53:32.171736+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21042,6 +21042,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-18T19:40:05.217322+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/879407/000087940725000019/0000879407-25-000019-index.htm": {
+      "title": "8-K - ARROWHEAD PHARMACEUTICALS, INC. (0000879407) (Filer)",
+      "updated": "2025-11-18T14:49:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T19:53:27.927255+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1657045/000149315225024043/0001493152-25-024043-index.htm": {
+      "title": "10-Q/A - NEXT-ChemX Corporation. (0001657045) (Filer)",
+      "updated": "2025-11-18T14:42:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T19:53:29.005650+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325814/000132581425000213/0001325814-25-000213-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer)",
+      "updated": "2025-11-18T14:41:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T19:53:30.080101+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1109357/000110935725000186/0001109357-25-000186-index.htm": {
+      "title": "8-K - EXELON CORP (0001109357) (Filer)",
+      "updated": "2025-11-18T14:41:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T19:53:31.154521+00:00"
     }
   }
 }
