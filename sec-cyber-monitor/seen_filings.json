@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-18T12:55:10.662464+00:00",
+  "last_checked": "2025-11-18T13:36:53.936496+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -20622,6 +20622,104 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-18T12:55:09.646049+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1787740/000143774925035521/0001437749-25-035521-index.htm": {
+      "title": "8-K - Tivic Health Systems, Inc. (0001787740) (Filer)",
+      "updated": "2025-11-18T08:32:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T13:36:36.099237+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1701963/000121390025111788/0001213900-25-111788-index.htm": {
+      "title": "8-K - Versus Systems Inc. (0001701963) (Filer)",
+      "updated": "2025-11-18T08:30:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T13:36:37.219626+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1892322/000149315225023996/0001493152-25-023996-index.htm": {
+      "title": "8-K - HeartCore Enterprises, Inc. (0001892322) (Filer)",
+      "updated": "2025-11-18T08:30:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": "llm_ok",
+      "first_seen": "2025-11-18T13:36:40.578386+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1612720/000161272025000034/0001612720-25-000034-index.htm": {
+      "title": "8-K - NextDecade Corp (0001612720) (Filer)",
+      "updated": "2025-11-18T08:26:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T13:36:41.697785+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1096275/000149315225023993/0001493152-25-023993-index.htm": {
+      "title": "8-K - Worksport Ltd (0001096275) (Filer)",
+      "updated": "2025-11-18T08:15:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T13:36:42.820669+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/908937/000110465925113465/0001104659-25-113465-index.htm": {
+      "title": "8-K - SIRIUS XM HOLDINGS INC. (0000908937) (Filer)",
+      "updated": "2025-11-18T08:01:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T13:36:43.941043+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/875582/000117184325007399/0001171843-25-007399-index.htm": {
+      "title": "8-K - NORTHERN TECHNOLOGIES INTERNATIONAL CORP (0000875582) (Filer)",
+      "updated": "2025-11-18T08:01:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T13:36:45.054676+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/856984/000149315225023990/0001493152-25-023990-index.htm": {
+      "title": "8-K - QHSLab, Inc. (0000856984) (Filer)",
+      "updated": "2025-11-18T08:00:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T13:36:46.177840+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1360214/000149315225023988/0001493152-25-023988-index.htm": {
+      "title": "8-K - HARROW, INC. (0001360214) (Filer)",
+      "updated": "2025-11-18T08:00:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T13:36:47.299650+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1877461/000147793225008431/0001477932-25-008431-index.htm": {
+      "title": "8-K - 1606 CORP. (0001877461) (Filer)",
+      "updated": "2025-11-18T08:00:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T13:36:48.410704+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/871763/000119312525285348/0001193125-25-285348-index.htm": {
+      "title": "8-K - ManpowerGroup Inc. (0000871763) (Filer)",
+      "updated": "2025-11-18T08:00:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T13:36:49.558677+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1616862/000119312525285351/0001193125-25-285351-index.htm": {
+      "title": "8-K - Axalta Coating Systems Ltd. (0001616862) (Filer)",
+      "updated": "2025-11-18T08:00:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T13:36:50.683975+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1573221/000119312525285350/0001193125-25-285350-index.htm": {
+      "title": "8-K - TheRealReal, Inc. (0001573221) (Filer)",
+      "updated": "2025-11-18T08:00:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T13:36:51.806702+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1579684/000157968425000083/0001579684-25-000083-index.htm": {
+      "title": "8-K - USA TODAY Co., Inc. (0001579684) (Filer)",
+      "updated": "2025-11-18T07:57:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T13:36:52.919629+00:00"
     }
   }
 }
