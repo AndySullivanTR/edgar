@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-18T19:53:32.171736+00:00",
+  "last_checked": "2025-11-18T21:42:04.779171+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21070,6 +21070,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-18T19:53:31.154521+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1561032/000156103225000036/0001561032-25-000036-index.htm": {
+      "title": "8-K - National Healthcare Properties, Inc. (0001561032) (Filer)",
+      "updated": "2025-11-18T16:39:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T21:41:58.272874+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2043630/000182912625009283/0001829126-25-009283-index.htm": {
+      "title": "8-K - StoneBridge Acquisition II Corp (0002043630) (Filer)",
+      "updated": "2025-11-18T16:38:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T21:41:59.373843+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/858877/000085887725000171/0000858877-25-000171-index.htm": {
+      "title": "10-Q - CISCO SYSTEMS, INC. (0000858877) (Filer)",
+      "updated": "2025-11-18T16:38:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T21:42:00.471651+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2077954/000121390025112146/0001213900-25-112146-index.htm": {
+      "title": "8-K - Evolution Global Acquisition Corp (0002077954) (Filer)",
+      "updated": "2025-11-18T16:37:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T21:42:01.568052+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2001557/000162828025052929/0001628280-25-052929-index.htm": {
+      "title": "8-K - Innventure, Inc. (0002001557) (Filer)",
+      "updated": "2025-11-18T16:37:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T21:42:02.665221+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1005817/000100581725000117/0001005817-25-000117-index.htm": {
+      "title": "10-Q/A - TOMPKINS FINANCIAL CORP (0001005817) (Filer)",
+      "updated": "2025-11-18T16:36:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T21:42:03.761962+00:00"
     }
   }
 }
