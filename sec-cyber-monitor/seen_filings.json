@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-18T17:46:28.054489+00:00",
+  "last_checked": "2025-11-18T18:38:27.673107+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -20958,6 +20958,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-18T17:46:27.037406+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1770236/000143774925035555/0001437749-25-035555-index.htm": {
+      "title": "8-K - MOVING iMAGE TECHNOLOGIES INC. (0001770236) (Filer)",
+      "updated": "2025-11-18T13:36:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T18:38:19.979681+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1900454/000188852425019617/0001888524-25-019617-index.htm": {
+      "title": "8-K - Benchmark 2022-B32 Mortgage Trust (0001900454) (Filer)",
+      "updated": "2025-11-18T13:25:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T18:38:21.074409+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1476963/000107997325001794/0001079973-25-001794-index.htm": {
+      "title": "NT 10-Q - Scorpius Holdings, Inc. (0001476963) (Filer)",
+      "updated": "2025-11-18T13:20:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T18:38:22.171424+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/34088/000003408825000074/0000034088-25-000074-index.htm": {
+      "title": "8-K - EXXON MOBIL CORP (0000034088) (Filer)",
+      "updated": "2025-11-18T13:17:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T18:38:23.272968+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/714395/000071439525000057/0000714395-25-000057-index.htm": {
+      "title": "8-K - GERMAN AMERICAN BANCORP, INC. (0000714395) (Filer)",
+      "updated": "2025-11-18T13:14:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T18:38:24.413905+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/354950/000035495025000240/0000354950-25-000240-index.htm": {
+      "title": "8-K - HOME DEPOT, INC. (0000354950) (Filer)",
+      "updated": "2025-11-18T13:09:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T18:38:25.520247+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1316944/000131694425000223/0001316944-25-000223-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of San Francisco (0001316944) (Filer)",
+      "updated": "2025-11-18T13:06:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T18:38:26.656346+00:00"
     }
   }
 }
