@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-18T14:27:42.910218+00:00",
+  "last_checked": "2025-11-18T14:48:37.887926+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -20846,6 +20846,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-18T14:27:41.892807+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331754/000133175425000236/0001331754-25-000236-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer)",
+      "updated": "2025-11-18T09:42:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T14:48:30.706335+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1702015/000170201525000007/0001702015-25-000007-index.htm": {
+      "title": "8-K - AIS Holdings Group, Inc. (0001702015) (Filer)",
+      "updated": "2025-11-18T09:42:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T14:48:31.994267+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1972234/000121390025111500/0001213900-25-111500-index.htm": {
+      "title": "NT 10-Q - VenHub Global, Inc. (0001972234) (Filer)",
+      "updated": "2025-11-18T09:37:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T14:48:33.106814+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1535955/000149315225024012/0001493152-25-024012-index.htm": {
+      "title": "8-K - Lipocine Inc. (0001535955) (Filer)",
+      "updated": "2025-11-18T09:31:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T14:48:34.412456+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1535955/000149315225024011/0001493152-25-024011-index.htm": {
+      "title": "8-K - Lipocine Inc. (0001535955) (Filer)",
+      "updated": "2025-11-18T09:30:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T14:48:35.700628+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/95552/000119312525285425/0001193125-25-285425-index.htm": {
+      "title": "NT 10-Q/A - SUPERIOR INDUSTRIES INTERNATIONAL INC (0000095552) (Filer)",
+      "updated": "2025-11-18T09:30:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T14:48:36.870876+00:00"
     }
   }
 }
