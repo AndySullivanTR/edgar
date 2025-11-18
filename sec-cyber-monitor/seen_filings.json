@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-18T17:29:34.207726+00:00",
+  "last_checked": "2025-11-18T17:46:28.054489+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -20944,6 +20944,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-18T17:29:33.190610+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2086308/000153949725003000/0001539497-25-003000-index.htm": {
+      "title": "8-K/A - Wells Fargo Commercial Mortgage Trust 2025-C65 (0002086308) (Filer)",
+      "updated": "2025-11-18T12:35:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T17:46:25.925604+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325878/000132587825000242/0001325878-25-000242-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer)",
+      "updated": "2025-11-18T12:32:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T17:46:27.037406+00:00"
     }
   }
 }
