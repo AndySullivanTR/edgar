@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-18T21:53:16.073979+00:00",
+  "last_checked": "2025-11-18T22:26:12.510746+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21119,6 +21119,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-18T21:53:15.056803+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2079966/000119312525286456/0001193125-25-286456-index.htm": {
+      "title": "10-Q - Macquarie Infrastructure Fund, L.P. (0002079966) (Filer)",
+      "updated": "2025-11-18T17:22:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T22:26:06.843199+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1430306/000199937125018108/0001999371-25-018108-index.htm": {
+      "title": "8-K - Tonix Pharmaceuticals Holding Corp. (0001430306) (Filer)",
+      "updated": "2025-11-18T17:21:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T22:26:07.957709+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1972234/000121390025112025/0001213900-25-112025-index.htm": {
+      "title": "10-Q - VenHub Global, Inc. (0001972234) (Filer)",
+      "updated": "2025-11-18T17:20:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T22:26:09.119049+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/56873/000110465925113746/0001104659-25-113746-index.htm": {
+      "title": "8-K - KROGER CO (0000056873) (Filer)",
+      "updated": "2025-11-18T17:19:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T22:26:10.270336+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/106535/000119312525286451/0001193125-25-286451-index.htm": {
+      "title": "8-K - WEYERHAEUSER CO (0000106535) (Filer)",
+      "updated": "2025-11-18T17:19:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-18T22:26:11.493320+00:00"
     }
   }
 }
