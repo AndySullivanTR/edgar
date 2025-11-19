@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T13:56:03.376437+00:00",
+  "last_checked": "2025-11-19T14:29:01.880836+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21497,6 +21497,132 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T13:56:02.358672+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1374339/000110465925113978/0001104659-25-113978-index.htm": {
+      "title": "8-K - ProMIS Neurosciences Inc. (0001374339) (Filer)",
+      "updated": "2025-11-19T09:25:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T14:28:37.978059+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1345126/000134512625000070/0001345126-25-000070-index.htm": {
+      "title": "8-K - Compass Diversified Holdings (0001345126) (Filer)",
+      "updated": "2025-11-19T09:19:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T14:28:39.112265+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1345122/000134512625000070/0001345126-25-000070-index.htm": {
+      "title": "8-K - Compass Group Diversified Holdings LLC (0001345122) (Filer)",
+      "updated": "2025-11-19T09:19:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T14:28:40.396275+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1544227/000119312525287163/0001193125-25-287163-index.htm": {
+      "title": "8-K - Tempest Therapeutics, Inc. (0001544227) (Filer)",
+      "updated": "2025-11-19T09:16:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T14:28:41.716111+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1359931/000121390025112383/0001213900-25-112383-index.htm": {
+      "title": "8-K - Protara Therapeutics, Inc. (0001359931) (Filer)",
+      "updated": "2025-11-19T09:15:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T14:28:42.948013+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/109198/000010919825000058/0000109198-25-000058-index.htm": {
+      "title": "8-K - TJX COMPANIES INC /DE/ (0000109198) (Filer)",
+      "updated": "2025-11-19T09:12:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T14:28:44.080346+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1655887/000162828025053065/0001628280-25-053065-index.htm": {
+      "title": "8-K - Blue Owl Capital Corp II (0001655887) (Filer)",
+      "updated": "2025-11-19T09:09:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T14:28:45.247471+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1219601/000119312525287119/0001193125-25-287119-index.htm": {
+      "title": "8-K - CROWN HOLDINGS, INC. (0001219601) (Filer)",
+      "updated": "2025-11-19T09:07:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T14:28:46.408558+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/80661/000008066125000134/0000080661-25-000134-index.htm": {
+      "title": "8-K - PROGRESSIVE CORP/OH/ (0000080661) (Filer)",
+      "updated": "2025-11-19T09:07:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T14:28:47.697115+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1655888/000162828025053061/0001628280-25-053061-index.htm": {
+      "title": "8-K - Blue Owl Capital Corp (0001655888) (Filer)",
+      "updated": "2025-11-19T09:06:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T14:28:48.811946+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1512673/000119312525287114/0001193125-25-287114-index.htm": {
+      "title": "8-K - Block, Inc. (0001512673) (Filer)",
+      "updated": "2025-11-19T09:04:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T14:28:49.925445+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/10456/000162828025053056/0001628280-25-053056-index.htm": {
+      "title": "8-K - BAXTER INTERNATIONAL INC (0000010456) (Filer)",
+      "updated": "2025-11-19T09:03:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T14:28:51.149940+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/719955/000071995525000043/0000719955-25-000043-index.htm": {
+      "title": "8-K - WILLIAMS SONOMA INC (0000719955) (Filer)",
+      "updated": "2025-11-19T09:03:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": "llm_ok",
+      "first_seen": "2025-11-19T14:28:55.091769+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/868278/000149315225024174/0001493152-25-024174-index.htm": {
+      "title": "8-K - ProPhase Labs, Inc. (0000868278) (Filer)",
+      "updated": "2025-11-19T09:00:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T14:28:56.256301+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1616262/000143774925035660/0001437749-25-035660-index.htm": {
+      "title": "8-K - Rocky Mountain Chocolate Factory, Inc. (0001616262) (Filer)",
+      "updated": "2025-11-19T09:00:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T14:28:57.443860+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1626644/000168316825008530/0001683168-25-008530-index.htm": {
+      "title": "8-K - Odyssey Health, Inc. (0001626644) (Filer)",
+      "updated": "2025-11-19T09:00:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T14:28:58.644767+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1698022/000143774925035659/0001437749-25-035659-index.htm": {
+      "title": "8-K - Farmers & Merchants Bancshares, Inc. (0001698022) (Filer)",
+      "updated": "2025-11-19T09:00:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T14:28:59.769692+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1419951/000173112225001569/0001731122-25-001569-index.htm": {
+      "title": "8-K - Data Storage Corp (0001419951) (Filer)",
+      "updated": "2025-11-19T08:58:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T14:29:00.862565+00:00"
     }
   }
 }
