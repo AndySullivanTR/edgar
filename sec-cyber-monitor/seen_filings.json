@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T20:25:59.833348+00:00",
+  "last_checked": "2025-11-19T20:41:53.466533+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21973,6 +21973,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T20:25:58.815538+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1680139/000121390025112578/0001213900-25-112578-index.htm": {
+      "title": "10-Q - HealthLynked Corp (0001680139) (Filer)",
+      "updated": "2025-11-19T15:29:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T20:41:52.448750+00:00"
     }
   }
 }
