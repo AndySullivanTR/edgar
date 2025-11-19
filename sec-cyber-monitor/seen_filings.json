@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T19:21:36.041888+00:00",
+  "last_checked": "2025-11-19T19:40:42.444193+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21882,6 +21882,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T19:21:35.024223+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/8192/000000819225000006/0000008192-25-000006-index.htm": {
+      "title": "8-K - ATLANTIC CITY ELECTRIC CO (0000008192) (Filer)",
+      "updated": "2025-11-19T14:37:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T19:40:36.773373+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/882184/000088218425000081/0000882184-25-000081-index.htm": {
+      "title": "10-K - HORTON D R INC /DE/ (0000882184) (Filer)",
+      "updated": "2025-11-19T14:30:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T19:40:37.955784+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1763329/000109690625001895/0001096906-25-001895-index.htm": {
+      "title": "10-Q - AIBOTICS, INC. (0001763329) (Filer)",
+      "updated": "2025-11-19T14:29:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T19:40:39.106426+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1839285/000121390025112546/0001213900-25-112546-index.htm": {
+      "title": "8-K - Healthcare Triangle, Inc. (0001839285) (Filer)",
+      "updated": "2025-11-19T14:27:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T19:40:40.288225+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1464790/000121390025112543/0001213900-25-112543-index.htm": {
+      "title": "8-K - B. Riley Financial, Inc. (0001464790) (Filer)",
+      "updated": "2025-11-19T14:23:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T19:40:41.427384+00:00"
     }
   }
 }
