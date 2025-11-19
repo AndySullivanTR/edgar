@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T18:39:09.694913+00:00",
+  "last_checked": "2025-11-19T18:55:11.209156+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21854,6 +21854,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T18:39:08.677289+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1123596/000143774925035698/0001437749-25-035698-index.htm": {
+      "title": "8-K - BAB, INC. (0001123596) (Filer)",
+      "updated": "2025-11-19T13:47:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T18:55:10.191392+00:00"
     }
   }
 }
