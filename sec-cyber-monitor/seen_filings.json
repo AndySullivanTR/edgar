@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T15:43:49.214258+00:00",
+  "last_checked": "2025-11-19T15:56:47.591124+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21693,6 +21693,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T15:43:48.196273+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1363598/000136359825000009/0001363598-25-000009-index.htm": {
+      "title": "8-K - Entrex Carbon Market, Inc. (0001363598) (Filer)",
+      "updated": "2025-11-19T10:45:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T15:56:46.573426+00:00"
     }
   }
 }
