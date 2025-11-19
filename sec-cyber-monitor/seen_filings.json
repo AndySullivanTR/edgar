@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T19:40:42.444193+00:00",
+  "last_checked": "2025-11-19T19:53:35.993407+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21917,6 +21917,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T19:40:41.427384+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/918573/000147793225008486/0001477932-25-008486-index.htm": {
+      "title": "10-Q - GROOVE BOTANICALS INC. (0000918573) (Filer)",
+      "updated": "2025-11-19T14:51:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T19:53:32.794845+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2026738/000119312525287949/0001193125-25-287949-index.htm": {
+      "title": "8-K - FORTRESS CREDIT REALTY INCOME TRUST (0002026738) (Filer)",
+      "updated": "2025-11-19T14:47:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T19:53:33.880089+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1966394/000119312525287936/0001193125-25-287936-index.htm": {
+      "title": "8-K - Fortress Net Lease REIT (0001966394) (Filer)",
+      "updated": "2025-11-19T14:43:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T19:53:34.975344+00:00"
     }
   }
 }
