@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T11:23:00.410116+00:00",
+  "last_checked": "2025-11-19T11:41:31.771748+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21196,6 +21196,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T11:22:59.392997+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/935703/000093570325000095/0000935703-25-000095-index.htm": {
+      "title": "8-K - DOLLAR TREE, INC. (0000935703) (Filer)",
+      "updated": "2025-11-19T06:33:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T11:41:26.488273+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1561894/000119312525286912/0001193125-25-286912-index.htm": {
+      "title": "8-K - HA Sustainable Infrastructure Capital, Inc. (0001561894) (Filer)",
+      "updated": "2025-11-19T06:31:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T11:41:27.553069+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1520262/000119312525286909/0001193125-25-286909-index.htm": {
+      "title": "8-K - Alkermes plc. (0001520262) (Filer)",
+      "updated": "2025-11-19T06:28:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T11:41:28.620344+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1868159/000186815925000114/0001868159-25-000114-index.htm": {
+      "title": "8-K - Lineage, Inc. (0001868159) (Filer)",
+      "updated": "2025-11-19T06:27:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T11:41:29.688316+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1012477/000110465925113886/0001104659-25-113886-index.htm": {
+      "title": "8-K - AVADEL PHARMACEUTICALS PLC (0001012477) (Filer)",
+      "updated": "2025-11-19T06:23:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T11:41:30.754422+00:00"
     }
   }
 }
