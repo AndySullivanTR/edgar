@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T11:41:31.771748+00:00",
+  "last_checked": "2025-11-19T11:54:13.943575+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21231,6 +21231,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T11:41:30.754422+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1346830/000110465925113901/0001104659-25-113901-index.htm": {
+      "title": "8-K - Tvardi Therapeutics, Inc. (0001346830) (Filer)",
+      "updated": "2025-11-19T06:44:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T11:54:12.926350+00:00"
     }
   }
 }
