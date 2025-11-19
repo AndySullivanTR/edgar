@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T14:29:01.880836+00:00",
+  "last_checked": "2025-11-19T14:49:17.357917+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21623,6 +21623,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T14:29:00.862565+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/720875/000106299325016938/0001062993-25-016938-index.htm": {
+      "title": "10-Q - DYNATRONICS CORP (0000720875) (Filer)",
+      "updated": "2025-11-19T09:36:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T14:49:14.106628+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2059654/000118518525001796/0001185185-25-001796-index.htm": {
+      "title": "8-K - Blue Acquisition Corp/Cayman (0002059654) (Filer)",
+      "updated": "2025-11-19T09:30:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T14:49:15.230842+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/891532/000149315225024177/0001493152-25-024177-index.htm": {
+      "title": "8-K - PERMA FIX ENVIRONMENTAL SERVICES INC (0000891532) (Filer)",
+      "updated": "2025-11-19T09:30:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T14:49:16.341408+00:00"
     }
   }
 }
