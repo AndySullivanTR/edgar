@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T13:36:37.630532+00:00",
+  "last_checked": "2025-11-19T13:56:03.376437+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21448,6 +21448,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T13:36:36.612948+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1829311/000149315225024172/0001493152-25-024172-index.htm": {
+      "title": "8-K - BITMINE IMMERSION TECHNOLOGIES, INC. (0001829311) (Filer)",
+      "updated": "2025-11-19T08:45:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T13:55:55.583336+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1498710/000095010325014985/0000950103-25-014985-index.htm": {
+      "title": "8-K - Spirit Aviation Holdings, Inc. (0001498710) (Filer)",
+      "updated": "2025-11-19T08:45:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T13:55:56.675921+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1572334/000119312525287068/0001193125-25-287068-index.htm": {
+      "title": "8-K - Virginia National Bankshares Corp (0001572334) (Filer)",
+      "updated": "2025-11-19T08:45:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T13:55:57.805989+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/60667/000006066725000203/0000060667-25-000203-index.htm": {
+      "title": "8-K - LOWES COMPANIES INC (0000060667) (Filer)",
+      "updated": "2025-11-19T08:45:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T13:55:58.956876+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1218683/000121390025112368/0001213900-25-112368-index.htm": {
+      "title": "8-K - Mawson Infrastructure Group Inc. (0001218683) (Filer)",
+      "updated": "2025-11-19T08:40:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T13:56:00.093590+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1598646/000119312525287048/0001193125-25-287048-index.htm": {
+      "title": "8-K - Minerva Neurosciences, Inc. (0001598646) (Filer)",
+      "updated": "2025-11-19T08:40:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T13:56:01.225867+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1801368/000119312525287046/0001193125-25-287046-index.htm": {
+      "title": "8-K - MP Materials Corp. / DE (0001801368) (Filer)",
+      "updated": "2025-11-19T08:39:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T13:56:02.358672+00:00"
     }
   }
 }
