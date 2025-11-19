@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T15:56:47.591124+00:00",
+  "last_checked": "2025-11-19T16:36:43.325174+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21700,6 +21700,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T15:56:46.573426+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1437750/000147793225008479/0001477932-25-008479-index.htm": {
+      "title": "8-K - T-REX Acquisition Corp. (0001437750) (Filer)",
+      "updated": "2025-11-19T11:33:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T16:36:36.945373+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/860131/000121390025112431/0001213900-25-112431-index.htm": {
+      "title": "8-K - Wave Sync Corp. (0000860131) (Filer)",
+      "updated": "2025-11-19T11:31:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T16:36:38.013586+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1888740/000168316825008535/0001683168-25-008535-index.htm": {
+      "title": "10-Q - LSEB Creative Corp. (0001888740) (Filer)",
+      "updated": "2025-11-19T11:28:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T16:36:39.084168+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1047862/000119312525287455/0001193125-25-287455-index.htm": {
+      "title": "8-K - CONSOLIDATED EDISON INC (0001047862) (Filer)",
+      "updated": "2025-11-19T11:16:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T16:36:40.155282+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/23632/000119312525287455/0001193125-25-287455-index.htm": {
+      "title": "8-K - CONSOLIDATED EDISON CO OF NEW YORK INC (0000023632) (Filer)",
+      "updated": "2025-11-19T11:16:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T16:36:41.225363+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/834071/000095010325014993/0000950103-25-014993-index.htm": {
+      "title": "8-K - TOYOTA MOTOR CREDIT CORP (0000834071) (Filer)",
+      "updated": "2025-11-19T11:11:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T16:36:42.307276+00:00"
     }
   }
 }
