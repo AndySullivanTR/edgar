@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T14:49:17.357917+00:00",
+  "last_checked": "2025-11-19T15:28:02.825159+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21644,6 +21644,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T14:49:16.341408+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/867038/000101738625000137/0001017386-25-000137-index.htm": {
+      "title": "10-Q - SPINDLETOP OIL & GAS CO (0000867038) (Filer)",
+      "updated": "2025-11-19T10:16:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T15:27:56.332607+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1363598/000136359825000008/0001363598-25-000008-index.htm": {
+      "title": "8-K - Entrex Carbon Market, Inc. (0001363598) (Filer)",
+      "updated": "2025-11-19T10:15:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T15:27:57.410350+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1651992/000147793225008471/0001477932-25-008471-index.htm": {
+      "title": "10-Q - Appsoft Technologies, Inc. (0001651992) (Filer)",
+      "updated": "2025-11-19T10:12:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T15:27:58.482344+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1482541/000149315225024180/0001493152-25-024180-index.htm": {
+      "title": "8-K - CEA Industries Inc. (0001482541) (Filer)",
+      "updated": "2025-11-19T10:12:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T15:27:59.584495+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/774415/000168316825008532/0001683168-25-008532-index.htm": {
+      "title": "10-Q - King Resources, Inc. (0000774415) (Filer)",
+      "updated": "2025-11-19T10:12:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T15:28:00.655557+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/855787/000143774925035664/0001437749-25-035664-index.htm": {
+      "title": "NT 10-Q - TRULEUM, INC. (0000855787) (Filer)",
+      "updated": "2025-11-19T10:00:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T15:28:01.807405+00:00"
     }
   }
 }
