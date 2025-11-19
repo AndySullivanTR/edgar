@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T17:55:24.279684+00:00",
+  "last_checked": "2025-11-19T18:39:09.694913+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21791,6 +21791,69 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T17:42:10.847468+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1585608/000119312525287650/0001193125-25-287650-index.htm": {
+      "title": "8-K - Jaguar Health, Inc. (0001585608) (Filer)",
+      "updated": "2025-11-19T13:36:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T18:38:57.525961+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1893262/000119312525287642/0001193125-25-287642-index.htm": {
+      "title": "8-K - J.P. Morgan Real Estate Income Trust, Inc. (0001893262) (Filer)",
+      "updated": "2025-11-19T13:29:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T18:38:58.611439+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1895316/000110465925114047/0001104659-25-114047-index.htm": {
+      "title": "8-K - Brightwood Capital Corp I (0001895316) (Filer)",
+      "updated": "2025-11-19T13:28:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T18:38:59.709900+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1662972/000166297225000192/0001662972-25-000192-index.htm": {
+      "title": "8-K - Blackstone Real Estate Income Trust, Inc. (0001662972) (Filer)",
+      "updated": "2025-11-19T13:26:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T18:39:00.788935+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1310488/000109181825000163/0001091818-25-000163-index.htm": {
+      "title": "10-Q - BIOFORCE NANOSCIENCES HOLDINGS, INC. (0001310488) (Filer)",
+      "updated": "2025-11-19T13:22:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T18:39:01.870696+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1496690/000149315225024204/0001493152-25-024204-index.htm": {
+      "title": "10-Q - BlueOne Card, Inc. (0001496690) (Filer)",
+      "updated": "2025-11-19T13:19:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T18:39:02.954868+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1420924/000149315225024198/0001493152-25-024198-index.htm": {
+      "title": "10-Q - Adapti, Inc. (0001420924) (Filer)",
+      "updated": "2025-11-19T13:01:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": "llm_ok",
+      "first_seen": "2025-11-19T18:39:06.480744+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1409197/000121390025112495/0001213900-25-112495-index.htm": {
+      "title": "8-K - Bespoke Extracts, Inc. (0001409197) (Filer)",
+      "updated": "2025-11-19T13:00:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T18:39:07.589571+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1101433/000165495425013277/0001654954-25-013277-index.htm": {
+      "title": "10-Q - QUOTEMEDIA INC (0001101433) (Filer)",
+      "updated": "2025-11-19T12:59:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T18:39:08.677289+00:00"
     }
   }
 }
