@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T11:54:13.943575+00:00",
+  "last_checked": "2025-11-19T12:55:20.867286+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21238,6 +21238,125 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T11:54:12.926350+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/50725/000005072525000079/0000050725-25-000079-index.htm": {
+      "title": "8-K - GRIFFON CORP (0000050725) (Filer)",
+      "updated": "2025-11-19T07:51:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T12:54:59.912460+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1835579/000119312525286984/0001193125-25-286984-index.htm": {
+      "title": "8-K - ImageneBio, Inc. (0001835579) (Filer)",
+      "updated": "2025-11-19T07:50:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T12:55:01.040303+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1019849/000162828025053042/0001628280-25-053042-index.htm": {
+      "title": "8-K - PENSKE AUTOMOTIVE GROUP, INC. (0001019849) (Filer)",
+      "updated": "2025-11-19T07:48:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T12:55:02.112663+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2030829/000192998025000723/0001929980-25-000723-index.htm": {
+      "title": "8-K - PANTAGES CAPITAL ACQUSITION Corp (0002030829) (Filer)",
+      "updated": "2025-11-19T07:34:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T12:55:03.183817+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1479419/000110465925113927/0001104659-25-113927-index.htm": {
+      "title": "10-Q - KALA BIO, Inc. (0001479419) (Filer)",
+      "updated": "2025-11-19T07:26:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T12:55:04.255182+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/922224/000092222425000053/0000922224-25-000053-index.htm": {
+      "title": "8-K - PPL Corp (0000922224) (Filer)",
+      "updated": "2025-11-19T07:21:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T12:55:05.327906+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1595248/000143774925035651/0001437749-25-035651-index.htm": {
+      "title": "8-K - Genprex, Inc. (0001595248) (Filer)",
+      "updated": "2025-11-19T07:13:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T12:55:06.396699+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1997698/000121390025112344/0001213900-25-112344-index.htm": {
+      "title": "10-Q - IGTA Merger Sub Ltd (0001997698) (Filer)",
+      "updated": "2025-11-19T07:11:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T12:55:07.469167+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1866838/000121390025112343/0001213900-25-112343-index.htm": {
+      "title": "10-Q - Inception Growth Acquisition Ltd (0001866838) (Filer)",
+      "updated": "2025-11-19T07:10:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T12:55:08.539991+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1211583/000110465925113915/0001104659-25-113915-index.htm": {
+      "title": "8-K - FENNEC PHARMACEUTICALS INC. (0001211583) (Filer)",
+      "updated": "2025-11-19T07:10:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T12:55:09.610819+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1314102/000119312525286961/0001193125-25-286961-index.htm": {
+      "title": "8-K - EyePoint Pharmaceuticals, Inc. (0001314102) (Filer)",
+      "updated": "2025-11-19T07:05:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T12:55:10.726901+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/67215/000006721525000075/0000067215-25-000075-index.htm": {
+      "title": "8-K - DYCOM INDUSTRIES INC (0000067215) (Filer)",
+      "updated": "2025-11-19T07:04:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T12:55:11.801303+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1674910/000167491025000133/0001674910-25-000133-index.htm": {
+      "title": "8-K - VALVOLINE INC (0001674910) (Filer)",
+      "updated": "2025-11-19T07:02:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T12:55:12.874029+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1937926/000117184325007425/0001171843-25-007425-index.htm": {
+      "title": "8-K - Brookfield Asset Management Ltd. (0001937926) (Filer)",
+      "updated": "2025-11-19T07:00:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T12:55:13.990689+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1786471/000149315225024155/0001493152-25-024155-index.htm": {
+      "title": "8-K - Aptera Motors Corp (0001786471) (Filer)",
+      "updated": "2025-11-19T07:00:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": "llm_ok",
+      "first_seen": "2025-11-19T12:55:17.689566+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/946644/000149315225024156/0001493152-25-024156-index.htm": {
+      "title": "8-K - AIM ImmunoTech Inc. (0000946644) (Filer)",
+      "updated": "2025-11-19T07:00:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T12:55:18.758385+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/67215/000006721525000074/0000067215-25-000074-index.htm": {
+      "title": "8-K - DYCOM INDUSTRIES INC (0000067215) (Filer)",
+      "updated": "2025-11-19T07:00:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T12:55:19.849814+00:00"
     }
   }
 }
