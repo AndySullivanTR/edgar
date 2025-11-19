@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T18:55:11.209156+00:00",
+  "last_checked": "2025-11-19T19:21:36.041888+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21861,6 +21861,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T18:55:10.191392+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/75594/000007559425000022/0000075594-25-000022-index.htm": {
+      "title": "8-K - PACIFICORP /OR/ (0000075594) (Filer)",
+      "updated": "2025-11-19T14:12:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T19:21:32.857922+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/836564/000168316825008543/0001683168-25-008543-index.htm": {
+      "title": "10-Q - Mosaic ImmunoEngineering Inc. (0000836564) (Filer)",
+      "updated": "2025-11-19T14:08:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T19:21:33.937452+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1165320/000143774925035701/0001437749-25-035701-index.htm": {
+      "title": "NT 10-Q - GB SCIENCES INC (0001165320) (Filer)",
+      "updated": "2025-11-19T14:00:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T19:21:35.024223+00:00"
     }
   }
 }
