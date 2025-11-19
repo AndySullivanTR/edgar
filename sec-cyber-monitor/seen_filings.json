@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T21:23:21.727982+00:00",
+  "last_checked": "2025-11-19T21:40:03.109480+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -22099,6 +22099,62 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T21:23:20.710187+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/0001045810-25-000230-index.htm": {
+      "title": "10-Q - NVIDIA CORP (0001045810) (Filer)",
+      "updated": "2025-11-19T16:36:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:39:53.697037+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/102109/000110465925114128/0001104659-25-114128-index.htm": {
+      "title": "10-Q - UNIVERSAL SAFETY PRODUCTS, INC. (0000102109) (Filer)",
+      "updated": "2025-11-19T16:36:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:39:54.902271+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1356093/000143774925035743/0001437749-25-035743-index.htm": {
+      "title": "8-K - CREATIVE REALITIES, INC. (0001356093) (Filer)",
+      "updated": "2025-11-19T16:35:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:39:56.139779+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1417398/000162828025053207/0001628280-25-053207-index.htm": {
+      "title": "10-K - Hillenbrand, Inc. (0001417398) (Filer)",
+      "updated": "2025-11-19T16:34:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:39:57.356647+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2043766/000114036125042744/0001140361-25-042744-index.htm": {
+      "title": "10-Q - Globa Terra Acquisition Corp (0002043766) (Filer)",
+      "updated": "2025-11-19T16:34:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:39:58.539491+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1767837/000162828025053208/0001628280-25-053208-index.htm": {
+      "title": "8-K - Richmond Mutual Bancorporation, Inc. (0001767837) (Filer)",
+      "updated": "2025-11-19T16:34:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:39:59.720374+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/73124/000119312525288182/0001193125-25-288182-index.htm": {
+      "title": "8-K - NORTHERN TRUST CORP (0000073124) (Filer)",
+      "updated": "2025-11-19T16:33:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:40:00.828039+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1802450/000119312525288180/0001193125-25-288180-index.htm": {
+      "title": "10-Q - MSP Recovery, Inc. (0001802450) (Filer)",
+      "updated": "2025-11-19T16:33:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:40:02.091246+00:00"
     }
   }
 }
