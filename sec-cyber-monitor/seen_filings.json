@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T20:41:53.466533+00:00",
+  "last_checked": "2025-11-19T20:55:20.938311+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21980,6 +21980,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T20:41:52.448750+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1329606/000149315225024235/0001493152-25-024235-index.htm": {
+      "title": "10-Q - Clean Energy Technologies, Inc. (0001329606) (Filer)",
+      "updated": "2025-11-19T15:43:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T20:55:18.850719+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1842563/000184256325000024/0001842563-25-000024-index.htm": {
+      "title": "8-K - Go Go Buyers, Inc. (0001842563) (Filer)",
+      "updated": "2025-11-19T15:42:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T20:55:19.920185+00:00"
     }
   }
 }
