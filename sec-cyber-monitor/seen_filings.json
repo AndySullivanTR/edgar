@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T22:25:39.954814+00:00",
+  "last_checked": "2025-11-19T22:43:38.858918+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -22407,6 +22407,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T22:25:38.936136+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1595527/000110465925114200/0001104659-25-114200-index.htm": {
+      "title": "8-K - American Strategic Investment Co. (0001595527) (Filer)",
+      "updated": "2025-11-19T17:31:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:43:33.257495+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1621672/000143774925035759/0001437749-25-035759-index.htm": {
+      "title": "8-K - Super League Enterprise, Inc. (0001621672) (Filer)",
+      "updated": "2025-11-19T17:29:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:43:34.373895+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1593001/000149315225024336/0001493152-25-024336-index.htm": {
+      "title": "10-Q - NightFood Holdings, Inc. (0001593001) (Filer)",
+      "updated": "2025-11-19T17:27:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:43:35.559006+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1156041/000149315225024335/0001493152-25-024335-index.htm": {
+      "title": "10-Q - HOUSTON AMERICAN ENERGY CORP (0001156041) (Filer)",
+      "updated": "2025-11-19T17:27:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:43:36.700918+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/38723/000003872325000146/0000038723-25-000146-index.htm": {
+      "title": "10-Q - 1st FRANKLIN FINANCIAL CORP (0000038723) (Filer)",
+      "updated": "2025-11-19T17:26:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:43:37.840662+00:00"
     }
   }
 }
