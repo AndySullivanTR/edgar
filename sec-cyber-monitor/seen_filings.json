@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T21:40:03.109480+00:00",
+  "last_checked": "2025-11-19T21:53:48.599976+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -22155,6 +22155,111 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T21:40:02.091246+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2031750/000203175025000047/0002031750-25-000047-index.htm": {
+      "title": "8-K - Ares Core Infrastructure Fund (0002031750) (Filer)",
+      "updated": "2025-11-19T16:52:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:53:32.544667+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1438461/000164033425002190/0001640334-25-002190-index.htm": {
+      "title": "10-Q - Yinfu Gold Corp. (0001438461) (Filer)",
+      "updated": "2025-11-19T16:52:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:53:33.616860+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1530766/000149315225024294/0001493152-25-024294-index.htm": {
+      "title": "8-K - Streamex Corp. (0001530766) (Filer)",
+      "updated": "2025-11-19T16:51:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:53:34.692144+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1424657/000121390025112675/0001213900-25-112675-index.htm": {
+      "title": "10-K - Cuentas Inc. (0001424657) (Filer)",
+      "updated": "2025-11-19T16:51:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:53:35.763522+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/765207/000076520725000057/0000765207-25-000057-index.htm": {
+      "title": "8-K - First Bancorp, Inc /ME/ (0000765207) (Filer)",
+      "updated": "2025-11-19T16:50:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:53:36.831307+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1882781/000188278125000042/0001882781-25-000042-index.htm": {
+      "title": "10-Q - C2 Blockchain, Inc. (0001882781) (Filer)",
+      "updated": "2025-11-19T16:49:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:53:37.899028+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1128928/000119312525288244/0001193125-25-288244-index.htm": {
+      "title": "8-K - FLOWERS FOODS INC (0001128928) (Filer)",
+      "updated": "2025-11-19T16:49:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:53:38.967117+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/706863/000070686325000105/0000706863-25-000105-index.htm": {
+      "title": "8-K - UNION BANKSHARES INC (0000706863) (Filer)",
+      "updated": "2025-11-19T16:48:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:53:40.035707+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2033750/000164033425002189/0001640334-25-002189-index.htm": {
+      "title": "10-Q - AEN Group Ltd. (0002033750) (Filer)",
+      "updated": "2025-11-19T16:47:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:53:41.105330+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/885462/000119380525001627/0001193805-25-001627-index.htm": {
+      "title": "10-Q - GULF RESOURCES, INC. (0000885462) (Filer)",
+      "updated": "2025-11-19T16:46:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:53:42.173766+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1419793/000121390025112670/0001213900-25-112670-index.htm": {
+      "title": "10-Q - ORIGINCLEAR, INC. (0001419793) (Filer)",
+      "updated": "2025-11-19T16:45:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:53:43.269949+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1173514/000117351425000133/0001173514-25-000133-index.htm": {
+      "title": "8-K - HYSTER-YALE, INC. (0001173514) (Filer)",
+      "updated": "2025-11-19T16:45:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:53:44.344250+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1701756/000170175625000223/0001701756-25-000223-index.htm": {
+      "title": "8-K - Sadot Group Inc. (0001701756) (Filer)",
+      "updated": "2025-11-19T16:45:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:53:45.429859+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1716166/000149315225024289/0001493152-25-024289-index.htm": {
+      "title": "8-K - Vivos Therapeutics, Inc. (0001716166) (Filer)",
+      "updated": "2025-11-19T16:45:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:53:46.498141+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1624517/000182912625009309/0001829126-25-009309-index.htm": {
+      "title": "10-Q - Frequency Holdings, Inc (0001624517) (Filer)",
+      "updated": "2025-11-19T16:44:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T21:53:47.581514+00:00"
     }
   }
 }
