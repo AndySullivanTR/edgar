@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T12:55:20.867286+00:00",
+  "last_checked": "2025-11-19T13:36:37.630532+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21357,6 +21357,97 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T12:55:19.849814+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1994214/000149315225024170/0001493152-25-024170-index.htm": {
+      "title": "8-K - Nomadar Corp. (0001994214) (Filer)",
+      "updated": "2025-11-19T08:30:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T13:36:23.655309+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/882095/000110465925113968/0001104659-25-113968-index.htm": {
+      "title": "8-K - GILEAD SCIENCES, INC. (0000882095) (Filer)",
+      "updated": "2025-11-19T08:30:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T13:36:24.739069+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1173489/000143774925035656/0001437749-25-035656-index.htm": {
+      "title": "8-K - CEVA INC (0001173489) (Filer)",
+      "updated": "2025-11-19T08:30:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T13:36:25.817117+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1831840/000095010325014983/0000950103-25-014983-index.htm": {
+      "title": "8-K - SEMrush Holdings, Inc. (0001831840) (Filer)",
+      "updated": "2025-11-19T08:27:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T13:36:26.907718+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1995807/000119312525287019/0001193125-25-287019-index.htm": {
+      "title": "8-K - LandBridge Co LLC (0001995807) (Filer)",
+      "updated": "2025-11-19T08:19:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T13:36:27.984734+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1324759/000149315225024169/0001493152-25-024169-index.htm": {
+      "title": "10-Q - HONG YUAN HOLDING GROUP (0001324759) (Filer)",
+      "updated": "2025-11-19T08:16:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T13:36:29.061937+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/883948/000088394825000111/0000883948-25-000111-index.htm": {
+      "title": "8-K - Atlantic Union Bankshares Corp (0000883948) (Filer)",
+      "updated": "2025-11-19T08:04:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T13:36:30.143457+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1848861/000147793225008469/0001477932-25-008469-index.htm": {
+      "title": "8-K - Healthcare AI Acquisition Corp. (0001848861) (Filer)",
+      "updated": "2025-11-19T08:00:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T13:36:31.221442+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1326706/000149315225024167/0001493152-25-024167-index.htm": {
+      "title": "8-K - NanoVibronix, Inc. (0001326706) (Filer)",
+      "updated": "2025-11-19T08:00:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T13:36:32.299484+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1888654/000119312525286999/0001193125-25-286999-index.htm": {
+      "title": "8-K - 5E Advanced Materials, Inc. (0001888654) (Filer)",
+      "updated": "2025-11-19T08:00:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T13:36:33.377213+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/797721/000119312525287000/0001193125-25-287000-index.htm": {
+      "title": "8-K - VIASAT INC (0000797721) (Filer)",
+      "updated": "2025-11-19T08:00:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T13:36:34.457462+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/876427/000119312525286995/0001193125-25-286995-index.htm": {
+      "title": "8-K - MONRO, INC. (0000876427) (Filer)",
+      "updated": "2025-11-19T07:59:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T13:36:35.535108+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/27419/000002741925000123/0000027419-25-000123-index.htm": {
+      "title": "8-K - TARGET CORP (0000027419) (Filer)",
+      "updated": "2025-11-19T07:58:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T13:36:36.612948+00:00"
     }
   }
 }
