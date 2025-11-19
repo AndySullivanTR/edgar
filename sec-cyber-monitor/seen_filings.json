@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T17:26:35.811360+00:00",
+  "last_checked": "2025-11-19T17:42:11.866098+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21770,6 +21770,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T17:26:34.793659+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/80420/000008042025000152/0000080420-25-000152-index.htm": {
+      "title": "10-K - POWELL INDUSTRIES INC (0000080420) (Filer)",
+      "updated": "2025-11-19T12:40:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T17:42:08.696150+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1350593/000135059325000066/0001350593-25-000066-index.htm": {
+      "title": "10-K - Mueller Water Products, Inc. (0001350593) (Filer)",
+      "updated": "2025-11-19T12:38:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T17:42:09.773751+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1589149/000149315225024192/0001493152-25-024192-index.htm": {
+      "title": "10-Q - Greenwave Technology Solutions, Inc. (0001589149) (Filer)",
+      "updated": "2025-11-19T12:35:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T17:42:10.847468+00:00"
     }
   }
 }
