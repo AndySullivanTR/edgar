@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T10:48:36.655564+00:00",
+  "last_checked": "2025-11-19T11:23:00.410116+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21161,6 +21161,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-18T22:44:30.673422+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/788611/000149315225024128/0001493152-25-024128-index.htm": {
+      "title": "8-K - NextTrip, Inc. (0000788611) (Filer)",
+      "updated": "2025-11-19T06:05:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T11:22:51.955767+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1874097/000121390025112325/0001213900-25-112325-index.htm": {
+      "title": "8-K - Cyngn Inc. (0001874097) (Filer)",
+      "updated": "2025-11-19T06:03:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T11:22:53.026555+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1651308/000165130825000148/0001651308-25-000148-index.htm": {
+      "title": "8-K - BeOne Medicines Ltd. (0001651308) (Filer)",
+      "updated": "2025-11-19T06:02:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T11:22:54.091979+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/882361/000117184325007415/0001171843-25-007415-index.htm": {
+      "title": "8-K - Aptose Biosciences Inc. (0000882361) (Filer)",
+      "updated": "2025-11-19T06:02:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": "llm_ok",
+      "first_seen": "2025-11-19T11:22:58.325559+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1498148/000106299325016935/0001062993-25-016935-index.htm": {
+      "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+      "updated": "2025-11-19T06:02:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T11:22:59.392997+00:00"
     }
   }
 }
