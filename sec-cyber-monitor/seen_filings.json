@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T15:28:02.825159+00:00",
+  "last_checked": "2025-11-19T15:43:49.214258+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21686,6 +21686,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T15:28:01.807405+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/835662/000149315225024182/0001493152-25-024182-index.htm": {
+      "title": "10-Q - AiXin Life International, Inc. (0000835662) (Filer)",
+      "updated": "2025-11-19T10:36:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T15:43:48.196273+00:00"
     }
   }
 }
