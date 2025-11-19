@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T21:53:48.599976+00:00",
+  "last_checked": "2025-11-19T22:25:39.954814+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -22260,6 +22260,153 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T21:53:47.581514+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2030763/000149315225024328/0001493152-25-024328-index.htm": {
+      "title": "10-Q - Wellgistics Health, Inc. (0002030763) (Filer)",
+      "updated": "2025-11-19T17:23:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:25:15.979663+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2045370/000121390025112730/0001213900-25-112730-index.htm": {
+      "title": "10-Q - Remora Capital Corp (0002045370) (Filer)",
+      "updated": "2025-11-19T17:23:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:25:17.135223+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1832038/000119312525288347/0001193125-25-288347-index.htm": {
+      "title": "8-K - Invivyd, Inc. (0001832038) (Filer)",
+      "updated": "2025-11-19T17:23:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:25:18.261826+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/41719/000114036125042757/0001140361-25-042757-index.htm": {
+      "title": "8-K - Magnera Corp (0000041719) (Filer)",
+      "updated": "2025-11-19T17:22:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:25:19.388999+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/87802/000165495425013308/0001654954-25-013308-index.htm": {
+      "title": "10-Q - SCIENTIFIC INDUSTRIES INC (0000087802) (Filer)",
+      "updated": "2025-11-19T17:22:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:25:20.518998+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1843724/000162828025053255/0001628280-25-053255-index.htm": {
+      "title": "10-Q - LanzaTech Global, Inc. (0001843724) (Filer)",
+      "updated": "2025-11-19T17:21:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:25:21.763371+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1427570/000121390025112728/0001213900-25-112728-index.htm": {
+      "title": "8-K - Vyome Holdings, Inc (0001427570) (Filer)",
+      "updated": "2025-11-19T17:21:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:25:22.887309+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1750284/000119312525288343/0001193125-25-288343-index.htm": {
+      "title": "8-K - Olema Pharmaceuticals, Inc. (0001750284) (Filer)",
+      "updated": "2025-11-19T17:20:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:25:24.083746+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1396536/000107997325001803/0001079973-25-001803-index.htm": {
+      "title": "8-K - DUOS TECHNOLOGIES GROUP, INC. (0001396536) (Filer)",
+      "updated": "2025-11-19T17:20:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:25:25.221323+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1560672/000162828025053254/0001628280-25-053254-index.htm": {
+      "title": "8-K - Ellington Credit Co (0001560672) (Filer)",
+      "updated": "2025-11-19T17:20:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:25:26.366776+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1880431/000149315225024324/0001493152-25-024324-index.htm": {
+      "title": "8-K - Vocodia Holdings Corp (0001880431) (Filer)",
+      "updated": "2025-11-19T17:19:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:25:27.482568+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1595527/000159552725000014/0001595527-25-000014-index.htm": {
+      "title": "10-Q - American Strategic Investment Co. (0001595527) (Filer)",
+      "updated": "2025-11-19T17:19:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:25:28.618363+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1859807/000121390025112723/0001213900-25-112723-index.htm": {
+      "title": "10-Q - Profusa, Inc. (0001859807) (Filer)",
+      "updated": "2025-11-19T17:19:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:25:29.769483+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1128189/000107997325001802/0001079973-25-001802-index.htm": {
+      "title": "8-K/A - ProtoKinetix, Inc. (0001128189) (Filer)",
+      "updated": "2025-11-19T17:19:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:25:30.885029+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1564708/000156470825000586/0001564708-25-000586-index.htm": {
+      "title": "8-K - NEWS CORP (0001564708) (Filer)",
+      "updated": "2025-11-19T17:19:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:25:32.003216+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1297107/000119312525288330/0001193125-25-288330-index.htm": {
+      "title": "8-K - CoastalSouth Bancshares, Inc. (0001297107) (Filer)",
+      "updated": "2025-11-19T17:17:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:25:33.138107+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1069533/000143774925035755/0001437749-25-035755-index.htm": {
+      "title": "8-K - RGC RESOURCES INC (0001069533) (Filer)",
+      "updated": "2025-11-19T17:16:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:25:34.261500+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/50725/000162828025053242/0001628280-25-053242-index.htm": {
+      "title": "10-K - GRIFFON CORP (0000050725) (Filer)",
+      "updated": "2025-11-19T17:16:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:25:35.461338+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1081834/000121465925016956/0001214659-25-016956-index.htm": {
+      "title": "10-Q - Kuber Resources Corp (0001081834) (Filer)",
+      "updated": "2025-11-19T17:16:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:25:36.674728+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1770450/000119312525288323/0001193125-25-288323-index.htm": {
+      "title": "8-K - Xerox Holdings Corp (0001770450) (Filer)",
+      "updated": "2025-11-19T17:16:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:25:37.791517+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/108772/000119312525288323/0001193125-25-288323-index.htm": {
+      "title": "8-K - XEROX CORP (0000108772) (Filer)",
+      "updated": "2025-11-19T17:16:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T22:25:38.936136+00:00"
     }
   }
 }
