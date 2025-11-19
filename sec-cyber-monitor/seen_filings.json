@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T19:53:35.993407+00:00",
+  "last_checked": "2025-11-19T20:25:59.833348+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21938,6 +21938,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T19:53:34.975344+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1169138/000164033425002175/0001640334-25-002175-index.htm": {
+      "title": "10-Q - GIVBUX, INC. (0001169138) (Filer)",
+      "updated": "2025-11-19T15:23:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T20:25:53.465878+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1391426/000190359625000549/0001903596-25-000549-index.htm": {
+      "title": "10-Q - Clean Vision Corp (0001391426) (Filer)",
+      "updated": "2025-11-19T15:18:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T20:25:54.773537+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1329842/000165495425013295/0001654954-25-013295-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
+      "updated": "2025-11-19T15:10:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T20:25:56.057179+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1319229/000110465925114064/0001104659-25-114064-index.htm": {
+      "title": "8-K - TransMontaigne Partners LLC (0001319229) (Filer)",
+      "updated": "2025-11-19T15:04:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T20:25:57.503427+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/889609/000168316825008548/0001683168-25-008548-index.htm": {
+      "title": "8-K - CONSUMER PORTFOLIO SERVICES, INC. (0000889609) (Filer)",
+      "updated": "2025-11-19T14:58:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T20:25:58.815538+00:00"
     }
   }
 }
