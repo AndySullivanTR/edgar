@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-19T16:36:43.325174+00:00",
+  "last_checked": "2025-11-19T16:58:31.323499+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -21742,6 +21742,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T16:36:42.307276+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1284454/000147793225008480/0001477932-25-008480-index.htm": {
+      "title": "10-Q - Nongfu Shop Digital New Retail Co., Ltd (0001284454) (Filer)",
+      "updated": "2025-11-19T11:38:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-19T16:58:30.305807+00:00"
     }
   }
 }
