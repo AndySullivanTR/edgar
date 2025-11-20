@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-20T14:57:11.759719+00:00",
+  "last_checked": "2025-11-20T15:31:21.994852+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -22890,6 +22890,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-20T14:44:29.038870+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1988280/000119312525289062/0001193125-25-289062-index.htm": {
+      "title": "8-K - Manulife Private Credit Fund (0001988280) (Filer)",
+      "updated": "2025-11-20T10:24:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T15:31:18.561260+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2969/000000296925000055/0000002969-25-000055-index.htm": {
+      "title": "10-K - Air Products & Chemicals, Inc. (0000002969) (Filer)",
+      "updated": "2025-11-20T10:20:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T15:31:19.877808+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1329842/000165495425013324/0001654954-25-013324-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
+      "updated": "2025-11-20T10:15:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T15:31:20.976052+00:00"
     }
   }
 }
