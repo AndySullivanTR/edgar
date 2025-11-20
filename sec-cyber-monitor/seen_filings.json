@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-20T10:48:05.555924+00:00",
+  "last_checked": "2025-11-20T11:23:03.327086+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -22442,6 +22442,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-19T22:43:37.840662+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/895447/000119312525288813/0001193125-25-288813-index.htm": {
+      "title": "8-K - SHOE CARNIVAL INC (0000895447) (Filer)",
+      "updated": "2025-11-20T06:20:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T11:22:55.428745+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1597846/000149315225024386/0001493152-25-024386-index.htm": {
+      "title": "8-K - Greenpro Capital Corp. (0001597846) (Filer)",
+      "updated": "2025-11-20T06:15:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T11:22:56.547225+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1673481/000149315225024384/0001493152-25-024384-index.htm": {
+      "title": "10-Q - Lottery.com Inc. (0001673481) (Filer)",
+      "updated": "2025-11-20T06:10:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T11:22:57.718429+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1657214/000149315225024381/0001493152-25-024381-index.htm": {
+      "title": "8-K - International Land Alliance Inc. (0001657214) (Filer)",
+      "updated": "2025-11-20T06:05:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T11:22:58.959551+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1702744/000110465925114309/0001104659-25-114309-index.htm": {
+      "title": "8-K - Simply Good Foods Co (0001702744) (Filer)",
+      "updated": "2025-11-20T06:03:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T11:23:00.075383+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/352955/000143774925035779/0001437749-25-035779-index.htm": {
+      "title": "8-K - CKX LANDS, INC. (0000352955) (Filer)",
+      "updated": "2025-11-20T06:01:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T11:23:01.191844+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1861560/000119312525288770/0001193125-25-288770-index.htm": {
+      "title": "8-K - Nuvalent, Inc. (0001861560) (Filer)",
+      "updated": "2025-11-20T06:01:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T11:23:02.309908+00:00"
     }
   }
 }
