@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-20T20:45:22.135576+00:00",
+  "last_checked": "2025-11-20T21:23:55.891639+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23184,6 +23184,62 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-20T20:30:11.531773+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1232582/000123258225000172/0001232582-25-000172-index.htm": {
+      "title": "8-K - ASHFORD HOSPITALITY TRUST INC (0001232582) (Filer)",
+      "updated": "2025-11-20T16:23:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:23:47.374939+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/48732/000110465925114622/0001104659-25-114622-index.htm": {
+      "title": "8-K - CENTERPOINT ENERGY HOUSTON ELECTRIC LLC (0000048732) (Filer)",
+      "updated": "2025-11-20T16:22:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:23:48.450865+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1064728/000106472825000141/0001064728-25-000141-index.htm": {
+      "title": "8-K - PEABODY ENERGY CORP (0001064728) (Filer)",
+      "updated": "2025-11-20T16:21:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:23:49.518531+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1743759/000119312525289820/0001193125-25-289820-index.htm": {
+      "title": "8-K - Corsair Gaming, Inc. (0001743759) (Filer)",
+      "updated": "2025-11-20T16:20:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:23:50.587523+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/896878/000089687825000050/0000896878-25-000050-index.htm": {
+      "title": "8-K - INTUIT INC. (0000896878) (Filer)",
+      "updated": "2025-11-20T16:19:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:23:51.661905+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/701985/000070198525000035/0000701985-25-000035-index.htm": {
+      "title": "10-Q - Bath & Body Works, Inc. (0000701985) (Filer)",
+      "updated": "2025-11-20T16:19:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:23:52.733480+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/885508/000088550825000069/0000885508-25-000069-index.htm": {
+      "title": "8-K - STRATUS PROPERTIES INC (0000885508) (Filer)",
+      "updated": "2025-11-20T16:19:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:23:53.803545+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/895728/000110465925114619/0001104659-25-114619-index.htm": {
+      "title": "8-K - ENBRIDGE INC (0000895728) (Filer)",
+      "updated": "2025-11-20T16:19:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:23:54.873011+00:00"
     }
   }
 }
