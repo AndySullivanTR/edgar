@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-20T21:53:47.353940+00:00",
+  "last_checked": "2025-11-20T22:23:14.987642+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23394,6 +23394,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-20T21:53:46.334887+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1503274/000162828025053420/0001628280-25-053420-index.htm": {
+      "title": "8-K - Quanterix Corp (0001503274) (Filer)",
+      "updated": "2025-11-20T17:22:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T22:23:07.530266+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1879403/000121390025113187/0001213900-25-113187-index.htm": {
+      "title": "8-K - La Rosa Holdings Corp. (0001879403) (Filer)",
+      "updated": "2025-11-20T17:20:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T22:23:08.600556+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1661053/000149315225024494/0001493152-25-024494-index.htm": {
+      "title": "8-K - enVVeno Medical Corp (0001661053) (Filer)",
+      "updated": "2025-11-20T17:18:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T22:23:09.671025+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1971532/000149315225024491/0001493152-25-024491-index.htm": {
+      "title": "8-K - Telomir Pharmaceuticals, Inc. (0001971532) (Filer)",
+      "updated": "2025-11-20T17:15:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T22:23:10.743776+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1890107/000119312525290015/0001193125-25-290015-index.htm": {
+      "title": "8-K - First Eagle Private Credit Fund (0001890107) (Filer)",
+      "updated": "2025-11-20T17:15:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T22:23:11.812990+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1446159/000117184325007488/0001171843-25-007488-index.htm": {
+      "title": "8-K - Predictive Oncology Inc. (0001446159) (Filer)",
+      "updated": "2025-11-20T17:15:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T22:23:12.882499+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1864531/000118518525001818/0001185185-25-001818-index.htm": {
+      "title": "10-Q/A - VSEE HEALTH, INC. (0001864531) (Filer)",
+      "updated": "2025-11-20T17:14:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T22:23:13.968309+00:00"
     }
   }
 }
