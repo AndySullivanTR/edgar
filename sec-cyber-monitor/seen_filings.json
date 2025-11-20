@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-20T18:58:03.626946+00:00",
+  "last_checked": "2025-11-20T19:23:53.617044+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23093,6 +23093,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-20T18:58:02.608158+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2095374/000110465925114557/0001104659-25-114557-index.htm": {
+      "title": "8-K - Volkswagen Auto Loan Enhanced Trust 2025-2 (0002095374) (Filer)",
+      "updated": "2025-11-20T14:15:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T19:23:50.443759+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1182534/000110465925114557/0001104659-25-114557-index.htm": {
+      "title": "8-K - VOLKSWAGEN AUTO LEASE/LOAN UNDERWRITTEN FUNDING, LLC (0001182534) (Filer)",
+      "updated": "2025-11-20T14:15:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T19:23:51.531627+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/50471/000143774925035832/0001437749-25-035832-index.htm": {
+      "title": "8-K - ReposiTrak, Inc. (0000050471) (Filer)",
+      "updated": "2025-11-20T14:13:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T19:23:52.598405+00:00"
     }
   }
 }
