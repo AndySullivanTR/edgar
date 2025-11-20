@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-20T17:25:53.735960+00:00",
+  "last_checked": "2025-11-20T17:44:00.074122+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23030,6 +23030,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-20T17:25:52.716894+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1466369/000106594925000040/0001065949-25-000040-index.htm": {
+      "title": "10-Q - Global Industry Products, Corp. (0001466369) (Filer)",
+      "updated": "2025-11-20T12:41:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T17:43:55.756793+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1316944/000131694425000228/0001316944-25-000228-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of San Francisco (0001316944) (Filer)",
+      "updated": "2025-11-20T12:36:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T17:43:56.838832+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1674862/000119312525289248/0001193125-25-289248-index.htm": {
+      "title": "10-K - ASHLAND INC. (0001674862) (Filer)",
+      "updated": "2025-11-20T12:32:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T17:43:57.965190+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1703157/000101738625000148/0001017386-25-000148-index.htm": {
+      "title": "10-Q - Securetech Innovations, Inc. (0001703157) (Filer)",
+      "updated": "2025-11-20T12:30:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T17:43:59.055125+00:00"
     }
   }
 }
