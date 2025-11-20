@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-20T15:31:21.994852+00:00",
+  "last_checked": "2025-11-20T15:53:57.942359+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -22911,6 +22911,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-20T15:31:20.976052+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/63296/000006329625000065/0000063296-25-000065-index.htm": {
+      "title": "8-K - MATTHEWS INTERNATIONAL CORP (0000063296) (Filer)",
+      "updated": "2025-11-20T10:44:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T15:53:56.923802+00:00"
     }
   }
 }
