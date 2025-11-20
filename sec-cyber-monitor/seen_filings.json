@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-20T11:41:09.114362+00:00",
+  "last_checked": "2025-11-20T11:53:48.152702+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -22512,6 +22512,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-20T11:41:08.096776+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1032220/000103222025000049/0001032220-25-000049-index.htm": {
+      "title": "8-K - MAXIMUS, INC. (0001032220) (Filer)",
+      "updated": "2025-11-20T06:52:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T11:53:44.950558+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2064355/000119312525288840/0001193125-25-288840-index.htm": {
+      "title": "8-K - Bain Capital GSS Investment Corp. (0002064355) (Filer)",
+      "updated": "2025-11-20T06:50:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T11:53:46.055176+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/52988/000162828025053313/0001628280-25-053313-index.htm": {
+      "title": "8-K - JACOBS SOLUTIONS INC. (0000052988) (Filer)",
+      "updated": "2025-11-20T06:44:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T11:53:47.134382+00:00"
     }
   }
 }
