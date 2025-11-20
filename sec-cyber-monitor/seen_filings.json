@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-20T11:53:48.152702+00:00",
+  "last_checked": "2025-11-20T12:54:13.200350+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -22533,6 +22533,139 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-20T11:53:47.134382+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1021860/000119312525288885/0001193125-25-288885-index.htm": {
+      "title": "8-K - NOV Inc. (0001021860) (Filer)",
+      "updated": "2025-11-20T07:51:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T12:53:51.900130+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1819989/000095010325015073/0000950103-25-015073-index.htm": {
+      "title": "8-K - Cipher Mining Inc. (0001819989) (Filer)",
+      "updated": "2025-11-20T07:47:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T12:53:53.017512+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/899051/000089905125000109/0000899051-25-000109-index.htm": {
+      "title": "8-K - ALLSTATE CORP (0000899051) (Filer)",
+      "updated": "2025-11-20T07:45:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T12:53:54.139852+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1319161/000131916125000034/0001319161-25-000034-index.htm": {
+      "title": "10-K - Warner Music Group Corp. (0001319161) (Filer)",
+      "updated": "2025-11-20T07:42:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T12:53:55.264715+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1800/000110465925114422/0001104659-25-114422-index.htm": {
+      "title": "8-K - ABBOTT LABORATORIES (0000001800) (Filer)",
+      "updated": "2025-11-20T07:37:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T12:53:56.384499+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1803498/000180349825000084/0001803498-25-000084-index.htm": {
+      "title": "8-K - Blackstone Private Credit Fund (0001803498) (Filer)",
+      "updated": "2025-11-20T07:36:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T12:53:57.504214+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1319161/000131916125000032/0001319161-25-000032-index.htm": {
+      "title": "8-K - Warner Music Group Corp. (0001319161) (Filer)",
+      "updated": "2025-11-20T07:32:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T12:53:58.621670+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1889539/000188953925000107/0001889539-25-000107-index.htm": {
+      "title": "8-K - Corebridge Financial, Inc. (0001889539) (Filer)",
+      "updated": "2025-11-20T07:30:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T12:53:59.738998+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1551182/000114036125042797/0001140361-25-042797-index.htm": {
+      "title": "8-K - Eaton Corp plc (0001551182) (Filer)",
+      "updated": "2025-11-20T07:26:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T12:54:00.855491+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/922224/000092222425000055/0000922224-25-000055-index.htm": {
+      "title": "8-K - PPL Corp (0000922224) (Filer)",
+      "updated": "2025-11-20T07:21:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T12:54:01.972898+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1701758/000162828025053320/0001628280-25-053320-index.htm": {
+      "title": "8-K - Lovesac Co (0001701758) (Filer)",
+      "updated": "2025-11-20T07:18:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T12:54:03.088914+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/701985/000070198525000033/0000701985-25-000033-index.htm": {
+      "title": "8-K - Bath & Body Works, Inc. (0000701985) (Filer)",
+      "updated": "2025-11-20T07:14:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T12:54:04.202697+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1682852/000162828025053318/0001628280-25-053318-index.htm": {
+      "title": "8-K - Moderna, Inc. (0001682852) (Filer)",
+      "updated": "2025-11-20T07:12:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T12:54:05.315690+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1061219/000119312525288857/0001193125-25-288857-index.htm": {
+      "title": "8-K - ENTERPRISE PRODUCTS PARTNERS L.P. (0001061219) (Filer)",
+      "updated": "2025-11-20T07:09:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T12:54:06.429686+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/52988/000162828025053316/0001628280-25-053316-index.htm": {
+      "title": "10-K - JACOBS SOLUTIONS INC. (0000052988) (Filer)",
+      "updated": "2025-11-20T07:03:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T12:54:07.566322+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1235468/000119312525288849/0001193125-25-288849-index.htm": {
+      "title": "8-K - LIQUIDITY SERVICES INC (0001235468) (Filer)",
+      "updated": "2025-11-20T07:00:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T12:54:08.681817+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/104169/000010416925000177/0000104169-25-000177-index.htm": {
+      "title": "8-K - Walmart Inc. (0000104169) (Filer)",
+      "updated": "2025-11-20T06:58:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T12:54:09.808399+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1761510/000110465925114389/0001104659-25-114389-index.htm": {
+      "title": "8-K - TILT Holdings Inc. (0001761510) (Filer)",
+      "updated": "2025-11-20T06:55:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T12:54:11.064764+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/32604/000003260425000094/0000032604-25-000094-index.htm": {
+      "title": "8-K - EMERSON ELECTRIC CO (0000032604) (Filer)",
+      "updated": "2025-11-20T06:55:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T12:54:12.181969+00:00"
     }
   }
 }
