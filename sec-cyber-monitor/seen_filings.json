@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-20T13:35:07.934190+00:00",
+  "last_checked": "2025-11-20T13:53:05.426903+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -22771,6 +22771,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-20T13:35:06.915437+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/67215/000006721525000079/0000067215-25-000079-index.htm": {
+      "title": "10-Q - DYCOM INDUSTRIES INC (0000067215) (Filer)",
+      "updated": "2025-11-20T08:50:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T13:53:00.956354+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/56978/000005697825000081/0000056978-25-000081-index.htm": {
+      "title": "10-K - KULICKE & SOFFA INDUSTRIES INC (0000056978) (Filer)",
+      "updated": "2025-11-20T08:50:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T13:53:02.086885+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1951276/000094337425000482/0000943374-25-000482-index.htm": {
+      "title": "8-K - SR Bancorp, Inc. (0001951276) (Filer)",
+      "updated": "2025-11-20T08:37:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T13:53:03.267840+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1701756/000170175625000227/0001701756-25-000227-index.htm": {
+      "title": "8-K/A - Sadot Group Inc. (0001701756) (Filer)",
+      "updated": "2025-11-20T08:35:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T13:53:04.408309+00:00"
     }
   }
 }
