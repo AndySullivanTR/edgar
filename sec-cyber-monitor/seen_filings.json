@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-20T12:54:13.200350+00:00",
+  "last_checked": "2025-11-20T13:35:07.934190+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -22666,6 +22666,111 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-20T12:54:12.181969+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1718227/000162828025053333/0001628280-25-053333-index.htm": {
+      "title": "8-K - Construction Partners, Inc. (0001718227) (Filer)",
+      "updated": "2025-11-20T08:34:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": "llm_ok",
+      "first_seen": "2025-11-20T13:34:51.540573+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1805651/000162828025053331/0001628280-25-053331-index.htm": {
+      "title": "8-K - MARKETWISE, INC. (0001805651) (Filer)",
+      "updated": "2025-11-20T08:32:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T13:34:52.648985+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1821769/000182176925000217/0001821769-25-000217-index.htm": {
+      "title": "8-K - Navitas Semiconductor Corp (0001821769) (Filer)",
+      "updated": "2025-11-20T08:30:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T13:34:53.758976+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1627426/000009210325000017/0000092103-25-000017-index.htm": {
+      "title": "8-K - SCE Trust V (0001627426) (Filer)",
+      "updated": "2025-11-20T08:26:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T13:34:54.851782+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/92103/000009210325000017/0000092103-25-000017-index.htm": {
+      "title": "8-K - SOUTHERN CALIFORNIA EDISON Co (0000092103) (Filer)",
+      "updated": "2025-11-20T08:26:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T13:34:55.940079+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/827052/000082705225000106/0000827052-25-000106-index.htm": {
+      "title": "8-K - EDISON INTERNATIONAL (0000827052) (Filer)",
+      "updated": "2025-11-20T08:24:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T13:34:57.035850+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1509745/000110465925114435/0001104659-25-114435-index.htm": {
+      "title": "8-K - CYPHERPUNK TECHNOLOGIES INC. (0001509745) (Filer)",
+      "updated": "2025-11-20T08:18:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T13:34:58.145417+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1816431/000181643125000071/0001816431-25-000071-index.htm": {
+      "title": "8-K - Quantum-Si Inc (0001816431) (Filer)",
+      "updated": "2025-11-20T08:06:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T13:34:59.263670+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1772016/000162828025053329/0001628280-25-053329-index.htm": {
+      "title": "8-K - BELLRING BRANDS, INC. (0001772016) (Filer)",
+      "updated": "2025-11-20T08:04:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T13:35:00.363573+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1697532/000119312525288900/0001193125-25-288900-index.htm": {
+      "title": "8-K - Applied Therapeutics, Inc. (0001697532) (Filer)",
+      "updated": "2025-11-20T08:04:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T13:35:01.455458+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1124140/000119312525288896/0001193125-25-288896-index.htm": {
+      "title": "8-K - EXACT SCIENCES CORP (0001124140) (Filer)",
+      "updated": "2025-11-20T08:02:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T13:35:02.545590+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/108312/000117184325007452/0001171843-25-007452-index.htm": {
+      "title": "8-K - Woodward, Inc. (0000108312) (Filer)",
+      "updated": "2025-11-20T08:00:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T13:35:03.632050+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1593001/000149315225024396/0001493152-25-024396-index.htm": {
+      "title": "8-K - NightFood Holdings, Inc. (0001593001) (Filer)",
+      "updated": "2025-11-20T08:00:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T13:35:04.736839+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1654595/000110465925114429/0001104659-25-114429-index.htm": {
+      "title": "8-K - Medalist Diversified REIT, Inc. (0001654595) (Filer)",
+      "updated": "2025-11-20T08:00:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T13:35:05.825444+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1031296/000103129625000089/0001031296-25-000089-index.htm": {
+      "title": "8-K - FIRSTENERGY CORP (0001031296) (Filer)",
+      "updated": "2025-11-20T07:55:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T13:35:06.915437+00:00"
     }
   }
 }
