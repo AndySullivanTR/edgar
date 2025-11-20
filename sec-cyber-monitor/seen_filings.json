@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-20T21:39:49.603867+00:00",
+  "last_checked": "2025-11-20T21:53:47.353940+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23324,6 +23324,76 @@
       "label": "BOILERPLATE",
       "reason": "llm_ok",
       "first_seen": "2025-11-20T21:39:48.583988+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1831631/000183163125000229/0001831631-25-000229-index.htm": {
+      "title": "8-K - loanDepot, Inc. (0001831631) (Filer)",
+      "updated": "2025-11-20T16:49:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:53:36.116145+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/753308/000075330825000060/0000753308-25-000060-index.htm": {
+      "title": "8-K - NEXTERA ENERGY INC (0000753308) (Filer)",
+      "updated": "2025-11-20T16:49:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:53:37.367117+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/37634/000075330825000060/0000753308-25-000060-index.htm": {
+      "title": "8-K - FLORIDA POWER & LIGHT CO (0000037634) (Filer)",
+      "updated": "2025-11-20T16:49:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:53:38.501957+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1473844/000147384425000069/0001473844-25-000069-index.htm": {
+      "title": "8-K - Stellar Bancorp, Inc. (0001473844) (Filer)",
+      "updated": "2025-11-20T16:48:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:53:39.640129+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1039065/000110465925114644/0001104659-25-114644-index.htm": {
+      "title": "8-K - OSI SYSTEMS INC (0001039065) (Filer)",
+      "updated": "2025-11-20T16:48:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:53:40.778821+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1729944/000149315225024476/0001493152-25-024476-index.htm": {
+      "title": "8-K - IMAC Holdings, Inc. (0001729944) (Filer)",
+      "updated": "2025-11-20T16:46:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:53:41.908505+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/899051/000089905125000111/0000899051-25-000111-index.htm": {
+      "title": "8-K - ALLSTATE CORP (0000899051) (Filer)",
+      "updated": "2025-11-20T16:46:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:53:43.041367+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/24545/000110465925114643/0001104659-25-114643-index.htm": {
+      "title": "8-K - MOLSON COORS BEVERAGE CO (0000024545) (Filer)",
+      "updated": "2025-11-20T16:45:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:53:44.143416+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1707910/000121390025113159/0001213900-25-113159-index.htm": {
+      "title": "8-K - Reborn Coffee, Inc. (0001707910) (Filer)",
+      "updated": "2025-11-20T16:45:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:53:45.240966+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/872912/000119312525289917/0001193125-25-289917-index.htm": {
+      "title": "8-K - DELCATH SYSTEMS, INC. (0000872912) (Filer)",
+      "updated": "2025-11-20T16:45:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:53:46.334887+00:00"
     }
   }
 }
