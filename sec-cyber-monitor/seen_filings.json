@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-20T17:56:47.829891+00:00",
+  "last_checked": "2025-11-20T18:40:00.220850+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23058,6 +23058,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-20T17:43:59.055125+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325814/000132581425000215/0001325814-25-000215-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer)",
+      "updated": "2025-11-20T13:34:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T18:39:55.854888+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331465/000133146525000271/0001331465-25-000271-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer)",
+      "updated": "2025-11-20T13:19:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T18:39:56.969247+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1859919/000185991925000089/0001859919-25-000089-index.htm": {
+      "title": "8-K - Barings Private Credit Corp (0001859919) (Filer)",
+      "updated": "2025-11-20T13:18:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T18:39:58.085848+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331757/000133175725000206/0001331757-25-000206-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer)",
+      "updated": "2025-11-20T13:18:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T18:39:59.202185+00:00"
     }
   }
 }
