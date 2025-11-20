@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-20T19:23:53.617044+00:00",
+  "last_checked": "2025-11-20T19:40:13.611656+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23114,6 +23114,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-20T19:23:52.598405+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1860788/000186078825000012/0001860788-25-000012-index.htm": {
+      "title": "8-K - VanEck Ethereum ETF (0001860788) (Filer)",
+      "updated": "2025-11-20T14:37:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T19:40:09.256328+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1838028/000183802825000020/0001838028-25-000020-index.htm": {
+      "title": "8-K - VanEck Bitcoin ETF (0001838028) (Filer)",
+      "updated": "2025-11-20T14:35:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T19:40:10.363613+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1999538/000137647425000952/0001376474-25-000952-index.htm": {
+      "title": "10-Q - X1 Capital Inc. (0001999538) (Filer)",
+      "updated": "2025-11-20T14:31:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T19:40:11.486834+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/57515/000005751525000034/0000057515-25-000034-index.htm": {
+      "title": "8-K - MARZETTI CO (0000057515) (Filer)",
+      "updated": "2025-11-20T14:28:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T19:40:12.592527+00:00"
     }
   }
 }
