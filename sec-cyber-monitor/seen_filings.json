@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-20T15:53:57.942359+00:00",
+  "last_checked": "2025-11-20T16:34:35.272133+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -22918,6 +22918,62 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-20T15:53:56.923802+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2037952/000177037325000055/0001770373-25-000055-index.htm": {
+      "title": "8-K - Carvana Auto Receivables Trust 2025-P4 (0002037952) (Filer)",
+      "updated": "2025-11-20T11:25:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": "llm_ok",
+      "first_seen": "2025-11-20T16:34:24.009478+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1770373/000177037325000055/0001770373-25-000055-index.htm": {
+      "title": "8-K - Carvana Receivables Depositor LLC (0001770373) (Filer)",
+      "updated": "2025-11-20T11:25:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": "llm_ok",
+      "first_seen": "2025-11-20T16:34:27.518663+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2037952/000177037325000054/0001770373-25-000054-index.htm": {
+      "title": "8-K - Carvana Auto Receivables Trust 2025-P4 (0002037952) (Filer)",
+      "updated": "2025-11-20T11:24:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T16:34:28.650942+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1770373/000177037325000054/0001770373-25-000054-index.htm": {
+      "title": "8-K - Carvana Receivables Depositor LLC (0001770373) (Filer)",
+      "updated": "2025-11-20T11:24:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T16:34:29.765800+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/878932/000087893225000007/0000878932-25-000007-index.htm": {
+      "title": "10-Q - EQUUS TOTAL RETURN, INC. (0000878932) (Filer)",
+      "updated": "2025-11-20T11:19:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T16:34:30.894123+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1330399/000119312525289108/0001193125-25-289108-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer)",
+      "updated": "2025-11-20T11:07:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T16:34:32.009137+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1972920/000188852425019729/0001888524-25-019729-index.htm": {
+      "title": "8-K - BMO 2023-C5 Mortgage Trust (0001972920) (Filer)",
+      "updated": "2025-11-20T11:06:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T16:34:33.119322+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331754/000133175425000238/0001331754-25-000238-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer)",
+      "updated": "2025-11-20T11:04:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T16:34:34.254057+00:00"
     }
   }
 }
