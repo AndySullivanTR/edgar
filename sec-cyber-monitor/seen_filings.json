@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-20T21:23:55.891639+00:00",
+  "last_checked": "2025-11-20T21:39:49.603867+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23240,6 +23240,90 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-20T21:23:54.873011+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/842517/000084251725000212/0000842517-25-000212-index.htm": {
+      "title": "8-K - ISABELLA BANK CORP (0000842517) (Filer)",
+      "updated": "2025-11-20T16:39:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:39:33.895674+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/823768/000110465925114641/0001104659-25-114641-index.htm": {
+      "title": "8-K - WASTE MANAGEMENT INC (0000823768) (Filer)",
+      "updated": "2025-11-20T16:38:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:39:35.017404+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2030763/000149315225024471/0001493152-25-024471-index.htm": {
+      "title": "8-K - Wellgistics Health, Inc. (0002030763) (Filer)",
+      "updated": "2025-11-20T16:35:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:39:36.117758+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/67716/000006771625000092/0000067716-25-000092-index.htm": {
+      "title": "8-K - MDU RESOURCES GROUP INC (0000067716) (Filer)",
+      "updated": "2025-11-20T16:33:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:39:37.220564+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1730984/000173098425000080/0001730984-25-000080-index.htm": {
+      "title": "8-K - BayCom Corp (0001730984) (Filer)",
+      "updated": "2025-11-20T16:33:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:39:38.330497+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1326160/000110465925114640/0001104659-25-114640-index.htm": {
+      "title": "8-K - Duke Energy CORP (0001326160) (Filer)",
+      "updated": "2025-11-20T16:33:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:39:39.430442+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/30371/000110465925114640/0001104659-25-114640-index.htm": {
+      "title": "8-K - Duke Energy Carolinas, LLC (0000030371) (Filer)",
+      "updated": "2025-11-20T16:33:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:39:40.540970+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/17797/000110465925114640/0001104659-25-114640-index.htm": {
+      "title": "8-K - DUKE ENERGY PROGRESS, LLC. (0000017797) (Filer)",
+      "updated": "2025-11-20T16:33:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:39:41.643040+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/732712/000073271225000119/0000732712-25-000119-index.htm": {
+      "title": "8-K - VERIZON COMMUNICATIONS INC (0000732712) (Filer)",
+      "updated": "2025-11-20T16:32:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:39:42.733502+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2023554/000119312525289885/0001193125-25-289885-index.htm": {
+      "title": "8-K - Sandisk Corp (0002023554) (Filer)",
+      "updated": "2025-11-20T16:32:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:39:43.836496+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1071236/000107123625000092/0001071236-25-000092-index.htm": {
+      "title": "8-K - RED RIVER BANCSHARES INC (0001071236) (Filer)",
+      "updated": "2025-11-20T16:32:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T21:39:44.936225+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/896622/000110465925114637/0001104659-25-114637-index.htm": {
+      "title": "8-K - APTARGROUP, INC. (0000896622) (Filer)",
+      "updated": "2025-11-20T16:30:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": "llm_ok",
+      "first_seen": "2025-11-20T21:39:48.583988+00:00"
     }
   }
 }
