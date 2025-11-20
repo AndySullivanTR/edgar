@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-20T13:53:05.426903+00:00",
+  "last_checked": "2025-11-20T14:26:50.261798+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -22799,6 +22799,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-20T13:53:04.408309+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1385157/000110465925114450/0001104659-25-114450-index.htm": {
+      "title": "8-K - TE Connectivity plc (0001385157) (Filer)",
+      "updated": "2025-11-20T09:16:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T14:26:38.535419+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1035201/000110465925114449/0001104659-25-114449-index.htm": {
+      "title": "8-K - CALIFORNIA WATER SERVICE GROUP (0001035201) (Filer)",
+      "updated": "2025-11-20T09:16:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T14:26:39.605800+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1817004/000149315225024405/0001493152-25-024405-index.htm": {
+      "title": "8-K - NEXTNRG, INC. (0001817004) (Filer)",
+      "updated": "2025-11-20T09:15:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T14:26:40.675879+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1101215/000110121525000193/0001101215-25-000193-index.htm": {
+      "title": "8-K - BREAD FINANCIAL HOLDINGS, INC. (0001101215) (Filer)",
+      "updated": "2025-11-20T09:10:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T14:26:41.745488+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1646188/000121390025112871/0001213900-25-112871-index.htm": {
+      "title": "8-K - Ondas Holdings Inc. (0001646188) (Filer)",
+      "updated": "2025-11-20T09:07:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T14:26:42.815259+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1131903/000109690625001907/0001096906-25-001907-index.htm": {
+      "title": "8-K - SPECTRAL CAPITAL Corp (0001131903) (Filer)",
+      "updated": "2025-11-20T09:06:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T14:26:43.883216+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/907471/000090747125000110/0000907471-25-000110-index.htm": {
+      "title": "8-K - PATHWARD FINANCIAL, INC. (0000907471) (Filer)",
+      "updated": "2025-11-20T09:01:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T14:26:44.960726+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1878313/000149315225024402/0001493152-25-024402-index.htm": {
+      "title": "8-K - MAIA Biotechnology, Inc. (0001878313) (Filer)",
+      "updated": "2025-11-20T09:00:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T14:26:46.036128+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1080340/000149315225024401/0001493152-25-024401-index.htm": {
+      "title": "8-K - MANHATTAN BRIDGE CAPITAL, INC (0001080340) (Filer)",
+      "updated": "2025-11-20T09:00:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T14:26:47.105566+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1123596/000143774925035795/0001437749-25-035795-index.htm": {
+      "title": "8-K - BAB, INC. (0001123596) (Filer)",
+      "updated": "2025-11-20T09:00:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T14:26:48.174506+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1101239/000110123925000074/0001101239-25-000074-index.htm": {
+      "title": "8-K - EQUINIX INC (0001101239) (Filer)",
+      "updated": "2025-11-20T08:57:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T14:26:49.242681+00:00"
     }
   }
 }
