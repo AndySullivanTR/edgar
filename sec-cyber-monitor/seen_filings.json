@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-20T22:23:14.987642+00:00",
+  "last_checked": "2025-11-20T22:42:04.110872+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23443,6 +23443,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-20T22:23:13.968309+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1922858/000143774925035879/0001437749-25-035879-index.htm": {
+      "title": "10-Q - ECD Automotive Design, Inc. (0001922858) (Filer)",
+      "updated": "2025-11-20T17:31:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T22:41:58.785264+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1262104/000119312525290059/0001193125-25-290059-index.htm": {
+      "title": "8-K/A - Lite Strategy, Inc. (0001262104) (Filer)",
+      "updated": "2025-11-20T17:29:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T22:41:59.855869+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1749723/000174972325000145/0001749723-25-000145-index.htm": {
+      "title": "8-K - New Fortress Energy Inc. (0001749723) (Filer)",
+      "updated": "2025-11-20T17:26:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T22:42:00.925445+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1853070/000149315225024502/0001493152-25-024502-index.htm": {
+      "title": "8-K - Volato Group, Inc. (0001853070) (Filer)",
+      "updated": "2025-11-20T17:25:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T22:42:01.995808+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1868640/000149315225024501/0001493152-25-024501-index.htm": {
+      "title": "8-K - Roadzen Inc. (0001868640) (Filer)",
+      "updated": "2025-11-20T17:23:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T22:42:03.091980+00:00"
     }
   }
 }
