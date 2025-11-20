@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-20T16:34:35.272133+00:00",
+  "last_checked": "2025-11-20T16:59:50.963230+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -22974,6 +22974,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-20T16:34:34.254057+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1634452/000119312525289183/0001193125-25-289183-index.htm": {
+      "title": "8-K - AB Private Credit Investors Corp (0001634452) (Filer)",
+      "updated": "2025-11-20T11:59:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T16:59:44.560465+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1986395/000119312525289167/0001193125-25-289167-index.htm": {
+      "title": "8-K - Starwood Credit Real Estate Income Trust (0001986395) (Filer)",
+      "updated": "2025-11-20T11:49:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T16:59:45.629725+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331451/000133145125000234/0001331451-25-000234-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Chicago (0001331451) (Filer)",
+      "updated": "2025-11-20T11:45:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T16:59:46.699805+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1235468/000119312525289159/0001193125-25-289159-index.htm": {
+      "title": "10-K - LIQUIDITY SERVICES INC (0001235468) (Filer)",
+      "updated": "2025-11-20T11:45:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T16:59:47.779501+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/875355/000110465925114494/0001104659-25-114494-index.htm": {
+      "title": "8-K - LENDWAY, INC. (0000875355) (Filer)",
+      "updated": "2025-11-20T11:43:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T16:59:48.873583+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/932781/000155278125000429/0001552781-25-000429-index.htm": {
+      "title": "8-K - FIRST COMMUNITY CORP /SC/ (0000932781) (Filer)",
+      "updated": "2025-11-20T11:40:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T16:59:49.944054+00:00"
     }
   }
 }
