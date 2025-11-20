@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-20T16:59:50.963230+00:00",
+  "last_checked": "2025-11-20T17:25:53.735960+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23016,6 +23016,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-20T16:59:49.944054+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/839087/000121390025112966/0001213900-25-112966-index.htm": {
+      "title": "8-K - VASO Corp (0000839087) (Filer)",
+      "updated": "2025-11-20T12:18:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T17:25:51.621867+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/731653/000110465925114509/0001104659-25-114509-index.htm": {
+      "title": "8-K - UNITED BANCORP INC /OH/ (0000731653) (Filer)",
+      "updated": "2025-11-20T12:14:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T17:25:52.716894+00:00"
     }
   }
 }
