@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-20T19:53:16.187789+00:00",
+  "last_checked": "2025-11-20T20:30:12.550766+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23149,6 +23149,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-20T19:53:15.168902+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1429393/000147793225008519/0001477932-25-008519-index.htm": {
+      "title": "10-Q - Trutankless, Inc. (0001429393) (Filer)",
+      "updated": "2025-11-20T15:19:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T20:30:06.616025+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1784254/000178425425000040/0001784254-25-000040-index.htm": {
+      "title": "8-K - Mediaco Holding Inc. (0001784254) (Filer)",
+      "updated": "2025-11-20T15:18:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T20:30:08.013258+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1768267/000162828025053372/0001628280-25-053372-index.htm": {
+      "title": "10-K - Cerence Inc. (0001768267) (Filer)",
+      "updated": "2025-11-20T15:17:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T20:30:09.139024+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2091790/000119312525289610/0001193125-25-289610-index.htm": {
+      "title": "8-K - Nissan Auto Receivables 2025-B Owner Trust (0002091790) (Filer)",
+      "updated": "2025-11-20T15:12:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T20:30:10.363318+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1129068/000119312525289610/0001193125-25-289610-index.htm": {
+      "title": "8-K - NISSAN AUTO RECEIVABLES Co II LLC (0001129068) (Filer)",
+      "updated": "2025-11-20T15:12:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-20T20:30:11.531773+00:00"
     }
   }
 }
