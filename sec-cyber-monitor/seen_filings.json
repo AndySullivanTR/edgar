@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-21T21:22:58.790923+00:00",
+  "last_checked": "2025-11-21T21:41:10.473191+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24010,6 +24010,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-21T21:22:57.771534+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1397187/000139718725000047/0001397187-25-000047-index.htm": {
+      "title": "8-K - lululemon athletica inc. (0001397187) (Filer)",
+      "updated": "2025-11-21T16:39:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T21:41:06.159053+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1530950/000153095025000261/0001530950-25-000261-index.htm": {
+      "title": "8-K - Post Holdings, Inc. (0001530950) (Filer)",
+      "updated": "2025-11-21T16:38:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T21:41:07.247101+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1001115/000143774925036009/0001437749-25-036009-index.htm": {
+      "title": "10-K - GEOSPACE TECHNOLOGIES CORP (0001001115) (Filer)",
+      "updated": "2025-11-21T16:35:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T21:41:08.370324+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/928658/000100888625000298/0001008886-25-000298-index.htm": {
+      "title": "8-K - COVENANT LOGISTICS GROUP, INC. (0000928658) (Filer)",
+      "updated": "2025-11-21T16:35:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T21:41:09.454053+00:00"
     }
   }
 }
