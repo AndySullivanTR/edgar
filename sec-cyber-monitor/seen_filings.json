@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-21T15:40:03.346194+00:00",
+  "last_checked": "2025-11-21T15:53:42.645044+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23744,6 +23744,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-21T15:25:43.681253+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/70145/000007014525000039/0000070145-25-000039-index.htm": {
+      "title": "10-K - NATIONAL FUEL GAS CO (0000070145) (Filer)",
+      "updated": "2025-11-21T10:47:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T15:53:39.474595+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1918080/000121390025113389/0001213900-25-113389-index.htm": {
+      "title": "8-K - Deep Isolation Nuclear, Inc. (0001918080) (Filer)",
+      "updated": "2025-11-21T10:47:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T15:53:40.549132+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1067983/000119312525290864/0001193125-25-290864-index.htm": {
+      "title": "8-K - BERKSHIRE HATHAWAY INC (0001067983) (Filer)",
+      "updated": "2025-11-21T10:46:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T15:53:41.625532+00:00"
     }
   }
 }
