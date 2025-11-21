@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-21T17:56:18.775374+00:00",
+  "last_checked": "2025-11-21T18:35:09.841293+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23856,6 +23856,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-21T17:56:17.755603+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/37996/000003799625000210/0000037996-25-000210-index.htm": {
+      "title": "8-K - FORD MOTOR CO (0000037996) (Filer)",
+      "updated": "2025-11-21T13:32:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T18:35:05.574185+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1330399/000119312525291069/0001193125-25-291069-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer)",
+      "updated": "2025-11-21T13:25:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T18:35:06.653798+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2012139/000119312525291045/0001193125-25-291045-index.htm": {
+      "title": "8-K - Fortress Private Lending Fund (0002012139) (Filer)",
+      "updated": "2025-11-21T13:12:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T18:35:07.737783+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/854775/000085477525000026/0000854775-25-000026-index.htm": {
+      "title": "10-K - DIGI INTERNATIONAL INC (0000854775) (Filer)",
+      "updated": "2025-11-21T13:08:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T18:35:08.821619+00:00"
     }
   }
 }
