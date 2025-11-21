@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-21T21:54:26.154793+00:00",
+  "last_checked": "2025-11-21T22:26:07.907245+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24080,6 +24080,118 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-21T21:54:25.135098+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/58361/000005836125000032/0000058361-25-000032-index.htm": {
+      "title": "8-K - LEE ENTERPRISES, Inc (0000058361) (Filer)",
+      "updated": "2025-11-21T17:24:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T22:25:50.556706+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1944366/000194436625000129/0001944366-25-000129-index.htm": {
+      "title": "8-K - Blue Owl Real Estate Net Lease Trust (0001944366) (Filer)",
+      "updated": "2025-11-21T17:23:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T22:25:51.644558+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1235468/000119312525291636/0001193125-25-291636-index.htm": {
+      "title": "8-K - LIQUIDITY SERVICES INC (0001235468) (Filer)",
+      "updated": "2025-11-21T17:22:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T22:25:52.794322+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1558569/000121390025113708/0001213900-25-113708-index.htm": {
+      "title": "8-K - iSpecimen Inc. (0001558569) (Filer)",
+      "updated": "2025-11-21T17:20:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T22:25:53.875836+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1824920/000119312525291630/0001193125-25-291630-index.htm": {
+      "title": "8-K - IonQ, Inc. (0001824920) (Filer)",
+      "updated": "2025-11-21T17:20:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T22:25:54.955711+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/731766/000073176625000314/0000731766-25-000314-index.htm": {
+      "title": "8-K - UNITEDHEALTH GROUP INC (0000731766) (Filer)",
+      "updated": "2025-11-21T17:20:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T22:25:56.042459+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1729427/000168316825008624/0001683168-25-008624-index.htm": {
+      "title": "8-K - CNS Pharmaceuticals, Inc. (0001729427) (Filer)",
+      "updated": "2025-11-21T17:19:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T22:25:57.126776+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1342423/000110465925115058/0001104659-25-115058-index.htm": {
+      "title": "8-K - Limoneira CO (0001342423) (Filer)",
+      "updated": "2025-11-21T17:19:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T22:25:58.206931+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1901612/000190161225000054/0001901612-25-000054-index.htm": {
+      "title": "8-K - Golub Capital BDC 4, Inc. (0001901612) (Filer)",
+      "updated": "2025-11-21T17:18:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T22:25:59.301751+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1590715/000147793225008556/0001477932-25-008556-index.htm": {
+      "title": "8-K - American Resources Corp (0001590715) (Filer)",
+      "updated": "2025-11-21T17:15:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T22:26:00.388182+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/39899/000110465925115057/0001104659-25-115057-index.htm": {
+      "title": "8-K - TEGNA INC (0000039899) (Filer)",
+      "updated": "2025-11-21T17:15:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T22:26:01.469600+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1582554/000149315225024691/0001493152-25-024691-index.htm": {
+      "title": "8-K - Matinas BioPharma Holdings, Inc. (0001582554) (Filer)",
+      "updated": "2025-11-21T17:15:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T22:26:02.550657+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1434621/000168316825008622/0001683168-25-008622-index.htm": {
+      "title": "8-K - LendingTree, Inc. (0001434621) (Filer)",
+      "updated": "2025-11-21T17:15:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T22:26:03.631099+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1175680/000110465925115056/0001104659-25-115056-index.htm": {
+      "title": "8-K - CytoDyn Inc. (0001175680) (Filer)",
+      "updated": "2025-11-21T17:15:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T22:26:04.710261+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1901612/000190161225000053/0001901612-25-000053-index.htm": {
+      "title": "10-K - Golub Capital BDC 4, Inc. (0001901612) (Filer)",
+      "updated": "2025-11-21T17:14:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T22:26:05.798820+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/800240/000119312525291612/0001193125-25-291612-index.htm": {
+      "title": "8-K - ODP Corp (0000800240) (Filer)",
+      "updated": "2025-11-21T17:14:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T22:26:06.887629+00:00"
     }
   }
 }
