@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-21T11:53:02.090104+00:00",
+  "last_checked": "2025-11-21T12:53:11.581079+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23485,6 +23485,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-21T11:21:54.940801+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/896429/000162828025053488/0001628280-25-053488-index.htm": {
+      "title": "8-K - CANTALOUPE, INC. (0000896429) (Filer)",
+      "updated": "2025-11-21T07:50:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T12:53:06.277213+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1048268/000104826825000174/0001048268-25-000174-index.htm": {
+      "title": "10-K - IES Holdings, Inc. (0001048268) (Filer)",
+      "updated": "2025-11-21T07:50:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T12:53:07.352723+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/933974/000143774925035905/0001437749-25-035905-index.htm": {
+      "title": "8-K - Azenta, Inc. (0000933974) (Filer)",
+      "updated": "2025-11-21T07:03:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T12:53:08.422541+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1531152/000153115225000127/0001531152-25-000127-index.htm": {
+      "title": "8-K - BJ's Wholesale Club Holdings, Inc. (0001531152) (Filer)",
+      "updated": "2025-11-21T07:02:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T12:53:09.490912+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1907982/000190798225000258/0001907982-25-000258-index.htm": {
+      "title": "8-K - D-Wave Quantum Inc. (0001907982) (Filer)",
+      "updated": "2025-11-21T07:01:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T12:53:10.561842+00:00"
     }
   }
 }
