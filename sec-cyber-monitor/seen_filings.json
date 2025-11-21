@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-21T14:45:08.062965+00:00",
+  "last_checked": "2025-11-21T14:57:54.503916+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23716,6 +23716,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-21T14:25:43.099171+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/898171/000119312525290784/0001193125-25-290784-index.htm": {
+      "title": "8-K - UWHARRIE CAPITAL CORP (0000898171) (Filer)",
+      "updated": "2025-11-21T09:57:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T14:57:51.338711+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1779372/000121390025113353/0001213900-25-113353-index.htm": {
+      "title": "8-K - HeartBeam, Inc. (0001779372) (Filer)",
+      "updated": "2025-11-21T09:47:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T14:57:52.408789+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1711799/000171179925000020/0001711799-25-000020-index.htm": {
+      "title": "8-K - Nuveen Global Cities REIT, Inc. (0001711799) (Filer)",
+      "updated": "2025-11-21T09:45:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T14:57:53.484904+00:00"
     }
   }
 }
