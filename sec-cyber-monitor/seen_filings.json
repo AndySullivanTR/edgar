@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-21T16:55:14.982106+00:00",
+  "last_checked": "2025-11-21T17:23:16.624839+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23814,6 +23814,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-21T16:55:13.962554+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1326771/000132677125000215/0001326771-25-000215-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer)",
+      "updated": "2025-11-21T12:21:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T17:23:13.373661+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/26324/000162828025053521/0001628280-25-053521-index.htm": {
+      "title": "8-K - CURTISS WRIGHT CORP (0000026324) (Filer)",
+      "updated": "2025-11-21T12:01:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T17:23:14.491423+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1128189/000155335025000111/0001553350-25-000111-index.htm": {
+      "title": "8-K - ProtoKinetix, Inc. (0001128189) (Filer)",
+      "updated": "2025-11-21T11:57:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T17:23:15.605363+00:00"
     }
   }
 }
