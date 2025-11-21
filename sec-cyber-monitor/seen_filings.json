@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-21T19:40:08.211437+00:00",
+  "last_checked": "2025-11-21T19:52:59.867491+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23898,6 +23898,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-21T19:22:15.741070+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1640265/000110465925114943/0001104659-25-114943-index.htm": {
+      "title": "8-K - GPB Holdings II, LP (0001640265) (Filer)",
+      "updated": "2025-11-21T14:47:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T19:52:57.767054+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1578742/000110465925114942/0001104659-25-114942-index.htm": {
+      "title": "8-K - GPB Automotive Portfolio, LP (0001578742) (Filer)",
+      "updated": "2025-11-21T14:46:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T19:52:58.847935+00:00"
     }
   }
 }
