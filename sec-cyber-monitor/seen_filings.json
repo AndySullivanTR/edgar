@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-21T16:34:56.276880+00:00",
+  "last_checked": "2025-11-21T16:55:14.982106+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23786,6 +23786,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-21T16:34:55.257340+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/811156/000110465925114875/0001104659-25-114875-index.htm": {
+      "title": "8-K - CMS ENERGY CORP (0000811156) (Filer)",
+      "updated": "2025-11-21T11:52:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T16:55:10.593728+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/201533/000110465925114875/0001104659-25-114875-index.htm": {
+      "title": "8-K - CONSUMERS ENERGY CO (0000201533) (Filer)",
+      "updated": "2025-11-21T11:52:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T16:55:11.717189+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1905956/000121390025113444/0001213900-25-113444-index.htm": {
+      "title": "8-K - TREASURE GLOBAL INC (0001905956) (Filer)",
+      "updated": "2025-11-21T11:47:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T16:55:12.838258+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1530950/000153095025000260/0001530950-25-000260-index.htm": {
+      "title": "10-K - Post Holdings, Inc. (0001530950) (Filer)",
+      "updated": "2025-11-21T11:41:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T16:55:13.962554+00:00"
     }
   }
 }
