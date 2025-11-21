@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-21T20:45:39.908316+00:00",
+  "last_checked": "2025-11-21T21:22:58.790923+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23961,6 +23961,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-21T20:45:38.888998+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1214816/000121481625000201/0001214816-25-000201-index.htm": {
+      "title": "8-K - AXIS CAPITAL HOLDINGS LTD (0001214816) (Filer)",
+      "updated": "2025-11-21T16:22:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T21:22:50.951425+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1362481/000110465925115015/0001104659-25-115015-index.htm": {
+      "title": "8-K - abrdn Global Dynamic Dividend Fund (0001362481) (Filer)",
+      "updated": "2025-11-21T16:22:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T21:22:52.063392+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1473334/000149315225024637/0001493152-25-024637-index.htm": {
+      "title": "8-K - XMax Inc. (0001473334) (Filer)",
+      "updated": "2025-11-21T16:20:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T21:22:53.185724+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/59478/000005947825000271/0000059478-25-000271-index.htm": {
+      "title": "8-K - ELI LILLY & Co (0000059478) (Filer)",
+      "updated": "2025-11-21T16:19:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T21:22:54.295432+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1812447/000109690625001924/0001096906-25-001924-index.htm": {
+      "title": "8-K - Sky Quarry Inc. (0001812447) (Filer)",
+      "updated": "2025-11-21T16:18:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T21:22:55.488050+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/949157/000162828025053603/0001628280-25-053603-index.htm": {
+      "title": "8-K/A - CENTURY ALUMINUM CO (0000949157) (Filer)",
+      "updated": "2025-11-21T16:18:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T21:22:56.617481+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1732406/000119312525291409/0001193125-25-291409-index.htm": {
+      "title": "8-K - Grayscale Litecoin Trust (LTC) (0001732406) (Filer)",
+      "updated": "2025-11-21T16:17:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T21:22:57.771534+00:00"
     }
   }
 }
