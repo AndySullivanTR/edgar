@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-21T17:42:57.426247+00:00",
+  "last_checked": "2025-11-21T17:56:18.775374+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23849,6 +23849,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-21T17:42:56.406958+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1559720/000119312525291024/0001193125-25-291024-index.htm": {
+      "title": "8-K - Airbnb, Inc. (0001559720) (Filer)",
+      "updated": "2025-11-21T12:55:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T17:56:17.755603+00:00"
     }
   }
 }
