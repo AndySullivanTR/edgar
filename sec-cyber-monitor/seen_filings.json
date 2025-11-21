@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-21T15:53:42.645044+00:00",
+  "last_checked": "2025-11-21T16:34:56.276880+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23765,6 +23765,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-21T15:53:41.625532+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1849867/000184986725000024/0001849867-25-000024-index.htm": {
+      "title": "8-K - Catalyst Bancorp, Inc. (0001849867) (Filer)",
+      "updated": "2025-11-21T11:30:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T16:34:53.085187+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1692951/000169295125000268/0001692951-25-000268-index.htm": {
+      "title": "8-K - Cottonwood Communities, Inc. (0001692951) (Filer)",
+      "updated": "2025-11-21T11:21:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T16:34:54.155746+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1657214/000149315225024563/0001493152-25-024563-index.htm": {
+      "title": "8-K - International Land Alliance Inc. (0001657214) (Filer)",
+      "updated": "2025-11-21T11:17:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T16:34:55.257340+00:00"
     }
   }
 }
