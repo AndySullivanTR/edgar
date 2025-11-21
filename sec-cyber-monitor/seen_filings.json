@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-21T18:35:09.841293+00:00",
+  "last_checked": "2025-11-21T18:55:33.629616+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23884,6 +23884,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-21T18:35:08.821619+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/786947/000110465925114929/0001104659-25-114929-index.htm": {
+      "title": "NT 10-Q - ACURA PHARMACEUTICALS, INC (0000786947) (Filer)",
+      "updated": "2025-11-21T13:46:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T18:55:32.610513+00:00"
     }
   }
 }
