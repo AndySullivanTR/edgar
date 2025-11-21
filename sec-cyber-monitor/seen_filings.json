@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-21T22:26:07.907245+00:00",
+  "last_checked": "2025-11-21T22:43:35.820565+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24192,6 +24192,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-21T22:26:06.887629+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1502377/000119312525291648/0001193125-25-291648-index.htm": {
+      "title": "8-K - Contango ORE, Inc. (0001502377) (Filer)",
+      "updated": "2025-11-21T17:30:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T22:43:30.335262+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1173204/000119312525291646/0001193125-25-291646-index.htm": {
+      "title": "8-K - Cineverse Corp. (0001173204) (Filer)",
+      "updated": "2025-11-21T17:28:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T22:43:31.470895+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1812727/000149315225024713/0001493152-25-024713-index.htm": {
+      "title": "8-K - Reliance Global Group, Inc. (0001812727) (Filer)",
+      "updated": "2025-11-21T17:28:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T22:43:32.565869+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1770501/000149315225024712/0001493152-25-024712-index.htm": {
+      "title": "8-K - Venu Holding Corp (0001770501) (Filer)",
+      "updated": "2025-11-21T17:28:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T22:43:33.695059+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1994214/000149315225024710/0001493152-25-024710-index.htm": {
+      "title": "10-Q - Nomadar Corp. (0001994214) (Filer)",
+      "updated": "2025-11-21T17:27:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T22:43:34.800711+00:00"
     }
   }
 }
