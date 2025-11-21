@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-21T14:57:54.503916+00:00",
+  "last_checked": "2025-11-21T15:25:44.701443+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23737,6 +23737,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-21T14:57:53.484904+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2031283/000110465925114850/0001104659-25-114850-index.htm": {
+      "title": "8-K - Stone Point Credit Income Fund (0002031283) (Filer)",
+      "updated": "2025-11-21T10:18:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T15:25:43.681253+00:00"
     }
   }
 }
