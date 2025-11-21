@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-21T19:52:59.867491+00:00",
+  "last_checked": "2025-11-21T20:29:08.492980+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23912,6 +23912,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-21T19:52:58.847935+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1172178/000149315225024599/0001493152-25-024599-index.htm": {
+      "title": "8-K - LIBERTY STAR URANIUM & METALS CORP. (0001172178) (Filer)",
+      "updated": "2025-11-21T15:26:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T20:29:03.097493+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/885245/000088524525000109/0000885245-25-000109-index.htm": {
+      "title": "8-K - BUCKLE INC (0000885245) (Filer)",
+      "updated": "2025-11-21T15:25:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T20:29:04.227108+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1918102/000110465925114959/0001104659-25-114959-index.htm": {
+      "title": "8-K - DEEP FISSION, INC. (0001918102) (Filer)",
+      "updated": "2025-11-21T15:16:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T20:29:05.305357+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1022671/000110465925114956/0001104659-25-114956-index.htm": {
+      "title": "8-K - STEEL DYNAMICS INC (0001022671) (Filer)",
+      "updated": "2025-11-21T15:11:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T20:29:06.378189+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/63296/000006329625000070/0000063296-25-000070-index.htm": {
+      "title": "10-K - MATTHEWS INTERNATIONAL CORP (0000063296) (Filer)",
+      "updated": "2025-11-21T15:08:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T20:29:07.473161+00:00"
     }
   }
 }
