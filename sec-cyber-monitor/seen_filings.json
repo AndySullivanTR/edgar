@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-21T20:29:08.492980+00:00",
+  "last_checked": "2025-11-21T20:45:39.908316+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23947,6 +23947,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-21T20:29:07.473161+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1698538/000119312525291283/0001193125-25-291283-index.htm": {
+      "title": "8-K - Strategic Student & Senior Housing Trust, Inc. (0001698538) (Filer)",
+      "updated": "2025-11-21T15:43:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T20:45:37.807963+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1591588/000119312525291250/0001193125-25-291250-index.htm": {
+      "title": "8-K - A-Mark Precious Metals, Inc. (0001591588) (Filer)",
+      "updated": "2025-11-21T15:32:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T20:45:38.888998+00:00"
     }
   }
 }
