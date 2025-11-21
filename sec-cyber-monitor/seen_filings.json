@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-21T12:53:11.581079+00:00",
+  "last_checked": "2025-11-21T13:33:34.338945+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -23520,6 +23520,125 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-21T12:53:10.561842+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/884614/000088461425000051/0000884614-25-000051-index.htm": {
+      "title": "8-K - UGI CORP /PA/ (0000884614) (Filer)",
+      "updated": "2025-11-21T08:31:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T13:33:15.103655+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/78814/000162828025053497/0001628280-25-053497-index.htm": {
+      "title": "8-K - PITNEY BOWES INC /DE/ (0000078814) (Filer)",
+      "updated": "2025-11-21T08:26:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T13:33:16.225505+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/779227/000143774925035908/0001437749-25-035908-index.htm": {
+      "title": "8-K - STEELE BANCORP INC (0000779227) (Filer)",
+      "updated": "2025-11-21T08:25:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T13:33:17.380033+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1921865/000147793225008541/0001477932-25-008541-index.htm": {
+      "title": "8-K - ASP Isotopes Inc. (0001921865) (Filer)",
+      "updated": "2025-11-21T08:23:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T13:33:18.522148+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1591890/000149315225024549/0001493152-25-024549-index.htm": {
+      "title": "8-K - FG Nexus Inc. (0001591890) (Filer)",
+      "updated": "2025-11-21T08:12:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T13:33:19.659384+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1420720/000110465925114800/0001104659-25-114800-index.htm": {
+      "title": "8-K - iBio, Inc. (0001420720) (Filer)",
+      "updated": "2025-11-21T08:09:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T13:33:20.798709+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1495320/000162828025053493/0001628280-25-053493-index.htm": {
+      "title": "8-K - Vera Bradley, Inc. (0001495320) (Filer)",
+      "updated": "2025-11-21T08:07:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T13:33:21.933443+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1941536/000168316825008597/0001683168-25-008597-index.htm": {
+      "title": "8-K - Bridger Aerospace Group Holdings, Inc. (0001941536) (Filer)",
+      "updated": "2025-11-21T08:06:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T13:33:23.057599+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/791908/000119312525290638/0001193125-25-290638-index.htm": {
+      "title": "8-K - XOMA Royalty Corp (0000791908) (Filer)",
+      "updated": "2025-11-21T08:03:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T13:33:24.211692+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1868275/000186827525000107/0001868275-25-000107-index.htm": {
+      "title": "8-K - Constellation Energy Corp (0001868275) (Filer)",
+      "updated": "2025-11-21T08:00:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T13:33:25.364925+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/25475/000110465925114794/0001104659-25-114794-index.htm": {
+      "title": "8-K - CRAWFORD & CO (0000025475) (Filer)",
+      "updated": "2025-11-21T08:00:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T13:33:26.503519+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1901799/000119312525290629/0001193125-25-290629-index.htm": {
+      "title": "8-K - Bitcoin Depot Inc. (0001901799) (Filer)",
+      "updated": "2025-11-21T08:00:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T13:33:27.649232+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1840748/000110465925114793/0001104659-25-114793-index.htm": {
+      "title": "8-K - LAVA Therapeutics NV (0001840748) (Filer)",
+      "updated": "2025-11-21T08:00:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T13:33:28.791001+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1218683/000121390025113325/0001213900-25-113325-index.htm": {
+      "title": "8-K - Mawson Infrastructure Group Inc. (0001218683) (Filer)",
+      "updated": "2025-11-21T08:00:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T13:33:29.908681+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/906465/000117184325007490/0001171843-25-007490-index.htm": {
+      "title": "8-K - QCR HOLDINGS INC (0000906465) (Filer)",
+      "updated": "2025-11-21T08:00:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T13:33:31.050406+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1764013/000176401325000153/0001764013-25-000153-index.htm": {
+      "title": "8-K - Immunovant, Inc. (0001764013) (Filer)",
+      "updated": "2025-11-21T08:00:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T13:33:32.182442+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1048268/000104826825000175/0001048268-25-000175-index.htm": {
+      "title": "8-K - IES Holdings, Inc. (0001048268) (Filer)",
+      "updated": "2025-11-21T07:55:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-21T13:33:33.319322+00:00"
     }
   }
 }
