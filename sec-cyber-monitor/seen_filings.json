@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-24T16:30:42.249580+00:00",
+  "last_checked": "2025-11-24T16:55:46.115880+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24241,6 +24241,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-24T16:30:41.229458+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1643873/000188852425019997/0001888524-25-019997-index.htm": {
+      "title": "8-K - Wells Fargo Commercial Mortgage Trust 2015-NXS2 (0001643873) (Filer)",
+      "updated": "2025-11-24T11:42:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T16:55:45.095559+00:00"
     }
   }
 }
