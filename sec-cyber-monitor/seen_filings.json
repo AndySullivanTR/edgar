@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-24T20:29:31.657663+00:00",
+  "last_checked": "2025-11-24T20:45:22.007056+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24276,6 +24276,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-24T20:29:30.638832+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1959961/000119312525293580/0001193125-25-293580-index.htm": {
+      "title": "8-K - IPC Alternative Real Estate Income Trust, Inc. (0001959961) (Filer)",
+      "updated": "2025-11-24T15:42:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T20:45:20.986189+00:00"
     }
   }
 }
