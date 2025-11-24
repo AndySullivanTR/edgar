@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-24T22:25:15.424567+00:00",
+  "last_checked": "2025-11-24T22:43:52.779473+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24402,6 +24402,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-24T22:25:14.403668+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1589149/000149315225024872/0001493152-25-024872-index.htm": {
+      "title": "8-K - Greenwave Technology Solutions, Inc. (0001589149) (Filer)",
+      "updated": "2025-11-24T17:31:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T22:43:47.473417+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1889123/000119312525293889/0001193125-25-293889-index.htm": {
+      "title": "8-K - Fold Holdings, Inc. (0001889123) (Filer)",
+      "updated": "2025-11-24T17:30:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T22:43:48.547654+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1832161/000149315225024867/0001493152-25-024867-index.htm": {
+      "title": "8-K - VIP Play, Inc. (0001832161) (Filer)",
+      "updated": "2025-11-24T17:27:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T22:43:49.622079+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2026353/000149315225024864/0001493152-25-024864-index.htm": {
+      "title": "8-K - Aether Holdings, Inc. (0002026353) (Filer)",
+      "updated": "2025-11-24T17:26:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T22:43:50.692633+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1411207/000119312525293880/0001193125-25-293880-index.htm": {
+      "title": "8-K - Allison Transmission Holdings Inc (0001411207) (Filer)",
+      "updated": "2025-11-24T17:25:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T22:43:51.759653+00:00"
     }
   }
 }
