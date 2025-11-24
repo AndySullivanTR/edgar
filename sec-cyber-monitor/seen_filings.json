@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-24T19:53:48.156404+00:00",
+  "last_checked": "2025-11-24T20:29:31.657663+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24269,6 +24269,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-24T19:40:49.420049+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1994582/000147793225008576/0001477932-25-008576-index.htm": {
+      "title": "10-K - Oyocar Group Inc. (0001994582) (Filer)",
+      "updated": "2025-11-24T15:13:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T20:29:30.638832+00:00"
     }
   }
 }
