@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-24T20:45:22.007056+00:00",
+  "last_checked": "2025-11-24T21:25:28.747806+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24283,6 +24283,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-24T20:45:20.986189+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/887733/000088773325000035/0000887733-25-000035-index.htm": {
+      "title": "8-K - CENTRAL GARDEN & PET CO (0000887733) (Filer)",
+      "updated": "2025-11-24T16:24:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T21:25:23.148072+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/106040/000162828025053809/0001628280-25-053809-index.htm": {
+      "title": "8-K - WESTERN DIGITAL CORP (0000106040) (Filer)",
+      "updated": "2025-11-24T16:22:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T21:25:24.349969+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/3545/000000354525000140/0000003545-25-000140-index.htm": {
+      "title": "10-K - ALICO, INC. (0000003545) (Filer)",
+      "updated": "2025-11-24T16:22:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T21:25:25.482785+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1212545/000162828025053807/0001628280-25-053807-index.htm": {
+      "title": "8-K - WESTERN ALLIANCE BANCORPORATION (0001212545) (Filer)",
+      "updated": "2025-11-24T16:22:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T21:25:26.608948+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1805077/000121390025114153/0001213900-25-114153-index.htm": {
+      "title": "8-K - Eos Energy Enterprises, Inc. (0001805077) (Filer)",
+      "updated": "2025-11-24T16:20:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T21:25:27.727847+00:00"
     }
   }
 }
