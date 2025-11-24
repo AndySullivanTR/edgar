@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-24T18:58:30.474225+00:00",
+  "last_checked": "2025-11-24T19:22:15.696582+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24255,6 +24255,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-24T18:38:43.289040+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1521945/000152194525000100/0001521945-25-000100-index.htm": {
+      "title": "8-K - Prospect Floating Rate & Alternative Income Fund, Inc. (0001521945) (Filer)",
+      "updated": "2025-11-24T14:16:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T19:22:14.677407+00:00"
     }
   }
 }
