@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-24T21:42:05.903687+00:00",
+  "last_checked": "2025-11-24T21:54:59.367786+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24332,6 +24332,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-24T21:42:04.884055+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1479681/000162828025053849/0001628280-25-053849-index.htm": {
+      "title": "8-K - Nutex Health, Inc. (0001479681) (Filer)",
+      "updated": "2025-11-24T16:52:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T21:54:53.974747+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/945394/000094539425000114/0000945394-25-000114-index.htm": {
+      "title": "8-K - Service Properties Trust (0000945394) (Filer)",
+      "updated": "2025-11-24T16:50:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T21:54:55.065182+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1838987/000121390025114179/0001213900-25-114179-index.htm": {
+      "title": "8-K - SunPower Inc. (0001838987) (Filer)",
+      "updated": "2025-11-24T16:50:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T21:54:56.154998+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1098146/000143774925036139/0001437749-25-036139-index.htm": {
+      "title": "8-K - PATRIOT NATIONAL BANCORP INC (0001098146) (Filer)",
+      "updated": "2025-11-24T16:50:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T21:54:57.248440+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1999001/000119312525293793/0001193125-25-293793-index.htm": {
+      "title": "8-K - Six Flags Entertainment Corporation/NEW (0001999001) (Filer)",
+      "updated": "2025-11-24T16:48:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T21:54:58.347672+00:00"
     }
   }
 }
