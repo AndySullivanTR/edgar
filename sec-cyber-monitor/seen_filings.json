@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-24T17:45:53.995442+00:00",
+  "last_checked": "2025-11-24T18:38:44.308999+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24248,6 +24248,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-24T16:55:45.095559+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1126956/000119312525293344/0001193125-25-293344-index.htm": {
+      "title": "8-K - SPIRE INC (0001126956) (Filer)",
+      "updated": "2025-11-24T13:28:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T18:38:43.289040+00:00"
     }
   }
 }
