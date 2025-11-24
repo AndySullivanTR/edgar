@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-24T21:54:59.367786+00:00",
+  "last_checked": "2025-11-24T22:25:15.424567+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24367,6 +24367,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-24T21:54:58.347672+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1923780/000157587225000717/0001575872-25-000717-index.htm": {
+      "title": "8-K - Northann Corp. (0001923780) (Filer)",
+      "updated": "2025-11-24T17:21:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T22:25:10.070431+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/821189/000119312525293868/0001193125-25-293868-index.htm": {
+      "title": "8-K - EOG RESOURCES INC (0000821189) (Filer)",
+      "updated": "2025-11-24T17:19:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T22:25:11.153493+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1002910/000110465925115502/0001104659-25-115502-index.htm": {
+      "title": "8-K - AMEREN CORP (0001002910) (Filer)",
+      "updated": "2025-11-24T17:19:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T22:25:12.235720+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/100826/000110465925115502/0001104659-25-115502-index.htm": {
+      "title": "8-K - UNION ELECTRIC CO (0000100826) (Filer)",
+      "updated": "2025-11-24T17:19:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T22:25:13.319156+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1837686/000110465925115501/0001104659-25-115501-index.htm": {
+      "title": "8-K - Vimeo, Inc. (0001837686) (Filer)",
+      "updated": "2025-11-24T17:19:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T22:25:14.403668+00:00"
     }
   }
 }
