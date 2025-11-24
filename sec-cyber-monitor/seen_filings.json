@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-24T15:55:21.681597+00:00",
+  "last_checked": "2025-11-24T16:30:42.249580+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24227,6 +24227,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-21T22:43:34.800711+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2028355/000121390025113963/0001213900-25-113963-index.htm": {
+      "title": "8-K - Inflection Point Acquisition Corp. V (0002028355) (Filer)",
+      "updated": "2025-11-24T11:15:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T16:30:40.149060+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1635327/000119312525292747/0001193125-25-292747-index.htm": {
+      "title": "8-K - Flutter Entertainment plc (0001635327) (Filer)",
+      "updated": "2025-11-24T11:14:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T16:30:41.229458+00:00"
     }
   }
 }
