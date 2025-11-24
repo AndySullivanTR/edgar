@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-24T19:22:15.696582+00:00",
+  "last_checked": "2025-11-24T19:40:50.439664+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24262,6 +24262,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-24T19:22:14.677407+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/29644/000002964425000133/0000029644-25-000133-index.htm": {
+      "title": "8-K - DONALDSON Co INC (0000029644) (Filer)",
+      "updated": "2025-11-24T14:27:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T19:40:49.420049+00:00"
     }
   }
 }
