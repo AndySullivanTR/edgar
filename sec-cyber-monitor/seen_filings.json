@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-24T21:25:28.747806+00:00",
+  "last_checked": "2025-11-24T21:42:05.903687+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24318,6 +24318,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-24T21:25:27.727847+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1648087/000149315225024838/0001493152-25-024838-index.htm": {
+      "title": "8-K - AMERICAN REBEL HOLDINGS INC (0001648087) (Filer)",
+      "updated": "2025-11-24T16:35:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T21:42:03.803128+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1701756/000170175625000232/0001701756-25-000232-index.htm": {
+      "title": "8-K - Sadot Group Inc. (0001701756) (Filer)",
+      "updated": "2025-11-24T16:35:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-24T21:42:04.884055+00:00"
     }
   }
 }
