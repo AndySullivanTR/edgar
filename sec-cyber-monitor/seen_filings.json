@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-25T11:42:50.938035+00:00",
+  "last_checked": "2025-11-25T11:55:45.324489+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24493,6 +24493,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-25T11:42:49.918098+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1579298/000119312525294501/0001193125-25-294501-index.htm": {
+      "title": "8-K - Burlington Stores, Inc. (0001579298) (Filer)",
+      "updated": "2025-11-25T06:49:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T11:55:44.304455+00:00"
     }
   }
 }
