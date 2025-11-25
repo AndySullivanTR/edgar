@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-25T17:00:16.936963+00:00",
+  "last_checked": "2025-11-25T17:31:17.682994+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24850,6 +24850,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-25T17:00:15.916790+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1316944/000131694425000230/0001316944-25-000230-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of San Francisco (0001316944) (Filer)",
+      "updated": "2025-11-25T12:30:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T17:31:14.517632+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1919369/000119312525295860/0001193125-25-295860-index.htm": {
+      "title": "8-K - VISTA CREDIT STRATEGIC LENDING CORP. (0001919369) (Filer)",
+      "updated": "2025-11-25T12:24:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T17:31:15.589312+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/717538/000071753825000105/0000717538-25-000105-index.htm": {
+      "title": "8-K - ARROW FINANCIAL CORP (0000717538) (Filer)",
+      "updated": "2025-11-25T12:20:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T17:31:16.662759+00:00"
     }
   }
 }
