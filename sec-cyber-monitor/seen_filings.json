@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-25T18:39:13.613438+00:00",
+  "last_checked": "2025-11-25T18:56:45.700971+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24885,6 +24885,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-25T18:39:12.592935+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1359841/000119312525296181/0001193125-25-296181-index.htm": {
+      "title": "8-K - Hanesbrands Inc. (0001359841) (Filer)",
+      "updated": "2025-11-25T13:51:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T18:56:41.467851+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/18255/000156276225000278/0001562762-25-000278-index.htm": {
+      "title": "10-Q - CATO CORP (0000018255) (Filer)",
+      "updated": "2025-11-25T13:47:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T18:56:42.538762+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1173420/000117184325007580/0001171843-25-007580-index.htm": {
+      "title": "8-K - NOVAGOLD RESOURCES INC (0001173420) (Filer)",
+      "updated": "2025-11-25T13:47:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T18:56:43.609462+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1702780/000110465925115874/0001104659-25-115874-index.htm": {
+      "title": "8-K - Optimum Communications, Inc. (0001702780) (Filer)",
+      "updated": "2025-11-25T13:39:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T18:56:44.679770+00:00"
     }
   }
 }
