@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-25T20:47:40.054925+00:00",
+  "last_checked": "2025-11-25T21:24:35.755275+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24990,6 +24990,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-25T20:47:39.033519+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/4904/000000490425000182/0000004904-25-000182-index.htm": {
+      "title": "8-K - AMERICAN ELECTRIC POWER CO INC (0000004904) (Filer)",
+      "updated": "2025-11-25T16:23:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T21:24:31.521856+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1748137/000168316825008673/0001683168-25-008673-index.htm": {
+      "title": "8-K - NeoVolta Inc. (0001748137) (Filer)",
+      "updated": "2025-11-25T16:23:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T21:24:32.590885+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1597033/000119312525297273/0001193125-25-297273-index.htm": {
+      "title": "8-K - Sabre Corp (0001597033) (Filer)",
+      "updated": "2025-11-25T16:21:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T21:24:33.658816+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1584509/000158450925000219/0001584509-25-000219-index.htm": {
+      "title": "10-K - Aramark (0001584509) (Filer)",
+      "updated": "2025-11-25T16:21:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T21:24:34.734681+00:00"
     }
   }
 }
