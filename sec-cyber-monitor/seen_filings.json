@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-25T11:55:45.324489+00:00",
+  "last_checked": "2025-11-25T12:58:09.822728+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24500,6 +24500,132 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-25T11:55:44.304455+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1859199/000121390025114389/0001213900-25-114389-index.htm": {
+      "title": "8-K - reAlpha Tech Corp. (0001859199) (Filer)",
+      "updated": "2025-11-25T07:46:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T12:57:50.123479+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1620533/000110465925115689/0001104659-25-115689-index.htm": {
+      "title": "8-K - Shake Shack Inc. (0001620533) (Filer)",
+      "updated": "2025-11-25T07:38:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T12:57:51.214213+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1471824/000143774925036183/0001437749-25-036183-index.htm": {
+      "title": "8-K - Teucrium Commodity Trust (0001471824) (Filer)",
+      "updated": "2025-11-25T07:31:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T12:57:52.352397+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/72573/000095014225003060/0000950142-25-003060-index.htm": {
+      "title": "8-K - MOVADO GROUP INC (0000072573) (Filer)",
+      "updated": "2025-11-25T07:30:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T12:57:53.482277+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1314052/000173112225001591/0001731122-25-001591-index.htm": {
+      "title": "8-K - ANAVEX LIFE SCIENCES CORP. (0001314052) (Filer)",
+      "updated": "2025-11-25T07:30:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T12:57:54.573889+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1922858/000143774925036181/0001437749-25-036181-index.htm": {
+      "title": "8-K - ECD Automotive Design, Inc. (0001922858) (Filer)",
+      "updated": "2025-11-25T07:30:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T12:57:55.661512+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/818479/000081847925000281/0000818479-25-000281-index.htm": {
+      "title": "8-K - DENTSPLY SIRONA Inc. (0000818479) (Filer)",
+      "updated": "2025-11-25T07:28:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T12:57:56.749553+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/91419/000009141925000104/0000091419-25-000104-index.htm": {
+      "title": "8-K - J M SMUCKER Co (0000091419) (Filer)",
+      "updated": "2025-11-25T07:20:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T12:57:57.833558+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1409171/000162828025053907/0001628280-25-053907-index.htm": {
+      "title": "8-K - Titan Machinery Inc. (0001409171) (Filer)",
+      "updated": "2025-11-25T07:09:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T12:57:58.948691+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1083301/000108330125000107/0001083301-25-000107-index.htm": {
+      "title": "8-K - TERAWULF INC. (0001083301) (Filer)",
+      "updated": "2025-11-25T07:06:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T12:58:00.038835+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1089063/000108906325000112/0001089063-25-000112-index.htm": {
+      "title": "8-K - DICK'S SPORTING GOODS, INC. (0001089063) (Filer)",
+      "updated": "2025-11-25T07:03:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T12:58:01.124520+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/6281/000000628125000151/0000006281-25-000151-index.htm": {
+      "title": "8-K - ANALOG DEVICES INC (0000006281) (Filer)",
+      "updated": "2025-11-25T07:03:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T12:58:02.213207+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1872789/000187278925000033/0001872789-25-000033-index.htm": {
+      "title": "8-K - Embecta Corp. (0001872789) (Filer)",
+      "updated": "2025-11-25T07:01:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T12:58:03.304304+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1967680/000196768025000143/0001967680-25-000143-index.htm": {
+      "title": "8-K - Veralto Corp (0001967680) (Filer)",
+      "updated": "2025-11-25T07:00:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T12:58:04.390419+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/796505/000117184325007560/0001171843-25-007560-index.htm": {
+      "title": "8-K - Clearfield, Inc. (0000796505) (Filer)",
+      "updated": "2025-11-25T07:00:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T12:58:05.499479+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/764478/000076447825000050/0000764478-25-000050-index.htm": {
+      "title": "8-K - BEST BUY CO INC (0000764478) (Filer)",
+      "updated": "2025-11-25T07:00:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T12:58:06.589161+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/885639/000119312525294511/0001193125-25-294511-index.htm": {
+      "title": "8-K - KOHLS Corp (0000885639) (Filer)",
+      "updated": "2025-11-25T07:00:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T12:58:07.688649+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1012100/000101210025000101/0001012100-25-000101-index.htm": {
+      "title": "8-K - SEALED AIR CORP/DE (0001012100) (Filer)",
+      "updated": "2025-11-25T06:57:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T12:58:08.802581+00:00"
     }
   }
 }
