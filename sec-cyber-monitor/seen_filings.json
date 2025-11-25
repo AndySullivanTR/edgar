@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-25T21:54:39.367322+00:00",
+  "last_checked": "2025-11-25T22:26:28.197008+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25025,6 +25025,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-25T21:54:38.346832+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1721741/000149315225025016/0001493152-25-025016-index.htm": {
+      "title": "8-K - Lazydays Holdings, Inc. (0001721741) (Filer)",
+      "updated": "2025-11-25T17:24:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T22:26:23.951133+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1806201/000180620125000119/0001806201-25-000119-index.htm": {
+      "title": "8-K - Open Lending Corp (0001806201) (Filer)",
+      "updated": "2025-11-25T17:23:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T22:26:25.022980+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/907471/000090747125000116/0000907471-25-000116-index.htm": {
+      "title": "10-K - PATHWARD FINANCIAL, INC. (0000907471) (Filer)",
+      "updated": "2025-11-25T17:22:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T22:26:26.098795+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1381668/000138166825000106/0001381668-25-000106-index.htm": {
+      "title": "10-K - TFS Financial CORP (0001381668) (Filer)",
+      "updated": "2025-11-25T17:19:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T22:26:27.176515+00:00"
     }
   }
 }
