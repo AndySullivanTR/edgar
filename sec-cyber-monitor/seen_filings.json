@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-25T22:26:28.197008+00:00",
+  "last_checked": "2025-11-25T22:44:50.745007+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25053,6 +25053,76 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-25T22:26:27.176515+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1628063/000119312525297647/0001193125-25-297647-index.htm": {
+      "title": "8-K - Seritage Growth Properties (0001628063) (Filer)",
+      "updated": "2025-11-25T17:30:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T22:44:39.997779+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1838163/000149315225025022/0001493152-25-025022-index.htm": {
+      "title": "10-Q - Brand Engagement Network Inc. (0001838163) (Filer)",
+      "updated": "2025-11-25T17:30:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T22:44:41.099550+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/901491/000162828025054044/0001628280-25-054044-index.htm": {
+      "title": "8-K - PAPA JOHNS INTERNATIONAL INC (0000901491) (Filer)",
+      "updated": "2025-11-25T17:30:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T22:44:42.174280+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1210708/000121070825000136/0001210708-25-000136-index.htm": {
+      "title": "8-K - Star Equity Holdings, Inc. (0001210708) (Filer)",
+      "updated": "2025-11-25T17:29:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T22:44:43.252175+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1930087/000193008725000073/0001930087-25-000073-index.htm": {
+      "title": "8-K - Golub Capital Private Credit Fund (0001930087) (Filer)",
+      "updated": "2025-11-25T17:29:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T22:44:44.330140+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1877557/000110465925116054/0001104659-25-116054-index.htm": {
+      "title": "8-K - Integrated Wellness Acquisition Corp (0001877557) (Filer)",
+      "updated": "2025-11-25T17:28:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T22:44:45.406200+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1787518/000121390025114869/0001213900-25-114869-index.htm": {
+      "title": "8-K - Nukkleus Inc. (0001787518) (Filer)",
+      "updated": "2025-11-25T17:28:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T22:44:46.479250+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1877557/000110465925116051/0001104659-25-116051-index.htm": {
+      "title": "10-Q - Integrated Wellness Acquisition Corp (0001877557) (Filer)",
+      "updated": "2025-11-25T17:27:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T22:44:47.574000+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1971387/000110465925116049/0001104659-25-116049-index.htm": {
+      "title": "8-K - Liminatus Pharma, Inc. (0001971387) (Filer)",
+      "updated": "2025-11-25T17:26:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T22:44:48.649353+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1714174/000171417425000199/0001714174-25-000199-index.htm": {
+      "title": "8-K - Burford Capital Ltd (0001714174) (Filer)",
+      "updated": "2025-11-25T17:26:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T22:44:49.724354+00:00"
     }
   }
 }
