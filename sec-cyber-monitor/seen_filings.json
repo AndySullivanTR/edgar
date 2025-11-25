@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-25T13:40:38.500509+00:00",
+  "last_checked": "2025-11-25T13:56:47.775932+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24710,6 +24710,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-25T13:40:37.480454+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/794619/000079461925000113/0000794619-25-000113-index.htm": {
+      "title": "8-K - AMERICAN WOODMARK CORP (0000794619) (Filer)",
+      "updated": "2025-11-25T08:53:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T13:56:45.642143+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1571283/000157128325000059/0001571283-25-000059-index.htm": {
+      "title": "8-K - Rexford Industrial Realty, Inc. (0001571283) (Filer)",
+      "updated": "2025-11-25T08:49:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T13:56:46.755549+00:00"
     }
   }
 }
