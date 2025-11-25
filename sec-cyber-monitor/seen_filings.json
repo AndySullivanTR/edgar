@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-25T14:30:12.191103+00:00",
+  "last_checked": "2025-11-25T14:49:42.257500+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24794,6 +24794,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-25T14:30:11.171001+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1718224/000147793225008585/0001477932-25-008585-index.htm": {
+      "title": "8-K - BT Brands, Inc. (0001718224) (Filer)",
+      "updated": "2025-11-25T09:33:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T14:49:39.032715+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/72573/000119312525294766/0001193125-25-294766-index.htm": {
+      "title": "10-Q - MOVADO GROUP INC (0000072573) (Filer)",
+      "updated": "2025-11-25T09:32:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T14:49:40.163592+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1101215/000119312525294761/0001193125-25-294761-index.htm": {
+      "title": "8-K - BREAD FINANCIAL HOLDINGS, INC. (0001101215) (Filer)",
+      "updated": "2025-11-25T09:30:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T14:49:41.236859+00:00"
     }
   }
 }
