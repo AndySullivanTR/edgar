@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-25T12:58:09.822728+00:00",
+  "last_checked": "2025-11-25T13:40:38.500509+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24626,6 +24626,90 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-25T12:58:08.802581+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1994624/000110465925115717/0001104659-25-115717-index.htm": {
+      "title": "8-K - ScanTech AI Systems Inc. (0001994624) (Filer)",
+      "updated": "2025-11-25T08:39:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T13:40:25.592200+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1156041/000149315225024910/0001493152-25-024910-index.htm": {
+      "title": "8-K - HOUSTON AMERICAN ENERGY CORP (0001156041) (Filer)",
+      "updated": "2025-11-25T08:35:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T13:40:26.674934+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1634117/000163411725000025/0001634117-25-000025-index.htm": {
+      "title": "8-K - Barnes & Noble Education, Inc. (0001634117) (Filer)",
+      "updated": "2025-11-25T08:34:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T13:40:27.748406+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1493594/000149359425000057/0001493594-25-000057-index.htm": {
+      "title": "8-K - MACOM Technology Solutions Holdings, Inc. (0001493594) (Filer)",
+      "updated": "2025-11-25T08:32:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T13:40:28.818832+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1958777/000119312525294634/0001193125-25-294634-index.htm": {
+      "title": "8-K - FibroBiologics, Inc. (0001958777) (Filer)",
+      "updated": "2025-11-25T08:31:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T13:40:29.888264+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1096275/000149315225024909/0001493152-25-024909-index.htm": {
+      "title": "8-K - Worksport Ltd (0001096275) (Filer)",
+      "updated": "2025-11-25T08:30:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T13:40:30.981780+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1476963/000107997325001815/0001079973-25-001815-index.htm": {
+      "title": "8-K - Scorpius Holdings, Inc. (0001476963) (Filer)",
+      "updated": "2025-11-25T08:22:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T13:40:32.073748+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2050260/000205026025000095/0002050260-25-000095-index.htm": {
+      "title": "8-K - TPG Private Equity Opportunities, L.P. (0002050260) (Filer)",
+      "updated": "2025-11-25T08:21:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T13:40:33.171048+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/48287/000095010325015193/0000950103-25-015193-index.htm": {
+      "title": "8-K - HNI CORP (0000048287) (Filer)",
+      "updated": "2025-11-25T08:18:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T13:40:34.253243+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1320414/000110465925115701/0001104659-25-115701-index.htm": {
+      "title": "8-K - SELECT MEDICAL HOLDINGS CORP (0001320414) (Filer)",
+      "updated": "2025-11-25T08:15:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T13:40:35.332603+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/13156/000119312525294602/0001193125-25-294602-index.htm": {
+      "title": "8-K - Galaxy Gaming, Inc. (0000013156) (Filer)",
+      "updated": "2025-11-25T08:12:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T13:40:36.407715+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1050825/000119312525294601/0001193125-25-294601-index.htm": {
+      "title": "8-K - STEELCASE INC (0001050825) (Filer)",
+      "updated": "2025-11-25T08:11:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T13:40:37.480454+00:00"
     }
   }
 }
