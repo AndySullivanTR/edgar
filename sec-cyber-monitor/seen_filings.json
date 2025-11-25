@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-25T13:56:47.775932+00:00",
+  "last_checked": "2025-11-25T14:30:12.191103+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24724,6 +24724,76 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-25T13:56:46.755549+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1787518/000121390025114436/0001213900-25-114436-index.htm": {
+      "title": "8-K - Nukkleus Inc. (0001787518) (Filer)",
+      "updated": "2025-11-25T09:28:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T14:30:01.318865+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1646188/000121390025114433/0001213900-25-114433-index.htm": {
+      "title": "8-K - Ondas Holdings Inc. (0001646188) (Filer)",
+      "updated": "2025-11-25T09:27:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T14:30:02.431874+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2022416/000117891325003949/0001178913-25-003949-index.htm": {
+      "title": "8-K - Silexion Therapeutics Corp (0002022416) (Filer)",
+      "updated": "2025-11-25T09:25:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T14:30:03.543640+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1577916/000119312525294735/0001193125-25-294735-index.htm": {
+      "title": "8-K - Premier, Inc. (0001577916) (Filer)",
+      "updated": "2025-11-25T09:25:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T14:30:04.637628+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/101538/000110465925115724/0001104659-25-115724-index.htm": {
+      "title": "8-K - UNITED STATES ANTIMONY CORP (0000101538) (Filer)",
+      "updated": "2025-11-25T09:01:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T14:30:05.715265+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1546853/000147793225008583/0001477932-25-008583-index.htm": {
+      "title": "8-K - Skkynet Cloud Systems, Inc. (0001546853) (Filer)",
+      "updated": "2025-11-25T09:00:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T14:30:06.827836+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1130713/000114036125043247/0001140361-25-043247-index.htm": {
+      "title": "8-K - BED BATH & BEYOND, INC. (0001130713) (Filer)",
+      "updated": "2025-11-25T09:00:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T14:30:07.911383+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1785056/000119312525294680/0001193125-25-294680-index.htm": {
+      "title": "8-K - Interactive Strength, Inc. (0001785056) (Filer)",
+      "updated": "2025-11-25T09:00:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T14:30:09.012386+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/930245/000147237525000143/0001472375-25-000143-index.htm": {
+      "title": "8-K - Agassi Sports Entertainment Corp. (0000930245) (Filer)",
+      "updated": "2025-11-25T09:00:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T14:30:10.094948+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1418135/000141813525000131/0001418135-25-000131-index.htm": {
+      "title": "8-K - Keurig Dr Pepper Inc. (0001418135) (Filer)",
+      "updated": "2025-11-25T08:59:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T14:30:11.171001+00:00"
     }
   }
 }
