@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-25T10:56:18.206191+00:00",
+  "last_checked": "2025-11-25T11:25:29.162753+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24437,6 +24437,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-24T22:43:51.759653+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1218683/000121390025114368/0001213900-25-114368-index.htm": {
+      "title": "8-K - Mawson Infrastructure Group Inc. (0001218683) (Filer)",
+      "updated": "2025-11-25T06:12:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T11:25:23.813535+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1527753/000119312525294454/0001193125-25-294454-index.htm": {
+      "title": "8-K - Personalis, Inc. (0001527753) (Filer)",
+      "updated": "2025-11-25T06:11:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T11:25:24.894252+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1056285/000143774925036171/0001437749-25-036171-index.htm": {
+      "title": "8-K - BRAND HOUSE COLLECTIVE, INC. (0001056285) (Filer)",
+      "updated": "2025-11-25T06:06:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T11:25:25.982378+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1498148/000106299325017008/0001062993-25-017008-index.htm": {
+      "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+      "updated": "2025-11-25T06:02:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T11:25:27.064107+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1166388/000119312525294440/0001193125-25-294440-index.htm": {
+      "title": "8-K - VERINT SYSTEMS INC (0001166388) (Filer)",
+      "updated": "2025-11-25T06:02:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T11:25:28.142685+00:00"
     }
   }
 }
