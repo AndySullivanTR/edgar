@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-25T17:53:30.562241+00:00",
+  "last_checked": "2025-11-25T18:39:13.613438+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24878,6 +24878,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-25T17:53:29.542192+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/91576/000009157625000119/0000091576-25-000119-index.htm": {
+      "title": "8-K - KEYCORP /NEW/ (0000091576) (Filer)",
+      "updated": "2025-11-25T13:34:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T18:39:12.592935+00:00"
     }
   }
 }
