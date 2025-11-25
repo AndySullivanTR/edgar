@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-25T11:25:29.162753+00:00",
+  "last_checked": "2025-11-25T11:42:50.938035+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24472,6 +24472,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-25T11:25:28.142685+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/700564/000119312525294477/0001193125-25-294477-index.htm": {
+      "title": "8-K - FULTON FINANCIAL CORP (0000700564) (Filer)",
+      "updated": "2025-11-25T06:30:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T11:42:47.750455+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1846017/000119312525294478/0001193125-25-294478-index.htm": {
+      "title": "8-K - Blue Foundry Bancorp (0001846017) (Filer)",
+      "updated": "2025-11-25T06:30:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T11:42:48.837520+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1831481/000183148125000110/0001831481-25-000110-index.htm": {
+      "title": "8-K/A - Sable Offshore Corp. (0001831481) (Filer)",
+      "updated": "2025-11-25T06:30:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T11:42:49.918098+00:00"
     }
   }
 }
