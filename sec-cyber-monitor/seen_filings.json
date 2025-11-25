@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-25T19:24:37.289903+00:00",
+  "last_checked": "2025-11-25T19:41:19.856389+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24941,6 +24941,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-25T19:24:36.269134+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2091664/000153949725003055/0001539497-25-003055-index.htm": {
+      "title": "8-K - BBCMS Mortgage Trust 2025-5C38 (0002091664) (Filer)",
+      "updated": "2025-11-25T14:33:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T19:41:18.836006+00:00"
     }
   }
 }
