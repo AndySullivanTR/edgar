@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-25T14:49:42.257500+00:00",
+  "last_checked": "2025-11-25T15:29:36.906034+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -24815,6 +24815,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-25T14:49:41.236859+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325878/000132587825000246/0001325878-25-000246-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer)",
+      "updated": "2025-11-25T10:18:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T15:29:35.887039+00:00"
     }
   }
 }
