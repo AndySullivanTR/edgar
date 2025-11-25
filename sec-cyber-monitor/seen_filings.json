@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-25T21:41:54.422875+00:00",
+  "last_checked": "2025-11-25T21:54:39.367322+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25018,6 +25018,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-25T21:24:34.734681+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1289419/000128941925000174/0001289419-25-000174-index.htm": {
+      "title": "8-K - Morningstar, Inc. (0001289419) (Filer)",
+      "updated": "2025-11-25T16:53:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-25T21:54:38.346832+00:00"
     }
   }
 }
