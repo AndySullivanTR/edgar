@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-26T12:57:06.365023+00:00",
+  "last_checked": "2025-11-26T13:40:14.704511+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25221,6 +25221,69 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-26T12:57:05.344461+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1930021/000121390025115105/0001213900-25-115105-index.htm": {
+      "title": "8-K - New Horizon Aircraft Ltd. (0001930021) (Filer)",
+      "updated": "2025-11-26T08:36:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T13:40:04.469643+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1954360/000119312525298555/0001193125-25-298555-index.htm": {
+      "title": "8-K - Crescent Private Credit Income Corp (0001954360) (Filer)",
+      "updated": "2025-11-26T08:35:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T13:40:05.604231+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1811063/000119312525298551/0001193125-25-298551-index.htm": {
+      "title": "8-K - Nuvation Bio Inc. (0001811063) (Filer)",
+      "updated": "2025-11-26T08:34:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T13:40:06.754863+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/10048/000114036125043421/0001140361-25-043421-index.htm": {
+      "title": "8-K - BARNWELL INDUSTRIES INC (0000010048) (Filer)",
+      "updated": "2025-11-26T08:30:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T13:40:07.892622+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1758057/000114036125043420/0001140361-25-043420-index.htm": {
+      "title": "8-K - Luminar Technologies, Inc./DE (0001758057) (Filer)",
+      "updated": "2025-11-26T08:30:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T13:40:08.990320+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1491419/000121390025115100/0001213900-25-115100-index.htm": {
+      "title": "8-K - LiveOne, Inc. (0001491419) (Filer)",
+      "updated": "2025-11-26T08:30:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T13:40:10.140193+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1940177/000121390025115099/0001213900-25-115099-index.htm": {
+      "title": "8-K - PodcastOne, Inc. (0001940177) (Filer)",
+      "updated": "2025-11-26T08:30:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T13:40:11.307320+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/29989/000121390025115098/0001213900-25-115098-index.htm": {
+      "title": "8-K - OMNICOM GROUP INC. (0000029989) (Filer)",
+      "updated": "2025-11-26T08:30:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T13:40:12.549767+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/883975/000149315225025069/0001493152-25-025069-index.htm": {
+      "title": "8-K - Microbot Medical Inc. (0000883975) (Filer)",
+      "updated": "2025-11-26T08:30:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T13:40:13.684024+00:00"
     }
   }
 }
