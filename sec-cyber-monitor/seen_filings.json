@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-26T20:43:21.314013+00:00",
+  "last_checked": "2025-11-26T20:56:14.806871+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25557,6 +25557,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-26T20:43:20.293055+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1071840/000117184325007625/0001171843-25-007625-index.htm": {
+      "title": "8-K - SolarWindow Technologies, Inc. (0001071840) (Filer)",
+      "updated": "2025-11-26T15:46:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T20:56:13.785958+00:00"
     }
   }
 }
