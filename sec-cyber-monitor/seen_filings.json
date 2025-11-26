@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-26T17:45:28.930849+00:00",
+  "last_checked": "2025-11-26T18:34:09.842730+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25473,6 +25473,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-26T17:45:27.909862+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2037952/000177037325000057/0001770373-25-000057-index.htm": {
+      "title": "8-K - Carvana Auto Receivables Trust 2025-P4 (0002037952) (Filer)",
+      "updated": "2025-11-26T13:29:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T18:34:03.143774+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1770373/000177037325000057/0001770373-25-000057-index.htm": {
+      "title": "8-K - Carvana Receivables Depositor LLC (0001770373) (Filer)",
+      "updated": "2025-11-26T13:29:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T18:34:04.290693+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1694617/000118518525001861/0001185185-25-001861-index.htm": {
+      "title": "10-Q - Royale Energy, Inc. (0001694617) (Filer)",
+      "updated": "2025-11-26T13:24:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T18:34:05.455441+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1784970/000121390025115307/0001213900-25-115307-index.htm": {
+      "title": "8-K - Next Technology Holding Inc. (0001784970) (Filer)",
+      "updated": "2025-11-26T13:23:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T18:34:06.579557+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1868516/000110465925116341/0001104659-25-116341-index.htm": {
+      "title": "8-K - StratCap Digital Infrastructure REIT, Inc. (0001868516) (Filer)",
+      "updated": "2025-11-26T13:21:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T18:34:07.697643+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/907254/000090725425000113/0000907254-25-000113-index.htm": {
+      "title": "8-K - SAUL CENTERS, INC. (0000907254) (Filer)",
+      "updated": "2025-11-26T13:20:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T18:34:08.821541+00:00"
     }
   }
 }
