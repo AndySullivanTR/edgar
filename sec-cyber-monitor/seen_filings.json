@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-26T14:30:52.160848+00:00",
+  "last_checked": "2025-11-26T14:55:13.441623+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25333,6 +25333,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-26T14:30:51.141531+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1692345/000110465925116267/0001104659-25-116267-index.htm": {
+      "title": "8-K - PROCACCIANTI HOTEL REIT, INC. (0001692345) (Filer)",
+      "updated": "2025-11-26T09:52:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T14:55:11.347910+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331754/000133175425000246/0001331754-25-000246-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer)",
+      "updated": "2025-11-26T09:39:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T14:55:12.420946+00:00"
     }
   }
 }
