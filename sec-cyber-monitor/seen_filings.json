@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-26T21:25:03.607973+00:00",
+  "last_checked": "2025-11-26T21:41:28.273743+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25606,6 +25606,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-26T21:25:02.587745+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1864531/000118518525001870/0001185185-25-001870-index.htm": {
+      "title": "8-K - VSEE HEALTH, INC. (0001864531) (Filer)",
+      "updated": "2025-11-26T16:40:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T21:41:20.408504+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1018840/000101884025000046/0001018840-25-000046-index.htm": {
+      "title": "8-K - ABERCROMBIE & FITCH CO /DE/ (0001018840) (Filer)",
+      "updated": "2025-11-26T16:39:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T21:41:21.575802+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1655210/000165521025000217/0001655210-25-000217-index.htm": {
+      "title": "8-K - BEYOND MEAT, INC. (0001655210) (Filer)",
+      "updated": "2025-11-26T16:37:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T21:41:22.734124+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1943289/000162828025054176/0001628280-25-054176-index.htm": {
+      "title": "8-K - Silvaco Group, Inc. (0001943289) (Filer)",
+      "updated": "2025-11-26T16:36:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T21:41:23.889910+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1953988/000121390025115539/0001213900-25-115539-index.htm": {
+      "title": "8-K - Helio Corp /FL/ (0001953988) (Filer)",
+      "updated": "2025-11-26T16:35:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T21:41:24.983889+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/785956/000143774925036456/0001437749-25-036456-index.htm": {
+      "title": "10-K - J&J SNACK FOODS CORP (0000785956) (Filer)",
+      "updated": "2025-11-26T16:35:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T21:41:26.119817+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1428205/000142820525000241/0001428205-25-000241-index.htm": {
+      "title": "8-K - Armour Residential REIT, Inc. (0001428205) (Filer)",
+      "updated": "2025-11-26T16:34:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T21:41:27.254210+00:00"
     }
   }
 }
