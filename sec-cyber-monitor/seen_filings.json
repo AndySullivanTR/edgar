@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-26T10:55:50.790994+00:00",
+  "last_checked": "2025-11-26T11:25:07.900400+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25123,6 +25123,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-25T22:44:49.724354+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/27673/000110465925116178/0001104659-25-116178-index.htm": {
+      "title": "8-K - DEERE JOHN CAPITAL CORP (0000027673) (Filer)",
+      "updated": "2025-11-26T06:17:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T11:25:01.190664+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1566243/000175392625001829/0001753926-25-001829-index.htm": {
+      "title": "8-K - Arax Holdings Corp (0001566243) (Filer)",
+      "updated": "2025-11-26T06:14:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T11:25:02.322790+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1824502/000110465925116163/0001104659-25-116163-index.htm": {
+      "title": "8-K - Archer Aviation Inc. (0001824502) (Filer)",
+      "updated": "2025-11-26T06:08:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T11:25:03.462533+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1498148/000106299325017039/0001062993-25-017039-index.htm": {
+      "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+      "updated": "2025-11-26T06:01:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T11:25:04.601798+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/894405/000110465925116139/0001104659-25-116139-index.htm": {
+      "title": "8-K - ARCBEST CORP /DE/ (0000894405) (Filer)",
+      "updated": "2025-11-26T06:01:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T11:25:05.739008+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/315189/000110465925116130/0001104659-25-116130-index.htm": {
+      "title": "8-K - DEERE & CO (0000315189) (Filer)",
+      "updated": "2025-11-26T06:00:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T11:25:06.880964+00:00"
     }
   }
 }
