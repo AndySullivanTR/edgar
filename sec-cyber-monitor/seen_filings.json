@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-26T20:56:14.806871+00:00",
+  "last_checked": "2025-11-26T21:25:03.607973+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25564,6 +25564,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-26T20:56:13.785958+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/22444/000119312525300555/0001193125-25-300555-index.htm": {
+      "title": "8-K - COMMERCIAL METALS Co (0000022444) (Filer)",
+      "updated": "2025-11-26T16:23:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T21:24:56.912929+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/37637/000110465925116450/0001104659-25-116450-index.htm": {
+      "title": "8-K - DUKE ENERGY FLORIDA, LLC (0000037637) (Filer)",
+      "updated": "2025-11-26T16:22:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T21:24:58.049427+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2044820/000119312525300547/0001193125-25-300547-index.htm": {
+      "title": "8-K - VistaOne, L.P. (0002044820) (Filer)",
+      "updated": "2025-11-26T16:20:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T21:24:59.180334+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1881551/000121390025115510/0001213900-25-115510-index.htm": {
+      "title": "8-K - Solidion Technology Inc. (0001881551) (Filer)",
+      "updated": "2025-11-26T16:20:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T21:25:00.352430+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/49938/000004993825000073/0000049938-25-000073-index.htm": {
+      "title": "8-K/A - IMPERIAL OIL LTD (0000049938) (Filer)",
+      "updated": "2025-11-26T16:19:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T21:25:01.492984+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1022899/000149315225025159/0001493152-25-025159-index.htm": {
+      "title": "8-K - Protagenic Therapeutics, Inc.\\new (0001022899) (Filer)",
+      "updated": "2025-11-26T16:18:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T21:25:02.587745+00:00"
     }
   }
 }
