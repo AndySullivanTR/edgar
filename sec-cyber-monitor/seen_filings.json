@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-26T17:28:11.246957+00:00",
+  "last_checked": "2025-11-26T17:45:28.930849+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25459,6 +25459,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-26T16:58:36.864496+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/27419/000002741925000126/0000027419-25-000126-index.htm": {
+      "title": "10-Q - TARGET CORP (0000027419) (Filer)",
+      "updated": "2025-11-26T12:34:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T17:45:26.838595+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1757499/000149315225025082/0001493152-25-025082-index.htm": {
+      "title": "8-K - Shuttle Pharmaceuticals Holdings, Inc. (0001757499) (Filer)",
+      "updated": "2025-11-26T12:28:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T17:45:27.909862+00:00"
     }
   }
 }
