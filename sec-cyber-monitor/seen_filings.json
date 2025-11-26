@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-26T16:34:29.353407+00:00",
+  "last_checked": "2025-11-26T16:58:37.885548+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25445,6 +25445,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-26T16:34:28.332487+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1550453/000143774925036419/0001437749-25-036419-index.htm": {
+      "title": "8-K - TriLinc Global Impact Fund LLC (0001550453) (Filer)",
+      "updated": "2025-11-26T11:52:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T16:58:35.747724+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2037804/000158064225007445/0001580642-25-007445-index.htm": {
+      "title": "8-K - New Mountain Private Credit Fund (0002037804) (Filer)",
+      "updated": "2025-11-26T11:43:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T16:58:36.864496+00:00"
     }
   }
 }
