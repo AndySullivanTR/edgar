@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-26T13:57:03.927472+00:00",
+  "last_checked": "2025-11-26T14:30:52.160848+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25305,6 +25305,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-26T13:57:02.906787+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/922224/000092222425000060/0000922224-25-000060-index.htm": {
+      "title": "8-K - PPL Corp (0000922224) (Filer)",
+      "updated": "2025-11-26T09:26:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T14:30:47.697579+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2030763/000149315225025072/0001493152-25-025072-index.htm": {
+      "title": "8-K/A - Wellgistics Health, Inc. (0002030763) (Filer)",
+      "updated": "2025-11-26T09:23:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T14:30:48.867137+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1109357/000110935725000195/0001109357-25-000195-index.htm": {
+      "title": "8-K - EXELON CORP (0001109357) (Filer)",
+      "updated": "2025-11-26T09:15:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T14:30:49.985305+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1005210/000119312525298630/0001193125-25-298630-index.htm": {
+      "title": "10-K - SUBURBAN PROPANE PARTNERS LP (0001005210) (Filer)",
+      "updated": "2025-11-26T09:14:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T14:30:51.141531+00:00"
     }
   }
 }
