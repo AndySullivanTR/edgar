@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-26T11:41:48.868181+00:00",
+  "last_checked": "2025-11-26T11:54:47.394769+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25172,6 +25172,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-26T11:41:47.847832+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1937926/000117184325007612/0001171843-25-007612-index.htm": {
+      "title": "8-K - Brookfield Asset Management Ltd. (0001937926) (Filer)",
+      "updated": "2025-11-26T06:45:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T11:54:46.374283+00:00"
     }
   }
 }
