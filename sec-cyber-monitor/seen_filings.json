@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-26T15:45:45.645635+00:00",
+  "last_checked": "2025-11-26T16:34:29.353407+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25368,6 +25368,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-26T15:26:57.787935+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2092555/000110465925116294/0001104659-25-116294-index.htm": {
+      "title": "8-K - Ford Credit Auto Owner Trust 2025-C (0002092555) (Filer)",
+      "updated": "2025-11-26T11:33:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T16:34:17.445684+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1129987/000110465925116294/0001104659-25-116294-index.htm": {
+      "title": "8-K - FORD CREDIT AUTO RECEIVABLES TWO LLC (0001129987) (Filer)",
+      "updated": "2025-11-26T11:33:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T16:34:18.532320+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/912615/000119312525299116/0001193125-25-299116-index.htm": {
+      "title": "8-K - URBAN OUTFITTERS INC (0000912615) (Filer)",
+      "updated": "2025-11-26T11:30:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T16:34:19.606570+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1959961/000119312525299105/0001193125-25-299105-index.htm": {
+      "title": "8-K - IPC Alternative Real Estate Income Trust, Inc. (0001959961) (Filer)",
+      "updated": "2025-11-26T11:28:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T16:34:20.713353+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/54187/000120677425000752/0001206774-25-000752-index.htm": {
+      "title": "8-K - MAYS J W INC (0000054187) (Filer)",
+      "updated": "2025-11-26T11:26:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T16:34:21.792849+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1166388/000119312525299093/0001193125-25-299093-index.htm": {
+      "title": "8-K - VERINT SYSTEMS INC (0001166388) (Filer)",
+      "updated": "2025-11-26T11:26:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T16:34:22.882205+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/20639/000114036125043442/0001140361-25-043442-index.htm": {
+      "title": "8-K - AmBase Corp (0000020639) (Filer)",
+      "updated": "2025-11-26T11:25:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T16:34:23.996846+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1637880/000163788025000061/0001637880-25-000061-index.htm": {
+      "title": "8-K - Tri-State Generation & Transmission Association, Inc. (0001637880) (Filer)",
+      "updated": "2025-11-26T11:24:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T16:34:25.067830+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/58361/000005836125000040/0000058361-25-000040-index.htm": {
+      "title": "10-K - LEE ENTERPRISES, Inc (0000058361) (Filer)",
+      "updated": "2025-11-26T11:21:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T16:34:26.179626+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1713407/000171340725000144/0001713407-25-000144-index.htm": {
+      "title": "8-K - BROOKFIELD REAL ESTATE INCOME TRUST INC. (0001713407) (Filer)",
+      "updated": "2025-11-26T11:19:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T16:34:27.258134+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1946997/000194699725000166/0001946997-25-000166-index.htm": {
+      "title": "8-K - EQT Exeter Real Estate Income Trust, Inc. (0001946997) (Filer)",
+      "updated": "2025-11-26T11:18:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T16:34:28.332487+00:00"
     }
   }
 }
