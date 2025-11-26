@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-26T13:40:14.704511+00:00",
+  "last_checked": "2025-11-26T13:57:03.927472+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25284,6 +25284,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-26T13:40:13.684024+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1544227/000119312525298604/0001193125-25-298604-index.htm": {
+      "title": "8-K - Tempest Therapeutics, Inc. (0001544227) (Filer)",
+      "updated": "2025-11-26T08:55:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T13:57:00.745159+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1986395/000119312525298568/0001193125-25-298568-index.htm": {
+      "title": "8-K - Starwood Credit Real Estate Income Trust (0001986395) (Filer)",
+      "updated": "2025-11-26T08:46:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T13:57:01.815303+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/778164/000121390025115108/0001213900-25-115108-index.htm": {
+      "title": "8-K - Alto Ingredients, Inc. (0000778164) (Filer)",
+      "updated": "2025-11-26T08:45:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T13:57:02.906787+00:00"
     }
   }
 }
