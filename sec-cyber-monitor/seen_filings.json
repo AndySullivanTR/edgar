@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-26T11:54:47.394769+00:00",
+  "last_checked": "2025-11-26T12:57:06.365023+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25179,6 +25179,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-26T11:54:46.374283+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/50493/000143774925036378/0001437749-25-036378-index.htm": {
+      "title": "8-K - INGLES MARKETS INC (0000050493) (Filer)",
+      "updated": "2025-11-26T07:35:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T12:56:59.681860+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1991792/000119312525298160/0001193125-25-298160-index.htm": {
+      "title": "8-K - CG Oncology, Inc. (0001991792) (Filer)",
+      "updated": "2025-11-26T07:30:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T12:57:00.814645+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2030617/000182912625009457/0001829126-25-009457-index.htm": {
+      "title": "8-K - Picard Medical, Inc. (0002030617) (Filer)",
+      "updated": "2025-11-26T07:15:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T12:57:01.915531+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1831481/000183148125000113/0001831481-25-000113-index.htm": {
+      "title": "8-K - Sable Offshore Corp. (0001831481) (Filer)",
+      "updated": "2025-11-26T07:14:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T12:57:03.049949+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1531152/000153115225000131/0001531152-25-000131-index.htm": {
+      "title": "10-Q - BJ's Wholesale Club Holdings, Inc. (0001531152) (Filer)",
+      "updated": "2025-11-26T07:06:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T12:57:04.213131+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1446847/000110465925116217/0001104659-25-116217-index.htm": {
+      "title": "8-K - IRONWOOD PHARMACEUTICALS INC (0001446847) (Filer)",
+      "updated": "2025-11-26T07:00:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T12:57:05.344461+00:00"
     }
   }
 }
