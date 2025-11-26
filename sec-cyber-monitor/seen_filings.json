@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-26T21:54:01.703518+00:00",
+  "last_checked": "2025-11-26T22:25:44.999590+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25711,6 +25711,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-26T21:54:00.682488+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1415744/000143774925036462/0001437749-25-036462-index.htm": {
+      "title": "10-K/A - NORTHERN MINERALS & EXPLORATION LTD. (0001415744) (Filer)",
+      "updated": "2025-11-26T17:20:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T22:25:39.410821+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/862861/000149315225025189/0001493152-25-025189-index.htm": {
+      "title": "8-K - ALT5 Sigma Corp (0000862861) (Filer)",
+      "updated": "2025-11-26T17:19:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T22:25:40.589411+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1831978/000121390025115608/0001213900-25-115608-index.htm": {
+      "title": "8-K - Newbury Street Acquisition Corp (0001831978) (Filer)",
+      "updated": "2025-11-26T17:17:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T22:25:41.755934+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2022308/000147793225008622/0001477932-25-008622-index.htm": {
+      "title": "8-K - Classover Holdings, Inc. (0002022308) (Filer)",
+      "updated": "2025-11-26T17:16:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T22:25:42.887463+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1386278/000114036125043544/0001140361-25-043544-index.htm": {
+      "title": "8-K - GREEN DOT CORP (0001386278) (Filer)",
+      "updated": "2025-11-26T17:15:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T22:25:43.979507+00:00"
     }
   }
 }
