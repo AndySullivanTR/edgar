@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-26T19:53:22.213621+00:00",
+  "last_checked": "2025-11-26T20:27:53.803113+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25543,6 +25543,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-26T19:39:33.786001+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1899017/000119312525300161/0001193125-25-300161-index.htm": {
+      "title": "8-K - Bain Capital Private Credit (0001899017) (Filer)",
+      "updated": "2025-11-26T15:20:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T20:27:52.782153+00:00"
     }
   }
 }
