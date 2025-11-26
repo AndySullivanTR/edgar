@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-26T21:41:28.273743+00:00",
+  "last_checked": "2025-11-26T21:54:01.703518+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25655,6 +25655,62 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-26T21:41:27.254210+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1518715/000151871525000188/0001518715-25-000188-index.htm": {
+      "title": "8-K - Mechanics Bancorp (0001518715) (Filer)",
+      "updated": "2025-11-26T16:52:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T21:53:53.145465+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/51644/000119312525300704/0001193125-25-300704-index.htm": {
+      "title": "8-K - INTERPUBLIC GROUP OF COMPANIES, INC. (0000051644) (Filer)",
+      "updated": "2025-11-26T16:51:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T21:53:54.221968+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2019505/000121390025115566/0001213900-25-115566-index.htm": {
+      "title": "8-K - Health In Tech, Inc. (0002019505) (Filer)",
+      "updated": "2025-11-26T16:49:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T21:53:55.295863+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1618835/000149315225025172/0001493152-25-025172-index.htm": {
+      "title": "8-K - Evofem Biosciences, Inc. (0001618835) (Filer)",
+      "updated": "2025-11-26T16:49:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T21:53:56.382092+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1711012/000121390025115565/0001213900-25-115565-index.htm": {
+      "title": "8-K - Senmiao Technology Ltd (0001711012) (Filer)",
+      "updated": "2025-11-26T16:48:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T21:53:57.457963+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1944212/000149315225025170/0001493152-25-025170-index.htm": {
+      "title": "10-Q - DT Cloud Acquisition Corp (0001944212) (Filer)",
+      "updated": "2025-11-26T16:45:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T21:53:58.531605+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1846235/000121390025115558/0001213900-25-115558-index.htm": {
+      "title": "8-K - International Media Acquisition Corp. (0001846235) (Filer)",
+      "updated": "2025-11-26T16:45:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T21:53:59.605984+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1392972/000119312525300691/0001193125-25-300691-index.htm": {
+      "title": "8-K - PROS Holdings, Inc. (0001392972) (Filer)",
+      "updated": "2025-11-26T16:44:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T21:54:00.682488+00:00"
     }
   }
 }
