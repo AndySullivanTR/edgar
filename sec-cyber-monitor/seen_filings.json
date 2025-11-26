@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-26T19:21:33.704811+00:00",
+  "last_checked": "2025-11-26T19:39:34.805835+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25529,6 +25529,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-26T19:21:32.683940+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2065337/000206533725000020/0002065337-25-000020-index.htm": {
+      "title": "8-K - Carlyle Private Equity Partners Fund, L.P. (0002065337) (Filer)",
+      "updated": "2025-11-26T14:34:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T19:39:32.709774+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/885275/000119312525300016/0001193125-25-300016-index.htm": {
+      "title": "8-K - WILSON BANK HOLDING CO (0000885275) (Filer)",
+      "updated": "2025-11-26T14:29:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-26T19:39:33.786001+00:00"
     }
   }
 }
