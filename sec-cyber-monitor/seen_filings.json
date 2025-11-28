@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-28T20:57:39.817072+00:00",
+  "last_checked": "2025-11-28T21:24:36.406984+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26061,6 +26061,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-28T20:57:38.795819+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1681682/000121390025116103/0001213900-25-116103-index.htm": {
+      "title": "8-K - ENDRA Life Sciences Inc. (0001681682) (Filer)",
+      "updated": "2025-11-28T16:23:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T21:24:30.856855+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/746838/000110465925116956/0001104659-25-116956-index.htm": {
+      "title": "8-K - UNISYS CORP (0000746838) (Filer)",
+      "updated": "2025-11-28T16:20:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T21:24:31.985183+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1864531/000118518525001884/0001185185-25-001884-index.htm": {
+      "title": "8-K - VSEE HEALTH, INC. (0001864531) (Filer)",
+      "updated": "2025-11-28T16:18:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T21:24:33.123023+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2033383/000149315225025385/0001493152-25-025385-index.htm": {
+      "title": "8-K - Fusemachines Inc. (0002033383) (Filer)",
+      "updated": "2025-11-28T16:15:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T21:24:34.270642+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1628063/000119312525302564/0001193125-25-302564-index.htm": {
+      "title": "8-K - Seritage Growth Properties (0001628063) (Filer)",
+      "updated": "2025-11-28T16:13:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T21:24:35.386086+00:00"
     }
   }
 }
