@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-28T17:42:14.391508+00:00",
+  "last_checked": "2025-11-28T17:55:31.299239+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25914,6 +25914,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-28T17:42:13.370490+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1544400/000147793225008657/0001477932-25-008657-index.htm": {
+      "title": "10-Q/A - NFiniTi inc. (0001544400) (Filer)",
+      "updated": "2025-11-28T12:50:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T17:55:30.279417+00:00"
     }
   }
 }
