@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-28T18:36:49.648980+00:00",
+  "last_checked": "2025-11-28T18:55:50.474848+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25935,6 +25935,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-28T18:36:48.628358+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325814/000132581425000219/0001325814-25-000219-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer)",
+      "updated": "2025-11-28T13:52:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T18:55:48.355434+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/935419/000162828025054260/0001628280-25-054260-index.htm": {
+      "title": "8-K - RCI HOSPITALITY HOLDINGS, INC. (0000935419) (Filer)",
+      "updated": "2025-11-28T13:50:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T18:55:49.453052+00:00"
     }
   }
 }
