@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-28T16:34:30.925258+00:00",
+  "last_checked": "2025-11-28T16:55:34.382730+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25886,6 +25886,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-28T16:34:29.905460+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1692951/000169295125000270/0001692951-25-000270-index.htm": {
+      "title": "8-K - Cottonwood Communities, Inc. (0001692951) (Filer)",
+      "updated": "2025-11-28T11:49:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T16:55:33.361499+00:00"
     }
   }
 }
