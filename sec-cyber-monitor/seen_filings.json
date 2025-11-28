@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-28T16:55:34.382730+00:00",
+  "last_checked": "2025-11-28T17:24:11.993899+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25893,6 +25893,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-28T16:55:33.361499+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2033695/000158064225007483/0001580642-25-007483-index.htm": {
+      "title": "8-K - New Mountain Net Lease Trust (0002033695) (Filer)",
+      "updated": "2025-11-28T12:19:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T17:24:10.972860+00:00"
     }
   }
 }
