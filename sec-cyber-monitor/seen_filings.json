@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-28T18:55:50.474848+00:00",
+  "last_checked": "2025-11-28T19:22:17.642733+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25949,6 +25949,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-28T18:55:49.453052+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1703057/000170305725000032/0001703057-25-000032-index.htm": {
+      "title": "8-K - AbCellera Biologics Inc. (0001703057) (Filer)",
+      "updated": "2025-11-28T14:20:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T19:22:11.066438+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1823000/000110465925116870/0001104659-25-116870-index.htm": {
+      "title": "10-K - CONX Corp. (0001823000) (Filer)",
+      "updated": "2025-11-28T14:19:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T19:22:12.172802+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2035713/000162828025054265/0001628280-25-054265-index.htm": {
+      "title": "10-Q - Crestline Lending Solutions, LLC (0002035713) (Filer)",
+      "updated": "2025-11-28T14:16:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T19:22:13.274200+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1823000/000110465925116867/0001104659-25-116867-index.htm": {
+      "title": "8-K/A - CONX Corp. (0001823000) (Filer)",
+      "updated": "2025-11-28T14:16:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T19:22:14.382290+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1818844/000110465925116865/0001104659-25-116865-index.htm": {
+      "title": "8-K - Dogwood Therapeutics, Inc. (0001818844) (Filer)",
+      "updated": "2025-11-28T14:15:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T19:22:15.521163+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2026448/000162828025054263/0001628280-25-054263-index.htm": {
+      "title": "8-K - Principal Credit Real Estate Income Trust (0002026448) (Filer)",
+      "updated": "2025-11-28T14:09:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T19:22:16.621514+00:00"
     }
   }
 }
