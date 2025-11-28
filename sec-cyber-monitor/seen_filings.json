@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-28T11:54:05.453949+00:00",
+  "last_checked": "2025-11-28T12:54:14.310008+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25774,6 +25774,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-28T11:41:09.296676+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1882850/000119312525301226/0001193125-25-301226-index.htm": {
+      "title": "8-K - Apollo Realty Income Solutions, Inc. (0001882850) (Filer)",
+      "updated": "2025-11-28T07:45:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T12:54:07.462662+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1347178/000162828025054225/0001628280-25-054225-index.htm": {
+      "title": "8-K - Vanda Pharmaceuticals Inc. (0001347178) (Filer)",
+      "updated": "2025-11-28T07:06:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T12:54:08.596127+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1671927/000114036125043600/0001140361-25-043600-index.htm": {
+      "title": "8-K - Immunocore Holdings plc (0001671927) (Filer)",
+      "updated": "2025-11-28T07:01:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T12:54:09.745121+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1482541/000149315225025299/0001493152-25-025299-index.htm": {
+      "title": "8-K - CEA Industries Inc. (0001482541) (Filer)",
+      "updated": "2025-11-28T07:00:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T12:54:10.902286+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/41719/000004171925000115/0000041719-25-000115-index.htm": {
+      "title": "8-K - Magnera Corp (0000041719) (Filer)",
+      "updated": "2025-11-28T07:00:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T12:54:12.102194+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1878848/000114036125043599/0001140361-25-043599-index.htm": {
+      "title": "8-K - IREN Ltd (0001878848) (Filer)",
+      "updated": "2025-11-28T06:58:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T12:54:13.289067+00:00"
     }
   }
 }
