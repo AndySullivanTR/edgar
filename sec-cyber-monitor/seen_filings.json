@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-28T21:24:36.406984+00:00",
+  "last_checked": "2025-11-28T21:40:25.190092+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26096,6 +26096,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-28T21:24:35.386086+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1606909/000160690925000169/0001606909-25-000169-index.htm": {
+      "title": "8-K - Pangaea Logistics Solutions Ltd. (0001606909) (Filer)",
+      "updated": "2025-11-28T16:36:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T21:40:20.908908+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1071236/000107123625000096/0001071236-25-000096-index.htm": {
+      "title": "8-K - RED RIVER BANCSHARES INC (0001071236) (Filer)",
+      "updated": "2025-11-28T16:30:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T21:40:21.988324+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1130598/000110465925116962/0001104659-25-116962-index.htm": {
+      "title": "8-K - Traws Pharma, Inc. (0001130598) (Filer)",
+      "updated": "2025-11-28T16:30:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T21:40:23.062791+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/923601/000149315225025393/0001493152-25-025393-index.htm": {
+      "title": "8-K - Algorhythm Holdings, Inc. (0000923601) (Filer)",
+      "updated": "2025-11-28T16:30:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T21:40:24.169098+00:00"
     }
   }
 }
