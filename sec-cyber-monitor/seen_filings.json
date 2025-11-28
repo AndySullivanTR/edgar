@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-28T17:24:11.993899+00:00",
+  "last_checked": "2025-11-28T17:42:14.391508+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25900,6 +25900,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-28T17:24:10.972860+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1615222/000199937125018942/0001999371-25-018942-index.htm": {
+      "title": "8-K - Moody National REIT II, Inc. (0001615222) (Filer)",
+      "updated": "2025-11-28T12:28:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T17:42:12.291491+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325878/000132587825000248/0001325878-25-000248-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer)",
+      "updated": "2025-11-28T12:26:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T17:42:13.370490+00:00"
     }
   }
 }
