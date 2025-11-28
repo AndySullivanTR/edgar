@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-28T21:53:33.815706+00:00",
+  "last_checked": "2025-11-28T22:24:35.096423+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26138,6 +26138,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-28T21:53:32.794696+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1437750/000147793225008667/0001477932-25-008667-index.htm": {
+      "title": "10-Q - T-REX Acquisition Corp. (0001437750) (Filer)",
+      "updated": "2025-11-28T17:22:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T22:24:30.824963+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1652935/000168316825008732/0001683168-25-008732-index.htm": {
+      "title": "8-K - ACTUATE THERAPEUTICS, INC. (0001652935) (Filer)",
+      "updated": "2025-11-28T17:21:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T22:24:31.901511+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1450704/000182912625009516/0001829126-25-009516-index.htm": {
+      "title": "8-K - Vivakor, Inc. (0001450704) (Filer)",
+      "updated": "2025-11-28T17:19:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T22:24:32.999221+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1445942/000199937125018974/0001999371-25-018974-index.htm": {
+      "title": "10-K - Texas Mineral Resources Corp. (0001445942) (Filer)",
+      "updated": "2025-11-28T17:16:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T22:24:34.074992+00:00"
     }
   }
 }
