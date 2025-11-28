@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-28T19:52:55.381441+00:00",
+  "last_checked": "2025-11-28T20:28:23.898047+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25998,6 +25998,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-28T19:52:54.359986+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1424657/000121390025116046/0001213900-25-116046-index.htm": {
+      "title": "10-Q - Cuentas Inc. (0001424657) (Filer)",
+      "updated": "2025-11-28T15:23:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T20:28:18.555701+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1424657/000121390025116045/0001213900-25-116045-index.htm": {
+      "title": "10-Q - Cuentas Inc. (0001424657) (Filer)",
+      "updated": "2025-11-28T15:21:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T20:28:19.652838+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1424657/000121390025116041/0001213900-25-116041-index.htm": {
+      "title": "10-Q - Cuentas Inc. (0001424657) (Filer)",
+      "updated": "2025-11-28T15:19:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T20:28:20.728491+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/887151/000121390025116037/0001213900-25-116037-index.htm": {
+      "title": "8-K - Capstone Holding Corp. (0000887151) (Filer)",
+      "updated": "2025-11-28T15:10:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T20:28:21.801659+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1572386/000149315225025366/0001493152-25-025366-index.htm": {
+      "title": "8-K - GREENWAY TECHNOLOGIES, INC. & SUBSIDIARIES (0001572386) (Filer)",
+      "updated": "2025-11-28T15:09:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T20:28:22.876805+00:00"
     }
   }
 }
