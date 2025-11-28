@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-28T20:44:21.056837+00:00",
+  "last_checked": "2025-11-28T20:57:39.817072+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26047,6 +26047,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-28T20:44:20.035474+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1838163/000149315225025376/0001493152-25-025376-index.htm": {
+      "title": "8-K - Brand Engagement Network Inc. (0001838163) (Filer)",
+      "updated": "2025-11-28T15:55:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T20:57:37.722986+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2050501/000110465925116938/0001104659-25-116938-index.htm": {
+      "title": "8-K - Blue Water Acquisition Corp. III (0002050501) (Filer)",
+      "updated": "2025-11-28T15:52:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T20:57:38.795819+00:00"
     }
   }
 }
