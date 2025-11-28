@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-28T15:56:56.849175+00:00",
+  "last_checked": "2025-11-28T16:34:30.925258+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25879,6 +25879,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-28T14:45:38.668532+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1755347/000155335025000155/0001553350-25-000155-index.htm": {
+      "title": "10-Q - Certiplex Corp (0001755347) (Filer)",
+      "updated": "2025-11-28T11:20:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T16:34:29.905460+00:00"
     }
   }
 }
