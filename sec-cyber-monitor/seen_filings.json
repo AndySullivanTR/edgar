@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-28T20:28:23.898047+00:00",
+  "last_checked": "2025-11-28T20:44:21.056837+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26033,6 +26033,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-28T20:28:22.876805+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/823546/000149315225025369/0001493152-25-025369-index.htm": {
+      "title": "8-K/A - ROCKETFUEL BLOCKCHAIN, INC. (0000823546) (Filer)",
+      "updated": "2025-11-28T15:37:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T20:44:18.904478+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1547546/000110465925116923/0001104659-25-116923-index.htm": {
+      "title": "8-K - Lument Finance Trust, Inc. (0001547546) (Filer)",
+      "updated": "2025-11-28T15:30:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T20:44:20.035474+00:00"
     }
   }
 }
