@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-28T10:48:21.283475+00:00",
+  "last_checked": "2025-11-28T11:22:46.242626+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25746,6 +25746,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-26T22:25:43.979507+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1770561/000110465925116582/0001104659-25-116582-index.htm": {
+      "title": "8-K - Coronado Global Resources Inc. (0001770561) (Filer)",
+      "updated": "2025-11-28T06:05:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T11:22:42.976197+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/106640/000119312525301150/0001193125-25-301150-index.htm": {
+      "title": "8-K - WHIRLPOOL CORP /DE/ (0000106640) (Filer)",
+      "updated": "2025-11-28T06:01:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T11:22:44.117673+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1915380/000182912625009491/0001829126-25-009491-index.htm": {
+      "title": "8-K - dMY Squared Technology Group, Inc. (0001915380) (Filer)",
+      "updated": "2025-11-28T06:00:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T11:22:45.221601+00:00"
     }
   }
 }
