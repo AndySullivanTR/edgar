@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-28T22:24:35.096423+00:00",
+  "last_checked": "2025-11-28T22:42:49.715690+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26166,6 +26166,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-28T22:24:34.074992+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1757499/000149315225025430/0001493152-25-025430-index.htm": {
+      "title": "8-K - Shuttle Pharmaceuticals Holdings, Inc. (0001757499) (Filer)",
+      "updated": "2025-11-28T17:31:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T22:42:46.543673+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1644903/000143774925036497/0001437749-25-036497-index.htm": {
+      "title": "8-K - cbdMD, Inc. (0001644903) (Filer)",
+      "updated": "2025-11-28T17:30:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T22:42:47.616390+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/913760/000091376025000196/0000913760-25-000196-index.htm": {
+      "title": "10-K - StoneX Group Inc. (0000913760) (Filer)",
+      "updated": "2025-11-28T17:27:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T22:42:48.693361+00:00"
     }
   }
 }
