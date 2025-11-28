@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-28T13:35:00.327007+00:00",
+  "last_checked": "2025-11-28T13:53:52.290748+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25844,6 +25844,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-28T13:34:59.305598+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1970129/000168316825008712/0001683168-25-008712-index.htm": {
+      "title": "10-Q - LEGEND SPICES, INC. (0001970129) (Filer)",
+      "updated": "2025-11-28T08:49:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": "llm_ok",
+      "first_seen": "2025-11-28T13:53:49.021223+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1661306/000166130625000094/0001661306-25-000094-index.htm": {
+      "title": "8-K - Hancock Park Corporate Income, Inc. (0001661306) (Filer)",
+      "updated": "2025-11-28T08:43:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T13:53:50.139838+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1487918/000148791825000113/0001487918-25-000113-index.htm": {
+      "title": "8-K - OFS Capital Corp (0001487918) (Filer)",
+      "updated": "2025-11-28T08:39:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T13:53:51.269353+00:00"
     }
   }
 }
