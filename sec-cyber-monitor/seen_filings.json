@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-28T21:40:25.190092+00:00",
+  "last_checked": "2025-11-28T21:53:33.815706+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26124,6 +26124,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-28T21:40:24.169098+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1841610/000118518525001886/0001185185-25-001886-index.htm": {
+      "title": "10-K - BPGC Acquisition Corp. (0001841610) (Filer)",
+      "updated": "2025-11-28T16:51:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T21:53:31.725941+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1807887/000149315225025400/0001493152-25-025400-index.htm": {
+      "title": "8-K - Laser Photonics Corp (0001807887) (Filer)",
+      "updated": "2025-11-28T16:45:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T21:53:32.794696+00:00"
     }
   }
 }
