@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-11-28T12:54:14.310008+00:00",
+  "last_checked": "2025-11-28T13:35:00.327007+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -25816,6 +25816,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-28T12:54:13.289067+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1893262/000119312525301273/0001193125-25-301273-index.htm": {
+      "title": "8-K - J.P. Morgan Real Estate Income Trust, Inc. (0001893262) (Filer)",
+      "updated": "2025-11-28T08:33:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T13:34:56.067245+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1872525/000121390025115785/0001213900-25-115785-index.htm": {
+      "title": "8-K - Stran & Company, Inc. (0001872525) (Filer)",
+      "updated": "2025-11-28T08:32:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T13:34:57.147718+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1921865/000147793225008651/0001477932-25-008651-index.htm": {
+      "title": "8-K - ASP Isotopes Inc. (0001921865) (Filer)",
+      "updated": "2025-11-28T08:30:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T13:34:58.230784+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1713210/000149315225025312/0001493152-25-025312-index.htm": {
+      "title": "8-K - Agape ATP Corp (0001713210) (Filer)",
+      "updated": "2025-11-28T08:00:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-11-28T13:34:59.305598+00:00"
     }
   }
 }
