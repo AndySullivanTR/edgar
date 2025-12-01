@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-01T21:39:46.614153+00:00",
+  "last_checked": "2025-12-01T21:53:57.877400+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26922,6 +26922,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-01T21:39:45.591597+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/110019/000119312525304001/0001193125-25-304001-index.htm": {
+      "title": "8-K - NORTHWEST PIPELINE LLC (0000110019) (Filer)",
+      "updated": "2025-12-01T16:52:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T21:53:53.506088+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/107263/000119312525304001/0001193125-25-304001-index.htm": {
+      "title": "8-K - WILLIAMS COMPANIES, INC. (0000107263) (Filer)",
+      "updated": "2025-12-01T16:52:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T21:53:54.676562+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1775194/000147793225008713/0001477932-25-008713-index.htm": {
+      "title": "8-K - UPEXI, INC. (0001775194) (Filer)",
+      "updated": "2025-12-01T16:50:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T21:53:55.755723+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1878848/000114036125043803/0001140361-25-043803-index.htm": {
+      "title": "8-K - IREN Ltd (0001878848) (Filer)",
+      "updated": "2025-12-01T16:48:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T21:53:56.855114+00:00"
     }
   }
 }
