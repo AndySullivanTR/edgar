@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-01T15:32:33.415843+00:00",
+  "last_checked": "2025-12-01T15:55:08.881260+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26663,6 +26663,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-01T15:32:32.394949+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1166708/000149315225025511/0001493152-25-025511-index.htm": {
+      "title": "8-K - Brownie's Marine Group, Inc (0001166708) (Filer)",
+      "updated": "2025-12-01T10:46:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T15:55:07.858707+00:00"
     }
   }
 }
