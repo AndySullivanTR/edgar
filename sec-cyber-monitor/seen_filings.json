@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-01T22:25:51.755973+00:00",
+  "last_checked": "2025-12-01T22:45:07.779147+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26971,6 +26971,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-01T22:25:50.735003+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2025608/000149315225025622/0001493152-25-025622-index.htm": {
+      "title": "8-K - Soulpower Acquisition Corp. (0002025608) (Filer)",
+      "updated": "2025-12-01T17:30:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T22:45:01.256689+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1993402/000110465925117407/0001104659-25-117407-index.htm": {
+      "title": "8-K - Antares Strategic Credit Fund (0001993402) (Filer)",
+      "updated": "2025-12-01T17:29:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T22:45:02.352317+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1539850/000149315225025620/0001493152-25-025620-index.htm": {
+      "title": "8-K - Starco Brands, Inc. (0001539850) (Filer)",
+      "updated": "2025-12-01T17:29:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T22:45:03.448503+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1838126/000162828025054529/0001628280-25-054529-index.htm": {
+      "title": "8-K - HPS Corporate Lending Fund (0001838126) (Filer)",
+      "updated": "2025-12-01T17:29:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T22:45:04.554398+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1843162/000121390025116790/0001213900-25-116790-index.htm": {
+      "title": "8-K - Chicago Atlantic BDC, Inc. (0001843162) (Filer)",
+      "updated": "2025-12-01T17:29:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T22:45:05.659805+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1559998/000149315225025618/0001493152-25-025618-index.htm": {
+      "title": "8-K - Gaucho Group Holdings, Inc. (0001559998) (Filer)",
+      "updated": "2025-12-01T17:27:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T22:45:06.757919+00:00"
     }
   }
 }
