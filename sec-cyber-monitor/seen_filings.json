@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-01T13:58:47.878783+00:00",
+  "last_checked": "2025-12-01T14:34:00.898942+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26558,6 +26558,97 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-01T13:58:46.857285+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1718224/000147793225008693/0001477932-25-008693-index.htm": {
+      "title": "8-K - BT Brands, Inc. (0001718224) (Filer)",
+      "updated": "2025-12-01T09:29:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T14:33:46.760029+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1630212/000121390025116320/0001213900-25-116320-index.htm": {
+      "title": "8-K - Avalon GloboCare Corp. (0001630212) (Filer)",
+      "updated": "2025-12-01T09:29:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T14:33:47.843480+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1830072/000168316825008743/0001683168-25-008743-index.htm": {
+      "title": "8-K - iPower Inc. (0001830072) (Filer)",
+      "updated": "2025-12-01T09:20:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T14:33:48.927255+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1343491/000199937125018989/0001999371-25-018989-index.htm": {
+      "title": "8-K - STRATS(SM) TRUST FOR DOMINION RESOURCES, INC. SECURITIES, SERIES 2005-6 (0001343491) (Filer)",
+      "updated": "2025-12-01T09:15:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T14:33:50.045786+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2000178/000119312525303237/0001193125-25-303237-index.htm": {
+      "title": "8-K - Loar Holdings Inc. (0002000178) (Filer)",
+      "updated": "2025-12-01T09:13:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T14:33:51.132300+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/18349/000001834925000129/0000018349-25-000129-index.htm": {
+      "title": "8-K - SYNOVUS FINANCIAL CORP (0000018349) (Filer)",
+      "updated": "2025-12-01T09:11:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T14:33:52.255642+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1340909/000199937125018987/0001999371-25-018987-index.htm": {
+      "title": "8-K - STRATS SM TRUST FOR WAL-MART STORES, INC. SECURITIES, SERIES 2005-4 (0001340909) (Filer)",
+      "updated": "2025-12-01T09:10:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T14:33:53.335692+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1339920/000199937125018985/0001999371-25-018985-index.htm": {
+      "title": "8-K - STRATS SM TRUST FOR Goldman Sachs Cap I SEC SERIES 2005-3 (0001339920) (Filer)",
+      "updated": "2025-12-01T09:09:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T14:33:54.417639+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1937993/000121390025116307/0001213900-25-116307-index.htm": {
+      "title": "8-K - Cadrenal Therapeutics, Inc. (0001937993) (Filer)",
+      "updated": "2025-12-01T09:05:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T14:33:55.502742+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1328989/000199937125018982/0001999371-25-018982-index.htm": {
+      "title": "8-K - STRATS(SM) Trust For Goldman Sachs Capital I Securities, Series 2005-1 (0001328989) (Filer)",
+      "updated": "2025-12-01T09:03:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T14:33:56.606943+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1466026/000110465925117163/0001104659-25-117163-index.htm": {
+      "title": "8-K - Midland States Bancorp, Inc. (0001466026) (Filer)",
+      "updated": "2025-12-01T09:00:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T14:33:57.690659+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/925528/000110465925117162/0001104659-25-117162-index.htm": {
+      "title": "8-K - HUDSON TECHNOLOGIES INC /NY (0000925528) (Filer)",
+      "updated": "2025-12-01T09:00:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T14:33:58.793380+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1364479/000119312525303217/0001193125-25-303217-index.htm": {
+      "title": "8-K - HERC HOLDINGS INC (0001364479) (Filer)",
+      "updated": "2025-12-01T09:00:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T14:33:59.876817+00:00"
     }
   }
 }
