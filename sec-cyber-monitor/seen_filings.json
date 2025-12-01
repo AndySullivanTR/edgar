@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-01T13:44:22.477438+00:00",
+  "last_checked": "2025-12-01T13:58:47.878783+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26530,6 +26530,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-01T13:44:21.455243+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000123/0001645590-25-000123-index.htm": {
+      "title": "8-K - Hewlett Packard Enterprise Co (0001645590) (Filer)",
+      "updated": "2025-12-01T08:56:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:58:43.606299+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1999784/000199978425000054/0001999784-25-000054-index.htm": {
+      "title": "8-K - North Haven Net REIT (0001999784) (Filer)",
+      "updated": "2025-12-01T08:53:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:58:44.687976+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/883241/000119312525303209/0001193125-25-303209-index.htm": {
+      "title": "8-K - SYNOPSYS INC (0000883241) (Filer)",
+      "updated": "2025-12-01T08:49:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:58:45.772586+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1829311/000149315225025501/0001493152-25-025501-index.htm": {
+      "title": "8-K - BITMINE IMMERSION TECHNOLOGIES, INC. (0001829311) (Filer)",
+      "updated": "2025-12-01T08:45:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:58:46.857285+00:00"
     }
   }
 }
