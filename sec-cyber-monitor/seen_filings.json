@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-01T13:00:24.365138+00:00",
+  "last_checked": "2025-12-01T13:44:22.477438+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26397,6 +26397,139 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-01T13:00:23.343343+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1175680/000110465925117154/0001104659-25-117154-index.htm": {
+      "title": "8-K - CytoDyn Inc. (0001175680) (Filer)",
+      "updated": "2025-12-01T08:40:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:44:01.106691+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1117057/000121390025116289/0001213900-25-116289-index.htm": {
+      "title": "8-K - Planet Green Holdings Corp. (0001117057) (Filer)",
+      "updated": "2025-12-01T08:39:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:44:02.221989+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/711669/000110465925117152/0001104659-25-117152-index.htm": {
+      "title": "8-K - COLONY BANKCORP INC (0000711669) (Filer)",
+      "updated": "2025-12-01T08:35:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:44:03.385513+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1269026/000149315225025496/0001493152-25-025496-index.htm": {
+      "title": "8-K - Sintx Technologies, Inc. (0001269026) (Filer)",
+      "updated": "2025-12-01T08:35:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:44:04.528652+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/856984/000149315225025495/0001493152-25-025495-index.htm": {
+      "title": "8-K - QHSLab, Inc. (0000856984) (Filer)",
+      "updated": "2025-12-01T08:30:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:44:05.651841+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1829794/000168316825008737/0001683168-25-008737-index.htm": {
+      "title": "8-K - Empery Digital Inc. (0001829794) (Filer)",
+      "updated": "2025-12-01T08:30:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:44:06.768064+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1171759/000095014225003093/0000950142-25-003093-index.htm": {
+      "title": "8-K - RED ROBIN GOURMET BURGERS INC (0001171759) (Filer)",
+      "updated": "2025-12-01T08:30:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:44:07.884881+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/814453/000119312525303185/0001193125-25-303185-index.htm": {
+      "title": "8-K - NEWELL BRANDS INC. (0000814453) (Filer)",
+      "updated": "2025-12-01T08:30:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:44:08.999597+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1285819/000143774925036507/0001437749-25-036507-index.htm": {
+      "title": "8-K - OMEROS CORP (0001285819) (Filer)",
+      "updated": "2025-12-01T08:30:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:44:10.117407+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/49196/000114036125043724/0001140361-25-043724-index.htm": {
+      "title": "8-K - HUNTINGTON BANCSHARES INC /MD/ (0000049196) (Filer)",
+      "updated": "2025-12-01T08:27:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:44:11.253570+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1997296/000106299325017085/0001062993-25-017085-index.htm": {
+      "title": "8-K - Medicus Pharma Ltd. (0001997296) (Filer)",
+      "updated": "2025-12-01T08:13:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:44:12.369886+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1343009/000168316825008736/0001683168-25-008736-index.htm": {
+      "title": "10-K - CNBX Pharmaceuticals Inc. (0001343009) (Filer)",
+      "updated": "2025-12-01T08:11:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:44:13.497159+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1963088/000110465925117148/0001104659-25-117148-index.htm": {
+      "title": "8-K - AtlasClear Holdings, Inc. (0001963088) (Filer)",
+      "updated": "2025-12-01T08:10:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:44:14.611639+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1437925/000147793225008691/0001477932-25-008691-index.htm": {
+      "title": "8-K - Golden Matrix Group, Inc. (0001437925) (Filer)",
+      "updated": "2025-12-01T08:10:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:44:15.729293+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1844971/000162828025054304/0001628280-25-054304-index.htm": {
+      "title": "8-K - Greenidge Generation Holdings Inc. (0001844971) (Filer)",
+      "updated": "2025-12-01T08:10:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:44:16.852351+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1898474/000121390025116278/0001213900-25-116278-index.htm": {
+      "title": "8-K - Signing Day Sports, Inc. (0001898474) (Filer)",
+      "updated": "2025-12-01T08:08:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:44:17.969013+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1206264/000114036125043720/0001140361-25-043720-index.htm": {
+      "title": "8-K - SOMNIGROUP INTERNATIONAL INC. (0001206264) (Filer)",
+      "updated": "2025-12-01T08:06:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:44:19.086295+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1866175/000162828025054302/0001628280-25-054302-index.htm": {
+      "title": "8-K - Crescent Energy Co (0001866175) (Filer)",
+      "updated": "2025-12-01T08:03:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:44:20.202535+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/895419/000089541925000134/0000895419-25-000134-index.htm": {
+      "title": "8-K - WOLFSPEED, INC. (0000895419) (Filer)",
+      "updated": "2025-12-01T08:02:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:44:21.455243+00:00"
     }
   }
 }
