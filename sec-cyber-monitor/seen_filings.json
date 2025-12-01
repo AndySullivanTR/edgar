@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-01T21:53:57.877400+00:00",
+  "last_checked": "2025-12-01T22:25:51.755973+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26950,6 +26950,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-01T21:53:56.855114+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1895249/000110465925117403/0001104659-25-117403-index.htm": {
+      "title": "8-K - ConnectM Technology Solutions, Inc. (0001895249) (Filer)",
+      "updated": "2025-12-01T17:24:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T22:25:48.479366+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1838163/000149315225025613/0001493152-25-025613-index.htm": {
+      "title": "8-K - Brand Engagement Network Inc. (0001838163) (Filer)",
+      "updated": "2025-12-01T17:24:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T22:25:49.612432+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/937556/000093755625000171/0000937556-25-000171-index.htm": {
+      "title": "8-K - MASIMO CORP (0000937556) (Filer)",
+      "updated": "2025-12-01T17:22:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T22:25:50.735003+00:00"
     }
   }
 }
