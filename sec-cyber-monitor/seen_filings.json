@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-01T20:29:20.061507+00:00",
+  "last_checked": "2025-12-01T20:43:58.406444+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26754,6 +26754,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-01T20:29:19.039358+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/824142/000082414225000203/0000824142-25-000203-index.htm": {
+      "title": "8-K - AAON, INC. (0000824142) (Filer)",
+      "updated": "2025-12-01T15:42:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T20:43:56.294220+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/277509/000162828025054406/0001628280-25-054406-index.htm": {
+      "title": "8-K - FEDERAL SIGNAL CORP /DE/ (0000277509) (Filer)",
+      "updated": "2025-12-01T15:41:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T20:43:57.384427+00:00"
     }
   }
 }
