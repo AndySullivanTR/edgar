@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-01T14:34:00.898942+00:00",
+  "last_checked": "2025-12-01T14:58:00.793220+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26649,6 +26649,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-01T14:33:59.876817+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331757/000133175725000210/0001331757-25-000210-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer)",
+      "updated": "2025-12-01T09:53:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T14:57:59.771600+00:00"
     }
   }
 }
