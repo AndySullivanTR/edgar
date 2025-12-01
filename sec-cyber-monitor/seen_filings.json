@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-01T20:43:58.406444+00:00",
+  "last_checked": "2025-12-01T20:57:17.022196+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26768,6 +26768,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-01T20:43:57.384427+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1042187/000149315225025549/0001493152-25-025549-index.htm": {
+      "title": "8-K - YUNHONG GREEN CTI LTD. (0001042187) (Filer)",
+      "updated": "2025-12-01T15:55:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T20:57:10.610788+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1269371/000106823825000227/0001068238-25-000227-index.htm": {
+      "title": "8-K - STRUCTURED OBLIGATIONS CORP LONG TERM CERTS SER 2003-5 (0001269371) (Filer)",
+      "updated": "2025-12-01T15:54:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T20:57:11.681800+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1264157/000106823825000226/0001068238-25-000226-index.htm": {
+      "title": "8-K - STRUCTURED OBLIGATIONS CORP LONG TERM CERTS SER 2003-4 (0001264157) (Filer)",
+      "updated": "2025-12-01T15:54:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T20:57:12.777477+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1255604/000106823825000225/0001068238-25-000225-index.htm": {
+      "title": "8-K - STRUCTURED OBLIGATIONS CORP LONG TERM CERT SER 2003 3 (0001255604) (Filer)",
+      "updated": "2025-12-01T15:53:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T20:57:13.855329+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1227090/000106823825000224/0001068238-25-000224-index.htm": {
+      "title": "8-K - STRUCTURED OBLIGATIONS CORP SELECT NOTES TRUST LT SER 2003-2 (0001227090) (Filer)",
+      "updated": "2025-12-01T15:53:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T20:57:14.927456+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1223444/000106823825000223/0001068238-25-000223-index.htm": {
+      "title": "8-K - STRUCTURED OBLIGATIONS CORP SELECT NOTES TRUST LT SER 2003-1 (0001223444) (Filer)",
+      "updated": "2025-12-01T15:52:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T20:57:15.999638+00:00"
     }
   }
 }
