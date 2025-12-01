@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-01T11:42:53.437330+00:00",
+  "last_checked": "2025-12-01T11:56:03.984353+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26285,6 +26285,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-01T11:42:52.415824+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1065059/000162828025054290/0001628280-25-054290-index.htm": {
+      "title": "8-K - CENTRUS ENERGY CORP (0001065059) (Filer)",
+      "updated": "2025-12-01T06:51:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T11:56:01.858311+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1637207/000163720725000081/0001637207-25-000081-index.htm": {
+      "title": "8-K - Planet Fitness, Inc. (0001637207) (Filer)",
+      "updated": "2025-12-01T06:49:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T11:56:02.962598+00:00"
     }
   }
 }
