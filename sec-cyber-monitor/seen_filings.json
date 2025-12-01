@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-01T18:47:13.331112+00:00",
+  "last_checked": "2025-12-01T19:27:17.832357+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26719,6 +26719,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-01T18:47:12.310205+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/866706/000110465925117276/0001104659-25-117276-index.htm": {
+      "title": "10-K - ESCO TECHNOLOGIES INC (0000866706) (Filer)",
+      "updated": "2025-12-01T14:23:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T19:27:14.662533+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1923622/000119312525303688/0001193125-25-303688-index.htm": {
+      "title": "8-K - PGIM Private Credit Fund (0001923622) (Filer)",
+      "updated": "2025-12-01T14:18:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T19:27:15.733108+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1697884/000164033425002237/0001640334-25-002237-index.htm": {
+      "title": "10-K - VITASPRING BIOMEDICAL CO. LTD. (0001697884) (Filer)",
+      "updated": "2025-12-01T14:06:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T19:27:16.810222+00:00"
     }
   }
 }
