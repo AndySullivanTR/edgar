@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-01T19:57:52.589746+00:00",
+  "last_checked": "2025-12-01T20:29:20.061507+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26747,6 +26747,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-01T19:44:45.873339+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1131312/000143774925036533/0001437749-25-036533-index.htm": {
+      "title": "8-K - ZION OIL & GAS INC (0001131312) (Filer)",
+      "updated": "2025-12-01T15:08:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T20:29:19.039358+00:00"
     }
   }
 }
