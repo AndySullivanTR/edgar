@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-01T11:56:03.984353+00:00",
+  "last_checked": "2025-12-01T13:00:24.365138+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26299,6 +26299,104 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-01T11:56:02.962598+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1050446/000119312525303157/0001193125-25-303157-index.htm": {
+      "title": "8-K - Strategy Inc (0001050446) (Filer)",
+      "updated": "2025-12-01T07:58:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:00:09.198012+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1116463/000111646325000057/0001116463-25-000057-index.htm": {
+      "title": "8-K - ORASURE TECHNOLOGIES INC (0001116463) (Filer)",
+      "updated": "2025-12-01T07:37:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:00:10.278931+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1580345/000121390025116265/0001213900-25-116265-index.htm": {
+      "title": "8-K - TriplePoint Venture Growth BDC Corp. (0001580345) (Filer)",
+      "updated": "2025-12-01T07:31:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:00:11.364723+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/49071/000004907125000059/0000049071-25-000059-index.htm": {
+      "title": "8-K - HUMANA INC (0000049071) (Filer)",
+      "updated": "2025-12-01T07:30:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:00:12.462099+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1530950/000153095025000272/0001530950-25-000272-index.htm": {
+      "title": "8-K - Post Holdings, Inc. (0001530950) (Filer)",
+      "updated": "2025-12-01T07:28:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:00:13.546016+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1394108/000155479525000259/0001554795-25-000259-index.htm": {
+      "title": "8-K - SUIC Worldwide Holdings Ltd. (0001394108) (Filer)",
+      "updated": "2025-12-01T07:19:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:00:14.629814+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1661998/000119312525303115/0001193125-25-303115-index.htm": {
+      "title": "8-K - Q32 Bio Inc. (0001661998) (Filer)",
+      "updated": "2025-12-01T07:14:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:00:15.711060+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1517022/000151702225000051/0001517022-25-000051-index.htm": {
+      "title": "8-K - Akebia Therapeutics, Inc. (0001517022) (Filer)",
+      "updated": "2025-12-01T07:08:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:00:16.813871+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1877184/000119312525303104/0001193125-25-303104-index.htm": {
+      "title": "8-K - KESTRA MEDICAL TECHNOLOGIES, LTD. (0001877184) (Filer)",
+      "updated": "2025-12-01T07:06:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:00:17.896544+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1522727/000119312525303103/0001193125-25-303103-index.htm": {
+      "title": "8-K - USA Compression Partners, LP (0001522727) (Filer)",
+      "updated": "2025-12-01T07:06:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:00:18.980499+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/7789/000000778925000187/0000007789-25-000187-index.htm": {
+      "title": "8-K - ASSOCIATED BANC-CORP (0000007789) (Filer)",
+      "updated": "2025-12-01T07:01:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:00:20.068969+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1645113/000164511325000045/0001645113-25-000045-index.htm": {
+      "title": "8-K - NovoCure Ltd (0001645113) (Filer)",
+      "updated": "2025-12-01T07:01:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:00:21.162448+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1867096/000186709625000161/0001867096-25-000161-index.htm": {
+      "title": "8-K - Xeris Biopharma Holdings, Inc. (0001867096) (Filer)",
+      "updated": "2025-12-01T07:00:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:00:22.243119+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1023024/000102302425000113/0001023024-25-000113-index.htm": {
+      "title": "8-K - ANI PHARMACEUTICALS INC (0001023024) (Filer)",
+      "updated": "2025-12-01T06:58:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T13:00:23.343343+00:00"
     }
   }
 }
