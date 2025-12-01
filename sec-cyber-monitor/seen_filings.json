@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-01T21:24:08.072365+00:00",
+  "last_checked": "2025-12-01T21:39:46.614153+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26887,6 +26887,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-01T21:24:07.050169+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/810332/000119312525303961/0001193125-25-303961-index.htm": {
+      "title": "8-K - REPUBLIC AIRWAYS HOLDINGS INC. (0000810332) (Filer)",
+      "updated": "2025-12-01T16:38:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T21:39:41.021399+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1163668/000114036125043799/0001140361-25-043799-index.htm": {
+      "title": "8-K - SOUTH PLAINS FINANCIAL, INC. (0001163668) (Filer)",
+      "updated": "2025-12-01T16:38:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T21:39:42.177283+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1967649/000162828025054471/0001628280-25-054471-index.htm": {
+      "title": "8-K - Vestis Corp (0001967649) (Filer)",
+      "updated": "2025-12-01T16:37:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T21:39:43.308182+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1901164/000114036125043798/0001140361-25-043798-index.htm": {
+      "title": "8-K - T. Rowe Price OHA Select Private Credit Fund (0001901164) (Filer)",
+      "updated": "2025-12-01T16:35:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T21:39:44.446213+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2028935/000121390025116729/0001213900-25-116729-index.htm": {
+      "title": "8-K - FACT II Acquisition Corp. (0002028935) (Filer)",
+      "updated": "2025-12-01T16:35:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T21:39:45.591597+00:00"
     }
   }
 }
