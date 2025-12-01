@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-01T11:25:57.887368+00:00",
+  "last_checked": "2025-12-01T11:42:53.437330+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26271,6 +26271,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-01T11:25:56.865687+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1424182/000142418225000055/0001424182-25-000055-index.htm": {
+      "title": "8-K - Broadstone Net Lease, Inc. (0001424182) (Filer)",
+      "updated": "2025-12-01T06:35:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T11:42:51.344928+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1424182/000142418225000054/0001424182-25-000054-index.htm": {
+      "title": "8-K - Broadstone Net Lease, Inc. (0001424182) (Filer)",
+      "updated": "2025-12-01T06:35:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T11:42:52.415824+00:00"
     }
   }
 }
