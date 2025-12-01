@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-01T19:27:17.832357+00:00",
+  "last_checked": "2025-12-01T19:44:46.895097+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26740,6 +26740,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-01T19:27:16.810222+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1231339/000147793225008705/0001477932-25-008705-index.htm": {
+      "title": "NT 10-K - Astra Energy, Inc. (0001231339) (Filer)",
+      "updated": "2025-12-01T14:34:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T19:44:45.873339+00:00"
     }
   }
 }
