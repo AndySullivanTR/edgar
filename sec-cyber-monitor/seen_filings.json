@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-01T14:58:00.793220+00:00",
+  "last_checked": "2025-12-01T15:32:33.415843+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26656,6 +26656,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-01T14:57:59.771600+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1673481/000149315225025505/0001493152-25-025505-index.htm": {
+      "title": "8-K - Lottery.com Inc. (0001673481) (Filer)",
+      "updated": "2025-12-01T10:23:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T15:32:32.394949+00:00"
     }
   }
 }
