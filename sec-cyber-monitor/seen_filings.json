@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-01T20:57:17.022196+00:00",
+  "last_checked": "2025-12-01T21:24:08.072365+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26810,6 +26810,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-01T20:57:15.999638+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1113313/000171328225000825/0001713282-25-000825-index.htm": {
+      "title": "10-Q - ARVANA INC (0001113313) (Filer)",
+      "updated": "2025-12-01T16:22:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T21:23:55.533337+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1587732/000158773225000060/0001587732-25-000060-index.htm": {
+      "title": "8-K - ONE Gas, Inc. (0001587732) (Filer)",
+      "updated": "2025-12-01T16:21:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T21:23:56.755535+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1567900/000143774925036548/0001437749-25-036548-index.htm": {
+      "title": "8-K - BLACKBOXSTOCKS INC. (0001567900) (Filer)",
+      "updated": "2025-12-01T16:21:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T21:23:57.904601+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1530950/000153095025000275/0001530950-25-000275-index.htm": {
+      "title": "8-K - Post Holdings, Inc. (0001530950) (Filer)",
+      "updated": "2025-12-01T16:20:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T21:23:59.039942+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1587987/000162828025054452/0001628280-25-054452-index.htm": {
+      "title": "8-K - NewtekOne, Inc. (0001587987) (Filer)",
+      "updated": "2025-12-01T16:20:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T21:24:00.174629+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/94344/000110465925117328/0001104659-25-117328-index.htm": {
+      "title": "8-K - STEWART INFORMATION SERVICES CORP (0000094344) (Filer)",
+      "updated": "2025-12-01T16:20:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T21:24:01.347250+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/915912/000110465925117327/0001104659-25-117327-index.htm": {
+      "title": "8-K - AVALONBAY COMMUNITIES INC (0000915912) (Filer)",
+      "updated": "2025-12-01T16:20:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T21:24:02.507700+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1809987/000162828025054450/0001628280-25-054450-index.htm": {
+      "title": "8-K - Mirion Technologies, Inc. (0001809987) (Filer)",
+      "updated": "2025-12-01T16:19:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T21:24:03.644274+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1401521/000140152125000135/0001401521-25-000135-index.htm": {
+      "title": "8-K - AMERICAN COASTAL INSURANCE Corp (0001401521) (Filer)",
+      "updated": "2025-12-01T16:19:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T21:24:04.811604+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/10795/000162828025054447/0001628280-25-054447-index.htm": {
+      "title": "8-K/A - BECTON DICKINSON & CO (0000010795) (Filer)",
+      "updated": "2025-12-01T16:18:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T21:24:05.918508+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/814586/000168316825008776/0001683168-25-008776-index.htm": {
+      "title": "8-K - Lifeway Foods, Inc. (0000814586) (Filer)",
+      "updated": "2025-12-01T16:17:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T21:24:07.050169+00:00"
     }
   }
 }
