@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-01T10:56:11.566483+00:00",
+  "last_checked": "2025-12-01T11:25:57.887368+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -26187,6 +26187,90 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-11-28T22:42:48.693361+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1820190/000119312525303037/0001193125-25-303037-index.htm": {
+      "title": "8-K - Scilex Holding Co (0001820190) (Filer)",
+      "updated": "2025-12-01T06:15:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T11:25:44.331246+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1831481/000183148125000115/0001831481-25-000115-index.htm": {
+      "title": "8-K - Sable Offshore Corp. (0001831481) (Filer)",
+      "updated": "2025-12-01T06:13:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T11:25:45.472177+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1479247/000110465925117095/0001104659-25-117095-index.htm": {
+      "title": "8-K - United States Commodity Index Funds Trust (0001479247) (Filer)",
+      "updated": "2025-12-01T06:13:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T11:25:46.604890+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1472494/000110465925117092/0001104659-25-117092-index.htm": {
+      "title": "8-K - United States Brent Oil Fund, LP (0001472494) (Filer)",
+      "updated": "2025-12-01T06:12:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T11:25:47.751904+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1405513/000110465925117090/0001104659-25-117090-index.htm": {
+      "title": "8-K - United States 12 Month Natural Gas Fund, LP (0001405513) (Filer)",
+      "updated": "2025-12-01T06:11:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T11:25:48.908338+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1396878/000110465925117086/0001104659-25-117086-index.htm": {
+      "title": "8-K - United States Gasoline Fund, LP (0001396878) (Filer)",
+      "updated": "2025-12-01T06:11:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T11:25:50.005969+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1405528/000110465925117083/0001104659-25-117083-index.htm": {
+      "title": "8-K - United States 12 Month Oil Fund, LP (0001405528) (Filer)",
+      "updated": "2025-12-01T06:10:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T11:25:51.140418+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1376227/000110465925117082/0001104659-25-117082-index.htm": {
+      "title": "8-K - United States Natural Gas Fund, LP (0001376227) (Filer)",
+      "updated": "2025-12-01T06:10:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T11:25:52.279320+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1327068/000110465925117079/0001104659-25-117079-index.htm": {
+      "title": "8-K - United States Oil Fund, LP (0001327068) (Filer)",
+      "updated": "2025-12-01T06:09:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T11:25:53.412149+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1595527/000110465925117068/0001104659-25-117068-index.htm": {
+      "title": "8-K - American Strategic Investment Co. (0001595527) (Filer)",
+      "updated": "2025-12-01T06:06:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T11:25:54.574159+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1498148/000106299325017079/0001062993-25-017079-index.htm": {
+      "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+      "updated": "2025-12-01T06:02:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T11:25:55.722352+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1539838/000110465925117053/0001104659-25-117053-index.htm": {
+      "title": "8-K - Diamondback Energy, Inc. (0001539838) (Filer)",
+      "updated": "2025-12-01T06:02:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-01T11:25:56.865687+00:00"
     }
   }
 }
