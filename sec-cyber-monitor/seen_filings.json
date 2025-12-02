@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-02T17:55:49.127693+00:00",
+  "last_checked": "2025-12-02T18:44:08.960502+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -27559,6 +27559,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-02T17:01:58.617200+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325814/000132581425000221/0001325814-25-000221-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer)",
+      "updated": "2025-12-02T13:41:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T18:44:07.937808+00:00"
     }
   }
 }
