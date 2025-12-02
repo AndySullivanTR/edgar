@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-02T21:55:21.383825+00:00",
+  "last_checked": "2025-12-02T22:23:56.844794+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -27706,6 +27706,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-02T21:55:20.352614+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1820144/000114036125044037/0001140361-25-044037-index.htm": {
+      "title": "8-K - Grindr Inc. (0001820144) (Filer)",
+      "updated": "2025-12-02T17:22:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T22:23:50.077954+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1747777/000119312525305466/0001193125-25-305466-index.htm": {
+      "title": "8-K - Blue Owl Technology Finance Corp. (0001747777) (Filer)",
+      "updated": "2025-12-02T17:21:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T22:23:51.241006+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1915328/000110465925117788/0001104659-25-117788-index.htm": {
+      "title": "8-K - Israel Acquisitions Corp (0001915328) (Filer)",
+      "updated": "2025-12-02T17:20:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T22:23:52.393006+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/29989/000121390025117362/0001213900-25-117362-index.htm": {
+      "title": "8-K - OMNICOM GROUP INC. (0000029989) (Filer)",
+      "updated": "2025-12-02T17:20:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T22:23:53.533765+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1655888/000119312525305460/0001193125-25-305460-index.htm": {
+      "title": "8-K - Blue Owl Capital Corp (0001655888) (Filer)",
+      "updated": "2025-12-02T17:19:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T22:23:54.680488+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/933974/000143774925036682/0001437749-25-036682-index.htm": {
+      "title": "NT 10-K - Azenta, Inc. (0000933974) (Filer)",
+      "updated": "2025-12-02T17:18:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T22:23:55.823102+00:00"
     }
   }
 }
