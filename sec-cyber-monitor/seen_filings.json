@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-02T19:53:53.411513+00:00",
+  "last_checked": "2025-12-02T20:32:26.201108+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -27594,6 +27594,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-02T19:53:52.388138+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1976336/000110465925117667/0001104659-25-117667-index.htm": {
+      "title": "8-K - Antares Private Credit Fund (0001976336) (Filer)",
+      "updated": "2025-12-02T15:30:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T20:32:24.096389+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1779128/000162828025054709/0001628280-25-054709-index.htm": {
+      "title": "8-K/A - Strata Critical Medical, Inc. (0001779128) (Filer)",
+      "updated": "2025-12-02T15:14:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T20:32:25.178028+00:00"
     }
   }
 }
