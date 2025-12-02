@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-02T19:31:59.220146+00:00",
+  "last_checked": "2025-12-02T19:53:53.411513+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -27573,6 +27573,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-02T19:02:20.782137+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/728535/000143774925036646/0001437749-25-036646-index.htm": {
+      "title": "8-K - HUNT J B TRANSPORT SERVICES INC (0000728535) (Filer)",
+      "updated": "2025-12-02T14:48:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T19:53:50.078216+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/865752/000110465925117647/0001104659-25-117647-index.htm": {
+      "title": "8-K - Monster Beverage Corp (0000865752) (Filer)",
+      "updated": "2025-12-02T14:45:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T19:53:51.270722+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1023994/000121390025117158/0001213900-25-117158-index.htm": {
+      "title": "8-K - SAFE & GREEN HOLDINGS CORP. (0001023994) (Filer)",
+      "updated": "2025-12-02T14:43:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T19:53:52.388138+00:00"
     }
   }
 }
