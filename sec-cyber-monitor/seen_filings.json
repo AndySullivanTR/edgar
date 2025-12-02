@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-02T21:26:09.135080+00:00",
+  "last_checked": "2025-12-02T21:42:29.896316+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -27678,6 +27678,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-02T21:26:08.111824+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2011954/000149315225025766/0001493152-25-025766-index.htm": {
+      "title": "8-K - Twin Hospitality Group Inc. (0002011954) (Filer)",
+      "updated": "2025-12-02T16:38:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T21:42:26.645197+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1849466/000094337425000493/0000943374-25-000493-index.htm": {
+      "title": "8-K - Texas Community Bancshares, Inc. (0001849466) (Filer)",
+      "updated": "2025-12-02T16:36:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T21:42:27.767587+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1705012/000149315225025763/0001493152-25-025763-index.htm": {
+      "title": "8-K - Fat Brands, Inc (0001705012) (Filer)",
+      "updated": "2025-12-02T16:35:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T21:42:28.873658+00:00"
     }
   }
 }
