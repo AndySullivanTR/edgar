@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-02T20:32:26.201108+00:00",
+  "last_checked": "2025-12-02T20:54:52.293971+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -27608,6 +27608,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-02T20:32:25.178028+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331754/000133175425000248/0001331754-25-000248-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer)",
+      "updated": "2025-12-02T15:43:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T20:54:49.118167+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2065397/000110465925117676/0001104659-25-117676-index.htm": {
+      "title": "8-K - Antares Strategic Credit Fund II LLC (0002065397) (Filer)",
+      "updated": "2025-12-02T15:38:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T20:54:50.194994+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1993402/000110465925117672/0001104659-25-117672-index.htm": {
+      "title": "8-K - Antares Strategic Credit Fund (0001993402) (Filer)",
+      "updated": "2025-12-02T15:35:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T20:54:51.271422+00:00"
     }
   }
 }
