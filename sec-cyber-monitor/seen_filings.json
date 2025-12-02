@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-02T16:40:11.133749+00:00",
+  "last_checked": "2025-12-02T17:01:59.640116+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -27545,6 +27545,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-02T16:40:10.111226+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331465/000133146525000277/0001331465-25-000277-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer)",
+      "updated": "2025-12-02T11:51:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T17:01:57.509106+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325878/000132587825000250/0001325878-25-000250-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer)",
+      "updated": "2025-12-02T11:42:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T17:01:58.617200+00:00"
     }
   }
 }
