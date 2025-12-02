@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-02T13:49:34.409565+00:00",
+  "last_checked": "2025-12-02T14:30:14.784735+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -27433,6 +27433,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-02T13:49:33.386854+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1106838/000149315225025677/0001493152-25-025677-index.htm": {
+      "title": "8-K - Sonnet BioTherapeutics Holdings, Inc. (0001106838) (Filer)",
+      "updated": "2025-12-02T09:25:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T14:30:06.956037+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1841330/000121390025116985/0001213900-25-116985-index.htm": {
+      "title": "8-K - Pasithea Therapeutics Corp. (0001841330) (Filer)",
+      "updated": "2025-12-02T09:23:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T14:30:08.079602+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1648195/000102024225000158/0001020242-25-000158-index.htm": {
+      "title": "8-K - COMM 2015-CCRE25 Mortgage Trust (0001648195) (Filer)",
+      "updated": "2025-12-02T09:11:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T14:30:09.201467+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1817358/000181735825000177/0001817358-25-000177-index.htm": {
+      "title": "8-K - Academy Sports & Outdoors, Inc. (0001817358) (Filer)",
+      "updated": "2025-12-02T09:10:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T14:30:10.320641+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/45012/000004501225000074/0000045012-25-000074-index.htm": {
+      "title": "8-K - HALLIBURTON CO (0000045012) (Filer)",
+      "updated": "2025-12-02T09:06:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T14:30:11.473453+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1108426/000110842625000118/0001108426-25-000118-index.htm": {
+      "title": "8-K - TXNM ENERGY INC (0001108426) (Filer)",
+      "updated": "2025-12-02T08:53:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T14:30:12.624490+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/81023/000110842625000118/0001108426-25-000118-index.htm": {
+      "title": "8-K - PUBLIC SERVICE CO OF NEW MEXICO (0000081023) (Filer)",
+      "updated": "2025-12-02T08:53:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T14:30:13.761622+00:00"
     }
   }
 }
