@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-02T10:55:59.236324+00:00",
+  "last_checked": "2025-12-02T11:27:10.635450+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -27013,6 +27013,69 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-01T22:45:06.757919+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/319643/000109991025000256/0001099910-25-000256-index.htm": {
+      "title": "8-K - CANADIAN DERIVATIVES CLEARING CORP (0000319643) (Filer)",
+      "updated": "2025-12-02T06:26:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T11:27:01.002160+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1838406/000110465925117490/0001104659-25-117490-index.htm": {
+      "title": "8-K - BKV Corp (0001838406) (Filer)",
+      "updated": "2025-12-02T06:05:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T11:27:02.076475+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1500881/000119312525304433/0001193125-25-304433-index.htm": {
+      "title": "8-K - enCore Energy Corp. (0001500881) (Filer)",
+      "updated": "2025-12-02T06:05:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T11:27:03.171973+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1637757/000110465925117484/0001104659-25-117484-index.htm": {
+      "title": "8-K - Clearway Energy LLC (0001637757) (Filer)",
+      "updated": "2025-12-02T06:04:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T11:27:04.244460+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1530721/000153072125000148/0001530721-25-000148-index.htm": {
+      "title": "8-K - Capri Holdings Ltd (0001530721) (Filer)",
+      "updated": "2025-12-02T06:03:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T11:27:05.318554+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1848437/000110465925117476/0001104659-25-117476-index.htm": {
+      "title": "8-K - Cartica Acquisition Corp (0001848437) (Filer)",
+      "updated": "2025-12-02T06:02:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T11:27:06.390038+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1804745/000119312525304428/0001193125-25-304428-index.htm": {
+      "title": "8-K - Driven Brands Holdings Inc. (0001804745) (Filer)",
+      "updated": "2025-12-02T06:01:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T11:27:07.463941+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1498148/000106299325017114/0001062993-25-017114-index.htm": {
+      "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+      "updated": "2025-12-02T06:01:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T11:27:08.538376+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1567683/000110465925117466/0001104659-25-117466-index.htm": {
+      "title": "8-K - Clearway Energy, Inc. (0001567683) (Filer)",
+      "updated": "2025-12-02T06:00:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T11:27:09.613067+00:00"
     }
   }
 }
