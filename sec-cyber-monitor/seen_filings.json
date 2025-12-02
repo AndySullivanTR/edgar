@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-02T15:57:16.117916+00:00",
+  "last_checked": "2025-12-02T16:40:11.133749+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -27517,6 +27517,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-02T15:57:15.095194+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2025878/000147793225008730/0001477932-25-008730-index.htm": {
+      "title": "10-Q - TriUnity Business Services Ltd (0002025878) (Filer)",
+      "updated": "2025-12-02T11:32:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T16:40:06.686292+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1747068/000174706825000065/0001747068-25-000065-index.htm": {
+      "title": "8-K - MetroCity Bankshares, Inc. (0001747068) (Filer)",
+      "updated": "2025-12-02T11:20:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T16:40:07.835852+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/109198/000010919825000061/0000109198-25-000061-index.htm": {
+      "title": "10-Q - TJX COMPANIES INC /DE/ (0000109198) (Filer)",
+      "updated": "2025-12-02T11:19:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T16:40:08.959347+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1022671/000110465925117578/0001104659-25-117578-index.htm": {
+      "title": "8-K - STEEL DYNAMICS INC (0001022671) (Filer)",
+      "updated": "2025-12-02T11:11:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T16:40:10.111226+00:00"
     }
   }
 }
