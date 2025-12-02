@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-02T11:57:27.132581+00:00",
+  "last_checked": "2025-12-02T13:01:59.350179+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -27104,6 +27104,188 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-02T11:57:26.110354+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1437925/000147793225008725/0001477932-25-008725-index.htm": {
+      "title": "8-K - Golden Matrix Group, Inc. (0001437925) (Filer)",
+      "updated": "2025-12-02T08:01:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:31.104290+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2019505/000121390025116958/0001213900-25-116958-index.htm": {
+      "title": "8-K - Health In Tech, Inc. (0002019505) (Filer)",
+      "updated": "2025-12-02T08:00:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:32.190284+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1824293/000182429325000155/0001824293-25-000155-index.htm": {
+      "title": "8-K - GRI Bio, Inc. (0001824293) (Filer)",
+      "updated": "2025-12-02T08:00:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:33.263982+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1725430/000149315225025665/0001493152-25-025665-index.htm": {
+      "title": "8-K - INTELLIGENT BIO SOLUTIONS INC. (0001725430) (Filer)",
+      "updated": "2025-12-02T08:00:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:34.346980+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1737523/000147793225008724/0001477932-25-008724-index.htm": {
+      "title": "8-K - BioNexus Gene Lab Corp (0001737523) (Filer)",
+      "updated": "2025-12-02T08:00:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:35.419803+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/750686/000075068625000310/0000750686-25-000310-index.htm": {
+      "title": "8-K - CAMDEN NATIONAL CORP (0000750686) (Filer)",
+      "updated": "2025-12-02T08:00:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:36.510574+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1555280/000155528025000280/0001555280-25-000280-index.htm": {
+      "title": "8-K - Zoetis Inc. (0001555280) (Filer)",
+      "updated": "2025-12-02T08:00:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:37.599343+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1177702/000119312525304538/0001193125-25-304538-index.htm": {
+      "title": "8-K - SAIA INC (0001177702) (Filer)",
+      "updated": "2025-12-02T07:45:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:38.673700+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1475115/000119312525304531/0001193125-25-304531-index.htm": {
+      "title": "8-K - Eventbrite, Inc. (0001475115) (Filer)",
+      "updated": "2025-12-02T07:42:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:39.747143+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1434647/000143464725000015/0001434647-25-000015-index.htm": {
+      "title": "8-K - ZEVRA THERAPEUTICS, INC. (0001434647) (Filer)",
+      "updated": "2025-12-02T07:34:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:40.823978+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1628908/000162890825000141/0001628908-25-000141-index.htm": {
+      "title": "8-K - Evolent Health, Inc. (0001628908) (Filer)",
+      "updated": "2025-12-02T07:32:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:41.904327+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/827187/000082718725000128/0000827187-25-000128-index.htm": {
+      "title": "8-K - Sleep Number Corp (0000827187) (Filer)",
+      "updated": "2025-12-02T07:32:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:42.999923+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1713863/000121390025116951/0001213900-25-116951-index.htm": {
+      "title": "8-K - Rafael Holdings, Inc. (0001713863) (Filer)",
+      "updated": "2025-12-02T07:32:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:44.083250+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2068454/000182912625009580/0001829126-25-009580-index.htm": {
+      "title": "8-K - CSLM Digital Asset Acquisition Corp III, Ltd (0002068454) (Filer)",
+      "updated": "2025-12-02T07:28:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:45.233578+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1306830/000162828025054601/0001628280-25-054601-index.htm": {
+      "title": "8-K - Celanese Corp (0001306830) (Filer)",
+      "updated": "2025-12-02T07:26:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:46.328215+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/75252/000119312525304500/0001193125-25-304500-index.htm": {
+      "title": "8-K - OWENS & MINOR INC/VA/ (0000075252) (Filer)",
+      "updated": "2025-12-02T07:16:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:47.409240+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1413329/000162828025054598/0001628280-25-054598-index.htm": {
+      "title": "8-K - Philip Morris International Inc. (0001413329) (Filer)",
+      "updated": "2025-12-02T07:10:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:48.506803+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1636422/000163642225000156/0001636422-25-000156-index.htm": {
+      "title": "8-K - Health Catalyst, Inc. (0001636422) (Filer)",
+      "updated": "2025-12-02T07:10:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:49.589696+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1788028/000121390025116943/0001213900-25-116943-index.htm": {
+      "title": "8-K - Jasper Therapeutics, Inc. (0001788028) (Filer)",
+      "updated": "2025-12-02T07:06:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:50.691994+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1967649/000162828025054597/0001628280-25-054597-index.htm": {
+      "title": "10-K - Vestis Corp (0001967649) (Filer)",
+      "updated": "2025-12-02T07:06:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:51.793442+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1572616/000119312525304486/0001193125-25-304486-index.htm": {
+      "title": "8-K - FRACTYL HEALTH, INC. (0001572616) (Filer)",
+      "updated": "2025-12-02T07:05:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:52.880021+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1020859/000102085925000063/0001020859-25-000063-index.htm": {
+      "title": "8-K - UNITED NATURAL FOODS INC (0001020859) (Filer)",
+      "updated": "2025-12-02T07:02:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:53.957889+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1070985/000119312525304483/0001193125-25-304483-index.htm": {
+      "title": "8-K - CoreCivic, Inc. (0001070985) (Filer)",
+      "updated": "2025-12-02T07:01:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:55.074761+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1727196/000110465925117522/0001104659-25-117522-index.htm": {
+      "title": "8-K - Scholar Rock Holding Corp (0001727196) (Filer)",
+      "updated": "2025-12-02T07:00:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:56.167667+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/795800/000149315225025663/0001493152-25-025663-index.htm": {
+      "title": "8-K - NexMetals Mining Corp. (0000795800) (Filer)",
+      "updated": "2025-12-02T07:00:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:57.245766+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1158463/000115846325000116/0001158463-25-000116-index.htm": {
+      "title": "8-K - JETBLUE AIRWAYS CORP (0001158463) (Filer)",
+      "updated": "2025-12-02T07:00:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T13:01:58.327848+00:00"
     }
   }
 }
