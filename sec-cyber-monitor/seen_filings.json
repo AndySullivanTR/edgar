@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-02T20:54:52.293971+00:00",
+  "last_checked": "2025-12-02T21:26:09.135080+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -27629,6 +27629,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-02T20:54:51.271422+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1477720/000147772025000237/0001477720-25-000237-index.htm": {
+      "title": "10-Q - Asana, Inc. (0001477720) (Filer)",
+      "updated": "2025-12-02T16:24:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T21:26:01.666474+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1811074/000110465925117726/0001104659-25-117726-index.htm": {
+      "title": "8-K - Texas Pacific Land Corp (0001811074) (Filer)",
+      "updated": "2025-12-02T16:23:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T21:26:02.740894+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1898604/000149315225025744/0001493152-25-025744-index.htm": {
+      "title": "8-K - Vestand Inc. (0001898604) (Filer)",
+      "updated": "2025-12-02T16:23:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T21:26:03.815279+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1907982/000190798225000261/0001907982-25-000261-index.htm": {
+      "title": "8-K - D-Wave Quantum Inc. (0001907982) (Filer)",
+      "updated": "2025-12-02T16:23:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T21:26:04.891306+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1600222/000095014225003098/0000950142-25-003098-index.htm": {
+      "title": "8-K - Phoenix Education Partners, Inc. (0001600222) (Filer)",
+      "updated": "2025-12-02T16:23:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T21:26:05.964077+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1056288/000105628825000032/0001056288-25-000032-index.htm": {
+      "title": "8-K - FEDERATED HERMES, INC. (0001056288) (Filer)",
+      "updated": "2025-12-02T16:22:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T21:26:07.036852+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1095073/000109507325000091/0001095073-25-000091-index.htm": {
+      "title": "8-K - EVEREST GROUP, LTD. (0001095073) (Filer)",
+      "updated": "2025-12-02T16:21:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T21:26:08.111824+00:00"
     }
   }
 }
