@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-02T11:44:10.599588+00:00",
+  "last_checked": "2025-12-02T11:57:27.132581+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -27083,6 +27083,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-02T11:44:09.578660+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/832988/000083298825000228/0000832988-25-000228-index.htm": {
+      "title": "8-K - SIGNET JEWELERS LTD (0000832988) (Filer)",
+      "updated": "2025-12-02T06:56:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T11:57:23.931072+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1318484/000110465925117520/0001104659-25-117520-index.htm": {
+      "title": "8-K - Citi Trends Inc (0001318484) (Filer)",
+      "updated": "2025-12-02T06:56:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T11:57:25.014117+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/873860/000149315225025656/0001493152-25-025656-index.htm": {
+      "title": "8-K - ONITY GROUP INC. (0000873860) (Filer)",
+      "updated": "2025-12-02T06:45:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-02T11:57:26.110354+00:00"
     }
   }
 }
