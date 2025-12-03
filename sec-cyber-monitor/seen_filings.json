@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-03T16:39:48.895726+00:00",
+  "last_checked": "2025-12-03T17:01:30.869781+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -28189,6 +28189,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-03T16:39:47.871053+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1133416/000114036125044148/0001140361-25-044148-index.htm": {
+      "title": "8-K - GALECTIN THERAPEUTICS INC (0001133416) (Filer)",
+      "updated": "2025-12-03T12:00:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T17:01:24.655687+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/866439/000168316825008832/0001683168-25-008832-index.htm": {
+      "title": "8-K - DarkPulse, Inc. (0000866439) (Filer)",
+      "updated": "2025-12-03T12:00:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T17:01:26.546471+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1403475/000140347525000079/0001403475-25-000079-index.htm": {
+      "title": "8-K - Bank of Marin Bancorp (0001403475) (Filer)",
+      "updated": "2025-12-03T11:59:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T17:01:27.686955+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1905956/000121390025117673/0001213900-25-117673-index.htm": {
+      "title": "8-K - TREASURE GLOBAL INC (0001905956) (Filer)",
+      "updated": "2025-12-03T11:54:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T17:01:28.770396+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/707179/000162828025054948/0001628280-25-054948-index.htm": {
+      "title": "8-K - OLD NATIONAL BANCORP /IN/ (0000707179) (Filer)",
+      "updated": "2025-12-03T11:49:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T17:01:29.848229+00:00"
     }
   }
 }
