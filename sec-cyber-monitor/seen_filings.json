@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-03T11:26:28.387648+00:00",
+  "last_checked": "2025-12-03T11:44:40.658295+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -27804,6 +27804,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-03T11:26:27.364172+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/730263/000073026325000029/0000730263-25-000029-index.htm": {
+      "title": "10-Q - THOR INDUSTRIES INC (0000730263) (Filer)",
+      "updated": "2025-12-03T06:34:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T11:44:34.227687+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/730263/000073026325000028/0000730263-25-000028-index.htm": {
+      "title": "8-K - THOR INDUSTRIES INC (0000730263) (Filer)",
+      "updated": "2025-12-03T06:32:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T11:44:35.308393+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/935703/000093570325000105/0000935703-25-000105-index.htm": {
+      "title": "10-Q - DOLLAR TREE, INC. (0000935703) (Filer)",
+      "updated": "2025-12-03T06:31:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T11:44:36.388969+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1688126/000149315225025866/0001493152-25-025866-index.htm": {
+      "title": "8-K - Crypto Co (0001688126) (Filer)",
+      "updated": "2025-12-03T06:30:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T11:44:37.470870+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/935703/000093570325000104/0000935703-25-000104-index.htm": {
+      "title": "8-K - DOLLAR TREE, INC. (0000935703) (Filer)",
+      "updated": "2025-12-03T06:30:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T11:44:38.551419+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1069530/000143774925036710/0001437749-25-036710-index.htm": {
+      "title": "8-K - CASSAVA SCIENCES INC (0001069530) (Filer)",
+      "updated": "2025-12-03T06:27:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T11:44:39.634974+00:00"
     }
   }
 }
