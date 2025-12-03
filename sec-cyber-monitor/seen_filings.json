@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-03T18:40:56.498146+00:00",
+  "last_checked": "2025-12-03T19:00:20.051250+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -28231,6 +28231,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-03T18:40:55.474014+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/726854/000072685425000185/0000726854-25-000185-index.htm": {
+      "title": "8-K - CITY HOLDING CO (0000726854) (Filer)",
+      "updated": "2025-12-03T13:55:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T19:00:17.940510+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/729580/000143774925036765/0001437749-25-036765-index.htm": {
+      "title": "8-K - BEL FUSE INC /NJ (0000729580) (Filer)",
+      "updated": "2025-12-03T13:43:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T19:00:19.028009+00:00"
     }
   }
 }
