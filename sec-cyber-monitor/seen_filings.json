@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-03T11:57:58.721955+00:00",
+  "last_checked": "2025-12-03T13:02:17.040136+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -27846,6 +27846,139 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-03T11:44:39.634974+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1822791/000143774925036712/0001437749-25-036712-index.htm": {
+      "title": "8-K - Clene Inc. (0001822791) (Filer)",
+      "updated": "2025-12-03T08:01:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:01:56.627521+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/882796/000114036125044110/0001140361-25-044110-index.htm": {
+      "title": "8-K - BIOCRYST PHARMACEUTICALS INC (0000882796) (Filer)",
+      "updated": "2025-12-03T08:00:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:01:57.719029+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2028935/000121390025117572/0001213900-25-117572-index.htm": {
+      "title": "8-K - FACT II Acquisition Corp. (0002028935) (Filer)",
+      "updated": "2025-12-03T08:00:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:01:58.803230+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1106838/000149315225025884/0001493152-25-025884-index.htm": {
+      "title": "8-K - Sonnet BioTherapeutics Holdings, Inc. (0001106838) (Filer)",
+      "updated": "2025-12-03T08:00:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:01:59.878412+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1877461/000147793225008739/0001477932-25-008739-index.htm": {
+      "title": "8-K - 1606 CORP. (0001877461) (Filer)",
+      "updated": "2025-12-03T08:00:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:02:00.953256+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1873875/000121390025117571/0001213900-25-117571-index.htm": {
+      "title": "8-K - Incannex Healthcare Inc. (0001873875) (Filer)",
+      "updated": "2025-12-03T08:00:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:02:02.026660+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1464790/000121390025117569/0001213900-25-117569-index.htm": {
+      "title": "8-K - B. Riley Financial, Inc. (0001464790) (Filer)",
+      "updated": "2025-12-03T08:00:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:02:03.104086+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1821806/000119312525305989/0001193125-25-305989-index.htm": {
+      "title": "8-K/A - Leslie's, Inc. (0001821806) (Filer)",
+      "updated": "2025-12-03T08:00:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:02:04.178425+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/925741/000143774925036711/0001437749-25-036711-index.htm": {
+      "title": "8-K - BioCardia, Inc. (0000925741) (Filer)",
+      "updated": "2025-12-03T08:00:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:02:05.254067+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1022505/000149315225025880/0001493152-25-025880-index.htm": {
+      "title": "8-K - SideChannel, Inc. (0001022505) (Filer)",
+      "updated": "2025-12-03T07:30:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:02:06.327500+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1100682/000162828025054902/0001628280-25-054902-index.htm": {
+      "title": "8-K - CHARLES RIVER LABORATORIES INTERNATIONAL, INC. (0001100682) (Filer)",
+      "updated": "2025-12-03T07:28:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:02:07.399001+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1133869/000110465925117947/0001104659-25-117947-index.htm": {
+      "title": "8-K - CAPRICOR THERAPEUTICS, INC. (0001133869) (Filer)",
+      "updated": "2025-12-03T07:21:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:02:08.474197+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1569345/000156934525000053/0001569345-25-000053-index.htm": {
+      "title": "8-K - Sprinklr, Inc. (0001569345) (Filer)",
+      "updated": "2025-12-03T07:15:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:02:09.549735+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1632790/000163279025000107/0001632790-25-000107-index.htm": {
+      "title": "8-K - ENERGIZER HOLDINGS, INC. (0001632790) (Filer)",
+      "updated": "2025-12-03T07:13:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:02:10.638582+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1699350/000169935025000020/0001699350-25-000020-index.htm": {
+      "title": "8-K - SHOULDER INNOVATIONS, INC. (0001699350) (Filer)",
+      "updated": "2025-12-03T07:10:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:02:11.710883+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1789029/000119312525305958/0001193125-25-305958-index.htm": {
+      "title": "8-K - Aeva Technologies, Inc. (0001789029) (Filer)",
+      "updated": "2025-12-03T07:10:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:02:12.792631+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1812173/000121390025117558/0001213900-25-117558-index.htm": {
+      "title": "8-K - Vicarious Surgical Inc. (0001812173) (Filer)",
+      "updated": "2025-12-03T07:01:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:02:13.864789+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/795800/000149315225025875/0001493152-25-025875-index.htm": {
+      "title": "8-K - NexMetals Mining Corp. (0000795800) (Filer)",
+      "updated": "2025-12-03T07:00:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:02:14.939562+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/794367/000162828025054900/0001628280-25-054900-index.htm": {
+      "title": "8-K - Macy's, Inc. (0000794367) (Filer)",
+      "updated": "2025-12-03T06:59:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:02:16.016442+00:00"
     }
   }
 }
