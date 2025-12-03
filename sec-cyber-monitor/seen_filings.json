@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-03T20:55:59.115881+00:00",
+  "last_checked": "2025-12-03T21:24:36.380352+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -28301,6 +28301,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-03T20:55:58.092856+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1886894/000149315225025969/0001493152-25-025969-index.htm": {
+      "title": "8-K - Snail, Inc. (0001886894) (Filer)",
+      "updated": "2025-12-03T16:23:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:24:28.809068+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1944366/000194436625000132/0001944366-25-000132-index.htm": {
+      "title": "8-K - Blue Owl Real Estate Net Lease Trust (0001944366) (Filer)",
+      "updated": "2025-12-03T16:22:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:24:29.893412+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1166691/000095010325015694/0000950103-25-015694-index.htm": {
+      "title": "8-K - COMCAST CORP (0001166691) (Filer)",
+      "updated": "2025-12-03T16:22:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:24:30.982188+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1845815/000095010325015693/0000950103-25-015693-index.htm": {
+      "title": "8-K - Payoneer Global Inc. (0001845815) (Filer)",
+      "updated": "2025-12-03T16:21:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:24:32.072965+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1620459/000162045925000148/0001620459-25-000148-index.htm": {
+      "title": "8-K - James River Group Holdings, Inc. (0001620459) (Filer)",
+      "updated": "2025-12-03T16:21:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:24:33.166870+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1377789/000137778925000121/0001377789-25-000121-index.htm": {
+      "title": "8-K - AVIAT NETWORKS, INC. (0001377789) (Filer)",
+      "updated": "2025-12-03T16:20:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:24:34.256053+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1913577/000119312525306757/0001193125-25-306757-index.htm": {
+      "title": "8-K - Semnur Pharmaceuticals, Inc. (0001913577) (Filer)",
+      "updated": "2025-12-03T16:20:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:24:35.357010+00:00"
     }
   }
 }
