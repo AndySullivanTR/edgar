@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-03T14:29:04.531735+00:00",
+  "last_checked": "2025-12-03T14:51:42.176068+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -28126,6 +28126,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-03T14:29:03.508502+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1872292/000149315225025903/0001493152-25-025903-index.htm": {
+      "title": "8-K - Rainmaker Worldwide Inc. (0001872292) (Filer)",
+      "updated": "2025-12-03T09:36:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T14:51:38.984713+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1432133/000162828025054913/0001628280-25-054913-index.htm": {
+      "title": "8-K - KALTURA INC (0001432133) (Filer)",
+      "updated": "2025-12-03T09:35:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T14:51:40.059793+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1133869/000110465925117981/0001104659-25-117981-index.htm": {
+      "title": "8-K - CAPRICOR THERAPEUTICS, INC. (0001133869) (Filer)",
+      "updated": "2025-12-03T09:29:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T14:51:41.144268+00:00"
     }
   }
 }
