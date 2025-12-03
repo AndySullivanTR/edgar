@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-03T13:02:17.040136+00:00",
+  "last_checked": "2025-12-03T13:49:06.857415+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -27979,6 +27979,97 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-03T13:02:16.016442+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2025341/000121390025117587/0001213900-25-117587-index.htm": {
+      "title": "8-K - Andretti Acquisition Corp. II (0002025341) (Filer)",
+      "updated": "2025-12-03T08:45:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:48:52.844108+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1822791/000143774925036713/0001437749-25-036713-index.htm": {
+      "title": "8-K - Clene Inc. (0001822791) (Filer)",
+      "updated": "2025-12-03T08:45:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:48:53.928497+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1758766/000175876625000076/0001758766-25-000076-index.htm": {
+      "title": "8-K - STEM, INC. (0001758766) (Filer)",
+      "updated": "2025-12-03T08:31:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:48:55.008046+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1701963/000121390025117580/0001213900-25-117580-index.htm": {
+      "title": "8-K - Versus Systems Inc. (0001701963) (Filer)",
+      "updated": "2025-12-03T08:31:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:48:56.092726+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1712762/000149315225025893/0001493152-25-025893-index.htm": {
+      "title": "8-K - bioAffinity Technologies, Inc. (0001712762) (Filer)",
+      "updated": "2025-12-03T08:30:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:48:57.165579+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/856984/000149315225025892/0001493152-25-025892-index.htm": {
+      "title": "8-K - QHSLab, Inc. (0000856984) (Filer)",
+      "updated": "2025-12-03T08:30:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:48:58.238935+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/27904/000168316825008823/0001683168-25-008823-index.htm": {
+      "title": "8-K - DELTA AIR LINES, INC. (0000027904) (Filer)",
+      "updated": "2025-12-03T08:30:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:48:59.312424+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1701541/000110465925117975/0001104659-25-117975-index.htm": {
+      "title": "8-K - Black Diamond Therapeutics, Inc. (0001701541) (Filer)",
+      "updated": "2025-12-03T08:20:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:49:00.396344+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1035443/000103544325000211/0001035443-25-000211-index.htm": {
+      "title": "8-K - ALEXANDRIA REAL ESTATE EQUITIES, INC. (0001035443) (Filer)",
+      "updated": "2025-12-03T08:18:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:49:01.520753+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1690080/000121390025117578/0001213900-25-117578-index.htm": {
+      "title": "8-K - ETHZilla Corp (0001690080) (Filer)",
+      "updated": "2025-12-03T08:16:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:49:02.605343+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2078856/000149315225025886/0001493152-25-025886-index.htm": {
+      "title": "8-K - Hyperliquid Strategies Inc (0002078856) (Filer)",
+      "updated": "2025-12-03T08:10:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:49:03.679966+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1359931/000121390025117577/0001213900-25-117577-index.htm": {
+      "title": "8-K - Protara Therapeutics, Inc. (0001359931) (Filer)",
+      "updated": "2025-12-03T08:08:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:49:04.760339+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1873529/000119312525305992/0001193125-25-305992-index.htm": {
+      "title": "8-K - KinderCare Learning Companies, Inc. (0001873529) (Filer)",
+      "updated": "2025-12-03T08:05:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T13:49:05.834247+00:00"
     }
   }
 }
