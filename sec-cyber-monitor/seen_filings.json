@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-03T21:40:37.845973+00:00",
+  "last_checked": "2025-12-03T21:54:05.352893+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -28357,6 +28357,111 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-03T21:40:36.823143+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2030954/000149315225025979/0001493152-25-025979-index.htm": {
+      "title": "8-K - TEN Holdings, Inc. (0002030954) (Filer)",
+      "updated": "2025-12-03T16:52:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:53:49.256079+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1761325/000119312525306870/0001193125-25-306870-index.htm": {
+      "title": "8-K - Grayscale Stellar Lumens Trust (XLM) (0001761325) (Filer)",
+      "updated": "2025-12-03T16:52:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:53:50.330266+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1748945/000119312525306867/0001193125-25-306867-index.htm": {
+      "title": "8-K - Grayscale Horizen Trust (ZEN) (0001748945) (Filer)",
+      "updated": "2025-12-03T16:52:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:53:51.400911+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1720265/000119312525306865/0001193125-25-306865-index.htm": {
+      "title": "8-K - Grayscale Zcash Trust (ZEC) (0001720265) (Filer)",
+      "updated": "2025-12-03T16:51:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:53:52.480764+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2037427/000119312525306863/0001193125-25-306863-index.htm": {
+      "title": "8-K - Grayscale XRP Trust ETF (0002037427) (Filer)",
+      "updated": "2025-12-03T16:51:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:53:53.552106+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1732406/000119312525306861/0001193125-25-306861-index.htm": {
+      "title": "8-K - Grayscale Litecoin Trust (LTC) (0001732406) (Filer)",
+      "updated": "2025-12-03T16:50:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:53:54.621962+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1976719/000158064225007550/0001580642-25-007550-index.htm": {
+      "title": "8-K - New Mountain Guardian IV Income Fund, L.L.C. (0001976719) (Filer)",
+      "updated": "2025-12-03T16:50:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:53:55.691275+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1896677/000119312525306858/0001193125-25-306858-index.htm": {
+      "title": "8-K - Grayscale Solana Trust ETF (0001896677) (Filer)",
+      "updated": "2025-12-03T16:49:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:53:56.763466+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1178670/000162828025055084/0001628280-25-055084-index.htm": {
+      "title": "8-K - ALNYLAM PHARMACEUTICALS, INC. (0001178670) (Filer)",
+      "updated": "2025-12-03T16:49:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:53:57.874305+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2055510/000119312525306855/0001193125-25-306855-index.htm": {
+      "title": "8-K - Grayscale Dogecoin Trust ETF (0002055510) (Filer)",
+      "updated": "2025-12-03T16:49:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:53:58.944563+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1852025/000119312525306853/0001193125-25-306853-index.htm": {
+      "title": "8-K - Grayscale Chainlink Trust ETF (0001852025) (Filer)",
+      "updated": "2025-12-03T16:48:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:54:00.018113+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1729997/000119312525306852/0001193125-25-306852-index.htm": {
+      "title": "8-K - Grayscale CoinDesk Crypto 5 ETF (0001729997) (Filer)",
+      "updated": "2025-12-03T16:48:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:54:01.091320+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1967656/000094337425000497/0000943374-25-000497-index.htm": {
+      "title": "8-K - PFS Bancorp, Inc. (0001967656) (Filer)",
+      "updated": "2025-12-03T16:48:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:54:02.188039+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/61004/000143774925036804/0001437749-25-036804-index.htm": {
+      "title": "8-K - LGL GROUP INC (0000061004) (Filer)",
+      "updated": "2025-12-03T16:47:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:54:03.258190+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1411685/000162828025055083/0001628280-25-055083-index.htm": {
+      "title": "8-K - Vistagen Therapeutics, Inc. (0001411685) (Filer)",
+      "updated": "2025-12-03T16:47:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:54:04.329358+00:00"
     }
   }
 }
