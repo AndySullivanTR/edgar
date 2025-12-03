@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-03T15:30:57.153714+00:00",
+  "last_checked": "2025-12-03T15:56:50.467379+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -28154,6 +28154,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-03T15:30:56.130318+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1744659/000114036125044131/0001140361-25-044131-index.htm": {
+      "title": "8-K - Akero Therapeutics, Inc. (0001744659) (Filer)",
+      "updated": "2025-12-03T10:42:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T15:56:48.340879+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1868516/000110465925118012/0001104659-25-118012-index.htm": {
+      "title": "8-K - StratCap Digital Infrastructure REIT, Inc. (0001868516) (Filer)",
+      "updated": "2025-12-03T10:41:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T15:56:49.444368+00:00"
     }
   }
 }
