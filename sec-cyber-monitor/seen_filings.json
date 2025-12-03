@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-03T21:24:36.380352+00:00",
+  "last_checked": "2025-12-03T21:40:37.845973+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -28350,6 +28350,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-03T21:24:35.357010+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1101239/000110123925000083/0001101239-25-000083-index.htm": {
+      "title": "8-K - EQUINIX INC (0001101239) (Filer)",
+      "updated": "2025-12-03T16:38:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T21:40:36.823143+00:00"
     }
   }
 }
