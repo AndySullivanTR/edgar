@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-03T20:32:13.980008+00:00",
+  "last_checked": "2025-12-03T20:55:59.115881+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -28259,6 +28259,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-03T20:32:12.956199+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1987221/000119312525306625/0001193125-25-306625-index.htm": {
+      "title": "8-K - John Hancock Comvest Private Income Fund (0001987221) (Filer)",
+      "updated": "2025-12-03T15:55:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T20:55:52.627457+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1838028/000183802825000030/0001838028-25-000030-index.htm": {
+      "title": "8-K - VanEck Bitcoin ETF (0001838028) (Filer)",
+      "updated": "2025-12-03T15:53:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T20:55:53.712543+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1860788/000186078825000019/0001860788-25-000019-index.htm": {
+      "title": "8-K - VanEck Ethereum ETF (0001860788) (Filer)",
+      "updated": "2025-12-03T15:50:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T20:55:54.804169+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2028541/000202854125000021/0002028541-25-000021-index.htm": {
+      "title": "8-K - VanEck Solana ETF (0002028541) (Filer)",
+      "updated": "2025-12-03T15:48:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T20:55:55.890705+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1321755/000114036125044177/0001140361-25-044177-index.htm": {
+      "title": "8-K - SLM Student Loan Trust 2003-7 (0001321755) (Filer)",
+      "updated": "2025-12-03T15:34:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T20:55:56.974047+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1321778/000114036125044175/0001140361-25-044175-index.htm": {
+      "title": "8-K - SLM Student Loan Trust 2003-1 (0001321778) (Filer)",
+      "updated": "2025-12-03T15:33:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T20:55:58.092856+00:00"
     }
   }
 }
