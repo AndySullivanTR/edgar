@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-03T21:54:05.352893+00:00",
+  "last_checked": "2025-12-03T22:27:10.710495+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -28462,6 +28462,76 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-03T21:54:04.329358+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1158114/000168316825008857/0001683168-25-008857-index.htm": {
+      "title": "8-K - APPLIED OPTOELECTRONICS, INC. (0001158114) (Filer)",
+      "updated": "2025-12-03T17:25:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T22:26:59.244545+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/275880/000119312525306981/0001193125-25-306981-index.htm": {
+      "title": "8-K - PARSONS CORP (0000275880) (Filer)",
+      "updated": "2025-12-03T17:24:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T22:27:00.391513+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/792935/000190359625000567/0001903596-25-000567-index.htm": {
+      "title": "10-Q - ETHEMA HEALTH Corp (0000792935) (Filer)",
+      "updated": "2025-12-03T17:21:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T22:27:01.619730+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/715787/000071578725000035/0000715787-25-000035-index.htm": {
+      "title": "8-K - INTERFACE INC (0000715787) (Filer)",
+      "updated": "2025-12-03T17:21:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T22:27:02.789284+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2006291/000119312525306977/0001193125-25-306977-index.htm": {
+      "title": "8-K - Churchill Capital Corp IX/Cayman (0002006291) (Filer)",
+      "updated": "2025-12-03T17:21:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T22:27:03.884979+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1462223/000168316825008854/0001683168-25-008854-index.htm": {
+      "title": "8-K - Nixxy, Inc. (0001462223) (Filer)",
+      "updated": "2025-12-03T17:20:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T22:27:05.003218+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/12927/000162828025055122/0001628280-25-055122-index.htm": {
+      "title": "8-K - BOEING CO (0000012927) (Filer)",
+      "updated": "2025-12-03T17:20:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T22:27:06.205779+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1779128/000110465925118180/0001104659-25-118180-index.htm": {
+      "title": "8-K - Strata Critical Medical, Inc. (0001779128) (Filer)",
+      "updated": "2025-12-03T17:18:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T22:27:07.357809+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1902733/000190273325000131/0001902733-25-000131-index.htm": {
+      "title": "10-Q - nCino, Inc. (0001902733) (Filer)",
+      "updated": "2025-12-03T17:16:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T22:27:08.525744+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1052752/000119312525306965/0001193125-25-306965-index.htm": {
+      "title": "8-K - GETTY REALTY CORP /MD/ (0001052752) (Filer)",
+      "updated": "2025-12-03T17:16:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T22:27:09.687199+00:00"
     }
   }
 }
