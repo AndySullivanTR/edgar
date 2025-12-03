@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-03T14:51:42.176068+00:00",
+  "last_checked": "2025-12-03T15:30:57.153714+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -28147,6 +28147,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-03T14:51:41.144268+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1854480/000114036125044124/0001140361-25-044124-index.htm": {
+      "title": "8-K - DevvStream Corp. (0001854480) (Filer)",
+      "updated": "2025-12-03T10:16:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T15:30:56.130318+00:00"
     }
   }
 }
