@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-03T10:56:44.204212+00:00",
+  "last_checked": "2025-12-03T11:26:28.387648+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -27776,6 +27776,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-02T22:43:33.740917+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1878848/000114036125044095/0001140361-25-044095-index.htm": {
+      "title": "8-K - IREN Ltd (0001878848) (Filer)",
+      "updated": "2025-12-03T06:06:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T11:26:24.089481+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1915380/000182912625009608/0001829126-25-009608-index.htm": {
+      "title": "8-K - dMY Squared Technology Group, Inc. (0001915380) (Filer)",
+      "updated": "2025-12-03T06:05:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T11:26:25.176734+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1498148/000106299325017149/0001062993-25-017149-index.htm": {
+      "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+      "updated": "2025-12-03T06:02:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T11:26:26.273493+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1653482/000162828025054895/0001628280-25-054895-index.htm": {
+      "title": "8-K/A - Gitlab Inc. (0001653482) (Filer)",
+      "updated": "2025-12-03T06:00:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T11:26:27.364172+00:00"
     }
   }
 }
