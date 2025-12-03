@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-03T15:56:50.467379+00:00",
+  "last_checked": "2025-12-03T16:39:48.895726+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -28168,6 +28168,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-03T15:56:49.444368+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1876255/000119312525306206/0001193125-25-306206-index.htm": {
+      "title": "8-K - AB Commercial Real Estate Private Debt Fund, LLC (0001876255) (Filer)",
+      "updated": "2025-12-03T11:37:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T16:39:45.613884+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1771514/000119312525306192/0001193125-25-306192-index.htm": {
+      "title": "8-K - ExchangeRight Income Fund (0001771514) (Filer)",
+      "updated": "2025-12-03T11:30:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T16:39:46.714624+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1776738/000177673825000064/0001776738-25-000064-index.htm": {
+      "title": "8-K/A - Cannabist Co Holdings Inc. (0001776738) (Filer)",
+      "updated": "2025-12-03T11:25:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T16:39:47.871053+00:00"
     }
   }
 }
