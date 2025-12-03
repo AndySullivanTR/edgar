@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-03T22:27:10.710495+00:00",
+  "last_checked": "2025-12-03T22:46:07.953433+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -28532,6 +28532,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-03T22:27:09.687199+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1701051/000110465925118187/0001104659-25-118187-index.htm": {
+      "title": "8-K - WideOpenWest, Inc. (0001701051) (Filer)",
+      "updated": "2025-12-03T17:30:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T22:46:04.785634+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1838406/000110465925118186/0001104659-25-118186-index.htm": {
+      "title": "8-K - BKV Corp (0001838406) (Filer)",
+      "updated": "2025-12-03T17:30:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T22:46:05.856859+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1960847/000121390025117911/0001213900-25-117911-index.htm": {
+      "title": "8-K - Toppoint Holdings Inc. (0001960847) (Filer)",
+      "updated": "2025-12-03T17:28:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T22:46:06.929934+00:00"
     }
   }
 }
