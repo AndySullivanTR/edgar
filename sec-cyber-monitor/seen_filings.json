@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-03T19:52:52.562908+00:00",
+  "last_checked": "2025-12-03T20:32:13.980008+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -28252,6 +28252,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-03T19:52:51.538949+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1290658/000168316825008843/0001683168-25-008843-index.htm": {
+      "title": "8-K - IIOT-OXYS, Inc. (0001290658) (Filer)",
+      "updated": "2025-12-03T15:31:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-03T20:32:12.956199+00:00"
     }
   }
 }
