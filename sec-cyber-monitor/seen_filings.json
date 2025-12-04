@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-04T21:44:28.480119+00:00",
+  "last_checked": "2025-12-04T21:57:29.538156+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29323,6 +29323,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-04T21:44:27.457015+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1868878/000186887825000044/0001868878-25-000044-index.htm": {
+      "title": "8-K - GOLUB CAPITAL DIRECT LENDING CORP (0001868878) (Filer)",
+      "updated": "2025-12-04T16:56:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T21:57:22.004322+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/832101/000119312525308187/0001193125-25-308187-index.htm": {
+      "title": "8-K - IDEX CORP /DE/ (0000832101) (Filer)",
+      "updated": "2025-12-04T16:54:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T21:57:23.086734+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/740260/000095010325015741/0000950103-25-015741-index.htm": {
+      "title": "8-K - Ventas, Inc. (0000740260) (Filer)",
+      "updated": "2025-12-04T16:52:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T21:57:24.166976+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1857853/000162828025055406/0001628280-25-055406-index.htm": {
+      "title": "8-K/A - Traeger, Inc. (0001857853) (Filer)",
+      "updated": "2025-12-04T16:50:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T21:57:25.253594+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/711404/000162828025055405/0001628280-25-055405-index.htm": {
+      "title": "8-K - COOPER COMPANIES, INC. (0000711404) (Filer)",
+      "updated": "2025-12-04T16:48:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T21:57:26.349043+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2058873/000205887325000025/0002058873-25-000025-index.htm": {
+      "title": "8-K - Qnity Electronics, Inc. (0002058873) (Filer)",
+      "updated": "2025-12-04T16:48:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T21:57:27.438391+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/773141/000077314125000026/0000773141-25-000026-index.htm": {
+      "title": "8-K - SEKISUI HOUSE U.S., INC. (0000773141) (Filer)",
+      "updated": "2025-12-04T16:47:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T21:57:28.513826+00:00"
     }
   }
 }
