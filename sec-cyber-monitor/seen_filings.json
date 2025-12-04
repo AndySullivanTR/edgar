@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-04T19:01:14.832940+00:00",
+  "last_checked": "2025-12-04T19:31:06.430574+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29148,6 +29148,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-04T19:01:13.808562+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1368757/000119312525307905/0001193125-25-307905-index.htm": {
+      "title": "8-K - GTJ REIT, INC. (0001368757) (Filer)",
+      "updated": "2025-12-04T14:15:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T19:31:05.407070+00:00"
     }
   }
 }
