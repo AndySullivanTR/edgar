@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-04T10:56:33.833296+00:00",
+  "last_checked": "2025-12-04T11:27:08.709677+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -28553,6 +28553,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-03T22:46:06.929934+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2070887/000121390025118043/0001213900-25-118043-index.htm": {
+      "title": "8-K - Crown Reserve Acquisition Corp. I (0002070887) (Filer)",
+      "updated": "2025-12-04T06:17:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T11:27:01.178791+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1837532/000119312525307408/0001193125-25-307408-index.htm": {
+      "title": "8-K - Apollo Debt Solutions BDC (0001837532) (Filer)",
+      "updated": "2025-12-04T06:10:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T11:27:02.263993+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/55785/000162828025055209/0001628280-25-055209-index.htm": {
+      "title": "8-K - KIMBERLY CLARK CORP (0000055785) (Filer)",
+      "updated": "2025-12-04T06:06:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T11:27:03.349949+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2011514/000114036125044257/0001140361-25-044257-index.htm": {
+      "title": "8-K - Anteris Technologies Global Corp. (0002011514) (Filer)",
+      "updated": "2025-12-04T06:02:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T11:27:04.432217+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1498148/000106299325017169/0001062993-25-017169-index.htm": {
+      "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+      "updated": "2025-12-04T06:01:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T11:27:05.516026+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1784570/000162828025055206/0001628280-25-055206-index.htm": {
+      "title": "8-K - BETA Technologies, Inc. (0001784570) (Filer)",
+      "updated": "2025-12-04T06:01:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T11:27:06.603461+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/315189/000110465925118224/0001104659-25-118224-index.htm": {
+      "title": "8-K - DEERE & CO (0000315189) (Filer)",
+      "updated": "2025-12-04T06:00:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T11:27:07.686002+00:00"
     }
   }
 }
