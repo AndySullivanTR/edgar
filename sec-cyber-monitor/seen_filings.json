@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-04T13:02:37.126431+00:00",
+  "last_checked": "2025-12-04T13:49:40.148218+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -28784,6 +28784,104 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-04T13:02:36.102182+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1069533/000143774925036857/0001437749-25-036857-index.htm": {
+      "title": "8-K - RGC RESOURCES INC (0001069533) (Filer)",
+      "updated": "2025-12-04T08:46:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:49:25.111728+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/853816/000119312525307529/0001193125-25-307529-index.htm": {
+      "title": "8-K - LANDSTAR SYSTEM INC (0000853816) (Filer)",
+      "updated": "2025-12-04T08:38:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:49:26.184797+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331754/000133175425000250/0001331754-25-000250-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer)",
+      "updated": "2025-12-04T08:37:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:49:27.268630+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1709442/000170944225000085/0001709442-25-000085-index.htm": {
+      "title": "8-K - FIRSTSUN CAPITAL BANCORP (0001709442) (Filer)",
+      "updated": "2025-12-04T08:31:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:49:28.339965+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/876427/000119312525307525/0001193125-25-307525-index.htm": {
+      "title": "8-K - MONRO, INC. (0000876427) (Filer)",
+      "updated": "2025-12-04T08:31:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:49:29.413887+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1956955/000168316825008873/0001683168-25-008873-index.htm": {
+      "title": "8-K - Unusual Machines, Inc. (0001956955) (Filer)",
+      "updated": "2025-12-04T08:30:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:49:30.489809+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/769520/000119312525307524/0001193125-25-307524-index.htm": {
+      "title": "8-K - MIDDLEBY Corp (0000769520) (Filer)",
+      "updated": "2025-12-04T08:30:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:49:31.565694+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1141103/000095010325015716/0000950103-25-015716-index.htm": {
+      "title": "8-K - CROSS COUNTRY HEALTHCARE INC (0001141103) (Filer)",
+      "updated": "2025-12-04T08:19:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:49:32.644628+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1488039/000119312525307516/0001193125-25-307516-index.htm": {
+      "title": "8-K - ATOSSA THERAPEUTICS, INC. (0001488039) (Filer)",
+      "updated": "2025-12-04T08:15:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:49:33.719718+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1994624/000110465925118316/0001104659-25-118316-index.htm": {
+      "title": "8-K - ScanTech AI Systems Inc. (0001994624) (Filer)",
+      "updated": "2025-12-04T08:10:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:49:34.794789+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1001614/000100161425000061/0001001614-25-000061-index.htm": {
+      "title": "8-K - Riley Exploration Permian, Inc. (0001001614) (Filer)",
+      "updated": "2025-12-04T08:10:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:49:35.889148+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1527541/000152754125000293/0001527541-25-000293-index.htm": {
+      "title": "8-K - Wheeler Real Estate Investment Trust, Inc. (0001527541) (Filer)",
+      "updated": "2025-12-04T08:08:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:49:36.964254+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/56873/000110465925118315/0001104659-25-118315-index.htm": {
+      "title": "8-K - KROGER CO (0000056873) (Filer)",
+      "updated": "2025-12-04T08:06:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:49:38.047185+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/14693/000001469325000107/0000014693-25-000107-index.htm": {
+      "title": "8-K - BROWN FORMAN CORP (0000014693) (Filer)",
+      "updated": "2025-12-04T08:02:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:49:39.123452+00:00"
     }
   }
 }
