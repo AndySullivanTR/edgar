@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-04T11:27:08.709677+00:00",
+  "last_checked": "2025-12-04T11:44:16.835216+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -28602,6 +28602,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-04T11:27:07.686002+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/45012/000004501225000077/0000045012-25-000077-index.htm": {
+      "title": "8-K - HALLIBURTON CO (0000045012) (Filer)",
+      "updated": "2025-12-04T06:32:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T11:44:14.728272+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2068454/000182912625009687/0001829126-25-009687-index.htm": {
+      "title": "8-K/A - CSLM Digital Asset Acquisition Corp III, Ltd (0002068454) (Filer)",
+      "updated": "2025-12-04T06:31:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T11:44:15.811503+00:00"
     }
   }
 }
