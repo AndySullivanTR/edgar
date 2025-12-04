@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-04T21:27:05.929960+00:00",
+  "last_checked": "2025-12-04T21:44:28.480119+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29267,6 +29267,62 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-04T21:27:04.905178+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/5513/000000551325000137/0000005513-25-000137-index.htm": {
+      "title": "8-K - Unum Group (0000005513) (Filer)",
+      "updated": "2025-12-04T16:42:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T21:44:19.923299+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1666700/000166670025000063/0001666700-25-000063-index.htm": {
+      "title": "8-K - DuPont de Nemours, Inc. (0001666700) (Filer)",
+      "updated": "2025-12-04T16:42:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T21:44:20.995913+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1423902/000142390225000110/0001423902-25-000110-index.htm": {
+      "title": "8-K - Western Midstream Partners, LP (0001423902) (Filer)",
+      "updated": "2025-12-04T16:42:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T21:44:22.101569+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1005731/000149315225026196/0001493152-25-026196-index.htm": {
+      "title": "8-K - IDT CORP (0001005731) (Filer)",
+      "updated": "2025-12-04T16:41:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T21:44:23.173933+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1414475/000141447525000025/0001414475-25-000025-index.htm": {
+      "title": "8-K - Western Midstream Operating, LP (0001414475) (Filer)",
+      "updated": "2025-12-04T16:41:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T21:44:24.244413+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1357459/000149315225026195/0001493152-25-026195-index.htm": {
+      "title": "8-K - PALISADE BIO, INC. (0001357459) (Filer)",
+      "updated": "2025-12-04T16:40:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T21:44:25.314827+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1347178/000162828025055393/0001628280-25-055393-index.htm": {
+      "title": "8-K - Vanda Pharmaceuticals Inc. (0001347178) (Filer)",
+      "updated": "2025-12-04T16:39:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T21:44:26.386273+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1040829/000110465925118486/0001104659-25-118486-index.htm": {
+      "title": "8-K - Ryman Hospitality Properties, Inc. (0001040829) (Filer)",
+      "updated": "2025-12-04T16:38:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T21:44:27.457015+00:00"
     }
   }
 }
