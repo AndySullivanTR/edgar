@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-04T11:57:34.885459+00:00",
+  "last_checked": "2025-12-04T13:02:37.126431+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -28630,6 +28630,160 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-04T11:57:33.861831+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2030617/000182912625009690/0001829126-25-009690-index.htm": {
+      "title": "8-K - Picard Medical, Inc. (0002030617) (Filer)",
+      "updated": "2025-12-04T08:00:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:13.021388+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1640384/000119312525307501/0001193125-25-307501-index.htm": {
+      "title": "8-K - LM FUNDING AMERICA, INC. (0001640384) (Filer)",
+      "updated": "2025-12-04T08:00:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:14.139717+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/7789/000119312525307500/0001193125-25-307500-index.htm": {
+      "title": "8-K - ASSOCIATED BANC-CORP (0000007789) (Filer)",
+      "updated": "2025-12-04T08:00:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:15.219535+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2038439/000173112225001630/0001731122-25-001630-index.htm": {
+      "title": "8-K - VisionWave Holdings, Inc. (0002038439) (Filer)",
+      "updated": "2025-12-04T08:00:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:16.335890+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1393726/000119312525307498/0001193125-25-307498-index.htm": {
+      "title": "8-K - TIPTREE INC. (0001393726) (Filer)",
+      "updated": "2025-12-04T07:58:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:17.416437+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1253689/000162828025055221/0001628280-25-055221-index.htm": {
+      "title": "8-K - CRESCENT BIOPHARMA, INC. (0001253689) (Filer)",
+      "updated": "2025-12-04T07:49:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:18.514133+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/108385/000143774925036854/0001437749-25-036854-index.htm": {
+      "title": "8-K - WORLD ACCEPTANCE CORP (0000108385) (Filer)",
+      "updated": "2025-12-04T07:35:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:19.592941+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1710340/000143774925036853/0001437749-25-036853-index.htm": {
+      "title": "8-K - Eton Pharmaceuticals, Inc. (0001710340) (Filer)",
+      "updated": "2025-12-04T07:30:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:20.679557+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1418819/000141881925000012/0001418819-25-000012-index.htm": {
+      "title": "8-K - Iridium Communications Inc. (0001418819) (Filer)",
+      "updated": "2025-12-04T07:29:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:21.796754+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1065696/000106569625000068/0001065696-25-000068-index.htm": {
+      "title": "8-K - LKQ CORP (0001065696) (Filer)",
+      "updated": "2025-12-04T07:12:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:22.872153+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1770069/000119312525307453/0001193125-25-307453-index.htm": {
+      "title": "10-Q - MapLight Therapeutics, Inc. (0001770069) (Filer)",
+      "updated": "2025-12-04T07:07:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:24.004005+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1590560/000110465925118292/0001104659-25-118292-index.htm": {
+      "title": "8-K - uniQure N.V. (0001590560) (Filer)",
+      "updated": "2025-12-04T07:06:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:25.087319+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1770069/000119312525307450/0001193125-25-307450-index.htm": {
+      "title": "8-K - MapLight Therapeutics, Inc. (0001770069) (Filer)",
+      "updated": "2025-12-04T07:03:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:26.174025+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/29534/000110465925118289/0001104659-25-118289-index.htm": {
+      "title": "10-Q - DOLLAR GENERAL CORP (0000029534) (Filer)",
+      "updated": "2025-12-04T07:03:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:27.251323+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1567264/000156726425000109/0001567264-25-000109-index.htm": {
+      "title": "8-K - INTENSITY THERAPEUTICS, INC. (0001567264) (Filer)",
+      "updated": "2025-12-04T07:02:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:28.373646+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1714899/000171489925000209/0001714899-25-000209-index.htm": {
+      "title": "8-K - Denali Therapeutics Inc. (0001714899) (Filer)",
+      "updated": "2025-12-04T07:01:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:29.488467+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1714899/000171489925000208/0001714899-25-000208-index.htm": {
+      "title": "8-K - Denali Therapeutics Inc. (0001714899) (Filer)",
+      "updated": "2025-12-04T07:01:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:30.623928+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1855467/000149315225026105/0001493152-25-026105-index.htm": {
+      "title": "8-K - MOBIX LABS, INC (0001855467) (Filer)",
+      "updated": "2025-12-04T07:00:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:31.705412+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1113809/000143774925036852/0001437749-25-036852-index.htm": {
+      "title": "8-K - BUILD-A-BEAR WORKSHOP INC (0001113809) (Filer)",
+      "updated": "2025-12-04T07:00:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:32.787954+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1822462/000162828025055215/0001628280-25-055215-index.htm": {
+      "title": "8-K - Foghorn Therapeutics Inc. (0001822462) (Filer)",
+      "updated": "2025-12-04T07:00:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:33.886273+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/18498/000119312525307446/0001193125-25-307446-index.htm": {
+      "title": "8-K - GENESCO INC (0000018498) (Filer)",
+      "updated": "2025-12-04T07:00:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:35.019914+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1628369/000119312525307447/0001193125-25-307447-index.htm": {
+      "title": "8-K - Cushman & Wakefield Ltd. (0001628369) (Filer)",
+      "updated": "2025-12-04T07:00:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T13:02:36.102182+00:00"
     }
   }
 }
