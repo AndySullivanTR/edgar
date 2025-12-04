@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-04T17:39:38.353894+00:00",
+  "last_checked": "2025-12-04T17:54:51.003223+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29064,6 +29064,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-04T17:39:37.327133+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/744187/000093041325003566/0000930413-25-003566-index.htm": {
+      "title": "10-Q - REX AMERICAN RESOURCES Corp (0000744187) (Filer)",
+      "updated": "2025-12-04T12:45:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T17:54:49.979415+00:00"
     }
   }
 }
