@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-04T16:40:00.165435+00:00",
+  "last_checked": "2025-12-04T17:02:13.265460+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29022,6 +29022,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-04T16:39:59.141853+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/859070/000143774925036874/0001437749-25-036874-index.htm": {
+      "title": "8-K - FIRST COMMUNITY BANKSHARES INC /VA/ (0000859070) (Filer)",
+      "updated": "2025-12-04T12:01:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T17:02:10.026486+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/29644/000002964425000147/0000029644-25-000147-index.htm": {
+      "title": "10-Q - DONALDSON Co INC (0000029644) (Filer)",
+      "updated": "2025-12-04T11:57:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T17:02:11.143113+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1914496/000191449625000138/0001914496-25-000138-index.htm": {
+      "title": "8-K - Sculptor Diversified Real Estate Income Trust, Inc. (0001914496) (Filer)",
+      "updated": "2025-12-04T11:51:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T17:02:12.241581+00:00"
     }
   }
 }
