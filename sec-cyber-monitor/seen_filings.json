@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-04T19:53:25.417327+00:00",
+  "last_checked": "2025-12-04T20:31:11.375213+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29169,6 +29169,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-04T19:53:24.392900+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1329842/000165495425013685/0001654954-25-013685-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
+      "updated": "2025-12-04T15:27:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T20:31:09.276523+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2035428/000203542825000042/0002035428-25-000042-index.htm": {
+      "title": "8-K - Franklin BSP Real Estate Debt, Inc. (0002035428) (Filer)",
+      "updated": "2025-12-04T14:59:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T20:31:10.351083+00:00"
     }
   }
 }
