@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-04T18:41:47.087993+00:00",
+  "last_checked": "2025-12-04T19:01:14.832940+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29106,6 +29106,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-04T18:41:46.064069+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/799850/000117184325007749/0001171843-25-007749-index.htm": {
+      "title": "8-K - AMERICAS CARMART INC (0000799850) (Filer)",
+      "updated": "2025-12-04T14:00:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T19:01:08.183516+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331451/000133145125000242/0001331451-25-000242-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Chicago (0001331451) (Filer)",
+      "updated": "2025-12-04T13:58:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T19:01:09.267621+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325814/000132581425000223/0001325814-25-000223-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer)",
+      "updated": "2025-12-04T13:58:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T19:01:10.471299+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1624512/000162828025055290/0001628280-25-055290-index.htm": {
+      "title": "8-K - Boxlight Corp (0001624512) (Filer)",
+      "updated": "2025-12-04T13:56:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T19:01:11.559226+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331463/000133146325000231/0001331463-25-000231-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Boston (0001331463) (Filer)",
+      "updated": "2025-12-04T13:55:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T19:01:12.649712+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1918102/000110465925118387/0001104659-25-118387-index.htm": {
+      "title": "8-K - DEEP FISSION, INC. (0001918102) (Filer)",
+      "updated": "2025-12-04T13:42:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T19:01:13.808562+00:00"
     }
   }
 }
