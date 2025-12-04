@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-04T13:49:40.148218+00:00",
+  "last_checked": "2025-12-04T14:28:54.427073+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -28882,6 +28882,76 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-04T13:49:39.123452+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1844417/000121390025118097/0001213900-25-118097-index.htm": {
+      "title": "8-K - Estrella Immunopharma, Inc. (0001844417) (Filer)",
+      "updated": "2025-12-04T09:21:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T14:28:43.732728+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/73309/000119312525307550/0001193125-25-307550-index.htm": {
+      "title": "8-K - NUCOR CORP (0000073309) (Filer)",
+      "updated": "2025-12-04T09:18:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T14:28:44.806097+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/744187/000093041325003564/0000930413-25-003564-index.htm": {
+      "title": "8-K - REX AMERICAN RESOURCES Corp (0000744187) (Filer)",
+      "updated": "2025-12-04T09:18:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T14:28:45.881850+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/843006/000168316825008875/0001683168-25-008875-index.htm": {
+      "title": "8-K - ACCESS Newswire Inc. (0000843006) (Filer)",
+      "updated": "2025-12-04T09:17:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T14:28:46.957677+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1131554/000162828025055229/0001628280-25-055229-index.htm": {
+      "title": "8-K - SYNCHRONOSS TECHNOLOGIES INC (0001131554) (Filer)",
+      "updated": "2025-12-04T09:05:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T14:28:48.032811+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1709941/000119312525307541/0001193125-25-307541-index.htm": {
+      "title": "8-K - BioAge Labs, Inc. (0001709941) (Filer)",
+      "updated": "2025-12-04T09:05:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T14:28:49.105825+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1837607/000183760725000088/0001837607-25-000088-index.htm": {
+      "title": "8-K - AEON Biopharma, Inc. (0001837607) (Filer)",
+      "updated": "2025-12-04T09:02:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T14:28:50.184929+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/788611/000149315225026117/0001493152-25-026117-index.htm": {
+      "title": "8-K - NextTrip, Inc. (0000788611) (Filer)",
+      "updated": "2025-12-04T09:01:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T14:28:51.256092+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1807887/000149315225026116/0001493152-25-026116-index.htm": {
+      "title": "8-K/A - Laser Photonics Corp (0001807887) (Filer)",
+      "updated": "2025-12-04T09:00:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T14:28:52.330099+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/75677/000119312525307535/0001193125-25-307535-index.htm": {
+      "title": "8-K - PACKAGING CORP OF AMERICA (0000075677) (Filer)",
+      "updated": "2025-12-04T09:00:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T14:28:53.402927+00:00"
     }
   }
 }
