@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-04T19:31:06.430574+00:00",
+  "last_checked": "2025-12-04T19:53:25.417327+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29155,6 +29155,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-04T19:31:05.407070+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1177609/000117760925000052/0001177609-25-000052-index.htm": {
+      "title": "10-Q - FIVE BELOW, INC (0001177609) (Filer)",
+      "updated": "2025-12-04T14:49:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T19:53:23.318654+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/720005/000072000525000095/0000720005-25-000095-index.htm": {
+      "title": "8-K - RAYMOND JAMES FINANCIAL INC (0000720005) (Filer)",
+      "updated": "2025-12-04T14:35:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T19:53:24.392900+00:00"
     }
   }
 }
