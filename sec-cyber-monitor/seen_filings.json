@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-04T14:28:54.427073+00:00",
+  "last_checked": "2025-12-04T14:51:33.738444+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -28952,6 +28952,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-04T14:28:53.402927+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1784570/000162828025055234/0001628280-25-055234-index.htm": {
+      "title": "10-Q - BETA Technologies, Inc. (0001784570) (Filer)",
+      "updated": "2025-12-04T09:35:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T14:51:31.525973+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1673481/000149315225026120/0001493152-25-026120-index.htm": {
+      "title": "8-K - Lottery.com Inc. (0001673481) (Filer)",
+      "updated": "2025-12-04T09:30:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T14:51:32.716274+00:00"
     }
   }
 }
