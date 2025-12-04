@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-04T17:02:13.265460+00:00",
+  "last_checked": "2025-12-04T17:39:38.353894+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29043,6 +29043,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-04T17:02:12.241581+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1043951/000114036125044295/0001140361-25-044295-index.htm": {
+      "title": "8-K - CAMPBELL FUND TRUST (0001043951) (Filer)",
+      "updated": "2025-12-04T12:34:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T17:39:35.164206+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325878/000132587825000252/0001325878-25-000252-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer)",
+      "updated": "2025-12-04T12:25:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T17:39:36.249007+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1571123/000157112325000189/0001571123-25-000189-index.htm": {
+      "title": "10-Q - Science Applications International Corp (0001571123) (Filer)",
+      "updated": "2025-12-04T12:25:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T17:39:37.327133+00:00"
     }
   }
 }
