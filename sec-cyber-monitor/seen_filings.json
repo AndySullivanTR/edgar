@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-04T11:44:16.835216+00:00",
+  "last_checked": "2025-12-04T11:57:34.885459+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -28616,6 +28616,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-04T11:44:15.811503+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1571123/000157112325000187/0001571123-25-000187-index.htm": {
+      "title": "8-K - Science Applications International Corp (0001571123) (Filer)",
+      "updated": "2025-12-04T06:55:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T11:57:32.778545+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/29534/000110465925118286/0001104659-25-118286-index.htm": {
+      "title": "8-K - DOLLAR GENERAL CORP (0000029534) (Filer)",
+      "updated": "2025-12-04T06:53:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T11:57:33.861831+00:00"
     }
   }
 }
