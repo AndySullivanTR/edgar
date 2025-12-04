@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-04T15:56:24.488738+00:00",
+  "last_checked": "2025-12-04T16:40:00.165435+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29001,6 +29001,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-04T15:31:41.444689+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1109357/000110935725000198/0001109357-25-000198-index.htm": {
+      "title": "8-K - EXELON CORP (0001109357) (Filer)",
+      "updated": "2025-12-04T11:29:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T16:39:56.954896+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2033695/000158064225007564/0001580642-25-007564-index.htm": {
+      "title": "8-K - New Mountain Net Lease Trust (0002033695) (Filer)",
+      "updated": "2025-12-04T11:07:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T16:39:58.056638+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/107140/000010714025000194/0000107140-25-000194-index.htm": {
+      "title": "8-K - JOHN WILEY & SONS, INC. (0000107140) (Filer)",
+      "updated": "2025-12-04T11:00:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T16:39:59.141853+00:00"
     }
   }
 }
