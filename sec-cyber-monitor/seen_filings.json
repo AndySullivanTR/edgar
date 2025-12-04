@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-04T21:57:29.538156+00:00",
+  "last_checked": "2025-12-04T22:27:22.846062+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29372,6 +29372,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-04T21:57:28.513826+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/933974/000143774925036931/0001437749-25-036931-index.htm": {
+      "title": "10-K - Azenta, Inc. (0000933974) (Filer)",
+      "updated": "2025-12-04T17:25:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T22:27:15.362968+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1113809/000143774925036932/0001437749-25-036932-index.htm": {
+      "title": "8-K/A - BUILD-A-BEAR WORKSHOP INC (0001113809) (Filer)",
+      "updated": "2025-12-04T17:24:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T22:27:16.437436+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1648960/000121390025118377/0001213900-25-118377-index.htm": {
+      "title": "8-K - Myseum, Inc. (0001648960) (Filer)",
+      "updated": "2025-12-04T17:21:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T22:27:17.511813+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1604191/000110465925118524/0001104659-25-118524-index.htm": {
+      "title": "8-K - GridAI Technologies Corp. (0001604191) (Filer)",
+      "updated": "2025-12-04T17:21:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T22:27:18.596944+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1653384/000110465925118515/0001104659-25-118515-index.htm": {
+      "title": "8-K - Runway Growth Finance Corp. (0001653384) (Filer)",
+      "updated": "2025-12-04T17:18:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T22:27:19.671377+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1089907/000155278125000439/0001552781-25-000439-index.htm": {
+      "title": "8-K - SWK Holdings Corp (0001089907) (Filer)",
+      "updated": "2025-12-04T17:18:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T22:27:20.745862+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2069604/000110465925118514/0001104659-25-118514-index.htm": {
+      "title": "8-K - Park Dental Partners, Inc. (0002069604) (Filer)",
+      "updated": "2025-12-04T17:18:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T22:27:21.821700+00:00"
     }
   }
 }
