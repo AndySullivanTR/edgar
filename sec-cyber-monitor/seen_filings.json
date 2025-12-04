@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-04T22:27:22.846062+00:00",
+  "last_checked": "2025-12-04T22:45:11.489430+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29421,6 +29421,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-04T22:27:21.821700+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/790526/000168316825008900/0001683168-25-008900-index.htm": {
+      "title": "8-K - RadNet, Inc. (0000790526) (Filer)",
+      "updated": "2025-12-04T17:29:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T22:45:08.271491+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1723788/000121390025118387/0001213900-25-118387-index.htm": {
+      "title": "8-K - Bitwise 10 Crypto Index ETF (0001723788) (Filer)",
+      "updated": "2025-12-04T17:29:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T22:45:09.378573+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1509589/000110465925118529/0001104659-25-118529-index.htm": {
+      "title": "8-K - CIVITAS RESOURCES, INC. (0001509589) (Filer)",
+      "updated": "2025-12-04T17:28:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-04T22:45:10.461761+00:00"
     }
   }
 }
