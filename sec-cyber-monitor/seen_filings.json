@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-05T22:26:40.895989+00:00",
+  "last_checked": "2025-12-05T22:43:47.548450+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -30275,6 +30275,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-05T22:26:39.872470+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2079253/000121390025118842/0001213900-25-118842-index.htm": {
+      "title": "10-Q - Apex Treasury Corp (0002079253) (Filer)",
+      "updated": "2025-12-05T17:30:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T22:43:44.367678+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1682220/000168222025000084/0001682220-25-000084-index.htm": {
+      "title": "8-K - Sachem Capital Corp. (0001682220) (Filer)",
+      "updated": "2025-12-05T17:30:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T22:43:45.445290+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/356171/000035617125000090/0000356171-25-000090-index.htm": {
+      "title": "8-K - TRICO BANCSHARES / (0000356171) (Filer)",
+      "updated": "2025-12-05T17:29:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T22:43:46.524077+00:00"
     }
   }
 }
