@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-05T11:41:57.187049+00:00",
+  "last_checked": "2025-12-05T11:55:13.592129+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29498,6 +29498,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-05T11:41:56.162112+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1898474/000121390025118453/0001213900-25-118453-index.htm": {
+      "title": "8-K - Signing Day Sports, Inc. (0001898474) (Filer)",
+      "updated": "2025-12-05T06:52:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T11:55:12.567177+00:00"
     }
   }
 }
