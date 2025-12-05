@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-05T17:28:01.890226+00:00",
+  "last_checked": "2025-12-05T17:45:49.176568+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29904,6 +29904,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-05T16:35:07.442233+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1635341/000151597125000103/0001515971-25-000103-index.htm": {
+      "title": "10-Q - Signature Holdings Corp (0001635341) (Filer)",
+      "updated": "2025-12-05T12:29:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T17:45:47.027833+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1040971/000162828025055516/0001628280-25-055516-index.htm": {
+      "title": "8-K - SL GREEN REALTY CORP (0001040971) (Filer)",
+      "updated": "2025-12-05T12:29:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T17:45:48.150781+00:00"
     }
   }
 }
