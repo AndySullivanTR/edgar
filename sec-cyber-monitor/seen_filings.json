@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-05T18:36:03.255153+00:00",
+  "last_checked": "2025-12-05T18:56:56.557468+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29946,6 +29946,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-05T18:36:02.230988+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2027537/000119312525309341/0001193125-25-309341-index.htm": {
+      "title": "8-K - Goldman Sachs Real Estate Finance Trust Inc (0002027537) (Filer)",
+      "updated": "2025-12-05T13:50:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T18:56:55.532817+00:00"
     }
   }
 }
