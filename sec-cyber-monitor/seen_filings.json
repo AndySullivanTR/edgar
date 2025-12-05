@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-05T13:56:31.371010+00:00",
+  "last_checked": "2025-12-05T14:30:38.314069+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29764,6 +29764,104 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-05T13:56:30.346447+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2056263/000121390025118495/0001213900-25-118495-index.htm": {
+      "title": "8-K - Columbus Circle Capital Corp. I (0002056263) (Filer)",
+      "updated": "2025-12-05T09:27:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T14:30:23.057018+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1975940/000121390025118493/0001213900-25-118493-index.htm": {
+      "title": "8-K - Fly-E Group, Inc. (0001975940) (Filer)",
+      "updated": "2025-12-05T09:25:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T14:30:24.165055+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1738177/000119312525308812/0001193125-25-308812-index.htm": {
+      "title": "8-K - Cambium Networks Corp (0001738177) (Filer)",
+      "updated": "2025-12-05T09:20:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T14:30:25.269479+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/11544/000119312525308800/0001193125-25-308800-index.htm": {
+      "title": "8-K - BERKLEY W R CORP (0000011544) (Filer)",
+      "updated": "2025-12-05T09:17:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T14:30:26.358062+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/791908/000119312525308794/0001193125-25-308794-index.htm": {
+      "title": "8-K - XOMA Royalty Corp (0000791908) (Filer)",
+      "updated": "2025-12-05T09:15:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T14:30:27.447481+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1623526/000119312525308781/0001193125-25-308781-index.htm": {
+      "title": "8-K - Stoke Therapeutics, Inc. (0001623526) (Filer)",
+      "updated": "2025-12-05T09:05:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T14:30:28.543676+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1395585/000143774925036956/0001437749-25-036956-index.htm": {
+      "title": "8-K - First Trinity Financial CORP (0001395585) (Filer)",
+      "updated": "2025-12-05T09:03:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T14:30:29.641515+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1992243/000121390025118483/0001213900-25-118483-index.htm": {
+      "title": "8-K - T1 Energy Inc. (0001992243) (Filer)",
+      "updated": "2025-12-05T09:01:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T14:30:30.736368+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1011060/000149315225026281/0001493152-25-026281-index.htm": {
+      "title": "8-K - Nordicus Partners Corp (0001011060) (Filer)",
+      "updated": "2025-12-05T09:00:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T14:30:31.837691+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/819793/000162828025055486/0001628280-25-055486-index.htm": {
+      "title": "8-K - ALBANY INTERNATIONAL CORP /DE/ (0000819793) (Filer)",
+      "updated": "2025-12-05T09:00:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T14:30:32.933388+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/823277/000082327725000042/0000823277-25-000042-index.htm": {
+      "title": "8-K - CHS INC (0000823277) (Filer)",
+      "updated": "2025-12-05T09:00:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T14:30:34.024281+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1883085/000188308525000204/0001883085-25-000204-index.htm": {
+      "title": "8-K - Pagaya Technologies Ltd. (0001883085) (Filer)",
+      "updated": "2025-12-05T09:00:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T14:30:35.113991+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/914122/000143774925036954/0001437749-25-036954-index.htm": {
+      "title": "8-K - Perma-Pipe International Holdings, Inc. (0000914122) (Filer)",
+      "updated": "2025-12-05T08:59:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T14:30:36.199746+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1563880/000119312525308769/0001193125-25-308769-index.htm": {
+      "title": "8-K - Trevi Therapeutics, Inc. (0001563880) (Filer)",
+      "updated": "2025-12-05T08:58:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T14:30:37.289888+00:00"
     }
   }
 }
