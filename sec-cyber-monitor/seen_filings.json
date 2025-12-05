@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-05T21:55:40.645169+00:00",
+  "last_checked": "2025-12-05T22:26:40.895989+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -30233,6 +30233,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-05T21:55:39.620045+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1824920/000119312525309948/0001193125-25-309948-index.htm": {
+      "title": "8-K/A - IonQ, Inc. (0001824920) (Filer)",
+      "updated": "2025-12-05T17:25:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T22:26:34.473743+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/909494/000143774925037049/0001437749-25-037049-index.htm": {
+      "title": "8-K - TUCOWS INC /PA/ (0000909494) (Filer)",
+      "updated": "2025-12-05T17:23:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T22:26:35.548639+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1806201/000180620125000126/0001806201-25-000126-index.htm": {
+      "title": "8-K - Open Lending Corp (0001806201) (Filer)",
+      "updated": "2025-12-05T17:22:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T22:26:36.622381+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1849894/000119312525309931/0001193125-25-309931-index.htm": {
+      "title": "8-K - MSD Investment Corp. (0001849894) (Filer)",
+      "updated": "2025-12-05T17:21:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T22:26:37.697336+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1528129/000119312525309929/0001193125-25-309929-index.htm": {
+      "title": "8-K - Vital Energy, Inc. (0001528129) (Filer)",
+      "updated": "2025-12-05T17:21:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T22:26:38.770495+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1471727/000149315225026452/0001493152-25-026452-index.htm": {
+      "title": "10-K - SRx Health Solutions, Inc. (0001471727) (Filer)",
+      "updated": "2025-12-05T17:19:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T22:26:39.872470+00:00"
     }
   }
 }
