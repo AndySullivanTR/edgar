@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-05T21:42:39.187265+00:00",
+  "last_checked": "2025-12-05T21:55:40.645169+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -30156,6 +30156,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-05T21:42:38.162401+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1880613/000188061325000153/0001880613-25-000153-index.htm": {
+      "title": "8-K - Direct Digital Holdings, Inc. (0001880613) (Filer)",
+      "updated": "2025-12-05T16:53:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:55:28.687619+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1015155/000110465925118916/0001104659-25-118916-index.htm": {
+      "title": "8-K - CHARLES & COLVARD LTD (0001015155) (Filer)",
+      "updated": "2025-12-05T16:53:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:55:29.777922+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/314489/000031448925000317/0000314489-25-000317-index.htm": {
+      "title": "8-K - FIRST BUSEY CORP /NV/ (0000314489) (Filer)",
+      "updated": "2025-12-05T16:52:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:55:30.889738+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1584207/000114036125044575/0001140361-25-044575-index.htm": {
+      "title": "8-K - OneMain Holdings, Inc. (0001584207) (Filer)",
+      "updated": "2025-12-05T16:50:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:55:31.974800+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1785056/000119312525309804/0001193125-25-309804-index.htm": {
+      "title": "8-K - Interactive Strength, Inc. (0001785056) (Filer)",
+      "updated": "2025-12-05T16:46:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:55:33.063341+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/25598/000114036125044572/0001140361-25-044572-index.htm": {
+      "title": "8-K - ONEMAIN FINANCE CORP (0000025598) (Filer)",
+      "updated": "2025-12-05T16:46:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:55:34.154852+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1840102/000152013825000373/0001520138-25-000373-index.htm": {
+      "title": "8-K - SPECIFICITY, INC. (0001840102) (Filer)",
+      "updated": "2025-12-05T16:46:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:55:35.237828+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/912463/000091246325000086/0000912463-25-000086-index.htm": {
+      "title": "10-Q - GUESS INC (0000912463) (Filer)",
+      "updated": "2025-12-05T16:46:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:55:36.322555+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/28917/000002891725000032/0000028917-25-000032-index.htm": {
+      "title": "10-Q - DILLARD'S, INC. (0000028917) (Filer)",
+      "updated": "2025-12-05T16:45:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:55:37.418680+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2077033/000149315225026403/0001493152-25-026403-index.htm": {
+      "title": "8-K - Miluna Acquisition Corp (0002077033) (Filer)",
+      "updated": "2025-12-05T16:45:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:55:38.535248+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2074878/000149315225026402/0001493152-25-026402-index.htm": {
+      "title": "8-K - New America Acquisition I Corp. (0002074878) (Filer)",
+      "updated": "2025-12-05T16:45:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:55:39.620045+00:00"
     }
   }
 }
