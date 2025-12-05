@@ -405,7 +405,34 @@ def classify_filing(url: str):
 
 def poll_once(state):
     print("\n=== Polling SEC Atom feed ===")
-    entries = fetch_atom()
+    
+    # Retry logic for SEC feed timeouts
+    max_retries = 3
+    retry_delay = 30  # seconds
+    entries = None
+    
+    for attempt in range(max_retries):
+        try:
+            entries = fetch_atom()
+            break  # Success, exit retry loop
+        except requests.exceptions.ReadTimeout:
+            if attempt < max_retries - 1:
+                print(f"SEC feed timeout (attempt {attempt + 1}/{max_retries}). Retrying in {retry_delay}s...")
+                time.sleep(retry_delay)
+                continue
+            else:
+                print("SEC feed timeout after max retries. Skipping this cycle.")
+                return state, 0
+        except Exception as e:
+            print(f"Unexpected error fetching feed: {e}")
+            if attempt < max_retries - 1:
+                print(f"Retrying in {retry_delay}s...")
+                time.sleep(retry_delay)
+                continue
+            else:
+                print("Failed after max retries. Skipping this cycle.")
+                return state, 0
+    
     if not entries:
         print("No entries found.")
         return state, 0
