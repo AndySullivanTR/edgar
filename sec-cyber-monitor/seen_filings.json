@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-05T10:49:17.328974+00:00",
+  "last_checked": "2025-12-05T11:24:48.436310+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29442,6 +29442,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-04T22:45:10.461761+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1915380/000182912625009715/0001829126-25-009715-index.htm": {
+      "title": "8-K - dMY Squared Technology Group, Inc. (0001915380) (Filer)",
+      "updated": "2025-12-05T06:15:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T11:24:42.944256+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1326706/000149315225026247/0001493152-25-026247-index.htm": {
+      "title": "8-K - NanoVibronix, Inc. (0001326706) (Filer)",
+      "updated": "2025-12-05T06:15:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T11:24:44.114473+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2007587/000119312525308576/0001193125-25-308576-index.htm": {
+      "title": "8-K - American Integrity Insurance Group, Inc. (0002007587) (Filer)",
+      "updated": "2025-12-05T06:05:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T11:24:45.212295+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2046042/000110465925118595/0001104659-25-118595-index.htm": {
+      "title": "8-K - Jefferson Capital, Inc. / DE (0002046042) (Filer)",
+      "updated": "2025-12-05T06:03:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T11:24:46.308549+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2052568/000119312525308561/0001193125-25-308561-index.htm": {
+      "title": "8-K - Legence Corp. (0002052568) (Filer)",
+      "updated": "2025-12-05T06:01:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T11:24:47.412331+00:00"
     }
   }
 }
