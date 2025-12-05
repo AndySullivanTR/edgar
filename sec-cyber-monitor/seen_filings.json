@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-05T11:24:48.436310+00:00",
+  "last_checked": "2025-12-05T11:41:57.187049+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29477,6 +29477,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-05T11:24:47.412331+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/216228/000119312525308605/0001193125-25-308605-index.htm": {
+      "title": "8-K - ITT INC. (0000216228) (Filer)",
+      "updated": "2025-12-05T06:35:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T11:41:53.962943+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/92380/000009238025000144/0000092380-25-000144-index.htm": {
+      "title": "8-K - SOUTHWEST AIRLINES CO (0000092380) (Filer)",
+      "updated": "2025-12-05T06:30:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T11:41:55.073211+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1674101/000167410125000031/0001674101-25-000031-index.htm": {
+      "title": "8-K - Vertiv Holdings Co (0001674101) (Filer)",
+      "updated": "2025-12-05T06:29:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T11:41:56.162112+00:00"
     }
   }
 }
