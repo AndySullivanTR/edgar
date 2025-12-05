@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-05T21:25:01.526783+00:00",
+  "last_checked": "2025-12-05T21:42:39.187265+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -30114,6 +30114,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-05T21:25:00.502661+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1018840/000101884025000048/0001018840-25-000048-index.htm": {
+      "title": "10-Q - ABERCROMBIE & FITCH CO /DE/ (0001018840) (Filer)",
+      "updated": "2025-12-05T16:39:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:42:32.782062+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/47111/000162828025055617/0001628280-25-055617-index.htm": {
+      "title": "8-K - HERSHEY CO (0000047111) (Filer)",
+      "updated": "2025-12-05T16:37:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:42:33.858079+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/49600/000114036125044567/0001140361-25-044567-index.htm": {
+      "title": "8-K - EASTGROUP PROPERTIES INC (0000049600) (Filer)",
+      "updated": "2025-12-05T16:37:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:42:34.933821+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1750777/000147793225008814/0001477932-25-008814-index.htm": {
+      "title": "10-Q - Hawkeye Systems, Inc. (0001750777) (Filer)",
+      "updated": "2025-12-05T16:37:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:42:36.014799+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1901637/000092708925000213/0000927089-25-000213-index.htm": {
+      "title": "8-K - USCB FINANCIAL HOLDINGS, INC. (0001901637) (Filer)",
+      "updated": "2025-12-05T16:36:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:42:37.088829+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1641614/000110465925118907/0001104659-25-118907-index.htm": {
+      "title": "8-K - CPI Card Group Inc. (0001641614) (Filer)",
+      "updated": "2025-12-05T16:34:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:42:38.162401+00:00"
     }
   }
 }
