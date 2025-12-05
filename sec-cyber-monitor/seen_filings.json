@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-05T12:55:29.359974+00:00",
+  "last_checked": "2025-12-05T13:37:35.764079+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29589,6 +29589,132 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-05T12:55:28.335320+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1042046/000114036125044459/0001140361-25-044459-index.htm": {
+      "title": "8-K - AMERICAN FINANCIAL GROUP INC (0001042046) (Filer)",
+      "updated": "2025-12-05T08:31:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:37:13.271808+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1841387/000119312525308719/0001193125-25-308719-index.htm": {
+      "title": "8-K - Candel Therapeutics, Inc. (0001841387) (Filer)",
+      "updated": "2025-12-05T08:30:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:37:14.379982+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/895447/000119312525308714/0001193125-25-308714-index.htm": {
+      "title": "10-Q - SHOE CARNIVAL INC (0000895447) (Filer)",
+      "updated": "2025-12-05T08:30:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:37:15.614610+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/794323/000119312525308717/0001193125-25-308717-index.htm": {
+      "title": "8-K - Level 3 Parent, LLC (0000794323) (Filer)",
+      "updated": "2025-12-05T08:30:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:37:16.693686+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/68622/000119312525308717/0001193125-25-308717-index.htm": {
+      "title": "8-K - QWEST CORP (0000068622) (Filer)",
+      "updated": "2025-12-05T08:30:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:37:17.795058+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/18926/000119312525308717/0001193125-25-308717-index.htm": {
+      "title": "8-K - Lumen Technologies, Inc. (0000018926) (Filer)",
+      "updated": "2025-12-05T08:30:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:37:18.878148+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/732712/000119312525308715/0001193125-25-308715-index.htm": {
+      "title": "8-K/A - VERIZON COMMUNICATIONS INC (0000732712) (Filer)",
+      "updated": "2025-12-05T08:30:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:37:19.954394+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1971543/000119312525308710/0001193125-25-308710-index.htm": {
+      "title": "8-K - Mural Oncology plc (0001971543) (Filer)",
+      "updated": "2025-12-05T08:22:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:37:21.050167+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1482541/000149315225026259/0001493152-25-026259-index.htm": {
+      "title": "8-K - CEA Industries Inc. (0001482541) (Filer)",
+      "updated": "2025-12-05T08:15:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:37:22.129093+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1099590/000114036125044457/0001140361-25-044457-index.htm": {
+      "title": "8-K - MERCADOLIBRE INC (0001099590) (Filer)",
+      "updated": "2025-12-05T08:13:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:37:23.207014+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/816956/000121390025118476/0001213900-25-118476-index.htm": {
+      "title": "8-K - CONMED Corp (0000816956) (Filer)",
+      "updated": "2025-12-05T08:09:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:37:24.295104+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/64463/000149315225026256/0001493152-25-026256-index.htm": {
+      "title": "8-K - Soluna Holdings, Inc (0000064463) (Filer)",
+      "updated": "2025-12-05T08:05:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:37:25.389926+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1521332/000152133225000058/0001521332-25-000058-index.htm": {
+      "title": "8-K - Aptiv PLC (0001521332) (Filer)",
+      "updated": "2025-12-05T08:04:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": "llm_ok",
+      "first_seen": "2025-12-05T13:37:28.775846+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1666071/000166607125000166/0001666071-25-000166-index.htm": {
+      "title": "8-K - Cardlytics, Inc. (0001666071) (Filer)",
+      "updated": "2025-12-05T08:04:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:37:29.854213+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1604821/000110465925118664/0001104659-25-118664-index.htm": {
+      "title": "8-K - Natera, Inc. (0001604821) (Filer)",
+      "updated": "2025-12-05T08:01:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:37:30.935042+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1178697/000149315225026254/0001493152-25-026254-index.htm": {
+      "title": "8-K - SONIM TECHNOLOGIES INC (0001178697) (Filer)",
+      "updated": "2025-12-05T08:00:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:37:32.014089+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1839530/000110465925118661/0001104659-25-118661-index.htm": {
+      "title": "8-K - XBP Global Holdings, Inc. (0001839530) (Filer)",
+      "updated": "2025-12-05T08:00:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:37:33.094714+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1505952/000162828025055475/0001628280-25-055475-index.htm": {
+      "title": "8-K - DOMO, INC. (0001505952) (Filer)",
+      "updated": "2025-12-05T07:56:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:37:34.739687+00:00"
     }
   }
 }
