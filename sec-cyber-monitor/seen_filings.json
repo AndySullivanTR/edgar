@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-05T19:24:10.532972+00:00",
+  "last_checked": "2025-12-05T19:40:22.588477+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29960,6 +29960,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-05T19:24:09.508412+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1449794/000144979425000037/0001449794-25-000037-index.htm": {
+      "title": "8-K - Embassy Bancorp, Inc. (0001449794) (Filer)",
+      "updated": "2025-12-05T14:34:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T19:40:19.335817+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1976927/000197692725000064/0001976927-25-000064-index.htm": {
+      "title": "8-K - Invesco Commercial Real Estate Finance Trust, Inc. (0001976927) (Filer)",
+      "updated": "2025-12-05T14:34:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T19:40:20.440083+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1848672/000109690625001969/0001096906-25-001969-index.htm": {
+      "title": "10-Q - Glidelogic Corp. (0001848672) (Filer)",
+      "updated": "2025-12-05T14:31:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T19:40:21.527222+00:00"
     }
   }
 }
