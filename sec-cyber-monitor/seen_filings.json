@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-05T14:30:38.314069+00:00",
+  "last_checked": "2025-12-05T14:52:51.747288+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29862,6 +29862,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-05T14:30:37.289888+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/107140/000010714025000198/0000107140-25-000198-index.htm": {
+      "title": "10-Q - JOHN WILEY & SONS, INC. (0000107140) (Filer)",
+      "updated": "2025-12-05T09:40:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T14:52:48.337931+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/788329/000117184325007770/0001171843-25-007770-index.htm": {
+      "title": "8-K - JOHNSON OUTDOORS INC (0000788329) (Filer)",
+      "updated": "2025-12-05T09:32:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T14:52:49.512124+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1873213/000149315225026287/0001493152-25-026287-index.htm": {
+      "title": "10-Q - Birdie Win Corp (0001873213) (Filer)",
+      "updated": "2025-12-05T09:31:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T14:52:50.723742+00:00"
     }
   }
 }
