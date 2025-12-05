@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-05T17:45:49.176568+00:00",
+  "last_checked": "2025-12-05T18:36:03.255153+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29918,6 +29918,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-05T17:45:48.150781+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/783325/000078332525000066/0000783325-25-000066-index.htm": {
+      "title": "8-K - WEC ENERGY GROUP, INC. (0000783325) (Filer)",
+      "updated": "2025-12-05T13:33:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T18:35:58.720411+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1294808/000199937125019597/0001999371-25-019597-index.htm": {
+      "title": "8-K - PPLUS Trust Series GSC-2 (0001294808) (Filer)",
+      "updated": "2025-12-05T13:31:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T18:35:59.881605+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1946997/000194699725000168/0001946997-25-000168-index.htm": {
+      "title": "8-K - EQT Exeter Real Estate Income Trust, Inc. (0001946997) (Filer)",
+      "updated": "2025-12-05T13:17:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T18:36:01.075509+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/87802/000165495425013714/0001654954-25-013714-index.htm": {
+      "title": "8-K/A - SCIENTIFIC INDUSTRIES INC (0000087802) (Filer)",
+      "updated": "2025-12-05T13:13:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T18:36:02.230988+00:00"
     }
   }
 }
