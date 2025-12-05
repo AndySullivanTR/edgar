@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-05T19:57:38.872853+00:00",
+  "last_checked": "2025-12-05T20:32:43.386510+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29988,6 +29988,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-05T19:57:37.849292+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2019793/000149315225026336/0001493152-25-026336-index.htm": {
+      "title": "8-K - XCF Global, Inc. (0002019793) (Filer)",
+      "updated": "2025-12-05T15:30:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T20:32:40.029732+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1999784/000199978425000056/0001999784-25-000056-index.htm": {
+      "title": "8-K - North Haven Net REIT (0001999784) (Filer)",
+      "updated": "2025-12-05T15:22:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T20:32:41.201738+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1692951/000169295125000272/0001692951-25-000272-index.htm": {
+      "title": "8-K - Cottonwood Communities, Inc. (0001692951) (Filer)",
+      "updated": "2025-12-05T15:15:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T20:32:42.361932+00:00"
     }
   }
 }
