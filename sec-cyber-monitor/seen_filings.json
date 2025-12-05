@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-05T20:32:43.386510+00:00",
+  "last_checked": "2025-12-05T20:54:02.071899+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -30009,6 +30009,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-05T20:32:42.361932+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1996210/000143774925037019/0001437749-25-037019-index.htm": {
+      "title": "8-K - BLUM HOLDINGS, INC. (0001996210) (Filer)",
+      "updated": "2025-12-05T15:47:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T20:53:56.686020+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2059924/000121390025118675/0001213900-25-118675-index.htm": {
+      "title": "8-K - ISQ Open Infrastructure Co LLC (0002059924) (Filer)",
+      "updated": "2025-12-05T15:46:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T20:53:57.762660+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/48465/000004846525000059/0000048465-25-000059-index.htm": {
+      "title": "10-K - HORMEL FOODS CORP /DE/ (0000048465) (Filer)",
+      "updated": "2025-12-05T15:46:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T20:53:58.878422+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1001601/000149315225026341/0001493152-25-026341-index.htm": {
+      "title": "10-Q - MGT CAPITAL INVESTMENTS, INC. (0001001601) (Filer)",
+      "updated": "2025-12-05T15:37:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T20:53:59.951648+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2045458/000204545825000023/0002045458-25-000023-index.htm": {
+      "title": "8-K - Stonepeak-Plus Infrastructure Fund LP (0002045458) (Filer)",
+      "updated": "2025-12-05T15:34:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T20:54:01.048635+00:00"
     }
   }
 }
