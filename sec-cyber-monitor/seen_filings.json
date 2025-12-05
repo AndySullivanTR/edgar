@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-05T13:37:35.764079+00:00",
+  "last_checked": "2025-12-05T13:56:31.371010+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29715,6 +29715,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-05T13:37:34.739687+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1902314/000143774925036953/0001437749-25-036953-index.htm": {
+      "title": "8-K/A - M-tron Industries, Inc. (0001902314) (Filer)",
+      "updated": "2025-12-05T08:55:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:56:23.322475+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/107815/000110465925118685/0001104659-25-118685-index.htm": {
+      "title": "8-K - WISCONSIN ELECTRIC POWER CO (0000107815) (Filer)",
+      "updated": "2025-12-05T08:53:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:56:24.476874+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/720154/000162828025055483/0001628280-25-055483-index.htm": {
+      "title": "10-K - Inotiv, Inc. (0000720154) (Filer)",
+      "updated": "2025-12-05T08:53:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:56:25.660515+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1437107/000119312525308759/0001193125-25-308759-index.htm": {
+      "title": "8-K - Warner Bros. Discovery, Inc. (0001437107) (Filer)",
+      "updated": "2025-12-05T08:52:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:56:26.840167+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/883237/000088323725000131/0000883237-25-000131-index.htm": {
+      "title": "8-K - VIRTUS INVESTMENT PARTNERS, INC. (0000883237) (Filer)",
+      "updated": "2025-12-05T08:46:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:56:27.992263+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/715579/000162828025055482/0001628280-25-055482-index.htm": {
+      "title": "8-K - ACNB CORP (0000715579) (Filer)",
+      "updated": "2025-12-05T08:45:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:56:29.123634+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2017526/000114036125044461/0001140361-25-044461-index.htm": {
+      "title": "8-K - Perceptive Capital Solutions Corp (0002017526) (Filer)",
+      "updated": "2025-12-05T08:42:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T13:56:30.346447+00:00"
     }
   }
 }
