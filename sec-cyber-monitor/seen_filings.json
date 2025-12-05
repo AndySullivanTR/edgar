@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-05T20:54:02.071899+00:00",
+  "last_checked": "2025-12-05T21:25:01.526783+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -30044,6 +30044,76 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-05T20:54:01.048635+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1095651/000110465925118902/0001104659-25-118902-index.htm": {
+      "title": "8-K - Safehold Inc. (0001095651) (Filer)",
+      "updated": "2025-12-05T16:23:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:24:50.732083+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1069202/000106920225000062/0001069202-25-000062-index.htm": {
+      "title": "8-K - LENNOX INTERNATIONAL INC (0001069202) (Filer)",
+      "updated": "2025-12-05T16:22:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:24:51.814979+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1777393/000177739325000193/0001777393-25-000193-index.htm": {
+      "title": "10-Q - ChargePoint Holdings, Inc. (0001777393) (Filer)",
+      "updated": "2025-12-05T16:21:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:24:52.899606+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/93410/000009341025000122/0000093410-25-000122-index.htm": {
+      "title": "8-K - CHEVRON CORP (0000093410) (Filer)",
+      "updated": "2025-12-05T16:21:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:24:53.981881+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1053507/000119312525309718/0001193125-25-309718-index.htm": {
+      "title": "8-K - AMERICAN TOWER CORP /MA/ (0001053507) (Filer)",
+      "updated": "2025-12-05T16:19:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:24:55.066106+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1676725/000119312525309716/0001193125-25-309716-index.htm": {
+      "title": "8-K - IDEAYA Biosciences, Inc. (0001676725) (Filer)",
+      "updated": "2025-12-05T16:19:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:24:56.148055+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1066605/000119312525309715/0001193125-25-309715-index.htm": {
+      "title": "8-K - HEIDRICK & STRUGGLES INTERNATIONAL INC (0001066605) (Filer)",
+      "updated": "2025-12-05T16:18:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:24:57.230314+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1792044/000114036125044544/0001140361-25-044544-index.htm": {
+      "title": "8-K - Viatris Inc (0001792044) (Filer)",
+      "updated": "2025-12-05T16:18:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:24:58.315369+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1948368/000119312525309712/0001193125-25-309712-index.htm": {
+      "title": "8-K - Phillip Street Middle Market Lending Fund LLC (0001948368) (Filer)",
+      "updated": "2025-12-05T16:18:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:24:59.399971+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1819438/000181943825000079/0001819438-25-000079-index.htm": {
+      "title": "8-K - ESS Tech, Inc. (0001819438) (Filer)",
+      "updated": "2025-12-05T16:18:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T21:25:00.502661+00:00"
     }
   }
 }
