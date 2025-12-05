@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-05T11:55:13.592129+00:00",
+  "last_checked": "2025-12-05T12:55:29.359974+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29505,6 +29505,90 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-05T11:55:12.567177+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/8146/000119312525308667/0001193125-25-308667-index.htm": {
+      "title": "8-K - AstroNova, Inc. (0000008146) (Filer)",
+      "updated": "2025-12-05T07:51:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T12:55:16.517559+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2038118/000203811825000041/0002038118-25-000041-index.htm": {
+      "title": "8-K - FirstEnergy Transmission, LLC (0002038118) (Filer)",
+      "updated": "2025-12-05T07:34:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T12:55:17.592107+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1567264/000156726425000111/0001567264-25-000111-index.htm": {
+      "title": "8-K - INTENSITY THERAPEUTICS, INC. (0001567264) (Filer)",
+      "updated": "2025-12-05T07:33:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T12:55:18.664977+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1065280/000119312525308651/0001193125-25-308651-index.htm": {
+      "title": "8-K - NETFLIX INC (0001065280) (Filer)",
+      "updated": "2025-12-05T07:31:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T12:55:19.738665+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1093691/000110465925118652/0001104659-25-118652-index.htm": {
+      "title": "8-K - PLUG POWER INC (0001093691) (Filer)",
+      "updated": "2025-12-05T07:27:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T12:55:20.811052+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1856437/000185643725000045/0001856437-25-000045-index.htm": {
+      "title": "10-Q - Victoria's Secret & Co. (0001856437) (Filer)",
+      "updated": "2025-12-05T07:16:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T12:55:21.884429+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1526243/000110465925118649/0001104659-25-118649-index.htm": {
+      "title": "8-K - PERPETUA RESOURCES CORP. (0001526243) (Filer)",
+      "updated": "2025-12-05T07:14:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T12:55:22.956852+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1271834/000109166725000171/0001091667-25-000171-index.htm": {
+      "title": "8-K - CCO HOLDINGS CAPITAL CORP (0001271834) (Filer)",
+      "updated": "2025-12-05T07:05:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T12:55:24.035419+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1271833/000109166725000171/0001091667-25-000171-index.htm": {
+      "title": "8-K - CCO HOLDINGS LLC (0001271833) (Filer)",
+      "updated": "2025-12-05T07:05:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T12:55:25.112899+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1091667/000109166725000171/0001091667-25-000171-index.htm": {
+      "title": "8-K - CHARTER COMMUNICATIONS, INC. /MO/ (0001091667) (Filer)",
+      "updated": "2025-12-05T07:05:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T12:55:26.189905+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1856437/000185643725000044/0001856437-25-000044-index.htm": {
+      "title": "8-K - Victoria's Secret & Co. (0001856437) (Filer)",
+      "updated": "2025-12-05T07:01:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T12:55:27.262232+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/855658/000143774925036946/0001437749-25-036946-index.htm": {
+      "title": "8-K - LATTICE SEMICONDUCTOR CORP (0000855658) (Filer)",
+      "updated": "2025-12-05T07:01:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T12:55:28.335320+00:00"
     }
   }
 }
