@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-05T15:29:43.436317+00:00",
+  "last_checked": "2025-12-05T15:48:38.267785+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -29890,6 +29890,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-05T15:29:42.411991+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1920453/000119312525308948/0001193125-25-308948-index.htm": {
+      "title": "8-K - Fidelity Private Credit Fund (0001920453) (Filer)",
+      "updated": "2025-12-05T10:38:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-05T15:48:37.243291+00:00"
     }
   }
 }
