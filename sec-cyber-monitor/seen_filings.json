@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-08T20:31:22.734845+00:00",
+  "last_checked": "2025-12-08T20:55:02.349705+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -31024,6 +31024,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-08T20:31:21.711212+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2093119/000153949725003189/0001539497-25-003189-index.htm": {
+      "title": "8-K - Wells Fargo Commercial Mortgage Trust 2025-5C7 (0002093119) (Filer)",
+      "updated": "2025-12-08T15:31:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T20:55:01.324116+00:00"
     }
   }
 }
