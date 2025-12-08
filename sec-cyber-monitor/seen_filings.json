@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-08T16:36:33.944230+00:00",
+  "last_checked": "2025-12-08T17:00:42.609478+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -30968,6 +30968,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-08T16:36:32.920393+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331520/000133152025000155/0001331520-25-000155-index.htm": {
+      "title": "8-K - HOME BANCSHARES INC (0001331520) (Filer)",
+      "updated": "2025-12-08T11:55:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T17:00:40.497404+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/763907/000110465925119165/0001104659-25-119165-index.htm": {
+      "title": "8-K - FIRST UNITED CORP/MD/ (0000763907) (Filer)",
+      "updated": "2025-12-08T11:39:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T17:00:41.584001+00:00"
     }
   }
 }
