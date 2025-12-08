@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-08T21:41:25.650939+00:00",
+  "last_checked": "2025-12-08T21:54:45.398918+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -31185,6 +31185,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-08T21:41:24.626323+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2082844/000121390025119281/0001213900-25-119281-index.htm": {
+      "title": "8-K - Safeguard Acquisition Corp. (0002082844) (Filer)",
+      "updated": "2025-12-08T16:53:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:54:41.144017+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1024795/000119312525311347/0001193125-25-311347-index.htm": {
+      "title": "8-K - HELIOS TECHNOLOGIES, INC. (0001024795) (Filer)",
+      "updated": "2025-12-08T16:49:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:54:42.219506+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/821189/000119312525311346/0001193125-25-311346-index.htm": {
+      "title": "8-K - EOG RESOURCES INC (0000821189) (Filer)",
+      "updated": "2025-12-08T16:48:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:54:43.295355+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/794170/000079417025000099/0000794170-25-000099-index.htm": {
+      "title": "8-K - Toll Brothers, Inc. (0000794170) (Filer)",
+      "updated": "2025-12-08T16:47:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:54:44.373266+00:00"
     }
   }
 }
