@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-08T21:22:49.353657+00:00",
+  "last_checked": "2025-12-08T21:41:25.650939+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -31164,6 +31164,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-08T21:22:48.328036+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1851860/000121390025119266/0001213900-25-119266-index.htm": {
+      "title": "8-K - SMART FOR LIFE, INC. (0001851860) (Filer)",
+      "updated": "2025-12-08T16:40:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:41:22.465333+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/95552/000114036125044874/0001140361-25-044874-index.htm": {
+      "title": "8-K - SUPERIOR INDUSTRIES INTERNATIONAL INC (0000095552) (Filer)",
+      "updated": "2025-12-08T16:37:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:41:23.545354+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1772921/000177292125000082/0001772921-25-000082-index.htm": {
+      "title": "8-K - OneWater Marine Inc. (0001772921) (Filer)",
+      "updated": "2025-12-08T16:37:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:41:24.626323+00:00"
     }
   }
 }
