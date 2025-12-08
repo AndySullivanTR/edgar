@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-08T18:57:37.944650+00:00",
+  "last_checked": "2025-12-08T19:25:37.461865+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -31003,6 +31003,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-08T18:40:35.282176+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/56679/000162828025055789/0001628280-25-055789-index.htm": {
+      "title": "8-K - KORN FERRY (0000056679) (Filer)",
+      "updated": "2025-12-08T14:10:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T19:25:36.436338+00:00"
     }
   }
 }
