@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-08T20:55:02.349705+00:00",
+  "last_checked": "2025-12-08T21:22:49.353657+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -31031,6 +31031,139 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-08T20:55:01.324116+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/923796/000119312525311262/0001193125-25-311262-index.htm": {
+      "title": "8-K - GEO GROUP INC (0000923796) (Filer)",
+      "updated": "2025-12-08T16:21:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:22:28.388682+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1564408/000156440825000069/0001564408-25-000069-index.htm": {
+      "title": "8-K - Snap Inc (0001564408) (Filer)",
+      "updated": "2025-12-08T16:21:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:22:29.470007+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/899751/000089975125000091/0000899751-25-000091-index.htm": {
+      "title": "8-K - TITAN INTERNATIONAL INC (0000899751) (Filer)",
+      "updated": "2025-12-08T16:21:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:22:30.578291+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/896159/000110465925119308/0001104659-25-119308-index.htm": {
+      "title": "8-K - Chubb Ltd (0000896159) (Filer)",
+      "updated": "2025-12-08T16:19:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:22:31.673391+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1673475/000164033425002268/0001640334-25-002268-index.htm": {
+      "title": "10-Q - GPO Plus, Inc. (0001673475) (Filer)",
+      "updated": "2025-12-08T16:18:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:22:32.796717+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1689548/000168954825000114/0001689548-25-000114-index.htm": {
+      "title": "8-K - Praxis Precision Medicines, Inc. (0001689548) (Filer)",
+      "updated": "2025-12-08T16:18:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:22:33.881140+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1426800/000119312525311251/0001193125-25-311251-index.htm": {
+      "title": "8-K - ASSEMBLY BIOSCIENCES, INC. (0001426800) (Filer)",
+      "updated": "2025-12-08T16:17:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:22:35.042102+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/317540/000162828025055830/0001628280-25-055830-index.htm": {
+      "title": "8-K - Coca-Cola Consolidated, Inc. (0000317540) (Filer)",
+      "updated": "2025-12-08T16:17:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:22:36.152378+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1120970/000143774925037146/0001437749-25-037146-index.htm": {
+      "title": "8-K - Comstock Inc. (0001120970) (Filer)",
+      "updated": "2025-12-08T16:17:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:22:37.233913+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1527541/000152754125000300/0001527541-25-000300-index.htm": {
+      "title": "8-K - Wheeler Real Estate Investment Trust, Inc. (0001527541) (Filer)",
+      "updated": "2025-12-08T16:17:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:22:38.352005+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/936340/000093634025000241/0000936340-25-000241-index.htm": {
+      "title": "8-K - DTE ENERGY CO (0000936340) (Filer)",
+      "updated": "2025-12-08T16:17:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:22:39.461777+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1327688/000119312525311243/0001193125-25-311243-index.htm": {
+      "title": "8-K - OOMA INC (0001327688) (Filer)",
+      "updated": "2025-12-08T16:16:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:22:40.591392+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1140215/000149315225026641/0001493152-25-026641-index.htm": {
+      "title": "8-K - REED'S, INC. (0001140215) (Filer)",
+      "updated": "2025-12-08T16:15:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:22:41.684352+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/930236/000110465925119305/0001104659-25-119305-index.htm": {
+      "title": "8-K - REDWOOD TRUST INC (0000930236) (Filer)",
+      "updated": "2025-12-08T16:15:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:22:42.792452+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/751365/000162828025055828/0001628280-25-055828-index.htm": {
+      "title": "8-K - VIRCO MFG CORPORATION (0000751365) (Filer)",
+      "updated": "2025-12-08T16:15:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:22:43.962972+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2063863/000110465925119304/0001104659-25-119304-index.htm": {
+      "title": "8-K - Elauwit Connection, Inc. (0002063863) (Filer)",
+      "updated": "2025-12-08T16:15:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:22:45.047982+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1853825/000149315225026640/0001493152-25-026640-index.htm": {
+      "title": "8-K - THUMZUP MEDIA Corp (0001853825) (Filer)",
+      "updated": "2025-12-08T16:15:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:22:46.122348+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1581776/000119312525311240/0001193125-25-311240-index.htm": {
+      "title": "8-K - Mid-America Apartments, L.P. (0001581776) (Filer)",
+      "updated": "2025-12-08T16:15:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:22:47.219344+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/912595/000119312525311240/0001193125-25-311240-index.htm": {
+      "title": "8-K - MID AMERICA APARTMENT COMMUNITIES INC. (0000912595) (Filer)",
+      "updated": "2025-12-08T16:15:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T21:22:48.328036+00:00"
     }
   }
 }
