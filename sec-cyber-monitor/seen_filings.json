@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-08T11:44:36.689125+00:00",
+  "last_checked": "2025-12-08T11:57:42.124140+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -30394,6 +30394,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-08T11:44:35.663676+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1653477/000149315225026514/0001493152-25-026514-index.htm": {
+      "title": "8-K - Ingevity Corp (0001653477) (Filer)",
+      "updated": "2025-12-08T06:56:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T11:57:30.222101+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/216228/000119312525310541/0001193125-25-310541-index.htm": {
+      "title": "8-K - ITT INC. (0000216228) (Filer)",
+      "updated": "2025-12-08T06:55:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T11:57:31.309186+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1653477/000149315225026513/0001493152-25-026513-index.htm": {
+      "title": "8-K - Ingevity Corp (0001653477) (Filer)",
+      "updated": "2025-12-08T06:54:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T11:57:32.395231+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1345126/000134512625000079/0001345126-25-000079-index.htm": {
+      "title": "8-K - Compass Diversified Holdings (0001345126) (Filer)",
+      "updated": "2025-12-08T06:52:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T11:57:33.481129+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1345122/000134512625000079/0001345126-25-000079-index.htm": {
+      "title": "8-K - Compass Group Diversified Holdings LLC (0001345122) (Filer)",
+      "updated": "2025-12-08T06:52:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T11:57:34.570528+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/96223/000114036125044702/0001140361-25-044702-index.htm": {
+      "title": "8-K - Jefferies Financial Group Inc. (0000096223) (Filer)",
+      "updated": "2025-12-08T06:52:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T11:57:35.655110+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/929008/000092900825000036/0000929008-25-000036-index.htm": {
+      "title": "8-K - WESCO INTERNATIONAL INC (0000929008) (Filer)",
+      "updated": "2025-12-08T06:50:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T11:57:36.740754+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1687229/000168722925000059/0001687229-25-000059-index.htm": {
+      "title": "8-K - Invitation Homes Inc. (0001687229) (Filer)",
+      "updated": "2025-12-08T06:45:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T11:57:37.835223+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/75252/000119312525310528/0001193125-25-310528-index.htm": {
+      "title": "8-K - OWENS & MINOR INC/VA/ (0000075252) (Filer)",
+      "updated": "2025-12-08T06:45:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T11:57:38.921379+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1345126/000134512625000078/0001345126-25-000078-index.htm": {
+      "title": "10-K/A - Compass Diversified Holdings (0001345126) (Filer)",
+      "updated": "2025-12-08T06:45:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T11:57:40.011304+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1345122/000134512625000078/0001345126-25-000078-index.htm": {
+      "title": "10-K/A - Compass Group Diversified Holdings LLC (0001345122) (Filer)",
+      "updated": "2025-12-08T06:45:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T11:57:41.099228+00:00"
     }
   }
 }
