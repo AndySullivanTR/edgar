@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-08T22:26:21.231045+00:00",
+  "last_checked": "2025-12-08T22:45:42.817698+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -31255,6 +31255,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-08T22:26:20.207242+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1873835/000149315225026697/0001493152-25-026697-index.htm": {
+      "title": "8-K - Immix Biopharma, Inc. (0001873835) (Filer)",
+      "updated": "2025-12-08T17:30:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T22:45:37.471760+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1005210/000119312525311459/0001193125-25-311459-index.htm": {
+      "title": "8-K - SUBURBAN PROPANE PARTNERS LP (0001005210) (Filer)",
+      "updated": "2025-12-08T17:30:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T22:45:38.552187+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1734722/000173472225000050/0001734722-25-000050-index.htm": {
+      "title": "10-Q - UiPath, Inc. (0001734722) (Filer)",
+      "updated": "2025-12-08T17:28:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T22:45:39.632580+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/912242/000119312525311453/0001193125-25-311453-index.htm": {
+      "title": "8-K - MACERICH CO (0000912242) (Filer)",
+      "updated": "2025-12-08T17:27:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T22:45:40.711920+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1802156/000119312525311452/0001193125-25-311452-index.htm": {
+      "title": "8-K - Xponential Fitness, Inc. (0001802156) (Filer)",
+      "updated": "2025-12-08T17:27:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T22:45:41.791529+00:00"
     }
   }
 }
