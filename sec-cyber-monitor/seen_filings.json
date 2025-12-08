@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-08T13:48:30.928871+00:00",
+  "last_checked": "2025-12-08T14:30:06.795440+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -30814,6 +30814,125 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-08T13:48:29.903740+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2078856/000119312525310714/0001193125-25-310714-index.htm": {
+      "title": "8-K - Hyperliquid Strategies Inc (0002078856) (Filer)",
+      "updated": "2025-12-08T09:27:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T14:29:48.350581+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1041514/000106299325017205/0001062993-25-017205-index.htm": {
+      "title": "8-K - LESAKA TECHNOLOGIES INC (0001041514) (Filer)",
+      "updated": "2025-12-08T09:26:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T14:29:49.438436+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2041610/000119312525310710/0001193125-25-310710-index.htm": {
+      "title": "8-K - Paramount Skydance Corp (0002041610) (Filer)",
+      "updated": "2025-12-08T09:24:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T14:29:50.524848+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/55067/000119312525310707/0001193125-25-310707-index.htm": {
+      "title": "8-K - KELLANOVA (0000055067) (Filer)",
+      "updated": "2025-12-08T09:22:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T14:29:51.610205+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1432133/000162828025055745/0001628280-25-055745-index.htm": {
+      "title": "8-K - KALTURA INC (0001432133) (Filer)",
+      "updated": "2025-12-08T09:21:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T14:29:52.697927+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1860657/000121390025118989/0001213900-25-118989-index.htm": {
+      "title": "8-K - Allarity Therapeutics, Inc. (0001860657) (Filer)",
+      "updated": "2025-12-08T09:16:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T14:29:53.782967+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1058090/000105809025000101/0001058090-25-000101-index.htm": {
+      "title": "8-K - CHIPOTLE MEXICAN GRILL INC (0001058090) (Filer)",
+      "updated": "2025-12-08T09:15:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T14:29:54.867907+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1939433/000193943325000168/0001939433-25-000168-index.htm": {
+      "title": "8-K - Cohen & Steers Income Opportunities REIT, Inc. (0001939433) (Filer)",
+      "updated": "2025-12-08T09:12:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T14:29:55.972223+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1757715/000143774925037089/0001437749-25-037089-index.htm": {
+      "title": "8-K - Aterian, Inc. (0001757715) (Filer)",
+      "updated": "2025-12-08T09:12:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T14:29:57.060362+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1662972/000119312525310690/0001193125-25-310690-index.htm": {
+      "title": "8-K - Blackstone Real Estate Income Trust, Inc. (0001662972) (Filer)",
+      "updated": "2025-12-08T09:08:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T14:29:58.150544+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1058811/000119312525310688/0001193125-25-310688-index.htm": {
+      "title": "8-K - IMMERSION CORP (0001058811) (Filer)",
+      "updated": "2025-12-08T09:07:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T14:29:59.234318+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/746210/000143774925037088/0001437749-25-037088-index.htm": {
+      "title": "8-K - TaoWeave, Inc. (0000746210) (Filer)",
+      "updated": "2025-12-08T09:04:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T14:30:00.321064+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1758057/000114036125044719/0001140361-25-044719-index.htm": {
+      "title": "8-K - Luminar Technologies, Inc./DE (0001758057) (Filer)",
+      "updated": "2025-12-08T09:00:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T14:30:01.405041+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1418121/000119312525310683/0001193125-25-310683-index.htm": {
+      "title": "8-K - Apple Hospitality REIT, Inc. (0001418121) (Filer)",
+      "updated": "2025-12-08T09:00:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T14:30:02.512981+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/25475/000110465925119103/0001104659-25-119103-index.htm": {
+      "title": "8-K - CRAWFORD & CO (0000025475) (Filer)",
+      "updated": "2025-12-08T09:00:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T14:30:03.599182+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1653558/000165355825000145/0001653558-25-000145-index.htm": {
+      "title": "8-K - Priority Technology Holdings, Inc. (0001653558) (Filer)",
+      "updated": "2025-12-08T08:59:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T14:30:04.683987+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1005210/000119312525310682/0001193125-25-310682-index.htm": {
+      "title": "8-K - SUBURBAN PROPANE PARTNERS LP (0001005210) (Filer)",
+      "updated": "2025-12-08T08:57:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T14:30:05.769609+00:00"
     }
   }
 }
