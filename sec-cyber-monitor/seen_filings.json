@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-08T21:54:45.398918+00:00",
+  "last_checked": "2025-12-08T22:26:21.231045+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -31213,6 +31213,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-08T21:54:44.373266+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1058811/000119312525311446/0001193125-25-311446-index.htm": {
+      "title": "8-K/A - IMMERSION CORP (0001058811) (Filer)",
+      "updated": "2025-12-08T17:24:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T22:26:13.804989+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1381531/000119312525311445/0001193125-25-311445-index.htm": {
+      "title": "8-K - Domtar CORP (0001381531) (Filer)",
+      "updated": "2025-12-08T17:24:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T22:26:15.075784+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1591890/000149315225026690/0001493152-25-026690-index.htm": {
+      "title": "8-K - FG Nexus Inc. (0001591890) (Filer)",
+      "updated": "2025-12-08T17:23:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T22:26:16.490987+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1816937/000149315225026687/0001493152-25-026687-index.htm": {
+      "title": "8-K - BOXABL Inc. (0001816937) (Filer)",
+      "updated": "2025-12-08T17:20:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T22:26:17.782845+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1159036/000115903625000068/0001159036-25-000068-index.htm": {
+      "title": "8-K - HALOZYME THERAPEUTICS, INC. (0001159036) (Filer)",
+      "updated": "2025-12-08T17:20:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T22:26:18.933188+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1350102/000107997325001825/0001079973-25-001825-index.htm": {
+      "title": "8-K - Ascent Solar Technologies, Inc. (0001350102) (Filer)",
+      "updated": "2025-12-08T17:17:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T22:26:20.207242+00:00"
     }
   }
 }
