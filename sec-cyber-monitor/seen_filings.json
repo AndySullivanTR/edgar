@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-08T19:54:57.022962+00:00",
+  "last_checked": "2025-12-08T20:31:22.734845+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -31010,6 +31010,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-08T19:25:36.436338+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/78239/000007823925000090/0000078239-25-000090-index.htm": {
+      "title": "10-Q - PVH CORP. /DE/ (0000078239) (Filer)",
+      "updated": "2025-12-08T15:22:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T20:31:20.520384+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2032545/000149315225026612/0001493152-25-026612-index.htm": {
+      "title": "8-K - CALLAN JMB INC. (0002032545) (Filer)",
+      "updated": "2025-12-08T15:11:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T20:31:21.711212+00:00"
     }
   }
 }
