@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-08T17:53:16.189430+00:00",
+  "last_checked": "2025-12-08T18:40:36.307191+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -30982,6 +30982,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-08T17:00:41.584001+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1975736/000110465925119217/0001104659-25-119217-index.htm": {
+      "title": "8-K - KKR FS Income Trust Select (0001975736) (Filer)",
+      "updated": "2025-12-08T13:27:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T18:40:33.034127+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1930679/000110465925119212/0001104659-25-119212-index.htm": {
+      "title": "8-K - KKR FS Income Trust (0001930679) (Filer)",
+      "updated": "2025-12-08T13:20:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T18:40:34.157323+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1504776/000110465925119209/0001104659-25-119209-index.htm": {
+      "title": "8-K - Warby Parker Inc. (0001504776) (Filer)",
+      "updated": "2025-12-08T13:13:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T18:40:35.282176+00:00"
     }
   }
 }
