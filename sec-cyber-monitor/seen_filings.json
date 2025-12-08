@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-08T10:56:28.099325+00:00",
+  "last_checked": "2025-12-08T11:26:50.295125+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -30296,6 +30296,62 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-05T22:43:46.524077+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1526113/000110465925119026/0001104659-25-119026-index.htm": {
+      "title": "8-K - Global Net Lease, Inc. (0001526113) (Filer)",
+      "updated": "2025-12-08T06:15:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T11:26:41.737600+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1873835/000149315225026500/0001493152-25-026500-index.htm": {
+      "title": "8-K - Immix Biopharma, Inc. (0001873835) (Filer)",
+      "updated": "2025-12-08T06:15:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T11:26:42.809117+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1849820/000184982025000301/0001849820-25-000301-index.htm": {
+      "title": "8-K - Nauticus Robotics, Inc. (0001849820) (Filer)",
+      "updated": "2025-12-08T06:09:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T11:26:43.883427+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1574085/000110465925119016/0001104659-25-119016-index.htm": {
+      "title": "8-K - Braemar Hotels & Resorts Inc. (0001574085) (Filer)",
+      "updated": "2025-12-08T06:08:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T11:26:44.963793+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1802450/000119312525310475/0001193125-25-310475-index.htm": {
+      "title": "8-K - MSP Recovery, Inc. (0001802450) (Filer)",
+      "updated": "2025-12-08T06:03:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T11:26:46.035805+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1796280/000119312525310472/0001193125-25-310472-index.htm": {
+      "title": "8-K - Oric Pharmaceuticals, Inc. (0001796280) (Filer)",
+      "updated": "2025-12-08T06:02:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T11:26:47.119927+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1498148/000106299325017196/0001062993-25-017196-index.htm": {
+      "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+      "updated": "2025-12-08T06:02:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T11:26:48.191677+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1806952/000119312525310469/0001193125-25-310469-index.htm": {
+      "title": "8-K - Lyell Immunopharma, Inc. (0001806952) (Filer)",
+      "updated": "2025-12-08T06:02:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-08T11:26:49.270164+00:00"
     }
   }
 }
