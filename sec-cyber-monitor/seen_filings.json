@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-09T20:43:09.460682+00:00",
+  "last_checked": "2025-12-09T20:56:01.494454+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -32102,6 +32102,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-09T20:43:08.434488+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1436975/000118518525001989/0001185185-25-001989-index.htm": {
+      "title": "8-K - Lightstone Value Plus REIT II, Inc. (0001436975) (Filer)",
+      "updated": "2025-12-09T15:54:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T20:55:57.180792+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1490873/000147793225008875/0001477932-25-008875-index.htm": {
+      "title": "10-Q - ECO SCIENCE SOLUTIONS, INC. (0001490873) (Filer)",
+      "updated": "2025-12-09T15:53:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T20:55:58.282459+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1296884/000118518525001987/0001185185-25-001987-index.htm": {
+      "title": "8-K - Lightstone Value Plus REIT I, Inc. (0001296884) (Filer)",
+      "updated": "2025-12-09T15:50:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T20:55:59.380118+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1563756/000118518525001985/0001185185-25-001985-index.htm": {
+      "title": "8-K - Lightstone Value Plus REIT III, Inc. (0001563756) (Filer)",
+      "updated": "2025-12-09T15:44:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T20:56:00.468269+00:00"
     }
   }
 }
