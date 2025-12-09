@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-09T19:54:01.728252+00:00",
+  "last_checked": "2025-12-09T20:27:46.474821+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -32081,6 +32081,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-09T19:54:00.701352+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1329842/000165495425013784/0001654954-25-013784-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
+      "updated": "2025-12-09T15:23:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T20:27:44.367307+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/56679/000162828025056040/0001628280-25-056040-index.htm": {
+      "title": "10-Q - KORN FERRY (0000056679) (Filer)",
+      "updated": "2025-12-09T15:21:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T20:27:45.448946+00:00"
     }
   }
 }
