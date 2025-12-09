@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-09T21:56:03.089542+00:00",
+  "last_checked": "2025-12-09T22:30:31.985364+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -32242,6 +32242,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-09T21:56:02.063026+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1920406/000114036125045044/0001140361-25-045044-index.htm": {
+      "title": "8-K - Strive, Inc. (0001920406) (Filer)",
+      "updated": "2025-12-09T17:29:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T22:30:16.796865+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/727346/000149315225026960/0001493152-25-026960-index.htm": {
+      "title": "8-K - SELECTIS HEALTH, INC. (0000727346) (Filer)",
+      "updated": "2025-12-09T17:27:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T22:30:17.923307+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1934945/000121390025119751/0001213900-25-119751-index.htm": {
+      "title": "8-K - Trailblazer Merger Corp I (0001934945) (Filer)",
+      "updated": "2025-12-09T17:25:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T22:30:19.003535+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1759774/000162828025056186/0001628280-25-056186-index.htm": {
+      "title": "8-K - Postal Realty Trust, Inc. (0001759774) (Filer)",
+      "updated": "2025-12-09T17:25:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T22:30:20.118520+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1287750/000110465925119724/0001104659-25-119724-index.htm": {
+      "title": "8-K - ARES CAPITAL CORP (0001287750) (Filer)",
+      "updated": "2025-12-09T17:23:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T22:30:21.201730+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1671584/000119312525312972/0001193125-25-312972-index.htm": {
+      "title": "8-K - Aptevo Therapeutics Inc. (0001671584) (Filer)",
+      "updated": "2025-12-09T17:23:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": "llm_ok",
+      "first_seen": "2025-12-09T22:30:25.152117+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1210708/000121070825000145/0001210708-25-000145-index.htm": {
+      "title": "8-K - Star Equity Holdings, Inc. (0001210708) (Filer)",
+      "updated": "2025-12-09T17:22:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T22:30:26.291160+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/918965/000091896525000051/0000918965-25-000051-index.htm": {
+      "title": "8-K - SCANSOURCE, INC. (0000918965) (Filer)",
+      "updated": "2025-12-09T17:20:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T22:30:27.433482+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1604174/000110465925119722/0001104659-25-119722-index.htm": {
+      "title": "8-K - Eagle Point Credit Co Inc. (0001604174) (Filer)",
+      "updated": "2025-12-09T17:20:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T22:30:28.598253+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1327688/000119312525312961/0001193125-25-312961-index.htm": {
+      "title": "10-Q - OOMA INC (0001327688) (Filer)",
+      "updated": "2025-12-09T17:20:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T22:30:29.774892+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1920145/000119312525312960/0001193125-25-312960-index.htm": {
+      "title": "8-K - Goldman Sachs Private Credit Corp. (0001920145) (Filer)",
+      "updated": "2025-12-09T17:19:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T22:30:30.958671+00:00"
     }
   }
 }
