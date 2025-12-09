@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-09T13:02:31.647406+00:00",
+  "last_checked": "2025-12-09T13:48:44.898130+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -31654,6 +31654,111 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-09T13:02:30.621719+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1141284/000121390025119457/0001213900-25-119457-index.htm": {
+      "title": "8-K - ACTELIS NETWORKS INC (0001141284) (Filer)",
+      "updated": "2025-12-09T08:45:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:48:28.463602+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1662684/000110465925119501/0001104659-25-119501-index.htm": {
+      "title": "8-K - KULR Technology Group, Inc. (0001662684) (Filer)",
+      "updated": "2025-12-09T08:30:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:48:29.555892+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/718937/000119312525311982/0001193125-25-311982-index.htm": {
+      "title": "8-K - STAAR SURGICAL CO (0000718937) (Filer)",
+      "updated": "2025-12-09T08:30:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:48:30.649483+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/25232/000002523225000065/0000025232-25-000065-index.htm": {
+      "title": "8-K - COUSINS PROPERTIES INC (0000025232) (Filer)",
+      "updated": "2025-12-09T08:29:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:48:31.759627+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/3499/000000349925000032/0000003499-25-000032-index.htm": {
+      "title": "8-K - ALEXANDERS INC (0000003499) (Filer)",
+      "updated": "2025-12-09T08:27:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:48:32.850793+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1728951/000172895125000182/0001728951-25-000182-index.htm": {
+      "title": "8-K - ESSENTIAL PROPERTIES REALTY TRUST, INC. (0001728951) (Filer)",
+      "updated": "2025-12-09T08:24:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:48:33.987480+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1319947/000131994725000062/0001319947-25-000062-index.htm": {
+      "title": "8-K - Designer Brands Inc. (0001319947) (Filer)",
+      "updated": "2025-12-09T08:17:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:48:35.080400+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1659617/000143774925037209/0001437749-25-037209-index.htm": {
+      "title": "8-K - Moleculin Biotech, Inc. (0001659617) (Filer)",
+      "updated": "2025-12-09T08:16:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:48:36.170299+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/910638/000091063825000027/0000910638-25-000027-index.htm": {
+      "title": "8-K - 3D SYSTEMS CORP (0000910638) (Filer)",
+      "updated": "2025-12-09T08:15:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:48:37.263513+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1717307/000110465925119498/0001104659-25-119498-index.htm": {
+      "title": "8-K - Industrial Logistics Properties Trust (0001717307) (Filer)",
+      "updated": "2025-12-09T08:11:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:48:38.357073+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1868419/000186841925000031/0001868419-25-000031-index.htm": {
+      "title": "8-K - Cycurion, Inc. (0001868419) (Filer)",
+      "updated": "2025-12-09T08:09:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:48:39.461697+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1472091/000114036125044940/0001140361-25-044940-index.htm": {
+      "title": "8-K - PDS Biotechnology Corp (0001472091) (Filer)",
+      "updated": "2025-12-09T08:05:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:48:40.577270+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1850119/000110465925119494/0001104659-25-119494-index.htm": {
+      "title": "8-K - Century Therapeutics, Inc. (0001850119) (Filer)",
+      "updated": "2025-12-09T08:05:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:48:41.673706+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1817358/000181735825000189/0001817358-25-000189-index.htm": {
+      "title": "8-K - Academy Sports & Outdoors, Inc. (0001817358) (Filer)",
+      "updated": "2025-12-09T08:03:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:48:42.779201+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/914208/000091420825000437/0000914208-25-000437-index.htm": {
+      "title": "8-K - Invesco Ltd. (0000914208) (Filer)",
+      "updated": "2025-12-09T08:03:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:48:43.872125+00:00"
     }
   }
 }
