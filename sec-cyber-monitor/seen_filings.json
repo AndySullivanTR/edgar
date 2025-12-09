@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-09T20:27:46.474821+00:00",
+  "last_checked": "2025-12-09T20:43:09.460682+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -32095,6 +32095,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-09T20:27:45.448946+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1619312/000118518525001983/0001185185-25-001983-index.htm": {
+      "title": "8-K - Lightstone Value Plus REIT IV, Inc. (0001619312) (Filer)",
+      "updated": "2025-12-09T15:40:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T20:43:08.434488+00:00"
     }
   }
 }
