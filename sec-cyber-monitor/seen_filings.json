@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-09T17:00:35.515797+00:00",
+  "last_checked": "2025-12-09T17:36:34.074931+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -31941,6 +31941,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-09T17:00:34.489850+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2033615/000092708925000215/0000927089-25-000215-index.htm": {
+      "title": "8-K - Magnolia Bancorp, Inc. (0002033615) (Filer)",
+      "updated": "2025-12-09T12:13:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T17:36:31.969301+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1920453/000119312525312308/0001193125-25-312308-index.htm": {
+      "title": "8-K - Fidelity Private Credit Fund (0001920453) (Filer)",
+      "updated": "2025-12-09T12:12:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T17:36:33.047164+00:00"
     }
   }
 }
