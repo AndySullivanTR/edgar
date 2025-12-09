@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-09T11:27:00.023250+00:00",
+  "last_checked": "2025-12-09T11:44:08.191750+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -31339,6 +31339,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-09T11:26:58.997468+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1617406/000161740625000056/0001617406-25-000056-index.htm": {
+      "title": "8-K - Park Hotels & Resorts Inc. (0001617406) (Filer)",
+      "updated": "2025-12-09T06:36:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T11:44:01.670067+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1856525/000185652525000179/0001856525-25-000179-index.htm": {
+      "title": "10-Q - Core & Main, Inc. (0001856525) (Filer)",
+      "updated": "2025-12-09T06:33:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T11:44:02.759614+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/64803/000006480325000082/0000064803-25-000082-index.htm": {
+      "title": "8-K - CVS HEALTH Corp (0000064803) (Filer)",
+      "updated": "2025-12-09T06:33:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T11:44:03.870821+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1545654/000110465925119462/0001104659-25-119462-index.htm": {
+      "title": "8-K - Alexander & Baldwin, Inc. (0001545654) (Filer)",
+      "updated": "2025-12-09T06:31:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T11:44:04.962116+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1535929/000153592925000132/0001535929-25-000132-index.htm": {
+      "title": "8-K - Voya Financial, Inc. (0001535929) (Filer)",
+      "updated": "2025-12-09T06:30:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T11:44:06.071799+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1856525/000185652525000178/0001856525-25-000178-index.htm": {
+      "title": "8-K - Core & Main, Inc. (0001856525) (Filer)",
+      "updated": "2025-12-09T06:30:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T11:44:07.166023+00:00"
     }
   }
 }
