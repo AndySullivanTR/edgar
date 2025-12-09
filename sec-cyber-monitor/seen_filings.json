@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-09T21:42:50.435243+00:00",
+  "last_checked": "2025-12-09T21:56:03.089542+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -32200,6 +32200,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-09T21:42:49.409544+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1478242/000119312525312900/0001193125-25-312900-index.htm": {
+      "title": "8-K - IQVIA HOLDINGS INC. (0001478242) (Filer)",
+      "updated": "2025-12-09T16:55:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T21:55:56.377857+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1099590/000114036125045035/0001140361-25-045035-index.htm": {
+      "title": "8-K - MERCADOLIBRE INC (0001099590) (Filer)",
+      "updated": "2025-12-09T16:54:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T21:55:57.458373+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1843714/000107997325001837/0001079973-25-001837-index.htm": {
+      "title": "10-Q - Zapata Quantum, Inc. (0001843714) (Filer)",
+      "updated": "2025-12-09T16:53:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T21:55:58.602761+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1843714/000107997325001836/0001079973-25-001836-index.htm": {
+      "title": "10-K - Zapata Quantum, Inc. (0001843714) (Filer)",
+      "updated": "2025-12-09T16:51:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T21:55:59.758766+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1843714/000107997325001835/0001079973-25-001835-index.htm": {
+      "title": "10-Q - Zapata Quantum, Inc. (0001843714) (Filer)",
+      "updated": "2025-12-09T16:49:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T21:56:00.975606+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1518715/000114036125045033/0001140361-25-045033-index.htm": {
+      "title": "8-K - Mechanics Bancorp (0001518715) (Filer)",
+      "updated": "2025-12-09T16:47:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T21:56:02.063026+00:00"
     }
   }
 }
