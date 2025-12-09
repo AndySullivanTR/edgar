@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-09T15:33:47.088990+00:00",
+  "last_checked": "2025-12-09T15:54:57.388993+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -31878,6 +31878,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-09T15:33:46.062801+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/50471/000143774925037218/0001437749-25-037218-index.htm": {
+      "title": "8-K - ReposiTrak, Inc. (0000050471) (Filer)",
+      "updated": "2025-12-09T10:53:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T15:54:53.069423+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/33533/000117494725001404/0001174947-25-001404-index.htm": {
+      "title": "8-K - ESPEY MFG & ELECTRONICS CORP (0000033533) (Filer)",
+      "updated": "2025-12-09T10:48:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T15:54:54.152027+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331757/000133175725000214/0001331757-25-000214-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer)",
+      "updated": "2025-12-09T10:48:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T15:54:55.285362+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1837671/000183767125000087/0001837671-25-000087-index.htm": {
+      "title": "8-K - Copper Property CTL Pass Through Trust (0001837671) (Filer)",
+      "updated": "2025-12-09T10:45:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T15:54:56.362204+00:00"
     }
   }
 }
