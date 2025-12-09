@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-09T20:56:01.494454+00:00",
+  "last_checked": "2025-12-09T21:25:46.669764+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -32130,6 +32130,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-09T20:56:00.468269+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/915840/000091584025000083/0000915840-25-000083-index.htm": {
+      "title": "8-K - BEAZER HOMES USA INC (0000915840) (Filer)",
+      "updated": "2025-12-09T16:21:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T21:25:44.549994+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/919012/000119312525312782/0001193125-25-312782-index.htm": {
+      "title": "10-Q - AMERICAN EAGLE OUTFITTERS INC (0000919012) (Filer)",
+      "updated": "2025-12-09T16:21:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T21:25:45.643162+00:00"
     }
   }
 }
