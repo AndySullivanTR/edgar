@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-09T11:56:45.177017+00:00",
+  "last_checked": "2025-12-09T13:02:31.647406+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -31409,6 +31409,251 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-09T11:56:44.151286+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1789832/000119312525311959/0001193125-25-311959-index.htm": {
+      "title": "8-K - Hess Midstream LP (0001789832) (Filer)",
+      "updated": "2025-12-09T08:00:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:01:52.546213+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1623925/000110465925119493/0001104659-25-119493-index.htm": {
+      "title": "8-K - Antero Midstream Corp (0001623925) (Filer)",
+      "updated": "2025-12-09T08:00:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:01:53.640861+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1817229/000119312525311957/0001193125-25-311957-index.htm": {
+      "title": "8-K - Vor Biopharma Inc. (0001817229) (Filer)",
+      "updated": "2025-12-09T07:58:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:01:54.731619+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1000228/000119312525311953/0001193125-25-311953-index.htm": {
+      "title": "8-K - HENRY SCHEIN INC (0001000228) (Filer)",
+      "updated": "2025-12-09T07:50:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:01:55.825762+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2070457/000121390025119445/0001213900-25-119445-index.htm": {
+      "title": "8-K - Twenty One Capital, Inc. (0002070457) (Filer)",
+      "updated": "2025-12-09T07:50:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:01:56.927513+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1739104/000110465925119486/0001104659-25-119486-index.htm": {
+      "title": "8-K - Elanco Animal Health Inc (0001739104) (Filer)",
+      "updated": "2025-12-09T07:45:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:01:58.020057+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/14707/000001470725000080/0000014707-25-000080-index.htm": {
+      "title": "8-K - CALERES INC (0000014707) (Filer)",
+      "updated": "2025-12-09T07:41:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:01:59.149123+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1809750/000147793225008862/0001477932-25-008862-index.htm": {
+      "title": "8-K - Edible Garden AG Inc (0001809750) (Filer)",
+      "updated": "2025-12-09T07:40:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:00.361690+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/821026/000082102625000214/0000821026-25-000214-index.htm": {
+      "title": "8-K - Andersons, Inc. (0000821026) (Filer)",
+      "updated": "2025-12-09T07:38:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:01.527405+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1706946/000119312525311947/0001193125-25-311947-index.htm": {
+      "title": "8-K - Virgin Galactic Holdings, Inc (0001706946) (Filer)",
+      "updated": "2025-12-09T07:37:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:02.709489+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1430306/000199937125019833/0001999371-25-019833-index.htm": {
+      "title": "8-K - Tonix Pharmaceuticals Holding Corp. (0001430306) (Filer)",
+      "updated": "2025-12-09T07:33:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:03.833578+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1656472/000165647225000118/0001656472-25-000118-index.htm": {
+      "title": "8-K - Cronos Group Inc. (0001656472) (Filer)",
+      "updated": "2025-12-09T07:32:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:05.007234+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/16732/000001673225000128/0000016732-25-000128-index.htm": {
+      "title": "8-K - CAMPBELL'S Co (0000016732) (Filer)",
+      "updated": "2025-12-09T07:30:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:06.139715+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1022505/000149315225026773/0001493152-25-026773-index.htm": {
+      "title": "8-K - SideChannel, Inc. (0001022505) (Filer)",
+      "updated": "2025-12-09T07:30:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:07.260644+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/64463/000149315225026774/0001493152-25-026774-index.htm": {
+      "title": "8-K - Soluna Holdings, Inc (0000064463) (Filer)",
+      "updated": "2025-12-09T07:30:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:08.400789+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/821002/000110465925119484/0001104659-25-119484-index.htm": {
+      "title": "8-K - G III APPAREL GROUP LTD /DE/ (0000821002) (Filer)",
+      "updated": "2025-12-09T07:30:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:09.513934+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1278021/000119312525311939/0001193125-25-311939-index.htm": {
+      "title": "8-K - MARKETAXESS HOLDINGS INC (0001278021) (Filer)",
+      "updated": "2025-12-09T07:30:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:10.675037+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1031296/000103129625000096/0001031296-25-000096-index.htm": {
+      "title": "8-K - FIRSTENERGY CORP (0001031296) (Filer)",
+      "updated": "2025-12-09T07:28:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:11.803819+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1821534/000119312525311930/0001193125-25-311930-index.htm": {
+      "title": "8-K - Exodus Movement, Inc. (0001821534) (Filer)",
+      "updated": "2025-12-09T07:23:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:12.987958+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/16732/000001673225000126/0000016732-25-000126-index.htm": {
+      "title": "10-Q - CAMPBELL'S Co (0000016732) (Filer)",
+      "updated": "2025-12-09T07:19:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:14.078255+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325814/000132581425000225/0001325814-25-000225-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer)",
+      "updated": "2025-12-09T07:18:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:15.201469+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/16732/000001673225000125/0000016732-25-000125-index.htm": {
+      "title": "8-K - CAMPBELL'S Co (0000016732) (Filer)",
+      "updated": "2025-12-09T07:16:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:16.298140+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1723788/000121390025119440/0001213900-25-119440-index.htm": {
+      "title": "8-K - Bitwise 10 Crypto Index ETF (0001723788) (Filer)",
+      "updated": "2025-12-09T07:09:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:17.394251+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2030781/000203078125000048/0002030781-25-000048-index.htm": {
+      "title": "8-K - SailPoint, Inc. (0002030781) (Filer)",
+      "updated": "2025-12-09T07:09:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:18.487180+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1893219/000121390025119439/0001213900-25-119439-index.htm": {
+      "title": "8-K - Abpro Holdings, Inc. (0001893219) (Filer)",
+      "updated": "2025-12-09T07:08:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:19.575775+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1639300/000114036125044934/0001140361-25-044934-index.htm": {
+      "title": "8-K - Ollie's Bargain Outlet Holdings, Inc. (0001639300) (Filer)",
+      "updated": "2025-12-09T07:05:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:20.665164+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/64472/000119312525311910/0001193125-25-311910-index.htm": {
+      "title": "8-K - GENCOR INDUSTRIES INC (0000064472) (Filer)",
+      "updated": "2025-12-09T07:05:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:21.785391+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1854270/000162828025055953/0001628280-25-055953-index.htm": {
+      "title": "8-K - Senti Biosciences, Inc. (0001854270) (Filer)",
+      "updated": "2025-12-09T07:04:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:22.886957+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1769624/000121390025119436/0001213900-25-119436-index.htm": {
+      "title": "8-K - Triller Group Inc. (0001769624) (Filer)",
+      "updated": "2025-12-09T07:02:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:23.974466+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1803737/000180373725000168/0001803737-25-000168-index.htm": {
+      "title": "8-K - Enhabit, Inc. (0001803737) (Filer)",
+      "updated": "2025-12-09T07:02:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:25.109324+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1579157/000119312525311904/0001193125-25-311904-index.htm": {
+      "title": "8-K - VINCE HOLDING CORP. (0001579157) (Filer)",
+      "updated": "2025-12-09T07:01:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:26.208725+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/16732/000119312525311905/0001193125-25-311905-index.htm": {
+      "title": "8-K - CAMPBELL'S Co (0000016732) (Filer)",
+      "updated": "2025-12-09T07:01:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:27.297872+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1455863/000162828025055952/0001628280-25-055952-index.htm": {
+      "title": "8-K - AMERICOLD REALTY TRUST (0001455863) (Filer)",
+      "updated": "2025-12-09T07:01:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:28.415947+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/91576/000009157625000121/0000091576-25-000121-index.htm": {
+      "title": "8-K - KEYCORP /NEW/ (0000091576) (Filer)",
+      "updated": "2025-12-09T07:01:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:29.516597+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1993004/000199300425000203/0001993004-25-000203-index.htm": {
+      "title": "8-K - NorthWestern Energy Group, Inc. (0001993004) (Filer)",
+      "updated": "2025-12-09T06:58:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T13:02:30.621719+00:00"
     }
   }
 }
