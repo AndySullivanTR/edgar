@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-09T10:56:22.958780+00:00",
+  "last_checked": "2025-12-09T11:27:00.023250+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -31290,6 +31290,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-08T22:45:41.791529+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1546853/000147793225008860/0001477932-25-008860-index.htm": {
+      "title": "8-K - Skkynet Cloud Systems, Inc. (0001546853) (Filer)",
+      "updated": "2025-12-09T06:21:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T11:26:52.054852+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1805521/000121390025119422/0001213900-25-119422-index.htm": {
+      "title": "8-K - FARADAY FUTURE INTELLIGENT ELECTRIC INC. (0001805521) (Filer)",
+      "updated": "2025-12-09T06:13:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T11:26:53.155246+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1701756/000173112225001649/0001731122-25-001649-index.htm": {
+      "title": "8-K - Sadot Group Inc. (0001701756) (Filer)",
+      "updated": "2025-12-09T06:07:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T11:26:54.326436+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1549595/000154959525000121/0001549595-25-000121-index.htm": {
+      "title": "8-K - Nurix Therapeutics, Inc. (0001549595) (Filer)",
+      "updated": "2025-12-09T06:05:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T11:26:55.438032+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/862861/000149315225026752/0001493152-25-026752-index.htm": {
+      "title": "8-K - ALT5 Sigma Corp (0000862861) (Filer)",
+      "updated": "2025-12-09T06:04:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T11:26:56.597364+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/914208/000162828025055946/0001628280-25-055946-index.htm": {
+      "title": "8-K - Invesco Ltd. (0000914208) (Filer)",
+      "updated": "2025-12-09T06:02:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T11:26:57.702244+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1937926/000117184325007824/0001171843-25-007824-index.htm": {
+      "title": "8-K - Brookfield Asset Management Ltd. (0001937926) (Filer)",
+      "updated": "2025-12-09T06:00:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T11:26:58.997468+00:00"
     }
   }
 }
