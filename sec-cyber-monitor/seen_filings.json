@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-09T21:25:46.669764+00:00",
+  "last_checked": "2025-12-09T21:42:50.435243+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -32144,6 +32144,62 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-09T21:25:45.643162+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2025341/000121390025119691/0001213900-25-119691-index.htm": {
+      "title": "8-K - Andretti Acquisition Corp. II (0002025341) (Filer)",
+      "updated": "2025-12-09T16:40:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T21:42:41.110123+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1868275/000110465925119690/0001104659-25-119690-index.htm": {
+      "title": "8-K - Constellation Energy Corp (0001868275) (Filer)",
+      "updated": "2025-12-09T16:40:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T21:42:42.285535+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1168165/000110465925119690/0001104659-25-119690-index.htm": {
+      "title": "8-K - CONSTELLATION ENERGY GENERATION LLC (0001168165) (Filer)",
+      "updated": "2025-12-09T16:40:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T21:42:43.460306+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331463/000133146325000233/0001331463-25-000233-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Boston (0001331463) (Filer)",
+      "updated": "2025-12-09T16:38:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T21:42:44.615065+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1638826/000119312525312847/0001193125-25-312847-index.htm": {
+      "title": "10-Q - ServiceTitan, Inc. (0001638826) (Filer)",
+      "updated": "2025-12-09T16:36:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T21:42:45.812879+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1868275/000110465925119687/0001104659-25-119687-index.htm": {
+      "title": "8-K - Constellation Energy Corp (0001868275) (Filer)",
+      "updated": "2025-12-09T16:36:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T21:42:47.043118+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1168165/000110465925119687/0001104659-25-119687-index.htm": {
+      "title": "8-K - CONSTELLATION ENERGY GENERATION LLC (0001168165) (Filer)",
+      "updated": "2025-12-09T16:36:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T21:42:48.219220+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2058873/000205887325000027/0002058873-25-000027-index.htm": {
+      "title": "8-K - Qnity Electronics, Inc. (0002058873) (Filer)",
+      "updated": "2025-12-09T16:36:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T21:42:49.409544+00:00"
     }
   }
 }
