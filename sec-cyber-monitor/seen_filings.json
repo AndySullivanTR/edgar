@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-09T13:48:44.898130+00:00",
+  "last_checked": "2025-12-09T14:30:32.150109+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -31759,6 +31759,111 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-09T13:48:43.872125+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/866439/000168316825008999/0001683168-25-008999-index.htm": {
+      "title": "8-K - DarkPulse, Inc. (0000866439) (Filer)",
+      "updated": "2025-12-09T09:26:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T14:30:15.013398+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1759774/000162828025055964/0001628280-25-055964-index.htm": {
+      "title": "8-K - Postal Realty Trust, Inc. (0001759774) (Filer)",
+      "updated": "2025-12-09T09:25:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T14:30:16.168336+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1321834/000149315225026798/0001493152-25-026798-index.htm": {
+      "title": "8-K - Q/C TECHNOLOGIES, INC. (0001321834) (Filer)",
+      "updated": "2025-12-09T09:25:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T14:30:17.294784+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1330399/000119312525312050/0001193125-25-312050-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer)",
+      "updated": "2025-12-09T09:23:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T14:30:18.451944+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1830072/000168316825008998/0001683168-25-008998-index.htm": {
+      "title": "8-K - iPower Inc. (0001830072) (Filer)",
+      "updated": "2025-12-09T09:20:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T14:30:19.553056+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1392972/000119312525312044/0001193125-25-312044-index.htm": {
+      "title": "8-K - PROS Holdings, Inc. (0001392972) (Filer)",
+      "updated": "2025-12-09T09:19:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T14:30:20.703993+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1847398/000110465925119517/0001104659-25-119517-index.htm": {
+      "title": "8-K - NorthEast Community Bancorp, Inc./MD/ (0001847398) (Filer)",
+      "updated": "2025-12-09T09:16:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T14:30:21.873162+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1861107/000119312525312035/0001193125-25-312035-index.htm": {
+      "title": "8-K - Ceribell, Inc. (0001861107) (Filer)",
+      "updated": "2025-12-09T09:16:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T14:30:23.022996+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1744659/000114036125044946/0001140361-25-044946-index.htm": {
+      "title": "8-K - Akero Therapeutics, Inc. (0001744659) (Filer)",
+      "updated": "2025-12-09T09:12:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T14:30:24.173378+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331754/000133175425000252/0001331754-25-000252-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer)",
+      "updated": "2025-12-09T09:09:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T14:30:25.324982+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1835830/000183583025000116/0001835830-25-000116-index.htm": {
+      "title": "8-K - Klaviyo, Inc. (0001835830) (Filer)",
+      "updated": "2025-12-09T09:06:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T14:30:26.509324+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1893657/000149315225026792/0001493152-25-026792-index.htm": {
+      "title": "8-K - Rubber Leaf Inc (0001893657) (Filer)",
+      "updated": "2025-12-09T09:05:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T14:30:27.687354+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/945394/000094539425000117/0000945394-25-000117-index.htm": {
+      "title": "8-K - Service Properties Trust (0000945394) (Filer)",
+      "updated": "2025-12-09T09:02:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T14:30:28.858279+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1626878/000117184325007836/0001171843-25-007836-index.htm": {
+      "title": "8-K - XBiotech Inc. (0001626878) (Filer)",
+      "updated": "2025-12-09T09:00:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T14:30:29.962002+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1283699/000119312525312010/0001193125-25-312010-index.htm": {
+      "title": "8-K - T-Mobile US, Inc. (0001283699) (Filer)",
+      "updated": "2025-12-09T09:00:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T14:30:31.125603+00:00"
     }
   }
 }
