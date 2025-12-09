@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-09T14:57:41.434527+00:00",
+  "last_checked": "2025-12-09T15:33:47.088990+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -31864,6 +31864,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-09T14:30:31.125603+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331451/000133145125000244/0001331451-25-000244-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Chicago (0001331451) (Filer)",
+      "updated": "2025-12-09T10:19:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T15:33:44.946067+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1109354/000119312525312106/0001193125-25-312106-index.htm": {
+      "title": "8-K - BRUKER CORP (0001109354) (Filer)",
+      "updated": "2025-12-09T10:10:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T15:33:46.062801+00:00"
     }
   }
 }
