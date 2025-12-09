@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-09T16:35:29.039057+00:00",
+  "last_checked": "2025-12-09T17:00:35.515797+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -31927,6 +31927,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-09T16:35:28.012898+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1911321/000191132125000016/0001911321-25-000016-index.htm": {
+      "title": "8-K - Kennedy Lewis Capital Co (0001911321) (Filer)",
+      "updated": "2025-12-09T11:55:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T17:00:33.408476+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1018164/000101816425000143/0001018164-25-000143-index.htm": {
+      "title": "8-K - WILLIS LEASE FINANCE CORP (0001018164) (Filer)",
+      "updated": "2025-12-09T11:53:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-09T17:00:34.489850+00:00"
     }
   }
 }
