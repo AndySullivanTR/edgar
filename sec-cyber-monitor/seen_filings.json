@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-10T22:26:58.902798+00:00",
+  "last_checked": "2025-12-10T22:47:09.828513+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -33152,6 +33152,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-10T22:26:57.875800+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/27093/000149315225027102/0001493152-25-027102-index.htm": {
+      "title": "10-Q - U.S. GOLD CORP. (0000027093) (Filer)",
+      "updated": "2025-12-10T17:29:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T22:47:05.221096+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1851484/000121390025120197/0001213900-25-120197-index.htm": {
+      "title": "8-K - CITIUS ONCOLOGY, INC. (0001851484) (Filer)",
+      "updated": "2025-12-10T17:29:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T22:47:06.393836+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1368622/000110465925120027/0001104659-25-120027-index.htm": {
+      "title": "8-K/A - AeroVironment Inc (0001368622) (Filer)",
+      "updated": "2025-12-10T17:27:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T22:47:07.620166+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1109448/000110944825000170/0001109448-25-000170-index.htm": {
+      "title": "8-K - ALLIANCEBERNSTEIN L.P. (0001109448) (Filer)",
+      "updated": "2025-12-10T17:26:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T22:47:08.803486+00:00"
     }
   }
 }
