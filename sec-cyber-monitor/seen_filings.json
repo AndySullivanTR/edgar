@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-10T14:59:14.785089+00:00",
+  "last_checked": "2025-12-10T15:34:53.905569+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -32795,6 +32795,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-10T14:59:13.758504+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/885568/000119312525313648/0001193125-25-313648-index.htm": {
+      "title": "8-K - OLD DOMINION ELECTRIC COOPERATIVE (0000885568) (Filer)",
+      "updated": "2025-12-10T10:10:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T15:34:51.698668+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1556727/000143774925037331/0001437749-25-037331-index.htm": {
+      "title": "8-K - First Northwest Bancorp (0001556727) (Filer)",
+      "updated": "2025-12-10T10:00:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T15:34:52.878768+00:00"
     }
   }
 }
