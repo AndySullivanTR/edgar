@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-10T11:57:25.613427+00:00",
+  "last_checked": "2025-12-10T13:03:12.291013+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -32445,6 +32445,167 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-10T11:57:24.587069+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1868419/000186841925000033/0001868419-25-000033-index.htm": {
+      "title": "8-K - Cycurion, Inc. (0001868419) (Filer)",
+      "updated": "2025-12-10T08:02:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:02:44.923995+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1374328/000143774925037314/0001437749-25-037314-index.htm": {
+      "title": "8-K - FITLIFE BRANDS, INC. (0001374328) (Filer)",
+      "updated": "2025-12-10T08:02:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:02:46.207628+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1690080/000121390025119866/0001213900-25-119866-index.htm": {
+      "title": "8-K - ETHZilla Corp (0001690080) (Filer)",
+      "updated": "2025-12-10T08:01:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:02:47.473675+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2038439/000173112225001653/0001731122-25-001653-index.htm": {
+      "title": "8-K - VisionWave Holdings, Inc. (0002038439) (Filer)",
+      "updated": "2025-12-10T08:00:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:02:48.643021+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1796209/000162828025056224/0001628280-25-056224-index.htm": {
+      "title": "8-K - APi Group Corp (0001796209) (Filer)",
+      "updated": "2025-12-10T07:40:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:02:49.805122+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/915779/000162828025056223/0001628280-25-056223-index.htm": {
+      "title": "8-K - DAKTRONICS INC /SD/ (0000915779) (Filer)",
+      "updated": "2025-12-10T07:40:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:02:50.956290+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/92122/000009212225000098/0000092122-25-000098-index.htm": {
+      "title": "8-K - SOUTHERN CO (0000092122) (Filer)",
+      "updated": "2025-12-10T07:39:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:02:52.133687+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/41091/000009212225000098/0000092122-25-000098-index.htm": {
+      "title": "8-K - GEORGIA POWER CO (0000041091) (Filer)",
+      "updated": "2025-12-10T07:39:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:02:53.290357+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/40729/000119312525313483/0001193125-25-313483-index.htm": {
+      "title": "8-K - Ally Financial Inc. (0000040729) (Filer)",
+      "updated": "2025-12-10T07:35:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:02:54.452600+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1101215/000110121525000201/0001101215-25-000201-index.htm": {
+      "title": "8-K - BREAD FINANCIAL HOLDINGS, INC. (0001101215) (Filer)",
+      "updated": "2025-12-10T07:32:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:02:55.603500+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/883948/000088394825000114/0000883948-25-000114-index.htm": {
+      "title": "8-K - Atlantic Union Bankshares Corp (0000883948) (Filer)",
+      "updated": "2025-12-10T07:30:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:02:56.792513+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1766502/000176650225000059/0001766502-25-000059-index.htm": {
+      "title": "10-Q - Chewy, Inc. (0001766502) (Filer)",
+      "updated": "2025-12-10T07:30:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:02:57.942678+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1022505/000149315225027013/0001493152-25-027013-index.htm": {
+      "title": "8-K - SideChannel, Inc. (0001022505) (Filer)",
+      "updated": "2025-12-10T07:30:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:02:59.083741+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2025410/000119312525313477/0001193125-25-313477-index.htm": {
+      "title": "8-K - StandardAero, Inc. (0002025410) (Filer)",
+      "updated": "2025-12-10T07:30:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:03:00.244426+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/8146/000119312525313475/0001193125-25-313475-index.htm": {
+      "title": "8-K - AstroNova, Inc. (0000008146) (Filer)",
+      "updated": "2025-12-10T07:29:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:03:01.414063+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1687221/000119312525313470/0001193125-25-313470-index.htm": {
+      "title": "10-K - REV Group, Inc. (0001687221) (Filer)",
+      "updated": "2025-12-10T07:16:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:03:02.631732+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1791145/000119312525313466/0001193125-25-313466-index.htm": {
+      "title": "8-K - GBank Financial Holdings Inc. (0001791145) (Filer)",
+      "updated": "2025-12-10T07:05:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:03:03.774112+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1534675/000149315225027011/0001493152-25-027011-index.htm": {
+      "title": "8-K - Tecnoglass Inc. (0001534675) (Filer)",
+      "updated": "2025-12-10T07:05:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:03:05.195567+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1766502/000176650225000058/0001766502-25-000058-index.htm": {
+      "title": "8-K - Chewy, Inc. (0001766502) (Filer)",
+      "updated": "2025-12-10T07:05:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:03:06.484895+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/773840/000077384025000120/0000773840-25-000120-index.htm": {
+      "title": "8-K - HONEYWELL INTERNATIONAL INC (0000773840) (Filer)",
+      "updated": "2025-12-10T07:03:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:03:07.708502+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/810136/000114036125045083/0001140361-25-045083-index.htm": {
+      "title": "8-K - PHOTRONICS INC (0000810136) (Filer)",
+      "updated": "2025-12-10T07:00:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:03:08.923219+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1771706/000110465925119847/0001104659-25-119847-index.htm": {
+      "title": "8-K - Vireo Growth Inc. (0001771706) (Filer)",
+      "updated": "2025-12-10T07:00:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:03:10.114611+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1687221/000119312525313462/0001193125-25-313462-index.htm": {
+      "title": "8-K - REV Group, Inc. (0001687221) (Filer)",
+      "updated": "2025-12-10T07:00:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:03:11.264271+00:00"
     }
   }
 }
