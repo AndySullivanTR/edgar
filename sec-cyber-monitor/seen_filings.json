@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-10T19:56:17.597935+00:00",
+  "last_checked": "2025-12-10T20:34:20.050765+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -32886,6 +32886,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-10T19:26:54.390480+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325814/000162828025056280/0001628280-25-056280-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer)",
+      "updated": "2025-12-10T15:25:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T20:34:16.859804+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1854463/000149315225027054/0001493152-25-027054-index.htm": {
+      "title": "8-K - WinVest Acquisition Corp. (0001854463) (Filer)",
+      "updated": "2025-12-10T15:22:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T20:34:17.939038+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2063863/000110465925119949/0001104659-25-119949-index.htm": {
+      "title": "10-Q - Elauwit Connection, Inc. (0002063863) (Filer)",
+      "updated": "2025-12-10T15:08:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T20:34:19.024040+00:00"
     }
   }
 }
