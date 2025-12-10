@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-10T14:30:37.697941+00:00",
+  "last_checked": "2025-12-10T14:59:14.785089+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -32781,6 +32781,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-10T14:30:36.670437+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1587987/000162828025056246/0001628280-25-056246-index.htm": {
+      "title": "8-K - NewtekOne, Inc. (0001587987) (Filer)",
+      "updated": "2025-12-10T09:43:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T14:59:12.674490+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1922858/000143774925037330/0001437749-25-037330-index.htm": {
+      "title": "8-K - ECD Automotive Design, Inc. (0001922858) (Filer)",
+      "updated": "2025-12-10T09:38:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T14:59:13.758504+00:00"
     }
   }
 }
