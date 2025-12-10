@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-10T13:03:12.291013+00:00",
+  "last_checked": "2025-12-10T13:50:29.909470+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -32606,6 +32606,69 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-10T13:03:11.264271+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1452477/000110465925119861/0001104659-25-119861-index.htm": {
+      "title": "8-K - Seven Hills Realty Trust (0001452477) (Filer)",
+      "updated": "2025-12-10T08:46:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:50:19.392108+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1069183/000162828025056229/0001628280-25-056229-index.htm": {
+      "title": "8-K - AXON ENTERPRISE, INC. (0001069183) (Filer)",
+      "updated": "2025-12-10T08:45:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:50:20.547148+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1020859/000102085925000070/0001020859-25-000070-index.htm": {
+      "title": "8-K - UNITED NATURAL FOODS INC (0001020859) (Filer)",
+      "updated": "2025-12-10T08:35:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:50:21.713513+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1781162/000114036125045087/0001140361-25-045087-index.htm": {
+      "title": "8-K - Momentus Inc. (0001781162) (Filer)",
+      "updated": "2025-12-10T08:34:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:50:23.139510+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1690080/000121390025119871/0001213900-25-119871-index.htm": {
+      "title": "8-K - ETHZilla Corp (0001690080) (Filer)",
+      "updated": "2025-12-10T08:30:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:50:24.294523+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1293234/000106823825000229/0001068238-25-000229-index.htm": {
+      "title": "8-K - Select Notes Trust LT 2004-1 (0001293234) (Filer)",
+      "updated": "2025-12-10T08:30:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:50:25.468759+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1519061/000110465925119859/0001104659-25-119859-index.htm": {
+      "title": "8-K - Trinseo PLC (0001519061) (Filer)",
+      "updated": "2025-12-10T08:30:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:50:26.622247+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1994624/000110465925119856/0001104659-25-119856-index.htm": {
+      "title": "8-K - ScanTech AI Systems Inc. (0001994624) (Filer)",
+      "updated": "2025-12-10T08:10:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:50:27.781743+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1828185/000182818525000075/0001828185-25-000075-index.htm": {
+      "title": "8-K - Barinthus Biotherapeutics plc. (0001828185) (Filer)",
+      "updated": "2025-12-10T08:05:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T13:50:28.883014+00:00"
     }
   }
 }
