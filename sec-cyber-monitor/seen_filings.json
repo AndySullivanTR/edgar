@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-10T17:01:18.215489+00:00",
+  "last_checked": "2025-12-10T17:40:52.348938+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -32851,6 +32851,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-10T17:01:17.186745+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2084563/000118518525001995/0001185185-25-001995-index.htm": {
+      "title": "8-K - Leapfrog Acquisition Corp (0002084563) (Filer)",
+      "updated": "2025-12-10T12:17:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T17:40:51.322111+00:00"
     }
   }
 }
