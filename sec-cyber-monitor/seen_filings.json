@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-10T20:34:20.050765+00:00",
+  "last_checked": "2025-12-10T20:57:54.732701+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -32907,6 +32907,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-10T20:34:19.024040+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1005731/000149315225027060/0001493152-25-027060-index.htm": {
+      "title": "10-Q - IDT CORP (0001005731) (Filer)",
+      "updated": "2025-12-10T15:54:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T20:57:50.447874+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1318484/000110465925119960/0001104659-25-119960-index.htm": {
+      "title": "10-Q - Citi Trends Inc (0001318484) (Filer)",
+      "updated": "2025-12-10T15:47:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T20:57:51.529337+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/729580/000143774925037380/0001437749-25-037380-index.htm": {
+      "title": "8-K - BEL FUSE INC /NJ (0000729580) (Filer)",
+      "updated": "2025-12-10T15:43:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T20:57:52.626889+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1674227/000121390025120046/0001213900-25-120046-index.htm": {
+      "title": "8-K - SCWorx Corp. (0001674227) (Filer)",
+      "updated": "2025-12-10T15:37:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T20:57:53.705749+00:00"
     }
   }
 }
