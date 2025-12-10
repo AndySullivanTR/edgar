@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-10T10:57:47.076366+00:00",
+  "last_checked": "2025-12-10T11:27:32.852491+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -32319,6 +32319,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-09T22:30:30.958671+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1674356/000110465925119834/0001104659-25-119834-index.htm": {
+      "title": "8-K - Terra Property Trust, Inc. (0001674356) (Filer)",
+      "updated": "2025-12-10T06:15:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T11:27:25.357425+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1806931/000119312525313420/0001193125-25-313420-index.htm": {
+      "title": "8-K - Rayonier, L.P. (0001806931) (Filer)",
+      "updated": "2025-12-10T06:10:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T11:27:26.433436+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/52827/000119312525313420/0001193125-25-313420-index.htm": {
+      "title": "8-K - RAYONIER INC (0000052827) (Filer)",
+      "updated": "2025-12-10T06:10:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T11:27:27.511449+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1083743/000149315225026997/0001493152-25-026997-index.htm": {
+      "title": "10-K/A - Flux Power Holdings, Inc. (0001083743) (Filer)",
+      "updated": "2025-12-10T06:06:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T11:27:28.593048+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1561894/000119312525313414/0001193125-25-313414-index.htm": {
+      "title": "8-K - HA Sustainable Infrastructure Capital, Inc. (0001561894) (Filer)",
+      "updated": "2025-12-10T06:05:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T11:27:29.669178+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/75677/000119312525313400/0001193125-25-313400-index.htm": {
+      "title": "8-K - PACKAGING CORP OF AMERICA (0000075677) (Filer)",
+      "updated": "2025-12-10T06:01:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T11:27:30.748003+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1417892/000110465925119816/0001104659-25-119816-index.htm": {
+      "title": "8-K - Emeren Group Ltd (0001417892) (Filer)",
+      "updated": "2025-12-10T06:01:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T11:27:31.826237+00:00"
     }
   }
 }
