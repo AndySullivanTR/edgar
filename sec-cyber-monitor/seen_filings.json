@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-10T11:27:32.852491+00:00",
+  "last_checked": "2025-12-10T11:44:35.982163+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -32368,6 +32368,62 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-10T11:27:31.826237+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1140536/000119312525313445/0001193125-25-313445-index.htm": {
+      "title": "8-K - WILLIS TOWERS WATSON PLC (0001140536) (Filer)",
+      "updated": "2025-12-10T06:42:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T11:44:27.232185+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1938046/000149315225027009/0001493152-25-027009-index.htm": {
+      "title": "8-K - MANGOCEUTICALS, INC. (0001938046) (Filer)",
+      "updated": "2025-12-10T06:40:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T11:44:28.307823+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1682639/000110465925119843/0001104659-25-119843-index.htm": {
+      "title": "8-K - HYPERION DEFI, INC. (0001682639) (Filer)",
+      "updated": "2025-12-10T06:40:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T11:44:29.386503+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1420800/000149315225027007/0001493152-25-027007-index.htm": {
+      "title": "8-K - Enovis CORP (0001420800) (Filer)",
+      "updated": "2025-12-10T06:30:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T11:44:30.462539+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1012493/000110465925119837/0001104659-25-119837-index.htm": {
+      "title": "8-K - FERRELLGAS PARTNERS FINANCE CORP (0001012493) (Filer)",
+      "updated": "2025-12-10T06:30:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T11:44:31.542679+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/922360/000110465925119837/0001104659-25-119837-index.htm": {
+      "title": "8-K - FERRELLGAS FINANCE CORP (0000922360) (Filer)",
+      "updated": "2025-12-10T06:30:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T11:44:32.679553+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/922359/000110465925119837/0001104659-25-119837-index.htm": {
+      "title": "8-K - FERRELLGAS L P (0000922359) (Filer)",
+      "updated": "2025-12-10T06:30:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T11:44:33.815535+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/922358/000110465925119837/0001104659-25-119837-index.htm": {
+      "title": "8-K - FERRELLGAS PARTNERS L P (0000922358) (Filer)",
+      "updated": "2025-12-10T06:30:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T11:44:34.955801+00:00"
     }
   }
 }
