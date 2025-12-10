@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-10T21:31:55.161169+00:00",
+  "last_checked": "2025-12-10T21:53:15.293343+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -33040,6 +33040,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-10T21:31:54.135835+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1106644/000121390025120129/0001213900-25-120129-index.htm": {
+      "title": "8-K - CHINA PHARMA HOLDINGS, INC. (0001106644) (Filer)",
+      "updated": "2025-12-10T16:49:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T21:53:09.877097+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/48287/000095010325015967/0000950103-25-015967-index.htm": {
+      "title": "8-K - HNI CORP (0000048287) (Filer)",
+      "updated": "2025-12-10T16:49:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T21:53:10.971530+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1720420/000172042025000050/0001720420-25-000050-index.htm": {
+      "title": "8-K - IBEX Ltd (0001720420) (Filer)",
+      "updated": "2025-12-10T16:45:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T21:53:12.066171+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1659617/000143774925037414/0001437749-25-037414-index.htm": {
+      "title": "8-K - Moleculin Biotech, Inc. (0001659617) (Filer)",
+      "updated": "2025-12-10T16:45:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T21:53:13.174719+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1474432/000147443225000065/0001474432-25-000065-index.htm": {
+      "title": "10-Q - Pure Storage, Inc. (0001474432) (Filer)",
+      "updated": "2025-12-10T16:43:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T21:53:14.266131+00:00"
     }
   }
 }
