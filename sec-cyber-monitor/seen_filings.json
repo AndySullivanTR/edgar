@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-10T15:57:19.897058+00:00",
+  "last_checked": "2025-12-10T16:38:24.135177+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -32823,6 +32823,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-10T15:57:18.870241+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1692951/000169295125000274/0001692951-25-000274-index.htm": {
+      "title": "8-K - Cottonwood Communities, Inc. (0001692951) (Filer)",
+      "updated": "2025-12-10T11:29:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T16:38:20.735171+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/107140/000010714025000200/0000107140-25-000200-index.htm": {
+      "title": "8-K - JOHN WILEY & SONS, INC. (0000107140) (Filer)",
+      "updated": "2025-12-10T11:21:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T16:38:21.862563+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1792941/000190359625000575/0001903596-25-000575-index.htm": {
+      "title": "10-K - Genvor Inc (0001792941) (Filer)",
+      "updated": "2025-12-10T11:18:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T16:38:23.108846+00:00"
     }
   }
 }
