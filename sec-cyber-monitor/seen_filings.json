@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-10T21:53:15.293343+00:00",
+  "last_checked": "2025-12-10T22:26:58.902798+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -33075,6 +33075,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-10T21:53:14.266131+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1903595/000121390025120192/0001213900-25-120192-index.htm": {
+      "title": "8-K - Brag House Holdings, Inc. (0001903595) (Filer)",
+      "updated": "2025-12-10T17:26:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T22:26:46.675538+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/4457/000119312525314441/0001193125-25-314441-index.htm": {
+      "title": "8-K - U-Haul Holding Co /NV/ (0000004457) (Filer)",
+      "updated": "2025-12-10T17:25:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T22:26:47.826495+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1337013/000162828025056364/0001628280-25-056364-index.htm": {
+      "title": "8-K - InfuSystem Holdings, Inc (0001337013) (Filer)",
+      "updated": "2025-12-10T17:23:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T22:26:48.905054+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/47217/000004721725000071/0000047217-25-000071-index.htm": {
+      "title": "10-K - HP INC (0000047217) (Filer)",
+      "updated": "2025-12-10T17:22:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T22:26:50.048909+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1714899/000162828025056363/0001628280-25-056363-index.htm": {
+      "title": "8-K - Denali Therapeutics Inc. (0001714899) (Filer)",
+      "updated": "2025-12-10T17:21:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T22:26:51.217636+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/825313/000082531325000114/0000825313-25-000114-index.htm": {
+      "title": "8-K - ALLIANCEBERNSTEIN HOLDING L.P. (0000825313) (Filer)",
+      "updated": "2025-12-10T17:21:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T22:26:52.298526+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1775734/000149315225027096/0001493152-25-027096-index.htm": {
+      "title": "8-K - Beneficient (0001775734) (Filer)",
+      "updated": "2025-12-10T17:20:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T22:26:53.378908+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/21344/000155278125000454/0001552781-25-000454-index.htm": {
+      "title": "8-K - COCA COLA CO (0000021344) (Filer)",
+      "updated": "2025-12-10T17:19:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T22:26:54.563045+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1831828/000119312525314430/0001193125-25-314430-index.htm": {
+      "title": "8-K - Vera Therapeutics, Inc. (0001831828) (Filer)",
+      "updated": "2025-12-10T17:18:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T22:26:55.709900+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1560385/000110465925120020/0001104659-25-120020-index.htm": {
+      "title": "8-K - Liberty Media Corp (0001560385) (Filer)",
+      "updated": "2025-12-10T17:18:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T22:26:56.791766+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1815442/000119312525314422/0001193125-25-314422-index.htm": {
+      "title": "8-K - Kymera Therapeutics, Inc. (0001815442) (Filer)",
+      "updated": "2025-12-10T17:17:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T22:26:57.875800+00:00"
     }
   }
 }
