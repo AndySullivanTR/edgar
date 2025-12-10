@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-10T20:57:54.732701+00:00",
+  "last_checked": "2025-12-10T21:31:55.161169+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -32935,6 +32935,111 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-10T20:57:53.705749+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1408534/000140853425000096/0001408534-25-000096-index.htm": {
+      "title": "8-K - First Guaranty Bancshares, Inc. (0001408534) (Filer)",
+      "updated": "2025-12-10T16:31:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T21:31:37.084080+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1836833/000119312525314295/0001193125-25-314295-index.htm": {
+      "title": "10-Q - Planet Labs PBC (0001836833) (Filer)",
+      "updated": "2025-12-10T16:30:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T21:31:38.409123+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1873951/000119312525314300/0001193125-25-314300-index.htm": {
+      "title": "8-K - Exzeo Group, Inc. (0001873951) (Filer)",
+      "updated": "2025-12-10T16:30:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T21:31:39.592415+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1591890/000149315225027076/0001493152-25-027076-index.htm": {
+      "title": "8-K - FG Nexus Inc. (0001591890) (Filer)",
+      "updated": "2025-12-10T16:30:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T21:31:40.763184+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/884219/000119312525314297/0001193125-25-314297-index.htm": {
+      "title": "8-K - Pursuit Attractions & Hospitality, Inc. (0000884219) (Filer)",
+      "updated": "2025-12-10T16:30:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T21:31:41.954057+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/45919/000162828025056324/0001628280-25-056324-index.htm": {
+      "title": "8-K - HARTE HANKS INC (0000045919) (Filer)",
+      "updated": "2025-12-10T16:30:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T21:31:43.184617+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1498382/000119312525314302/0001193125-25-314302-index.htm": {
+      "title": "8-K - TuHURA Biosciences, Inc./NV (0001498382) (Filer)",
+      "updated": "2025-12-10T16:30:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T21:31:44.431358+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/794367/000162828025056323/0001628280-25-056323-index.htm": {
+      "title": "10-Q - Macy's, Inc. (0000794367) (Filer)",
+      "updated": "2025-12-10T16:30:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T21:31:45.679925+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1690080/000121390025120107/0001213900-25-120107-index.htm": {
+      "title": "8-K - ETHZilla Corp (0001690080) (Filer)",
+      "updated": "2025-12-10T16:30:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T21:31:46.876448+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/785557/000078555725000161/0000785557-25-000161-index.htm": {
+      "title": "8-K - DLH Holdings Corp. (0000785557) (Filer)",
+      "updated": "2025-12-10T16:30:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T21:31:48.082042+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1108109/000119312525314292/0001193125-25-314292-index.htm": {
+      "title": "8-K - COMMUNITY HEALTH SYSTEMS INC (0001108109) (Filer)",
+      "updated": "2025-12-10T16:30:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T21:31:49.332672+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2070849/000162828025056321/0001628280-25-056321-index.htm": {
+      "title": "10-Q - BillionToOne, Inc. (0002070849) (Filer)",
+      "updated": "2025-12-10T16:30:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T21:31:50.564644+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1597672/000159767225000049/0001597672-25-000049-index.htm": {
+      "title": "8-K - RAYONIER ADVANCED MATERIALS INC. (0001597672) (Filer)",
+      "updated": "2025-12-10T16:29:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T21:31:51.741473+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1902314/000143774925037410/0001437749-25-037410-index.htm": {
+      "title": "8-K - M-tron Industries, Inc. (0001902314) (Filer)",
+      "updated": "2025-12-10T16:29:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T21:31:52.937751+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/785557/000078555725000159/0000785557-25-000159-index.htm": {
+      "title": "10-K - DLH Holdings Corp. (0000785557) (Filer)",
+      "updated": "2025-12-10T16:29:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T21:31:54.135835+00:00"
     }
   }
 }
