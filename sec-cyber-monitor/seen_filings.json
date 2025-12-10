@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-10T13:50:29.909470+00:00",
+  "last_checked": "2025-12-10T14:30:37.697941+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -32669,6 +32669,118 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-10T13:50:28.883014+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1782107/000121390025119898/0001213900-25-119898-index.htm": {
+      "title": "8-K - Onconetix, Inc. (0001782107) (Filer)",
+      "updated": "2025-12-10T09:28:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T14:30:20.406040+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1066605/000119312525313582/0001193125-25-313582-index.htm": {
+      "title": "8-K - HEIDRICK & STRUGGLES INTERNATIONAL INC (0001066605) (Filer)",
+      "updated": "2025-12-10T09:23:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T14:30:21.485366+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1901612/000190161225000060/0001901612-25-000060-index.htm": {
+      "title": "8-K - Golub Capital BDC 4, Inc. (0001901612) (Filer)",
+      "updated": "2025-12-10T09:21:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T14:30:22.573927+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2074643/000168316825009037/0001683168-25-009037-index.htm": {
+      "title": "10-Q - Somitos Corp. (0002074643) (Filer)",
+      "updated": "2025-12-10T09:20:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T14:30:23.663803+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1894525/000121390025119894/0001213900-25-119894-index.htm": {
+      "title": "8-K - Apimeds Pharmaceuticals US, Inc. (0001894525) (Filer)",
+      "updated": "2025-12-10T09:20:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T14:30:24.740783+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1894525/000121390025119893/0001213900-25-119893-index.htm": {
+      "title": "8-K/A - Apimeds Pharmaceuticals US, Inc. (0001894525) (Filer)",
+      "updated": "2025-12-10T09:18:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T14:30:25.819564+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/750577/000119312525313577/0001193125-25-313577-index.htm": {
+      "title": "8-K - HANCOCK WHITNEY CORP (0000750577) (Filer)",
+      "updated": "2025-12-10T09:18:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T14:30:26.906257+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1018164/000101816425000147/0001018164-25-000147-index.htm": {
+      "title": "8-K - WILLIS LEASE FINANCE CORP (0001018164) (Filer)",
+      "updated": "2025-12-10T09:17:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T14:30:27.991975+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1838615/000162828025056237/0001628280-25-056237-index.htm": {
+      "title": "8-K - AlTi Global, Inc. (0001838615) (Filer)",
+      "updated": "2025-12-10T09:05:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T14:30:29.073263+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/924383/000119312525313566/0001193125-25-313566-index.htm": {
+      "title": "8-K - Genasys Inc. (0000924383) (Filer)",
+      "updated": "2025-12-10T09:05:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T14:30:30.147823+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1467623/000146762325000131/0001467623-25-000131-index.htm": {
+      "title": "8-K - DROPBOX, INC. (0001467623) (Filer)",
+      "updated": "2025-12-10T09:02:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T14:30:31.224782+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1839285/000121390025119878/0001213900-25-119878-index.htm": {
+      "title": "8-K - Healthcare Triangle, Inc. (0001839285) (Filer)",
+      "updated": "2025-12-10T09:00:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T14:30:32.324681+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1895249/000110465925119865/0001104659-25-119865-index.htm": {
+      "title": "8-K - ConnectM Technology Solutions, Inc. (0001895249) (Filer)",
+      "updated": "2025-12-10T09:00:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T14:30:33.408223+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1357971/000110465925119864/0001104659-25-119864-index.htm": {
+      "title": "8-K - Energy Services of America CORP (0001357971) (Filer)",
+      "updated": "2025-12-10T09:00:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T14:30:34.491774+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2020987/000168316825009035/0001683168-25-009035-index.htm": {
+      "title": "8-K - YHN Acquisition I Ltd (0002020987) (Filer)",
+      "updated": "2025-12-10T09:00:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T14:30:35.569940+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1945619/000168316825009033/0001683168-25-009033-index.htm": {
+      "title": "10-Q - Kinetic Seas Inc. (0001945619) (Filer)",
+      "updated": "2025-12-10T08:52:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-10T14:30:36.670437+00:00"
     }
   }
 }
