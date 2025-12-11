@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-11T17:49:38.012914+00:00",
+  "last_checked": "2025-12-11T18:40:13.788839+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -33719,6 +33719,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-11T17:49:36.984953+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1803096/000164033425002296/0001640334-25-002296-index.htm": {
+      "title": "10-Q - STARGUIDE GROUP, INC. (0001803096) (Filer)",
+      "updated": "2025-12-11T13:25:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T18:40:10.398427+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325814/000132581425000227/0001325814-25-000227-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer)",
+      "updated": "2025-12-11T13:16:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T18:40:11.558021+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325878/000132587825000262/0001325878-25-000262-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer)",
+      "updated": "2025-12-11T13:13:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T18:40:12.761519+00:00"
     }
   }
 }
