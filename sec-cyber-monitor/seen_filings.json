@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-11T10:57:15.910410+00:00",
+  "last_checked": "2025-12-11T11:27:10.764650+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -33180,6 +33180,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-10T22:47:08.803486+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2088749/000119312525314960/0001193125-25-314960-index.htm": {
+      "title": "8-K - Karbon Capital Partners Corp. (0002088749) (Filer)",
+      "updated": "2025-12-11T06:12:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T11:27:03.089238+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1218683/000121390025120310/0001213900-25-120310-index.htm": {
+      "title": "8-K - Mawson Infrastructure Group Inc. (0001218683) (Filer)",
+      "updated": "2025-12-11T06:08:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T11:27:04.220578+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1746119/000149315225027126/0001493152-25-027126-index.htm": {
+      "title": "10-Q - Vanguard Green Investment Ltd (0001746119) (Filer)",
+      "updated": "2025-12-11T06:03:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T11:27:05.320556+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1067983/000119312525314935/0001193125-25-314935-index.htm": {
+      "title": "8-K - BERKSHIRE HATHAWAY INC (0001067983) (Filer)",
+      "updated": "2025-12-11T06:02:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T11:27:06.417840+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1498148/000106299325017286/0001062993-25-017286-index.htm": {
+      "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+      "updated": "2025-12-11T06:01:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T11:27:07.511397+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1077688/000117184325007874/0001171843-25-007874-index.htm": {
+      "title": "8-K - HOOKER FURNISHINGS Corp (0001077688) (Filer)",
+      "updated": "2025-12-11T06:01:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T11:27:08.607869+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1827090/000110465925120096/0001104659-25-120096-index.htm": {
+      "title": "8-K - Certara, Inc. (0001827090) (Filer)",
+      "updated": "2025-12-11T06:00:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T11:27:09.737728+00:00"
     }
   }
 }
