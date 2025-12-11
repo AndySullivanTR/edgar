@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-11T15:58:27.709891+00:00",
+  "last_checked": "2025-12-11T16:44:05.121829+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -33677,6 +33677,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-11T15:58:26.682640+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1605481/000149315225027185/0001493152-25-027185-index.htm": {
+      "title": "8-K - Nevada Canyon Gold Corp. (0001605481) (Filer)",
+      "updated": "2025-12-11T11:29:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T16:44:02.941081+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1046050/000093905725000326/0000939057-25-000326-index.htm": {
+      "title": "8-K - TIMBERLAND BANCORP INC (0001046050) (Filer)",
+      "updated": "2025-12-11T11:15:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T16:44:04.094991+00:00"
     }
   }
 }
