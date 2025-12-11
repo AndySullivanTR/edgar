@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-11T17:14:45.462094+00:00",
+  "last_checked": "2025-12-11T17:49:38.012914+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -33691,6 +33691,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-11T16:44:04.094991+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1045742/000162828025056461/0001628280-25-056461-index.htm": {
+      "title": "8-K - LIVE VENTURES Inc (0001045742) (Filer)",
+      "updated": "2025-12-11T12:48:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T17:49:33.751461+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1326771/000132677125000225/0001326771-25-000225-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer)",
+      "updated": "2025-12-11T12:47:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T17:49:34.829388+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331451/000133145125000246/0001331451-25-000246-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Chicago (0001331451) (Filer)",
+      "updated": "2025-12-11T12:47:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T17:49:35.907040+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/890821/000149315225027196/0001493152-25-027196-index.htm": {
+      "title": "8-K - Enveric Biosciences, Inc. (0000890821) (Filer)",
+      "updated": "2025-12-11T12:41:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T17:49:36.984953+00:00"
     }
   }
 }
