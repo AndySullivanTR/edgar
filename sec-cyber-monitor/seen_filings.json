@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-11T13:04:28.712229+00:00",
+  "last_checked": "2025-12-11T13:51:51.293965+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -33383,6 +33383,139 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-11T13:04:27.685068+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/732026/000143774925037491/0001437749-25-037491-index.htm": {
+      "title": "8-K - TRIO-TECH INTERNATIONAL (0000732026) (Filer)",
+      "updated": "2025-12-11T08:45:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:51:30.710194+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/106535/000119312525315157/0001193125-25-315157-index.htm": {
+      "title": "8-K - WEYERHAEUSER CO (0000106535) (Filer)",
+      "updated": "2025-12-11T08:45:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:51:31.817972+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/746210/000143774925037490/0001437749-25-037490-index.htm": {
+      "title": "8-K - TaoWeave, Inc. (0000746210) (Filer)",
+      "updated": "2025-12-11T08:40:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:51:32.899522+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/277638/000162828025056436/0001628280-25-056436-index.htm": {
+      "title": "8-K - DAVEY TREE EXPERT CO (0000277638) (Filer)",
+      "updated": "2025-12-11T08:40:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:51:33.975689+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1638833/000110465925120159/0001104659-25-120159-index.htm": {
+      "title": "8-K - Surgery Partners, Inc. (0001638833) (Filer)",
+      "updated": "2025-12-11T08:36:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:51:35.056199+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1386301/000110465925120158/0001104659-25-120158-index.htm": {
+      "title": "8-K - Research Solutions, Inc. (0001386301) (Filer)",
+      "updated": "2025-12-11T08:35:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:51:36.199364+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/748592/000149315225027167/0001493152-25-027167-index.htm": {
+      "title": "8-K - Ernexa Therapeutics Inc. (0000748592) (Filer)",
+      "updated": "2025-12-11T08:31:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:51:37.284715+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1701963/000121390025120373/0001213900-25-120373-index.htm": {
+      "title": "8-K - Versus Systems Inc. (0001701963) (Filer)",
+      "updated": "2025-12-11T08:30:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:51:38.365685+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1662684/000110465925120154/0001104659-25-120154-index.htm": {
+      "title": "8-K - KULR Technology Group, Inc. (0001662684) (Filer)",
+      "updated": "2025-12-11T08:30:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:51:39.444004+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1880343/000149315225027165/0001493152-25-027165-index.htm": {
+      "title": "8-K - AMAZE HOLDINGS, INC. (0001880343) (Filer)",
+      "updated": "2025-12-11T08:30:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:51:40.522831+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1579157/000119312525315136/0001193125-25-315136-index.htm": {
+      "title": "8-K - VINCE HOLDING CORP. (0001579157) (Filer)",
+      "updated": "2025-12-11T08:30:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:51:41.611782+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/909108/000095010325015986/0000950103-25-015986-index.htm": {
+      "title": "8-K - DIAMOND HILL INVESTMENT GROUP INC (0000909108) (Filer)",
+      "updated": "2025-12-11T08:26:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:51:42.691575+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/55067/000119312525315130/0001193125-25-315130-index.htm": {
+      "title": "8-K - KELLANOVA (0000055067) (Filer)",
+      "updated": "2025-12-11T08:23:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:51:43.772782+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2051820/000205182025000162/0002051820-25-000162-index.htm": {
+      "title": "8-K - Mount Logan Capital Inc. (0002051820) (Filer)",
+      "updated": "2025-12-11T08:20:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:51:44.858427+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1435064/000149315225027163/0001493152-25-027163-index.htm": {
+      "title": "8-K - CEMTREX INC (0001435064) (Filer)",
+      "updated": "2025-12-11T08:20:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:51:45.935782+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1512499/000143774925037487/0001437749-25-037487-index.htm": {
+      "title": "8-K - LINDBLAD EXPEDITIONS HOLDINGS, INC. (0001512499) (Filer)",
+      "updated": "2025-12-11T08:18:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:51:47.013690+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1937993/000121390025120360/0001213900-25-120360-index.htm": {
+      "title": "8-K - Cadrenal Therapeutics, Inc. (0001937993) (Filer)",
+      "updated": "2025-12-11T08:17:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:51:48.097382+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1768446/000119312525315108/0001193125-25-315108-index.htm": {
+      "title": "8-K - Climb Bio, Inc. (0001768446) (Filer)",
+      "updated": "2025-12-11T08:16:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:51:49.187540+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1702750/000119312525315106/0001193125-25-315106-index.htm": {
+      "title": "8-K - BYLINE BANCORP, INC. (0001702750) (Filer)",
+      "updated": "2025-12-11T08:15:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:51:50.266530+00:00"
     }
   }
 }
