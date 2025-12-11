@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-11T11:58:14.052101+00:00",
+  "last_checked": "2025-12-11T13:04:28.712229+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -33250,6 +33250,139 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-11T11:58:13.018139+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1495320/000162828025056427/0001628280-25-056427-index.htm": {
+      "title": "8-K - Vera Bradley, Inc. (0001495320) (Filer)",
+      "updated": "2025-12-11T08:02:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:04:07.409457+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1447028/000117184325007879/0001171843-25-007879-index.htm": {
+      "title": "8-K - Arbutus Biopharma Corp (0001447028) (Filer)",
+      "updated": "2025-12-11T08:00:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:04:08.520815+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1847903/000119312525315074/0001193125-25-315074-index.htm": {
+      "title": "8-K - Centessa Pharmaceuticals plc (0001847903) (Filer)",
+      "updated": "2025-12-11T07:51:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:04:09.611861+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1649904/000110465925120141/0001104659-25-120141-index.htm": {
+      "title": "8-K - RHYTHM PHARMACEUTICALS, INC. (0001649904) (Filer)",
+      "updated": "2025-12-11T07:50:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:04:10.705415+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1635088/000114036125045204/0001140361-25-045204-index.htm": {
+      "title": "8-K - Roivant Sciences Ltd. (0001635088) (Filer)",
+      "updated": "2025-12-11T07:46:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:04:11.847404+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1775734/000149315225027152/0001493152-25-027152-index.htm": {
+      "title": "8-K - Beneficient (0001775734) (Filer)",
+      "updated": "2025-12-11T07:45:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:04:12.973932+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1831363/000119312525315065/0001193125-25-315065-index.htm": {
+      "title": "8-K - Terns Pharmaceuticals, Inc. (0001831363) (Filer)",
+      "updated": "2025-12-11T07:45:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:04:14.106317+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/882796/000117184325007878/0001171843-25-007878-index.htm": {
+      "title": "8-K - BIOCRYST PHARMACEUTICALS INC (0000882796) (Filer)",
+      "updated": "2025-12-11T07:25:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:04:15.364859+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312525315047/0001193125-25-315047-index.htm": {
+      "title": "8-K - ALNYLAM PHARMACEUTICALS, INC. (0001178670) (Filer)",
+      "updated": "2025-12-11T07:25:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:04:16.533461+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1595097/000119312525315039/0001193125-25-315039-index.htm": {
+      "title": "8-K - Corbus Pharmaceuticals Holdings, Inc. (0001595097) (Filer)",
+      "updated": "2025-12-11T07:22:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:04:17.682570+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1821159/000110465925120128/0001104659-25-120128-index.htm": {
+      "title": "8-K - EVgo Inc. (0001821159) (Filer)",
+      "updated": "2025-12-11T07:15:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:04:18.851999+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/873303/000119312525315032/0001193125-25-315032-index.htm": {
+      "title": "8-K - Sarepta Therapeutics, Inc. (0000873303) (Filer)",
+      "updated": "2025-12-11T07:13:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:04:19.945074+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/936395/000162828025056425/0001628280-25-056425-index.htm": {
+      "title": "8-K - CIENA CORP (0000936395) (Filer)",
+      "updated": "2025-12-11T07:07:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:04:21.060681+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/764180/000076418025000133/0000764180-25-000133-index.htm": {
+      "title": "8-K - ALTRIA GROUP, INC. (0000764180) (Filer)",
+      "updated": "2025-12-11T07:06:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:04:22.153662+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1701758/000162828025056423/0001628280-25-056423-index.htm": {
+      "title": "10-Q - Lovesac Co (0001701758) (Filer)",
+      "updated": "2025-12-11T07:05:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:04:23.246937+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1859392/000185939225000088/0001859392-25-000088-index.htm": {
+      "title": "8-K - Galaxy Digital Inc. (0001859392) (Filer)",
+      "updated": "2025-12-11T07:04:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:04:24.343433+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1529864/000119312525315025/0001193125-25-315025-index.htm": {
+      "title": "8-K - Enova International, Inc. (0001529864) (Filer)",
+      "updated": "2025-12-11T07:04:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:04:25.450434+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1701758/000162828025056422/0001628280-25-056422-index.htm": {
+      "title": "8-K - Lovesac Co (0001701758) (Filer)",
+      "updated": "2025-12-11T07:00:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:04:26.549236+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1518461/000149315225027138/0001493152-25-027138-index.htm": {
+      "title": "8-K - AmpliTech Group, Inc. (0001518461) (Filer)",
+      "updated": "2025-12-11T07:00:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T13:04:27.685068+00:00"
     }
   }
 }
