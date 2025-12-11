@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-11T11:45:12.434808+00:00",
+  "last_checked": "2025-12-11T11:58:14.052101+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -33243,6 +33243,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-11T11:45:11.408924+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1635327/000119312525315018/0001193125-25-315018-index.htm": {
+      "title": "8-K - Flutter Entertainment plc (0001635327) (Filer)",
+      "updated": "2025-12-11T06:55:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T11:58:13.018139+00:00"
     }
   }
 }
