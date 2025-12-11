@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-11T20:30:49.732851+00:00",
+  "last_checked": "2025-12-11T20:53:38.885297+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -33810,6 +33810,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-11T20:30:48.704554+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1329842/000165495425013856/0001654954-25-013856-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
+      "updated": "2025-12-11T15:52:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T20:53:34.602477+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1039065/000110465925120300/0001104659-25-120300-index.htm": {
+      "title": "8-K - OSI SYSTEMS INC (0001039065) (Filer)",
+      "updated": "2025-12-11T15:51:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T20:53:35.693225+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/885245/000088524525000113/0000885245-25-000113-index.htm": {
+      "title": "10-Q - BUCKLE INC (0000885245) (Filer)",
+      "updated": "2025-12-11T15:49:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T20:53:36.777864+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/900075/000119312525315830/0001193125-25-315830-index.htm": {
+      "title": "8-K - COPART INC (0000900075) (Filer)",
+      "updated": "2025-12-11T15:42:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T20:53:37.857459+00:00"
     }
   }
 }
