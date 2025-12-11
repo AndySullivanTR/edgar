@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-11T11:27:10.764650+00:00",
+  "last_checked": "2025-12-11T11:45:12.434808+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -33229,6 +33229,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-11T11:27:09.737728+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1520006/000110465925120120/0001104659-25-120120-index.htm": {
+      "title": "8-K - Matador Resources Co (0001520006) (Filer)",
+      "updated": "2025-12-11T06:41:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T11:45:10.208808+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1764013/000119312525314994/0001193125-25-314994-index.htm": {
+      "title": "8-K - Immunovant, Inc. (0001764013) (Filer)",
+      "updated": "2025-12-11T06:39:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T11:45:11.408924+00:00"
     }
   }
 }
