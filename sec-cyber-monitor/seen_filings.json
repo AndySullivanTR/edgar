@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-11T21:29:14.757234+00:00",
+  "last_checked": "2025-12-11T21:45:09.686033+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -33859,6 +33859,69 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-11T21:29:13.731464+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1712184/000171218425000190/0001712184-25-000190-index.htm": {
+      "title": "8-K - Liberty Latin America Ltd. (0001712184) (Filer)",
+      "updated": "2025-12-11T16:44:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T21:45:00.021056+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/709337/000119312525316094/0001193125-25-316094-index.htm": {
+      "title": "8-K - FARMERS NATIONAL BANC CORP /OH/ (0000709337) (Filer)",
+      "updated": "2025-12-11T16:40:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T21:45:01.096314+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/828944/000155278125000459/0001552781-25-000459-index.htm": {
+      "title": "8-K - WSFS FINANCIAL CORP (0000828944) (Filer)",
+      "updated": "2025-12-11T16:38:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T21:45:02.191717+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1210708/000121070825000150/0001210708-25-000150-index.htm": {
+      "title": "8-K - Star Equity Holdings, Inc. (0001210708) (Filer)",
+      "updated": "2025-12-11T16:38:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T21:45:03.266490+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/892553/000119312525316089/0001193125-25-316089-index.htm": {
+      "title": "8-K - CHART INDUSTRIES INC (0000892553) (Filer)",
+      "updated": "2025-12-11T16:37:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T21:45:04.346248+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/38264/000168316825009073/0001683168-25-009073-index.htm": {
+      "title": "8-K - Forward Industries, Inc. (0000038264) (Filer)",
+      "updated": "2025-12-11T16:37:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T21:45:05.422917+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/69891/000143774925037558/0001437749-25-037558-index.htm": {
+      "title": "10-Q - NATIONAL BEVERAGE CORP (0000069891) (Filer)",
+      "updated": "2025-12-11T16:36:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T21:45:06.506342+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1836875/000183687525000196/0001836875-25-000196-index.htm": {
+      "title": "8-K - Nuvve Holding Corp. (0001836875) (Filer)",
+      "updated": "2025-12-11T16:35:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T21:45:07.583198+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1411579/000141157925000077/0001411579-25-000077-index.htm": {
+      "title": "8-K - AMC ENTERTAINMENT HOLDINGS, INC. (0001411579) (Filer)",
+      "updated": "2025-12-11T16:35:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T21:45:08.658659+00:00"
     }
   }
 }
