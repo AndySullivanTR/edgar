@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-11T20:53:38.885297+00:00",
+  "last_checked": "2025-12-11T21:29:14.757234+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -33838,6 +33838,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-11T20:53:37.857459+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/79879/000007987925000345/0000079879-25-000345-index.htm": {
+      "title": "8-K - PPG INDUSTRIES INC (0000079879) (Filer)",
+      "updated": "2025-12-11T16:26:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T21:29:11.523337+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1689548/000168954825000116/0001689548-25-000116-index.htm": {
+      "title": "8-K - Praxis Precision Medicines, Inc. (0001689548) (Filer)",
+      "updated": "2025-12-11T16:23:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T21:29:12.622184+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1090425/000119312525316012/0001193125-25-316012-index.htm": {
+      "title": "8-K - LAMAR ADVERTISING CO/NEW (0001090425) (Filer)",
+      "updated": "2025-12-11T16:23:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T21:29:13.731464+00:00"
     }
   }
 }
