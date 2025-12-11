@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-11T19:00:52.291066+00:00",
+  "last_checked": "2025-12-11T19:32:51.261627+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -33747,6 +33747,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-11T19:00:51.253654+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1316944/000131694425000236/0001316944-25-000236-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of San Francisco (0001316944) (Filer)",
+      "updated": "2025-12-11T14:29:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T19:32:44.738666+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331463/000133146325000235/0001331463-25-000235-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Boston (0001331463) (Filer)",
+      "updated": "2025-12-11T14:27:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T19:32:45.828724+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/821026/000082102625000217/0000821026-25-000217-index.htm": {
+      "title": "8-K - Andersons, Inc. (0000821026) (Filer)",
+      "updated": "2025-12-11T14:27:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T19:32:46.937848+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1440799/000147793225008922/0001477932-25-008922-index.htm": {
+      "title": "10-Q - MMEX Resources Corp (0001440799) (Filer)",
+      "updated": "2025-12-11T14:26:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T19:32:48.053407+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1838163/000149315225027216/0001493152-25-027216-index.htm": {
+      "title": "8-K - Brand Engagement Network Inc. (0001838163) (Filer)",
+      "updated": "2025-12-11T14:24:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T19:32:49.143554+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331465/000133146525000287/0001331465-25-000287-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer)",
+      "updated": "2025-12-11T14:08:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T19:32:50.234042+00:00"
     }
   }
 }
