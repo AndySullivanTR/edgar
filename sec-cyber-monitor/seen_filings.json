@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-11T14:28:34.673855+00:00",
+  "last_checked": "2025-12-11T14:49:43.389397+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -33614,6 +33614,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-11T14:28:33.646573+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1769663/000094337425000511/0000943374-25-000511-index.htm": {
+      "title": "8-K - Pioneer Bancorp, Inc./MD (0001769663) (Filer)",
+      "updated": "2025-12-11T09:41:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T14:49:42.361745+00:00"
     }
   }
 }
