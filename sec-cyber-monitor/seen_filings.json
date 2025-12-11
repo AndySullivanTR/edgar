@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-11T13:51:51.293965+00:00",
+  "last_checked": "2025-12-11T14:28:34.673855+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -33516,6 +33516,104 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-11T13:51:50.266530+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/15847/000001584725000021/0000015847-25-000021-index.htm": {
+      "title": "10-Q - BUTLER NATIONAL CORP (0000015847) (Filer)",
+      "updated": "2025-12-11T09:26:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T14:28:18.924428+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/15847/000001584725000020/0000015847-25-000020-index.htm": {
+      "title": "8-K - BUTLER NATIONAL CORP (0000015847) (Filer)",
+      "updated": "2025-12-11T09:25:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T14:28:20.123618+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/78890/000007889025000317/0000078890-25-000317-index.htm": {
+      "title": "8-K - BRINKS CO (0000078890) (Filer)",
+      "updated": "2025-12-11T09:15:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T14:28:21.229173+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1113809/000143774925037492/0001437749-25-037492-index.htm": {
+      "title": "10-Q - BUILD-A-BEAR WORKSHOP INC (0001113809) (Filer)",
+      "updated": "2025-12-11T09:15:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T14:28:22.328380+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1096275/000149315225027177/0001493152-25-027177-index.htm": {
+      "title": "8-K - Worksport Ltd (0001096275) (Filer)",
+      "updated": "2025-12-11T09:12:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T14:28:23.418140+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1849670/000094337425000510/0000943374-25-000510-index.htm": {
+      "title": "8-K - PB Bankshares, Inc. (0001849670) (Filer)",
+      "updated": "2025-12-11T09:11:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T14:28:24.518199+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/54187/000120677425000766/0001206774-25-000766-index.htm": {
+      "title": "8-K - MAYS J W INC (0000054187) (Filer)",
+      "updated": "2025-12-11T09:11:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T14:28:25.615018+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1672619/000119312525315196/0001193125-25-315196-index.htm": {
+      "title": "8-K - Enliven Therapeutics, Inc. (0001672619) (Filer)",
+      "updated": "2025-12-11T09:11:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T14:28:26.728536+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/821189/000119312525315185/0001193125-25-315185-index.htm": {
+      "title": "8-K - EOG RESOURCES INC (0000821189) (Filer)",
+      "updated": "2025-12-11T09:06:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T14:28:27.861160+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1645873/000164587325000205/0001645873-25-000205-index.htm": {
+      "title": "8-K - MODIV INDUSTRIAL, INC. (0001645873) (Filer)",
+      "updated": "2025-12-11T09:05:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T14:28:29.087343+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/54187/000120677425000765/0001206774-25-000765-index.htm": {
+      "title": "10-Q - MAYS J W INC (0000054187) (Filer)",
+      "updated": "2025-12-11T09:01:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T14:28:30.329915+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1807887/000149315225027171/0001493152-25-027171-index.htm": {
+      "title": "8-K - Laser Photonics Corp (0001807887) (Filer)",
+      "updated": "2025-12-11T09:00:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T14:28:31.428301+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1674910/000167491025000140/0001674910-25-000140-index.htm": {
+      "title": "8-K - VALVOLINE INC (0001674910) (Filer)",
+      "updated": "2025-12-11T08:55:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T14:28:32.552955+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2001557/000200155725000048/0002001557-25-000048-index.htm": {
+      "title": "8-K - Innventure, Inc. (0002001557) (Filer)",
+      "updated": "2025-12-11T08:53:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-11T14:28:33.646573+00:00"
     }
   }
 }
