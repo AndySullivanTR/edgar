@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-12T14:28:03.952515+00:00",
+  "last_checked": "2025-12-12T14:44:59.296995+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -34489,6 +34489,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-12T14:28:02.924888+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/55529/000005552925000054/0000055529-25-000054-index.htm": {
+      "title": "10-Q - KEWAUNEE SCIENTIFIC CORP /DE/ (0000055529) (Filer)",
+      "updated": "2025-12-12T09:41:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T14:44:57.059799+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1980295/000198029525000016/0001980295-25-000016-index.htm": {
+      "title": "10-Q - IMA Tech (0001980295) (Filer)",
+      "updated": "2025-12-12T09:35:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T14:44:58.268882+00:00"
     }
   }
 }
