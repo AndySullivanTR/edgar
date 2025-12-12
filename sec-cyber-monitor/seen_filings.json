@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-12T14:58:29.789516+00:00",
+  "last_checked": "2025-12-12T15:32:34.518773+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -34510,6 +34510,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-12T14:58:28.761122+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1781162/000114036125045310/0001140361-25-045310-index.htm": {
+      "title": "8-K - Momentus Inc. (0001781162) (Filer)",
+      "updated": "2025-12-12T10:11:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T15:32:33.491086+00:00"
     }
   }
 }
