@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-12T13:40:25.207695+00:00",
+  "last_checked": "2025-12-12T13:57:42.892706+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -34391,6 +34391,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-12T13:40:24.178882+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1061983/000119312525316904/0001193125-25-316904-index.htm": {
+      "title": "8-K - CYTOKINETICS INC (0001061983) (Filer)",
+      "updated": "2025-12-12T08:54:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T13:57:38.300193+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/821130/000082113025000074/0000821130-25-000074-index.htm": {
+      "title": "8-K - ARRAY DIGITAL INFRASTRUCTURE, INC. (0000821130) (Filer)",
+      "updated": "2025-12-12T08:54:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T13:57:39.499379+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/836147/000119312525316894/0001193125-25-316894-index.htm": {
+      "title": "8-K - MIDDLEFIELD BANC CORP (0000836147) (Filer)",
+      "updated": "2025-12-12T08:50:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T13:57:40.704586+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1861657/000149315225027373/0001493152-25-027373-index.htm": {
+      "title": "8-K - Tharimmune, Inc. (0001861657) (Filer)",
+      "updated": "2025-12-12T08:45:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T13:57:41.866527+00:00"
     }
   }
 }
