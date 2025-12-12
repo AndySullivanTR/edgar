@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-12T15:32:34.518773+00:00",
+  "last_checked": "2025-12-12T15:55:19.149854+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -34517,6 +34517,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-12T15:32:33.491086+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/60519/000006051925000039/0000060519-25-000039-index.htm": {
+      "title": "10-Q/A - LOUISIANA-PACIFIC CORP (0000060519) (Filer)",
+      "updated": "2025-12-12T10:44:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T15:55:16.986261+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1495320/000162828025056667/0001628280-25-056667-index.htm": {
+      "title": "8-K - Vera Bradley, Inc. (0001495320) (Filer)",
+      "updated": "2025-12-12T10:36:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T15:55:18.121419+00:00"
     }
   }
 }
