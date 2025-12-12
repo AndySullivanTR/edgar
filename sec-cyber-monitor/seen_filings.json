@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-12T11:27:50.559151+00:00",
+  "last_checked": "2025-12-12T11:45:43.166530+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -34104,6 +34104,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-12T11:27:49.531439+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1012493/000110465925120462/0001104659-25-120462-index.htm": {
+      "title": "10-Q - FERRELLGAS PARTNERS FINANCE CORP (0001012493) (Filer)",
+      "updated": "2025-12-12T06:36:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T11:45:31.047067+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/922360/000110465925120462/0001104659-25-120462-index.htm": {
+      "title": "10-Q - FERRELLGAS FINANCE CORP (0000922360) (Filer)",
+      "updated": "2025-12-12T06:36:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T11:45:32.218057+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/922359/000110465925120462/0001104659-25-120462-index.htm": {
+      "title": "10-Q - FERRELLGAS L P (0000922359) (Filer)",
+      "updated": "2025-12-12T06:36:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T11:45:33.409189+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/922358/000110465925120462/0001104659-25-120462-index.htm": {
+      "title": "10-Q - FERRELLGAS PARTNERS L P (0000922358) (Filer)",
+      "updated": "2025-12-12T06:36:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T11:45:34.547197+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1667313/000121390025120916/0001213900-25-120916-index.htm": {
+      "title": "8-K - Zedge, Inc. (0001667313) (Filer)",
+      "updated": "2025-12-12T06:30:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T11:45:35.625308+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/895447/000119312525316812/0001193125-25-316812-index.htm": {
+      "title": "8-K - SHOE CARNIVAL INC (0000895447) (Filer)",
+      "updated": "2025-12-12T06:30:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T11:45:36.704246+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1688126/000149315225027355/0001493152-25-027355-index.htm": {
+      "title": "8-K - Crypto Co (0001688126) (Filer)",
+      "updated": "2025-12-12T06:30:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T11:45:37.787335+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1012493/000110465925120461/0001104659-25-120461-index.htm": {
+      "title": "8-K - FERRELLGAS PARTNERS FINANCE CORP (0001012493) (Filer)",
+      "updated": "2025-12-12T06:30:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T11:45:38.880382+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/922360/000110465925120461/0001104659-25-120461-index.htm": {
+      "title": "8-K - FERRELLGAS FINANCE CORP (0000922360) (Filer)",
+      "updated": "2025-12-12T06:30:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T11:45:39.963080+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/922359/000110465925120461/0001104659-25-120461-index.htm": {
+      "title": "8-K - FERRELLGAS L P (0000922359) (Filer)",
+      "updated": "2025-12-12T06:30:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T11:45:41.049324+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/922358/000110465925120461/0001104659-25-120461-index.htm": {
+      "title": "8-K - FERRELLGAS PARTNERS L P (0000922358) (Filer)",
+      "updated": "2025-12-12T06:30:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T11:45:42.138115+00:00"
     }
   }
 }
