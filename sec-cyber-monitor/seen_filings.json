@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-12T12:57:40.944746+00:00",
+  "last_checked": "2025-12-12T13:40:25.207695+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -34286,6 +34286,111 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-12T12:57:39.916256+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/723646/000072364625000086/0000723646-25-000086-index.htm": {
+      "title": "8-K - FRANKLIN FINANCIAL SERVICES CORP /PA/ (0000723646) (Filer)",
+      "updated": "2025-12-12T08:38:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T13:40:08.989110+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1818201/000119312525316877/0001193125-25-316877-index.htm": {
+      "title": "8-K - CCC Intelligent Solutions Holdings Inc. (0001818201) (Filer)",
+      "updated": "2025-12-12T08:35:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T13:40:10.072125+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1724521/000172452125000120/0001724521-25-000120-index.htm": {
+      "title": "8-K - Arcus Biosciences, Inc. (0001724521) (Filer)",
+      "updated": "2025-12-12T08:34:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T13:40:11.154695+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1326160/000110465925120496/0001104659-25-120496-index.htm": {
+      "title": "8-K - Duke Energy CORP (0001326160) (Filer)",
+      "updated": "2025-12-12T08:30:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T13:40:12.242391+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1546417/000154641725000143/0001546417-25-000143-index.htm": {
+      "title": "8-K - Bloomin' Brands, Inc. (0001546417) (Filer)",
+      "updated": "2025-12-12T08:30:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T13:40:13.324083+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1824293/000162828025056659/0001628280-25-056659-index.htm": {
+      "title": "8-K - GRI Bio, Inc. (0001824293) (Filer)",
+      "updated": "2025-12-12T08:30:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T13:40:14.419169+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1367644/000136764425000207/0001367644-25-000207-index.htm": {
+      "title": "8-K - Emergent BioSolutions Inc. (0001367644) (Filer)",
+      "updated": "2025-12-12T08:29:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T13:40:15.508052+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/918541/000110465925120494/0001104659-25-120494-index.htm": {
+      "title": "8-K - NN INC (0000918541) (Filer)",
+      "updated": "2025-12-12T08:15:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T13:40:16.591392+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/791963/000162828025056657/0001628280-25-056657-index.htm": {
+      "title": "8-K - OPPENHEIMER HOLDINGS INC (0000791963) (Filer)",
+      "updated": "2025-12-12T08:13:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T13:40:17.680995+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/72971/000119312525316858/0001193125-25-316858-index.htm": {
+      "title": "8-K - WELLS FARGO & COMPANY/MN (0000072971) (Filer)",
+      "updated": "2025-12-12T08:11:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T13:40:18.761280+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1468327/000146832725000235/0001468327-25-000235-index.htm": {
+      "title": "8-K - Rent the Runway, Inc. (0001468327) (Filer)",
+      "updated": "2025-12-12T08:04:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T13:40:19.844582+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/35527/000003552725000232/0000035527-25-000232-index.htm": {
+      "title": "8-K - FIFTH THIRD BANCORP (0000035527) (Filer)",
+      "updated": "2025-12-12T08:02:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T13:40:20.930859+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1994624/000110465925120489/0001104659-25-120489-index.htm": {
+      "title": "8-K - ScanTech AI Systems Inc. (0001994624) (Filer)",
+      "updated": "2025-12-12T08:00:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T13:40:22.015696+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1850059/000182912625009930/0001829126-25-009930-index.htm": {
+      "title": "8-K - Flag Ship Acquisition Corp (0001850059) (Filer)",
+      "updated": "2025-12-12T08:00:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T13:40:23.097316+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1070985/000119312525316848/0001193125-25-316848-index.htm": {
+      "title": "8-K - CoreCivic, Inc. (0001070985) (Filer)",
+      "updated": "2025-12-12T08:00:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T13:40:24.178882+00:00"
     }
   }
 }
