@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-12T15:55:19.149854+00:00",
+  "last_checked": "2025-12-12T16:34:47.888529+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -34531,6 +34531,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-12T15:55:18.121419+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/874766/000119312525317144/0001193125-25-317144-index.htm": {
+      "title": "8-K - HARTFORD INSURANCE GROUP, INC. (0000874766) (Filer)",
+      "updated": "2025-12-12T11:21:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T16:34:45.712903+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1172178/000149315225027392/0001493152-25-027392-index.htm": {
+      "title": "10-Q - LIBERTY STAR URANIUM & METALS CORP. (0001172178) (Filer)",
+      "updated": "2025-12-12T11:09:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T16:34:46.861810+00:00"
     }
   }
 }
