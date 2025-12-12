@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-12T18:40:22.618412+00:00",
+  "last_checked": "2025-12-12T18:59:25.187063+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -34608,6 +34608,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-12T18:40:21.590200+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/713676/000071367625000137/0000713676-25-000137-index.htm": {
+      "title": "8-K - PNC FINANCIAL SERVICES GROUP, INC. (0000713676) (Filer)",
+      "updated": "2025-12-12T13:52:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T18:59:21.912208+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/936395/000162828025056698/0001628280-25-056698-index.htm": {
+      "title": "10-K - CIENA CORP (0000936395) (Filer)",
+      "updated": "2025-12-12T13:42:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T18:59:23.078154+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1634452/000119312525317312/0001193125-25-317312-index.htm": {
+      "title": "8-K - AB Private Credit Investors Corp (0001634452) (Filer)",
+      "updated": "2025-12-12T13:41:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T18:59:24.159010+00:00"
     }
   }
 }
