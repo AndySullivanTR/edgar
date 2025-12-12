@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-12T22:26:51.195813+00:00",
+  "last_checked": "2025-12-12T22:45:58.788438+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -34867,6 +34867,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-12T22:26:50.166811+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1083743/000149315225027595/0001493152-25-027595-index.htm": {
+      "title": "8-K - Flux Power Holdings, Inc. (0001083743) (Filer)",
+      "updated": "2025-12-12T17:31:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:45:46.914908+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1825079/000149315225027594/0001493152-25-027594-index.htm": {
+      "title": "8-K - Velo3D, Inc. (0001825079) (Filer)",
+      "updated": "2025-12-12T17:30:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:45:48.005593+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1419275/000118518525002045/0001185185-25-002045-index.htm": {
+      "title": "8-K - RYVYL Inc. (0001419275) (Filer)",
+      "updated": "2025-12-12T17:30:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:45:49.086158+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/885590/000095010325016089/0000950103-25-016089-index.htm": {
+      "title": "8-K - Bausch Health Companies Inc. (0000885590) (Filer)",
+      "updated": "2025-12-12T17:30:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:45:50.189430+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1083522/000149315225027589/0001493152-25-027589-index.htm": {
+      "title": "8-K - JONES SODA CO. (0001083522) (Filer)",
+      "updated": "2025-12-12T17:30:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:45:51.278132+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1860742/000095010325016088/0000950103-25-016088-index.htm": {
+      "title": "8-K - Bausch & Lomb Corp (0001860742) (Filer)",
+      "updated": "2025-12-12T17:29:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:45:52.360630+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/43196/000143774925037759/0001437749-25-037759-index.htm": {
+      "title": "8-K - GRAY MEDIA, INC (0000043196) (Filer)",
+      "updated": "2025-12-12T17:29:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:45:53.438613+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1823144/000110465925120723/0001104659-25-120723-index.htm": {
+      "title": "8-K - CompoSecure, Inc. (0001823144) (Filer)",
+      "updated": "2025-12-12T17:28:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:45:54.518389+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1839530/000110465925120722/0001104659-25-120722-index.htm": {
+      "title": "8-K - XBP Global Holdings, Inc. (0001839530) (Filer)",
+      "updated": "2025-12-12T17:28:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:45:55.600280+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1842566/000165495425013912/0001654954-25-013912-index.htm": {
+      "title": "8-K - Airship AI Holdings, Inc. (0001842566) (Filer)",
+      "updated": "2025-12-12T17:28:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:45:56.679151+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2076163/000149315225027582/0001493152-25-027582-index.htm": {
+      "title": "8-K - ProCap Financial, Inc. (0002076163) (Filer)",
+      "updated": "2025-12-12T17:27:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:45:57.758447+00:00"
     }
   }
 }
