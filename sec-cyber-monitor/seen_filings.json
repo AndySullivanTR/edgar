@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-12T20:55:09.769552+00:00",
+  "last_checked": "2025-12-12T21:24:51.621134+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -34692,6 +34692,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-12T20:55:08.741501+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2079999/000121390025121209/0001213900-25-121209-index.htm": {
+      "title": "8-K - Cardinal Infrastructure Group Inc. (0002079999) (Filer)",
+      "updated": "2025-12-12T16:21:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T21:24:48.380309+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1297937/000149315225027494/0001493152-25-027494-index.htm": {
+      "title": "8-K - PARKS AMERICA, INC (0001297937) (Filer)",
+      "updated": "2025-12-12T16:20:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T21:24:49.495706+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1835632/000162828025056774/0001628280-25-056774-index.htm": {
+      "title": "8-K - Marvell Technology, Inc. (0001835632) (Filer)",
+      "updated": "2025-12-12T16:19:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T21:24:50.592190+00:00"
     }
   }
 }
