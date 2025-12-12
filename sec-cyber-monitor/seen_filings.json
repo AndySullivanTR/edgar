@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-12T16:56:07.726817+00:00",
+  "last_checked": "2025-12-12T17:27:44.594866+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -34573,6 +34573,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-12T16:56:06.698840+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2063380/000119312525317235/0001193125-25-317235-index.htm": {
+      "title": "10-Q - Fidelity Solana Fund (0002063380) (Filer)",
+      "updated": "2025-12-12T12:15:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T17:27:43.565240+00:00"
     }
   }
 }
