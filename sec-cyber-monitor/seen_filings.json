@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-12T21:53:54.379063+00:00",
+  "last_checked": "2025-12-12T22:26:51.195813+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -34790,6 +34790,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-12T21:53:53.352651+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1865200/000186520025000023/0001865200-25-000023-index.htm": {
+      "title": "8-K - Angel Studios, Inc. (0001865200) (Filer)",
+      "updated": "2025-12-12T17:25:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:26:39.356746+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2019793/000149315225027576/0001493152-25-027576-index.htm": {
+      "title": "8-K - XCF Global, Inc. (0002019793) (Filer)",
+      "updated": "2025-12-12T17:25:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:26:40.436761+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1892292/000121390025121298/0001213900-25-121298-index.htm": {
+      "title": "NT 10-Q - Maison Solutions Inc. (0001892292) (Filer)",
+      "updated": "2025-12-12T17:25:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:26:41.515351+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1817241/000119312525317784/0001193125-25-317784-index.htm": {
+      "title": "8-K - Artiva Biotherapeutics, Inc. (0001817241) (Filer)",
+      "updated": "2025-12-12T17:23:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:26:42.594550+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2070457/000121390025121293/0001213900-25-121293-index.htm": {
+      "title": "8-K - Twenty One Capital, Inc. (0002070457) (Filer)",
+      "updated": "2025-12-12T17:23:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:26:43.680817+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1327318/000110465925120718/0001104659-25-120718-index.htm": {
+      "title": "8-K - TrueCar, Inc. (0001327318) (Filer)",
+      "updated": "2025-12-12T17:22:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:26:44.759076+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1528129/000119312525317779/0001193125-25-317779-index.htm": {
+      "title": "8-K - Vital Energy, Inc. (0001528129) (Filer)",
+      "updated": "2025-12-12T17:22:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:26:45.839354+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1077688/000118518525002043/0001185185-25-002043-index.htm": {
+      "title": "10-Q - HOOKER FURNISHINGS Corp (0001077688) (Filer)",
+      "updated": "2025-12-12T17:21:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:26:46.928331+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/862861/000149315225027570/0001493152-25-027570-index.htm": {
+      "title": "8-K - ALT5 Sigma Corp (0000862861) (Filer)",
+      "updated": "2025-12-12T17:20:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:26:48.010017+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/12239/000121390025121286/0001213900-25-121286-index.htm": {
+      "title": "8-K - Dominari Holdings Inc. (0000012239) (Filer)",
+      "updated": "2025-12-12T17:19:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:26:49.087864+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1446159/000117184325007923/0001171843-25-007923-index.htm": {
+      "title": "8-K - Axe Compute Inc. (0001446159) (Filer)",
+      "updated": "2025-12-12T17:17:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T22:26:50.166811+00:00"
     }
   }
 }
