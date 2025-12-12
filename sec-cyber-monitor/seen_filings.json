@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-12T21:24:51.621134+00:00",
+  "last_checked": "2025-12-12T21:40:36.441821+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -34713,6 +34713,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-12T21:24:50.592190+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1852244/000185224425000114/0001852244-25-000114-index.htm": {
+      "title": "8-K - GXO Logistics, Inc. (0001852244) (Filer)",
+      "updated": "2025-12-12T16:39:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T21:40:29.941886+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2011498/000119312525317662/0001193125-25-317662-index.htm": {
+      "title": "8-K - AGL Private Credit Income Fund (0002011498) (Filer)",
+      "updated": "2025-12-12T16:37:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T21:40:31.036026+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1540684/000149315225027508/0001493152-25-027508-index.htm": {
+      "title": "8-K - Atlas Lithium Corp (0001540684) (Filer)",
+      "updated": "2025-12-12T16:35:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T21:40:32.131653+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1396009/000114036125045396/0001140361-25-045396-index.htm": {
+      "title": "8-K - Vulcan Materials CO (0001396009) (Filer)",
+      "updated": "2025-12-12T16:35:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T21:40:33.222118+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1003078/000100307825000181/0001003078-25-000181-index.htm": {
+      "title": "8-K - MSC INDUSTRIAL DIRECT CO INC (0001003078) (Filer)",
+      "updated": "2025-12-12T16:35:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T21:40:34.317480+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1879373/000187937325000007/0001879373-25-000007-index.htm": {
+      "title": "8-K - GRAPHJET TECHNOLOGY (0001879373) (Filer)",
+      "updated": "2025-12-12T16:33:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T21:40:35.413525+00:00"
     }
   }
 }
