@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-12T16:34:47.888529+00:00",
+  "last_checked": "2025-12-12T16:56:07.726817+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -34545,6 +34545,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-12T16:34:46.861810+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1648087/000149315225027404/0001493152-25-027404-index.htm": {
+      "title": "8-K - AMERICAN REBEL HOLDINGS INC (0001648087) (Filer)",
+      "updated": "2025-12-12T11:55:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T16:56:03.312433+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1134982/000147793225008943/0001477932-25-008943-index.htm": {
+      "title": "8-K - Apple iSports Group, Inc. (0001134982) (Filer)",
+      "updated": "2025-12-12T11:51:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T16:56:04.506229+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/868278/000149315225027399/0001493152-25-027399-index.htm": {
+      "title": "8-K/A - ProPhase Labs, Inc. (0000868278) (Filer)",
+      "updated": "2025-12-12T11:41:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T16:56:05.605924+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/723603/000119312525317167/0001193125-25-317167-index.htm": {
+      "title": "10-Q - CULP INC (0000723603) (Filer)",
+      "updated": "2025-12-12T11:37:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T16:56:06.698840+00:00"
     }
   }
 }
