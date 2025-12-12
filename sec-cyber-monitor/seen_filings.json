@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-12T19:41:34.503269+00:00",
+  "last_checked": "2025-12-12T19:54:14.257526+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -34664,6 +34664,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-12T19:41:33.475386+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1084869/000108486925000047/0001084869-25-000047-index.htm": {
+      "title": "8-K - 1 800 FLOWERS COM INC (0001084869) (Filer)",
+      "updated": "2025-12-12T14:46:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T19:54:13.228499+00:00"
     }
   }
 }
