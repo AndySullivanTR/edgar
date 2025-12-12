@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-12T13:57:42.892706+00:00",
+  "last_checked": "2025-12-12T14:28:03.952515+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -34419,6 +34419,76 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-12T13:57:41.866527+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1399520/000110465925120509/0001104659-25-120509-index.htm": {
+      "title": "8-K - ONE Group Hospitality, Inc. (0001399520) (Filer)",
+      "updated": "2025-12-12T09:25:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T14:27:53.097924+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/811589/000081158925000079/0000811589-25-000079-index.htm": {
+      "title": "8-K - FIRST BANCORP /NC/ (0000811589) (Filer)",
+      "updated": "2025-12-12T09:20:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T14:27:54.198964+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1468327/000146832725000237/0001468327-25-000237-index.htm": {
+      "title": "10-Q - Rent the Runway, Inc. (0001468327) (Filer)",
+      "updated": "2025-12-12T09:16:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T14:27:55.289353+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1230524/000147793225008941/0001477932-25-008941-index.htm": {
+      "title": "10-Q - Leopard Energy, Inc. (0001230524) (Filer)",
+      "updated": "2025-12-12T09:15:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T14:27:56.371894+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1326706/000149315225027380/0001493152-25-027380-index.htm": {
+      "title": "8-K - NanoVibronix, Inc. (0001326706) (Filer)",
+      "updated": "2025-12-12T09:06:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T14:27:57.468709+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1051512/000105151225000077/0001051512-25-000077-index.htm": {
+      "title": "8-K - TELEPHONE & DATA SYSTEMS INC /DE/ (0001051512) (Filer)",
+      "updated": "2025-12-12T09:02:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T14:27:58.561984+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/718332/000114036125045306/0001140361-25-045306-index.htm": {
+      "title": "8-K - RAVE RESTAURANT GROUP, INC. (0000718332) (Filer)",
+      "updated": "2025-12-12T09:01:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T14:27:59.646609+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/914122/000143774925037632/0001437749-25-037632-index.htm": {
+      "title": "8-K - Perma-Pipe International Holdings, Inc. (0000914122) (Filer)",
+      "updated": "2025-12-12T09:00:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T14:28:00.735530+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1429764/000149315225027377/0001493152-25-027377-index.htm": {
+      "title": "8-K - Blink Charging Co. (0001429764) (Filer)",
+      "updated": "2025-12-12T09:00:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T14:28:01.845919+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/914122/000143774925037631/0001437749-25-037631-index.htm": {
+      "title": "10-Q - Perma-Pipe International Holdings, Inc. (0000914122) (Filer)",
+      "updated": "2025-12-12T08:59:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T14:28:02.924888+00:00"
     }
   }
 }
