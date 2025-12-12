@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-12T18:59:25.187063+00:00",
+  "last_checked": "2025-12-12T19:25:48.415446+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -34629,6 +34629,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-12T18:59:24.159010+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1083490/000110465925120598/0001104659-25-120598-index.htm": {
+      "title": "10-Q - SUNRISE REAL ESTATE GROUP INC (0001083490) (Filer)",
+      "updated": "2025-12-12T14:23:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T19:25:44.118284+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1846084/000119312525317367/0001193125-25-317367-index.htm": {
+      "title": "8-K - Global Crossing Airlines Group Inc. (0001846084) (Filer)",
+      "updated": "2025-12-12T14:18:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T19:25:45.206598+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/788329/000114036125045348/0001140361-25-045348-index.htm": {
+      "title": "10-K - JOHNSON OUTDOORS INC (0000788329) (Filer)",
+      "updated": "2025-12-12T14:18:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T19:25:46.299424+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1304280/000130428025000056/0001304280-25-000056-index.htm": {
+      "title": "8-K - Novelis Inc. (0001304280) (Filer)",
+      "updated": "2025-12-12T14:06:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T19:25:47.387455+00:00"
     }
   }
 }
