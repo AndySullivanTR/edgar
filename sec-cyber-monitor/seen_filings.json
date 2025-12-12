@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-12T11:45:43.166530+00:00",
+  "last_checked": "2025-12-12T12:57:40.944746+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -34181,6 +34181,111 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-12T11:45:42.138115+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1651311/000119312525316841/0001193125-25-316841-index.htm": {
+      "title": "8-K - Merus N.V. (0001651311) (Filer)",
+      "updated": "2025-12-12T07:54:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T12:57:24.651092+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/882796/000117184325007909/0001171843-25-007909-index.htm": {
+      "title": "8-K - BIOCRYST PHARMACEUTICALS INC (0000882796) (Filer)",
+      "updated": "2025-12-12T07:51:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T12:57:25.749629+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2071778/000121390025120940/0001213900-25-120940-index.htm": {
+      "title": "8-K - Fermi Inc. (0002071778) (Filer)",
+      "updated": "2025-12-12T07:45:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T12:57:26.842132+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2033383/000149315225027366/0001493152-25-027366-index.htm": {
+      "title": "8-K - Fusemachines Inc. (0002033383) (Filer)",
+      "updated": "2025-12-12T07:38:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T12:57:27.936328+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/890066/000155278125000461/0001552781-25-000461-index.htm": {
+      "title": "8-K - GLEN BURNIE BANCORP (0000890066) (Filer)",
+      "updated": "2025-12-12T07:30:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T12:57:29.019423+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/85961/000162828025056650/0001628280-25-056650-index.htm": {
+      "title": "8-K - RYDER SYSTEM INC (0000085961) (Filer)",
+      "updated": "2025-12-12T07:18:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T12:57:30.102534+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1713210/000149315225027360/0001493152-25-027360-index.htm": {
+      "title": "8-K - Agape ATP Corp (0001713210) (Filer)",
+      "updated": "2025-12-12T07:06:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T12:57:31.186550+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1413329/000162828025056649/0001628280-25-056649-index.htm": {
+      "title": "8-K - Philip Morris International Inc. (0001413329) (Filer)",
+      "updated": "2025-12-12T07:05:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T12:57:32.271051+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1326110/000132611025000143/0001326110-25-000143-index.htm": {
+      "title": "8-K - ImmunityBio, Inc. (0001326110) (Filer)",
+      "updated": "2025-12-12T07:01:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T12:57:33.358224+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1271834/000109166725000174/0001091667-25-000174-index.htm": {
+      "title": "8-K - CCO HOLDINGS CAPITAL CORP (0001271834) (Filer)",
+      "updated": "2025-12-12T07:01:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T12:57:34.450421+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1271833/000109166725000174/0001091667-25-000174-index.htm": {
+      "title": "8-K - CCO HOLDINGS LLC (0001271833) (Filer)",
+      "updated": "2025-12-12T07:01:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T12:57:35.534416+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1091667/000109166725000174/0001091667-25-000174-index.htm": {
+      "title": "8-K - CHARTER COMMUNICATIONS, INC. /MO/ (0001091667) (Filer)",
+      "updated": "2025-12-12T07:01:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T12:57:36.616434+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/74260/000007426025000166/0000074260-25-000166-index.htm": {
+      "title": "8-K - OLD REPUBLIC INTERNATIONAL CORP (0000074260) (Filer)",
+      "updated": "2025-12-12T07:01:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T12:57:37.734756+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1770501/000149315225027359/0001493152-25-027359-index.htm": {
+      "title": "8-K - Venu Holding Corp (0001770501) (Filer)",
+      "updated": "2025-12-12T07:00:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T12:57:38.822282+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/788329/000117184325007905/0001171843-25-007905-index.htm": {
+      "title": "8-K - JOHNSON OUTDOORS INC (0000788329) (Filer)",
+      "updated": "2025-12-12T07:00:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-12T12:57:39.916256+00:00"
     }
   }
 }
