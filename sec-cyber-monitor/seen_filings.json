@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-15T13:52:48.759719+00:00",
+  "last_checked": "2025-12-15T14:33:26.518335+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35308,6 +35308,90 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-15T13:52:47.731036+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1728328/000121390025121497/0001213900-25-121497-index.htm": {
+      "title": "8-K - InMed Pharmaceuticals Inc. (0001728328) (Filer)",
+      "updated": "2025-12-15T09:32:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T14:33:13.254340+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/72903/000119312525318611/0001193125-25-318611-index.htm": {
+      "title": "8-K - XCEL ENERGY INC (0000072903) (Filer)",
+      "updated": "2025-12-15T09:24:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T14:33:14.356418+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1561894/000119312525318601/0001193125-25-318601-index.htm": {
+      "title": "8-K - HA Sustainable Infrastructure Capital, Inc. (0001561894) (Filer)",
+      "updated": "2025-12-15T09:18:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T14:33:15.466397+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/80424/000008042425000287/0000080424-25-000287-index.htm": {
+      "title": "8-K - PROCTER & GAMBLE Co (0000080424) (Filer)",
+      "updated": "2025-12-15T09:15:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T14:33:16.575802+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1862150/000149315225027667/0001493152-25-027667-index.htm": {
+      "title": "8-K - Cingulate Inc. (0001862150) (Filer)",
+      "updated": "2025-12-15T09:14:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T14:33:17.680874+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1818382/000110465925120915/0001104659-25-120915-index.htm": {
+      "title": "8-K - Humacyte, Inc. (0001818382) (Filer)",
+      "updated": "2025-12-15T09:12:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T14:33:18.790632+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1392380/000110465925120909/0001104659-25-120909-index.htm": {
+      "title": "8-K - Gevo, Inc. (0001392380) (Filer)",
+      "updated": "2025-12-15T09:05:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T14:33:19.904257+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1606163/000162828025056884/0001628280-25-056884-index.htm": {
+      "title": "8-K - Limbach Holdings, Inc. (0001606163) (Filer)",
+      "updated": "2025-12-15T09:03:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T14:33:21.045904+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1564708/000156470825000602/0001564708-25-000602-index.htm": {
+      "title": "8-K - NEWS CORP (0001564708) (Filer)",
+      "updated": "2025-12-15T09:03:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T14:33:22.147595+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1630212/000121390025121489/0001213900-25-121489-index.htm": {
+      "title": "8-K - Avalon GloboCare Corp. (0001630212) (Filer)",
+      "updated": "2025-12-15T09:01:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T14:33:23.263549+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1584693/000149315225027661/0001493152-25-027661-index.htm": {
+      "title": "10-Q - SafeSpace Global Corp (0001584693) (Filer)",
+      "updated": "2025-12-15T09:01:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T14:33:24.378689+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1408443/000110465925120904/0001104659-25-120904-index.htm": {
+      "title": "8-K - Milestone Pharmaceuticals Inc. (0001408443) (Filer)",
+      "updated": "2025-12-15T08:56:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T14:33:25.491082+00:00"
     }
   }
 }
