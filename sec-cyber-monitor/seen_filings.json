@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-15T15:00:32.921832+00:00",
+  "last_checked": "2025-12-15T15:41:57.545799+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35399,6 +35399,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-15T15:00:31.893220+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1061219/000119312525318675/0001193125-25-318675-index.htm": {
+      "title": "8-K - ENTERPRISE PRODUCTS PARTNERS L.P. (0001061219) (Filer)",
+      "updated": "2025-12-15T10:34:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T15:41:50.770133+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2074652/000207465225000013/0002074652-25-000013-index.htm": {
+      "title": "NT 10-Q - Venyra Corp (0002074652) (Filer)",
+      "updated": "2025-12-15T10:31:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T15:41:51.903706+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1329842/000165495425013952/0001654954-25-013952-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
+      "updated": "2025-12-15T10:30:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T15:41:53.046752+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1972234/000121390025121378/0001213900-25-121378-index.htm": {
+      "title": "10-Q/A - VenHub Global, Inc. (0001972234) (Filer)",
+      "updated": "2025-12-15T10:22:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T15:41:54.189016+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1297341/000121390025121522/0001213900-25-121522-index.htm": {
+      "title": "8-K - Kentucky First Federal Bancorp (0001297341) (Filer)",
+      "updated": "2025-12-15T10:19:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T15:41:55.387925+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/831378/000147793225008954/0001477932-25-008954-index.htm": {
+      "title": "NT 10-Q - LVPAI GROUP Ltd (0000831378) (Filer)",
+      "updated": "2025-12-15T10:10:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T15:41:56.517393+00:00"
     }
   }
 }
