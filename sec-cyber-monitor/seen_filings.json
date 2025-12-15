@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-15T20:57:09.904341+00:00",
+  "last_checked": "2025-12-15T21:28:45.414468+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35567,6 +35567,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-15T20:57:08.876913+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/712515/000114036125045522/0001140361-25-045522-index.htm": {
+      "title": "8-K - ELECTRONIC ARTS INC. (0000712515) (Filer)",
+      "updated": "2025-12-15T16:22:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T21:28:40.065437+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1373715/000137371525000329/0001373715-25-000329-index.htm": {
+      "title": "8-K - ServiceNow, Inc. (0001373715) (Filer)",
+      "updated": "2025-12-15T16:20:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T21:28:41.146552+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1633978/000162828025057025/0001628280-25-057025-index.htm": {
+      "title": "8-K - Lumentum Holdings Inc. (0001633978) (Filer)",
+      "updated": "2025-12-15T16:20:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T21:28:42.227525+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1823587/000143774925037848/0001437749-25-037848-index.htm": {
+      "title": "8-K - Sky Harbour Group Corp (0001823587) (Filer)",
+      "updated": "2025-12-15T16:19:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T21:28:43.307610+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1474098/000147409825000150/0001474098-25-000150-index.htm": {
+      "title": "8-K - Pebblebrook Hotel Trust (0001474098) (Filer)",
+      "updated": "2025-12-15T16:19:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T21:28:44.385106+00:00"
     }
   }
 }
