@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-15T21:46:44.005531+00:00",
+  "last_checked": "2025-12-15T22:27:42.901087+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35644,6 +35644,76 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-15T21:46:42.976527+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1705873/000119312525319454/0001193125-25-319454-index.htm": {
+      "title": "8-K - Berry Corp (bry) (0001705873) (Filer)",
+      "updated": "2025-12-15T17:27:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T22:27:32.133884+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1649739/000164973925000259/0001649739-25-000259-index.htm": {
+      "title": "8-K - BayFirst Financial Corp. (0001649739) (Filer)",
+      "updated": "2025-12-15T17:24:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T22:27:33.213756+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/797542/000149315225027799/0001493152-25-027799-index.htm": {
+      "title": "8-K - Viewbix Inc. (0000797542) (Filer)",
+      "updated": "2025-12-15T17:23:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T22:27:34.301924+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1958777/000119312525319441/0001193125-25-319441-index.htm": {
+      "title": "8-K - FibroBiologics, Inc. (0001958777) (Filer)",
+      "updated": "2025-12-15T17:22:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T22:27:35.382624+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2064947/000119312525319440/0001193125-25-319440-index.htm": {
+      "title": "8-K - WaterBridge Infrastructure LLC (0002064947) (Filer)",
+      "updated": "2025-12-15T17:21:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T22:27:36.460461+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/894158/000110465925121246/0001104659-25-121246-index.htm": {
+      "title": "8-K - Theriva Biologics, Inc. (0000894158) (Filer)",
+      "updated": "2025-12-15T17:21:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T22:27:37.538830+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1175535/000143774925037880/0001437749-25-037880-index.htm": {
+      "title": "8-K - Whitestone REIT (0001175535) (Filer)",
+      "updated": "2025-12-15T17:21:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T22:27:38.620236+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1414767/000149315225027798/0001493152-25-027798-index.htm": {
+      "title": "8-K - Netcapital Inc. (0001414767) (Filer)",
+      "updated": "2025-12-15T17:21:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T22:27:39.699449+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1894954/000190359625000583/0001903596-25-000583-index.htm": {
+      "title": "8-K - Expion360 Inc. (0001894954) (Filer)",
+      "updated": "2025-12-15T17:20:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T22:27:40.778993+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2081468/000121390025121760/0001213900-25-121760-index.htm": {
+      "title": "8-K - Meshflow Acquisition Corp (0002081468) (Filer)",
+      "updated": "2025-12-15T17:20:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T22:27:41.871994+00:00"
     }
   }
 }
