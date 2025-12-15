@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-15T14:33:26.518335+00:00",
+  "last_checked": "2025-12-15T15:00:32.921832+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35392,6 +35392,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-15T14:33:25.491082+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/708955/000070895525000116/0000708955-25-000116-index.htm": {
+      "title": "8-K - FIRST FINANCIAL BANCORP /OH/ (0000708955) (Filer)",
+      "updated": "2025-12-15T09:55:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T15:00:31.893220+00:00"
     }
   }
 }
