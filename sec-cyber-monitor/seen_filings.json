@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-15T11:29:16.001313+00:00",
+  "last_checked": "2025-12-15T11:46:08.391455+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35021,6 +35021,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-15T11:29:14.974001+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/933972/000119312525318380/0001193125-25-318380-index.htm": {
+      "title": "8-K - 374Water Inc. (0000933972) (Filer)",
+      "updated": "2025-12-15T06:30:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T11:46:06.274204+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1994702/000119312525318377/0001193125-25-318377-index.htm": {
+      "title": "8-K - Kyverna Therapeutics, Inc. (0001994702) (Filer)",
+      "updated": "2025-12-15T06:30:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T11:46:07.362930+00:00"
     }
   }
 }
