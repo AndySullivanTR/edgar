@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-15T13:01:35.703972+00:00",
+  "last_checked": "2025-12-15T13:52:48.759719+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35203,6 +35203,111 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-15T13:01:34.675361+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/877212/000162828025056882/0001628280-25-056882-index.htm": {
+      "title": "8-K - ZEBRA TECHNOLOGIES CORP (0000877212) (Filer)",
+      "updated": "2025-12-15T08:52:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:52:31.786681+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/744452/000110465925120899/0001104659-25-120899-index.htm": {
+      "title": "8-K - BNB PLUS CORP. (0000744452) (Filer)",
+      "updated": "2025-12-15T08:46:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:52:32.941194+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1829311/000149315225027660/0001493152-25-027660-index.htm": {
+      "title": "8-K - BITMINE IMMERSION TECHNOLOGIES, INC. (0001829311) (Filer)",
+      "updated": "2025-12-15T08:45:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:52:34.054874+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1434588/000110465925120898/0001104659-25-120898-index.htm": {
+      "title": "8-K - Grand Canyon Education, Inc. (0001434588) (Filer)",
+      "updated": "2025-12-15T08:45:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:52:35.166247+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1425355/000165495425013935/0001654954-25-013935-index.htm": {
+      "title": "8-K - SUI Group Holdings Ltd. (0001425355) (Filer)",
+      "updated": "2025-12-15T08:42:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:52:36.321820+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/766829/000162828025056880/0001628280-25-056880-index.htm": {
+      "title": "8-K - H2O AMERICA (0000766829) (Filer)",
+      "updated": "2025-12-15T08:35:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:52:37.463859+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1603015/000160301525000045/0001603015-25-000045-index.htm": {
+      "title": "8-K - Via Transportation, Inc. (0001603015) (Filer)",
+      "updated": "2025-12-15T08:33:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:52:38.622774+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1768224/000119380525001734/0001193805-25-001734-index.htm": {
+      "title": "8-K - Arcturus Therapeutics Holdings Inc. (0001768224) (Filer)",
+      "updated": "2025-12-15T08:30:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:52:39.777377+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1429260/000110465925120893/0001104659-25-120893-index.htm": {
+      "title": "8-K - Fortress Biotech, Inc. (0001429260) (Filer)",
+      "updated": "2025-12-15T08:30:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:52:40.908069+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1383414/000119312525318545/0001193125-25-318545-index.htm": {
+      "title": "8-K - PENNANTPARK INVESTMENT CORP (0001383414) (Filer)",
+      "updated": "2025-12-15T08:30:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:52:42.018901+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1920406/000162828025056878/0001628280-25-056878-index.htm": {
+      "title": "8-K - Strive, Inc. (0001920406) (Filer)",
+      "updated": "2025-12-15T08:29:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:52:43.171818+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1141103/000162828025056873/0001628280-25-056873-index.htm": {
+      "title": "8-K - CROSS COUNTRY HEALTHCARE INC (0001141103) (Filer)",
+      "updated": "2025-12-15T08:20:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:52:44.313364+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1828161/000119312525318530/0001193125-25-318530-index.htm": {
+      "title": "8-K - FTC Solar, Inc. (0001828161) (Filer)",
+      "updated": "2025-12-15T08:19:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:52:45.463045+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1994624/000110465925120889/0001104659-25-120889-index.htm": {
+      "title": "8-K - ScanTech AI Systems Inc. (0001994624) (Filer)",
+      "updated": "2025-12-15T08:15:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:52:46.613797+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1683553/000119312525318488/0001193125-25-318488-index.htm": {
+      "title": "8-K - SPRUCE BIOSCIENCES, INC. (0001683553) (Filer)",
+      "updated": "2025-12-15T08:05:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:52:47.731036+00:00"
     }
   }
 }
