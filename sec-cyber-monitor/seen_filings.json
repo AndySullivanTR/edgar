@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-15T16:46:47.979604+00:00",
+  "last_checked": "2025-12-15T17:31:07.553276+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35455,6 +35455,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-15T16:46:46.950971+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1758057/000114036125045494/0001140361-25-045494-index.htm": {
+      "title": "8-K - Luminar Technologies, Inc./DE (0001758057) (Filer)",
+      "updated": "2025-12-15T12:11:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T17:31:06.524416+00:00"
     }
   }
 }
