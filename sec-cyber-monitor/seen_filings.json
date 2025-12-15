@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-15T10:58:33.747894+00:00",
+  "last_checked": "2025-12-15T11:29:16.001313+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -34944,6 +34944,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-12T22:45:57.758447+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1445815/000149315225027639/0001493152-25-027639-index.htm": {
+      "title": "8-K - BIOXYTRAN, INC (0001445815) (Filer)",
+      "updated": "2025-12-15T06:15:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T11:29:03.645968+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1417892/000110465925120808/0001104659-25-120808-index.htm": {
+      "title": "8-K - Emeren Group Ltd (0001417892) (Filer)",
+      "updated": "2025-12-15T06:15:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T11:29:04.787329+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1680689/000164033425002318/0001640334-25-002318-index.htm": {
+      "title": "10-Q - Natural Resource Holdings, Inc. (0001680689) (Filer)",
+      "updated": "2025-12-15T06:14:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T11:29:05.926572+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/38777/000003877725000273/0000038777-25-000273-index.htm": {
+      "title": "8-K - FRANKLIN RESOURCES INC (0000038777) (Filer)",
+      "updated": "2025-12-15T06:05:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T11:29:07.063817+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2076163/000149315225027629/0001493152-25-027629-index.htm": {
+      "title": "8-K/A - ProCap Financial, Inc. (0002076163) (Filer)",
+      "updated": "2025-12-15T06:05:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T11:29:08.207554+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1583648/000110465925120789/0001104659-25-120789-index.htm": {
+      "title": "8-K - PALVELLA THERAPEUTICS, INC. (0001583648) (Filer)",
+      "updated": "2025-12-15T06:05:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T11:29:09.356782+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2011514/000114036125045444/0001140361-25-045444-index.htm": {
+      "title": "8-K - Anteris Technologies Global Corp. (0002011514) (Filer)",
+      "updated": "2025-12-15T06:05:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T11:29:10.454911+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1498148/000149315225027625/0001493152-25-027625-index.htm": {
+      "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+      "updated": "2025-12-15T06:03:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T11:29:11.600345+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1518461/000149315225027624/0001493152-25-027624-index.htm": {
+      "title": "8-K - AmpliTech Group, Inc. (0001518461) (Filer)",
+      "updated": "2025-12-15T06:03:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T11:29:12.698331+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1159167/000119312525318337/0001193125-25-318337-index.htm": {
+      "title": "8-K - IROBOT CORP (0001159167) (Filer)",
+      "updated": "2025-12-15T06:02:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T11:29:13.837412+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1930313/000119312525318331/0001193125-25-318331-index.htm": {
+      "title": "8-K - SBC Medical Group Holdings Inc (0001930313) (Filer)",
+      "updated": "2025-12-15T06:01:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T11:29:14.974001+00:00"
     }
   }
 }
