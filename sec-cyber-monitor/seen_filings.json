@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-15T15:59:41.274388+00:00",
+  "last_checked": "2025-12-15T16:46:47.979604+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35448,6 +35448,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-15T15:59:40.245921+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1710495/000171049525000008/0001710495-25-000008-index.htm": {
+      "title": "NT 10-Q - PINEAPPLE EXPRESS CANNABIS Co (0001710495) (Filer)",
+      "updated": "2025-12-15T11:44:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T16:46:46.950971+00:00"
     }
   }
 }
