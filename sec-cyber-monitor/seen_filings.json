@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-15T19:53:31.932217+00:00",
+  "last_checked": "2025-12-15T20:33:20.607960+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35539,6 +35539,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-15T19:53:30.903315+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/933972/000165495425013966/0001654954-25-013966-index.htm": {
+      "title": "8-K - 374Water Inc. (0000933972) (Filer)",
+      "updated": "2025-12-15T15:25:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T20:33:18.444092+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1625941/000162828025056955/0001628280-25-056955-index.htm": {
+      "title": "8-K - ARES INDUSTRIAL REAL ESTATE INCOME TRUST Inc. (0001625941) (Filer)",
+      "updated": "2025-12-15T15:19:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T20:33:19.579310+00:00"
     }
   }
 }
