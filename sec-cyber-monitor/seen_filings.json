@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-15T19:02:48.585262+00:00",
+  "last_checked": "2025-12-15T19:32:43.996253+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35497,6 +35497,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-15T19:02:47.556885+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/717720/000143774925037818/0001437749-25-037818-index.htm": {
+      "title": "10-Q - VALUE LINE INC (0000717720) (Filer)",
+      "updated": "2025-12-15T14:31:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T19:32:38.347423+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1703625/000119983525000427/0001199835-25-000427-index.htm": {
+      "title": "10-Q - NAPC Defense, Inc. (0001703625) (Filer)",
+      "updated": "2025-12-15T14:29:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T19:32:39.495414+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1696025/000147793225008965/0001477932-25-008965-index.htm": {
+      "title": "NT 10-Q - Kindcard, Inc. (0001696025) (Filer)",
+      "updated": "2025-12-15T14:26:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T19:32:40.637135+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1424864/000106299325017335/0001062993-25-017335-index.htm": {
+      "title": "10-Q - Rise Gold Corp. (0001424864) (Filer)",
+      "updated": "2025-12-15T14:14:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T19:32:41.825422+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1871890/000187189025000011/0001871890-25-000011-index.htm": {
+      "title": "10-Q - Galaxy Enterprises Inc. /WY/ (0001871890) (Filer)",
+      "updated": "2025-12-15T14:14:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T19:32:42.966275+00:00"
     }
   }
 }
