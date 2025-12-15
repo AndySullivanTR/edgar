@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-15T17:56:37.668665+00:00",
+  "last_checked": "2025-12-15T18:44:08.766421+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35476,6 +35476,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-15T17:56:36.640043+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2035428/000203542825000044/0002035428-25-000044-index.htm": {
+      "title": "8-K - Franklin BSP Real Estate Debt, Inc. (0002035428) (Filer)",
+      "updated": "2025-12-15T13:36:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T18:44:07.736565+00:00"
     }
   }
 }
