@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-15T20:33:20.607960+00:00",
+  "last_checked": "2025-12-15T20:57:09.904341+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35553,6 +35553,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-15T20:33:19.579310+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1423689/000142368925000111/0001423689-25-000111-index.htm": {
+      "title": "8-K - AGNC Investment Corp. (0001423689) (Filer)",
+      "updated": "2025-12-15T15:35:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T20:57:01.845798+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1979306/000110465925121084/0001104659-25-121084-index.htm": {
+      "title": "8-K - Andalusian Credit Company, LLC (0001979306) (Filer)",
+      "updated": "2025-12-15T15:34:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T20:57:08.876913+00:00"
     }
   }
 }
