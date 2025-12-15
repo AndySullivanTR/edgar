@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-15T17:31:07.553276+00:00",
+  "last_checked": "2025-12-15T17:56:37.668665+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35462,6 +35462,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-15T17:31:06.524416+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/949961/000199937125020308/0001999371-25-020308-index.htm": {
+      "title": "8-K - INCOME OPPORTUNITY REALTY INVESTORS INC /TX/ (0000949961) (Filer)",
+      "updated": "2025-12-15T12:51:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T17:56:35.552698+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1966394/000119312525318816/0001193125-25-318816-index.htm": {
+      "title": "8-K - Fortress Net Lease REIT (0001966394) (Filer)",
+      "updated": "2025-12-15T12:48:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T17:56:36.640043+00:00"
     }
   }
 }
