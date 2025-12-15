@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-15T15:41:57.545799+00:00",
+  "last_checked": "2025-12-15T15:59:41.274388+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35441,6 +35441,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-15T15:41:56.517393+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/66756/000114036125045482/0001140361-25-045482-index.htm": {
+      "title": "8-K - ALLETE INC (0000066756) (Filer)",
+      "updated": "2025-12-15T10:57:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T15:59:40.245921+00:00"
     }
   }
 }
