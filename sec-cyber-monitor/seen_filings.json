@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-15T11:46:08.391455+00:00",
+  "last_checked": "2025-12-15T13:01:35.703972+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35035,6 +35035,174 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-15T11:46:07.362930+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1905956/000121390025121467/0001213900-25-121467-index.htm": {
+      "title": "8-K - TREASURE GLOBAL INC (0001905956) (Filer)",
+      "updated": "2025-12-15T08:00:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:09.608469+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1841330/000121390025121466/0001213900-25-121466-index.htm": {
+      "title": "8-K - Pasithea Therapeutics Corp. (0001841330) (Filer)",
+      "updated": "2025-12-15T08:00:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:10.761135+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1554818/000168316825009126/0001683168-25-009126-index.htm": {
+      "title": "8-K - AUDDIA INC. (0001554818) (Filer)",
+      "updated": "2025-12-15T08:00:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:11.883065+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1050446/000119312525318468/0001193125-25-318468-index.htm": {
+      "title": "8-K - Strategy Inc (0001050446) (Filer)",
+      "updated": "2025-12-15T08:00:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:13.020538+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1994702/000119312525318469/0001193125-25-318469-index.htm": {
+      "title": "8-K - Kyverna Therapeutics, Inc. (0001994702) (Filer)",
+      "updated": "2025-12-15T08:00:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:14.155382+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1540013/000110465925120884/0001104659-25-120884-index.htm": {
+      "title": "8-K - Quipt Home Medical Corp. (0001540013) (Filer)",
+      "updated": "2025-12-15T07:51:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:15.233272+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1553643/000121390025121461/0001213900-25-121461-index.htm": {
+      "title": "8-K - RELMADA THERAPEUTICS, INC. (0001553643) (Filer)",
+      "updated": "2025-12-15T07:50:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:16.311913+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1540013/000110465925120879/0001104659-25-120879-index.htm": {
+      "title": "10-K - Quipt Home Medical Corp. (0001540013) (Filer)",
+      "updated": "2025-12-15T07:44:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:17.393104+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1519061/000110465925120876/0001104659-25-120876-index.htm": {
+      "title": "8-K - Trinseo PLC (0001519061) (Filer)",
+      "updated": "2025-12-15T07:38:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:18.471559+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1540013/000110465925120873/0001104659-25-120873-index.htm": {
+      "title": "8-K - Quipt Home Medical Corp. (0001540013) (Filer)",
+      "updated": "2025-12-15T07:35:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:19.547845+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/887151/000121390025121453/0001213900-25-121453-index.htm": {
+      "title": "8-K - Capstone Holding Corp. (0000887151) (Filer)",
+      "updated": "2025-12-15T07:30:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:20.628087+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1743745/000149315225027648/0001493152-25-027648-index.htm": {
+      "title": "8-K - Greenlane Holdings, Inc. (0001743745) (Filer)",
+      "updated": "2025-12-15T07:30:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:21.704075+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1262823/000119312525318445/0001193125-25-318445-index.htm": {
+      "title": "8-K - WESTLAKE CORP (0001262823) (Filer)",
+      "updated": "2025-12-15T07:30:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:22.801690+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1852244/000110465925120872/0001104659-25-120872-index.htm": {
+      "title": "8-K - GXO Logistics, Inc. (0001852244) (Filer)",
+      "updated": "2025-12-15T07:30:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:23.880049+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/76605/000007660525000228/0000076605-25-000228-index.htm": {
+      "title": "8-K - PATRICK INDUSTRIES INC (0000076605) (Filer)",
+      "updated": "2025-12-15T07:16:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:24.956064+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1893219/000121390025121446/0001213900-25-121446-index.htm": {
+      "title": "8-K - Abpro Holdings, Inc. (0001893219) (Filer)",
+      "updated": "2025-12-15T07:16:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:26.032454+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1737927/000110465925120861/0001104659-25-120861-index.htm": {
+      "title": "8-K - Canopy Growth Corp (0001737927) (Filer)",
+      "updated": "2025-12-15T07:15:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:27.114753+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1798749/000119312525318436/0001193125-25-318436-index.htm": {
+      "title": "8-K - Jade Biosciences, Inc. (0001798749) (Filer)",
+      "updated": "2025-12-15T07:11:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:28.192458+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1801169/000114036125045459/0001140361-25-045459-index.htm": {
+      "title": "8-K - Opendoor Technologies Inc. (0001801169) (Filer)",
+      "updated": "2025-12-15T07:10:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:29.270096+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/910406/000119312525318435/0001193125-25-318435-index.htm": {
+      "title": "8-K - HAIN CELESTIAL GROUP INC (0000910406) (Filer)",
+      "updated": "2025-12-15T07:08:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:30.348169+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1166003/000110465925120856/0001104659-25-120856-index.htm": {
+      "title": "8-K - XPO, Inc. (0001166003) (Filer)",
+      "updated": "2025-12-15T07:06:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:31.425139+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1472012/000119312525318429/0001193125-25-318429-index.htm": {
+      "title": "8-K - Immunome Inc. (0001472012) (Filer)",
+      "updated": "2025-12-15T07:05:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:32.511974+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1622536/000162253625000041/0001622536-25-000041-index.htm": {
+      "title": "8-K - Talen Energy Corp (0001622536) (Filer)",
+      "updated": "2025-12-15T07:03:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:33.593260+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1378140/000149315225027644/0001493152-25-027644-index.htm": {
+      "title": "10-Q - Ocean Power Technologies, Inc. (0001378140) (Filer)",
+      "updated": "2025-12-15T07:01:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T13:01:34.675361+00:00"
     }
   }
 }
