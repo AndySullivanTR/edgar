@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-15T18:44:08.766421+00:00",
+  "last_checked": "2025-12-15T19:02:48.585262+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35483,6 +35483,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-15T18:44:07.736565+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1556801/000164033425002321/0001640334-25-002321-index.htm": {
+      "title": "10-Q - My City Builders, Inc. (0001556801) (Filer)",
+      "updated": "2025-12-15T14:00:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T19:02:46.475548+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2037431/000182912625010008/0001829126-25-010008-index.htm": {
+      "title": "NT 10-Q - Pelican Acquisition Corp (0002037431) (Filer)",
+      "updated": "2025-12-15T13:49:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T19:02:47.556885+00:00"
     }
   }
 }
