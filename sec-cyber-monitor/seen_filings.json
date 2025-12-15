@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-15T21:28:45.414468+00:00",
+  "last_checked": "2025-12-15T21:46:44.005531+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35602,6 +35602,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-15T21:28:44.385106+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331463/000133146325000243/0001331463-25-000243-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Boston (0001331463) (Filer)",
+      "updated": "2025-12-15T16:41:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T21:46:37.517678+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1234006/000119312525319308/0001193125-25-319308-index.htm": {
+      "title": "8-K - GLADSTONE COMMERCIAL CORP (0001234006) (Filer)",
+      "updated": "2025-12-15T16:41:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T21:46:38.608381+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/39092/000143774925037861/0001437749-25-037861-index.htm": {
+      "title": "8-K - FRIEDMAN INDUSTRIES INC (0000039092) (Filer)",
+      "updated": "2025-12-15T16:37:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T21:46:39.700700+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1879016/000110465925121192/0001104659-25-121192-index.htm": {
+      "title": "8-K - Ivanhoe Electric Inc. (0001879016) (Filer)",
+      "updated": "2025-12-15T16:36:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T21:46:40.791922+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1851961/000092963825004601/0000929638-25-004601-index.htm": {
+      "title": "8-K - GCT Semiconductor Holding, Inc. (0001851961) (Filer)",
+      "updated": "2025-12-15T16:36:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T21:46:41.883413+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1425287/000121390025121720/0001213900-25-121720-index.htm": {
+      "title": "8-K - Workhorse Group Inc. (0001425287) (Filer)",
+      "updated": "2025-12-15T16:35:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-15T21:46:42.976527+00:00"
     }
   }
 }
