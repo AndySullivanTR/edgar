@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-16T20:55:53.399489+00:00",
+  "last_checked": "2025-12-16T21:28:27.785385+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -36239,6 +36239,69 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-16T20:55:52.370176+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1555017/000155501725000006/0001555017-25-000006-index.htm": {
+      "title": "10-K - Sky Century Investment, Inc. (0001555017) (Filer)",
+      "updated": "2025-12-16T16:26:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T21:28:18.075946+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1562476/000119312525320920/0001193125-25-320920-index.htm": {
+      "title": "8-K - Taylor Morrison Home Corp (0001562476) (Filer)",
+      "updated": "2025-12-16T16:26:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T21:28:19.165322+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/912593/000091259325000284/0000912593-25-000284-index.htm": {
+      "title": "8-K - SUN COMMUNITIES INC (0000912593) (Filer)",
+      "updated": "2025-12-16T16:26:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T21:28:20.254128+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1166691/000162828025057396/0001628280-25-057396-index.htm": {
+      "title": "8-K - COMCAST CORP (0001166691) (Filer)",
+      "updated": "2025-12-16T16:26:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T21:28:21.339185+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1706431/000162828025057394/0001628280-25-057394-index.htm": {
+      "title": "8-K - Vir Biotechnology, Inc. (0001706431) (Filer)",
+      "updated": "2025-12-16T16:25:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T21:28:22.428072+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1854275/000121390025122278/0001213900-25-122278-index.htm": {
+      "title": "8-K - Zoomcar Holdings, Inc. (0001854275) (Filer)",
+      "updated": "2025-12-16T16:24:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T21:28:23.511350+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1758766/000175876625000081/0001758766-25-000081-index.htm": {
+      "title": "8-K - STEM, INC. (0001758766) (Filer)",
+      "updated": "2025-12-16T16:23:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T21:28:24.590635+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1627282/000162728225000164/0001627282-25-000164-index.htm": {
+      "title": "8-K - CaliberCos Inc. (0001627282) (Filer)",
+      "updated": "2025-12-16T16:23:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T21:28:25.672728+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1585101/000162828025057391/0001628280-25-057391-index.htm": {
+      "title": "8-K - HINES GLOBAL INCOME TRUST, INC. (0001585101) (Filer)",
+      "updated": "2025-12-16T16:23:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T21:28:26.755634+00:00"
     }
   }
 }
