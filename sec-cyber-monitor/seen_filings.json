@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-16T21:45:35.769752+00:00",
+  "last_checked": "2025-12-16T22:25:42.241980+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -36330,6 +36330,90 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-16T21:45:34.740097+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/804328/000080432825000098/0000804328-25-000098-index.htm": {
+      "title": "8-K - QUALCOMM INC/DE (0000804328) (Filer)",
+      "updated": "2025-12-16T17:22:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T22:25:28.911121+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1777319/000149315225028007/0001493152-25-028007-index.htm": {
+      "title": "8-K - CISO Global, Inc. (0001777319) (Filer)",
+      "updated": "2025-12-16T17:21:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T22:25:29.997780+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1498710/000095010325016205/0000950103-25-016205-index.htm": {
+      "title": "8-K - Spirit Aviation Holdings, Inc. (0001498710) (Filer)",
+      "updated": "2025-12-16T17:21:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T22:25:31.128696+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1659617/000143774925038047/0001437749-25-038047-index.htm": {
+      "title": "8-K - Moleculin Biotech, Inc. (0001659617) (Filer)",
+      "updated": "2025-12-16T17:20:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T22:25:32.214175+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1849466/000094337425000515/0000943374-25-000515-index.htm": {
+      "title": "8-K - Texas Community Bancshares, Inc. (0001849466) (Filer)",
+      "updated": "2025-12-16T17:18:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T22:25:33.301221+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1739445/000173944525000140/0001739445-25-000140-index.htm": {
+      "title": "8-K - Arcosa, Inc. (0001739445) (Filer)",
+      "updated": "2025-12-16T17:18:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T22:25:34.386848+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/356037/000035603725000065/0000356037-25-000065-index.htm": {
+      "title": "10-K - CSP INC /MA/ (0000356037) (Filer)",
+      "updated": "2025-12-16T17:17:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T22:25:35.476416+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2082149/000121390025122356/0001213900-25-122356-index.htm": {
+      "title": "8-K - Daedalus Special Acquisition Corp. (0002082149) (Filer)",
+      "updated": "2025-12-16T17:16:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T22:25:36.561974+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1434728/000162828025057444/0001628280-25-057444-index.htm": {
+      "title": "8-K - Global Water Resources, Inc. (0001434728) (Filer)",
+      "updated": "2025-12-16T17:16:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T22:25:37.655085+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1836754/000149315225028004/0001493152-25-028004-index.htm": {
+      "title": "8-K - Legacy Education Inc. (0001836754) (Filer)",
+      "updated": "2025-12-16T17:15:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T22:25:38.832066+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1725430/000149315225028003/0001493152-25-028003-index.htm": {
+      "title": "8-K - INTELLIGENT BIO SOLUTIONS INC. (0001725430) (Filer)",
+      "updated": "2025-12-16T17:15:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T22:25:40.052366+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1820144/000114036125045703/0001140361-25-045703-index.htm": {
+      "title": "8-K - Grindr Inc. (0001820144) (Filer)",
+      "updated": "2025-12-16T17:15:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T22:25:41.211919+00:00"
     }
   }
 }
