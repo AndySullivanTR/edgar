@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-16T14:59:29.519434+00:00",
+  "last_checked": "2025-12-16T15:33:47.582181+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -36099,6 +36099,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-16T14:59:28.489295+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1816554/000168316825009180/0001683168-25-009180-index.htm": {
+      "title": "NT 10-Q - EVENTIKO INC. (0001816554) (Filer)",
+      "updated": "2025-12-16T10:33:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T15:33:42.094247+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2077954/000121390025122023/0001213900-25-122023-index.htm": {
+      "title": "10-Q - Evolution Global Acquisition Corp (0002077954) (Filer)",
+      "updated": "2025-12-16T10:31:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T15:33:43.192947+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/701347/000070134725000063/0000701347-25-000063-index.htm": {
+      "title": "8-K - CENTRAL PACIFIC FINANCIAL CORP (0000701347) (Filer)",
+      "updated": "2025-12-16T10:19:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T15:33:44.313362+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1861560/000119312525320150/0001193125-25-320150-index.htm": {
+      "title": "8-K - Nuvalent, Inc. (0001861560) (Filer)",
+      "updated": "2025-12-16T10:06:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T15:33:45.458863+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331465/000133146525000289/0001331465-25-000289-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer)",
+      "updated": "2025-12-16T10:01:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T15:33:46.552328+00:00"
     }
   }
 }
