@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-16T13:47:50.349839+00:00",
+  "last_checked": "2025-12-16T14:32:01.692565+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35980,6 +35980,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-16T13:47:49.320605+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/356037/000035603725000058/0000356037-25-000058-index.htm": {
+      "title": "8-K - CSP INC /MA/ (0000356037) (Filer)",
+      "updated": "2025-12-16T09:28:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T14:31:49.751902+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331754/000133175425000256/0001331754-25-000256-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer)",
+      "updated": "2025-12-16T09:20:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T14:31:50.864389+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/7431/000119312525320094/0001193125-25-320094-index.htm": {
+      "title": "8-K - ARMSTRONG WORLD INDUSTRIES INC (0000007431) (Filer)",
+      "updated": "2025-12-16T09:15:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T14:31:51.944267+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1056285/000143774925037917/0001437749-25-037917-index.htm": {
+      "title": "10-Q - BRAND HOUSE COLLECTIVE, INC. (0001056285) (Filer)",
+      "updated": "2025-12-16T09:10:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T14:31:53.039774+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1056285/000143774925037915/0001437749-25-037915-index.htm": {
+      "title": "8-K - BRAND HOUSE COLLECTIVE, INC. (0001056285) (Filer)",
+      "updated": "2025-12-16T09:06:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T14:31:54.132725+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/932781/000155278125000463/0001552781-25-000463-index.htm": {
+      "title": "8-K - FIRST COMMUNITY CORP /SC/ (0000932781) (Filer)",
+      "updated": "2025-12-16T09:05:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T14:31:55.215841+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1579214/000119312525320084/0001193125-25-320084-index.htm": {
+      "title": "8-K - Emerald Holding, Inc. (0001579214) (Filer)",
+      "updated": "2025-12-16T09:05:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T14:31:56.299763+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1964738/000196473825000094/0001964738-25-000094-index.htm": {
+      "title": "8-K - Solventum Corp (0001964738) (Filer)",
+      "updated": "2025-12-16T09:02:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T14:31:57.396567+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1005731/000149315225027909/0001493152-25-027909-index.htm": {
+      "title": "8-K - IDT CORP (0001005731) (Filer)",
+      "updated": "2025-12-16T09:00:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T14:31:58.485487+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/883237/000088323725000133/0000883237-25-000133-index.htm": {
+      "title": "8-K - VIRTUS INVESTMENT PARTNERS, INC. (0000883237) (Filer)",
+      "updated": "2025-12-16T08:57:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T14:31:59.568751+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/61004/000143774925037913/0001437749-25-037913-index.htm": {
+      "title": "8-K - LGL GROUP INC (0000061004) (Filer)",
+      "updated": "2025-12-16T08:52:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T14:32:00.662649+00:00"
     }
   }
 }
