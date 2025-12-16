@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-16T21:28:27.785385+00:00",
+  "last_checked": "2025-12-16T21:45:35.769752+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -36302,6 +36302,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-16T21:28:26.755634+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1384195/000138419525000024/0001384195-25-000024-index.htm": {
+      "title": "8-K - RING ENERGY, INC. (0001384195) (Filer)",
+      "updated": "2025-12-16T16:44:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T21:45:31.424257+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1512931/000151293125000079/0001512931-25-000079-index.htm": {
+      "title": "8-K - MONROE CAPITAL Corp (0001512931) (Filer)",
+      "updated": "2025-12-16T16:44:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T21:45:32.538931+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1657788/000110465925121625/0001104659-25-121625-index.htm": {
+      "title": "8-K - Kimbell Royalty Partners, LP (0001657788) (Filer)",
+      "updated": "2025-12-16T16:42:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T21:45:33.660059+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1690080/000121390025122304/0001213900-25-122304-index.htm": {
+      "title": "8-K - ETHZilla Corp (0001690080) (Filer)",
+      "updated": "2025-12-16T16:40:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T21:45:34.740097+00:00"
     }
   }
 }
