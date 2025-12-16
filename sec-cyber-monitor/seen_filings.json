@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-16T15:56:27.422576+00:00",
+  "last_checked": "2025-12-16T16:40:27.049419+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -36155,6 +36155,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-16T15:56:26.393482+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1533357/000147793225008979/0001477932-25-008979-index.htm": {
+      "title": "NT 10-Q - DEFENSE TECHNOLOGIES INTERNATIONAL CORP. (0001533357) (Filer)",
+      "updated": "2025-12-16T11:36:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T16:40:23.855967+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1949864/000194986425000028/0001949864-25-000028-index.htm": {
+      "title": "NT 10-Q - Mag Magna Corp (0001949864) (Filer)",
+      "updated": "2025-12-16T11:28:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T16:40:24.936879+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1437479/000117494725001428/0001174947-25-001428-index.htm": {
+      "title": "8-K - ENB Financial Corp (0001437479) (Filer)",
+      "updated": "2025-12-16T11:16:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T16:40:26.019773+00:00"
     }
   }
 }
