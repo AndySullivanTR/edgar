@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-16T17:42:36.568716+00:00",
+  "last_checked": "2025-12-16T17:57:40.347912+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -36176,6 +36176,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-16T16:40:26.019773+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325814/000132581425000229/0001325814-25-000229-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer)",
+      "updated": "2025-12-16T12:56:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T17:57:37.061784+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1621672/000143774925037958/0001437749-25-037958-index.htm": {
+      "title": "8-K - Super League Enterprise, Inc. (0001621672) (Filer)",
+      "updated": "2025-12-16T12:48:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T17:57:38.195337+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1692376/000119312525320465/0001193125-25-320465-index.htm": {
+      "title": "8-K - Velocity Financial, Inc. (0001692376) (Filer)",
+      "updated": "2025-12-16T12:43:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T17:57:39.318505+00:00"
     }
   }
 }
