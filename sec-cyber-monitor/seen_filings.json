@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-16T11:28:40.248869+00:00",
+  "last_checked": "2025-12-16T11:46:01.850102+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35735,6 +35735,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-16T11:28:39.216897+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1937926/000117184325007962/0001171843-25-007962-index.htm": {
+      "title": "8-K - Brookfield Asset Management Ltd. (0001937926) (Filer)",
+      "updated": "2025-12-16T06:45:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T11:45:59.691793+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1015383/000149315225027870/0001493152-25-027870-index.htm": {
+      "title": "8-K - Outdoor Holding Co (0001015383) (Filer)",
+      "updated": "2025-12-16T06:30:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T11:46:00.818122+00:00"
     }
   }
 }
