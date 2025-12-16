@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-16T19:03:30.845882+00:00",
+  "last_checked": "2025-12-16T19:32:14.436457+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -36197,6 +36197,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-16T17:57:39.318505+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/819926/000121390025122168/0001213900-25-122168-index.htm": {
+      "title": "8-K - SHARING ECONOMY INTERNATIONAL INC. (0000819926) (Filer)",
+      "updated": "2025-12-16T14:26:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T19:32:11.131550+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1026214/000102621425000131/0001026214-25-000131-index.htm": {
+      "title": "8-K - FEDERAL HOME LOAN MORTGAGE CORP (0001026214) (Filer)",
+      "updated": "2025-12-16T14:22:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T19:32:12.277421+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1560143/000168316825009189/0001683168-25-009189-index.htm": {
+      "title": "8-K - WYTEC INTERNATIONAL INC (0001560143) (Filer)",
+      "updated": "2025-12-16T14:20:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T19:32:13.406901+00:00"
     }
   }
 }
