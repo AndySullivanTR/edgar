@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-16T12:59:45.619349+00:00",
+  "last_checked": "2025-12-16T13:47:50.349839+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35819,6 +35819,167 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-16T12:59:44.589543+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1232582/000110465925121398/0001104659-25-121398-index.htm": {
+      "title": "8-K - ASHFORD HOSPITALITY TRUST INC (0001232582) (Filer)",
+      "updated": "2025-12-16T08:45:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:24.990857+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/910606/000119312525320036/0001193125-25-320036-index.htm": {
+      "title": "8-K - REGENCY CENTERS CORP (0000910606) (Filer)",
+      "updated": "2025-12-16T08:35:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:26.103129+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1306830/000162828025057235/0001628280-25-057235-index.htm": {
+      "title": "8-K - Celanese Corp (0001306830) (Filer)",
+      "updated": "2025-12-16T08:30:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:27.200839+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/78749/000119312525320031/0001193125-25-320031-index.htm": {
+      "title": "8-K - AGILYSYS INC (0000078749) (Filer)",
+      "updated": "2025-12-16T08:30:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:28.301674+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1664740/000149315225027893/0001493152-25-027893-index.htm": {
+      "title": "8-K - MBC FUNDING II CORP. (0001664740) (Filer)",
+      "updated": "2025-12-16T08:30:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:29.398978+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1080340/000149315225027893/0001493152-25-027893-index.htm": {
+      "title": "8-K - MANHATTAN BRIDGE CAPITAL, INC (0001080340) (Filer)",
+      "updated": "2025-12-16T08:30:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:30.517234+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1937993/000121390025121932/0001213900-25-121932-index.htm": {
+      "title": "8-K - Cadrenal Therapeutics, Inc. (0001937993) (Filer)",
+      "updated": "2025-12-16T08:24:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:31.634498+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1849894/000119312525320024/0001193125-25-320024-index.htm": {
+      "title": "8-K - MSD Investment Corp. (0001849894) (Filer)",
+      "updated": "2025-12-16T08:21:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:32.732448+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/73290/000149315225027891/0001493152-25-027891-index.htm": {
+      "title": "8-K - BIOMERICA INC (0000073290) (Filer)",
+      "updated": "2025-12-16T08:19:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:33.827113+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1526243/000110465925121391/0001104659-25-121391-index.htm": {
+      "title": "8-K - PERPETUA RESOURCES CORP. (0001526243) (Filer)",
+      "updated": "2025-12-16T08:12:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:34.918719+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/354190/000035419025000054/0000354190-25-000054-index.htm": {
+      "title": "8-K - Arthur J. Gallagher & Co. (0000354190) (Filer)",
+      "updated": "2025-12-16T08:10:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:36.023134+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/846475/000110465925121390/0001104659-25-121390-index.htm": {
+      "title": "8-K - ZYNEX INC (0000846475) (Filer)",
+      "updated": "2025-12-16T08:09:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:37.133777+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1006837/000100683725000134/0001006837-25-000134-index.htm": {
+      "title": "8-K - INNOVATE Corp. (0001006837) (Filer)",
+      "updated": "2025-12-16T08:07:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:38.231308+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/49071/000004907125000061/0000049071-25-000061-index.htm": {
+      "title": "8-K - HUMANA INC (0000049071) (Filer)",
+      "updated": "2025-12-16T08:05:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:39.323871+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1967649/000114036125045600/0001140361-25-045600-index.htm": {
+      "title": "8-K - Vestis Corp (0001967649) (Filer)",
+      "updated": "2025-12-16T08:01:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:40.418315+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1437925/000147793225008976/0001477932-25-008976-index.htm": {
+      "title": "8-K - Golden Matrix Group, Inc. (0001437925) (Filer)",
+      "updated": "2025-12-16T08:01:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:41.526820+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1909747/000162828025057232/0001628280-25-057232-index.htm": {
+      "title": "8-K - Jushi Holdings Inc. (0001909747) (Filer)",
+      "updated": "2025-12-16T08:01:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:42.622279+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1853070/000162828025057231/0001628280-25-057231-index.htm": {
+      "title": "8-K - Volato Group, Inc. (0001853070) (Filer)",
+      "updated": "2025-12-16T08:00:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:43.757536+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1103833/000147793225008975/0001477932-25-008975-index.htm": {
+      "title": "8-K - Crown Equity Holdings, Inc. (0001103833) (Filer)",
+      "updated": "2025-12-16T08:00:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:44.853604+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1879814/000121390025121919/0001213900-25-121919-index.htm": {
+      "title": "8-K - TLGY ACQUISITION CORP (0001879814) (Filer)",
+      "updated": "2025-12-16T08:00:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:46.027948+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/906709/000119312525320009/0001193125-25-320009-index.htm": {
+      "title": "8-K - NEKTAR THERAPEUTICS (0000906709) (Filer)",
+      "updated": "2025-12-16T08:00:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:47.133483+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/925741/000143774925037910/0001437749-25-037910-index.htm": {
+      "title": "8-K - BioCardia, Inc. (0000925741) (Filer)",
+      "updated": "2025-12-16T08:00:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:48.225483+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1649744/000119312525320008/0001193125-25-320008-index.htm": {
+      "title": "8-K - DULUTH HOLDINGS INC. (0001649744) (Filer)",
+      "updated": "2025-12-16T08:00:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T13:47:49.320605+00:00"
     }
   }
 }
