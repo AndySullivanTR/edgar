@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-16T11:46:01.850102+00:00",
+  "last_checked": "2025-12-16T12:59:45.619349+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35749,6 +35749,76 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-16T11:46:00.818122+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1000753/000100075325000121/0001000753-25-000121-index.htm": {
+      "title": "8-K - INSPERITY, INC. (0001000753) (Filer)",
+      "updated": "2025-12-16T07:52:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T12:59:34.836022+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1826457/000119312525319981/0001193125-25-319981-index.htm": {
+      "title": "8-K - Monte Rosa Therapeutics, Inc. (0001826457) (Filer)",
+      "updated": "2025-12-16T07:30:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T12:59:35.922705+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/912093/000114036125045595/0001140361-25-045595-index.htm": {
+      "title": "8-K - VIAVI SOLUTIONS INC. (0000912093) (Filer)",
+      "updated": "2025-12-16T07:12:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T12:59:37.015305+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1430306/000199937125020361/0001999371-25-020361-index.htm": {
+      "title": "8-K - Tonix Pharmaceuticals Holding Corp. (0001430306) (Filer)",
+      "updated": "2025-12-16T07:05:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T12:59:38.107715+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1579733/000119312525319957/0001193125-25-319957-index.htm": {
+      "title": "8-K - Vital Farms, Inc. (0001579733) (Filer)",
+      "updated": "2025-12-16T07:05:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T12:59:39.186949+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/78003/000007800325000167/0000078003-25-000167-index.htm": {
+      "title": "8-K - PFIZER INC (0000078003) (Filer)",
+      "updated": "2025-12-16T07:01:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T12:59:40.267005+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1637459/000119312525319938/0001193125-25-319938-index.htm": {
+      "title": "8-K - Kraft Heinz Co (0001637459) (Filer)",
+      "updated": "2025-12-16T07:01:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T12:59:41.348945+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1759546/000149315225027873/0001493152-25-027873-index.htm": {
+      "title": "8-K - NU RIDE INC. (0001759546) (Filer)",
+      "updated": "2025-12-16T07:00:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T12:59:42.430249+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1794776/000119312525319936/0001193125-25-319936-index.htm": {
+      "title": "8-K - Palmer Square Capital BDC Inc. (0001794776) (Filer)",
+      "updated": "2025-12-16T07:00:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T12:59:43.508975+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/789933/000078993325000115/0000789933-25-000115-index.htm": {
+      "title": "8-K - NACCO INDUSTRIES INC (0000789933) (Filer)",
+      "updated": "2025-12-16T06:56:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T12:59:44.589543+00:00"
     }
   }
 }
