@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-16T20:32:30.433481+00:00",
+  "last_checked": "2025-12-16T20:55:53.399489+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -36225,6 +36225,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-16T20:32:29.402672+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/92230/000119312525320800/0001193125-25-320800-index.htm": {
+      "title": "8-K - TRUIST FINANCIAL CORP (0000092230) (Filer)",
+      "updated": "2025-12-16T15:48:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T20:55:51.279169+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331463/000133146325000245/0001331463-25-000245-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Boston (0001331463) (Filer)",
+      "updated": "2025-12-16T15:40:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T20:55:52.370176+00:00"
     }
   }
 }
