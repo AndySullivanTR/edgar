@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-16T22:25:42.241980+00:00",
+  "last_checked": "2025-12-16T22:44:42.407126+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -36414,6 +36414,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-16T22:25:41.211919+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1818382/000110465925121674/0001104659-25-121674-index.htm": {
+      "title": "8-K - Humacyte, Inc. (0001818382) (Filer)",
+      "updated": "2025-12-16T17:30:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T22:44:39.104965+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1718405/000149315225028017/0001493152-25-028017-index.htm": {
+      "title": "8-K - HYCROFT MINING HOLDING CORP (0001718405) (Filer)",
+      "updated": "2025-12-16T17:30:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T22:44:40.243140+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1140536/000119312525321190/0001193125-25-321190-index.htm": {
+      "title": "8-K - WILLIS TOWERS WATSON PLC (0001140536) (Filer)",
+      "updated": "2025-12-16T17:30:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T22:44:41.377444+00:00"
     }
   }
 }
