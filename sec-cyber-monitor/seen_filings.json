@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-16T14:32:01.692565+00:00",
+  "last_checked": "2025-12-16T14:59:29.519434+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -36057,6 +36057,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-16T14:32:00.662649+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1506503/000190359625000560/0001903596-25-000560-index.htm": {
+      "title": "8-K - WHITE FOX VENTURES, INC. (0001506503) (Filer)",
+      "updated": "2025-12-16T09:58:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T14:59:22.790048+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1661458/000166145825000033/0001661458-25-000033-index.htm": {
+      "title": "8-K - Highlands REIT, Inc. (0001661458) (Filer)",
+      "updated": "2025-12-16T09:54:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T14:59:23.957045+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1840877/000121390025121987/0001213900-25-121987-index.htm": {
+      "title": "8-K - Envoy Medical, Inc. (0001840877) (Filer)",
+      "updated": "2025-12-16T09:47:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T14:59:25.081094+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1854463/000149315225027915/0001493152-25-027915-index.htm": {
+      "title": "8-K - WinVest Acquisition Corp. (0001854463) (Filer)",
+      "updated": "2025-12-16T09:46:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T14:59:26.240282+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1535955/000149315225027914/0001493152-25-027914-index.htm": {
+      "title": "8-K - Lipocine Inc. (0001535955) (Filer)",
+      "updated": "2025-12-16T09:45:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T14:59:27.386964+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1479419/000182912625010037/0001829126-25-010037-index.htm": {
+      "title": "8-K - KALA BIO, Inc. (0001479419) (Filer)",
+      "updated": "2025-12-16T09:32:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T14:59:28.489295+00:00"
     }
   }
 }
