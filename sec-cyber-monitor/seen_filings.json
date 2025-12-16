@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-16T10:57:42.832047+00:00",
+  "last_checked": "2025-12-16T11:28:40.248869+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -35714,6 +35714,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-15T22:27:41.871994+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2029586/000149315225027867/0001493152-25-027867-index.htm": {
+      "title": "8-K - Blue Line Holdings, Inc. (0002029586) (Filer)",
+      "updated": "2025-12-16T06:09:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T11:28:37.054814+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1378140/000149315225027865/0001493152-25-027865-index.htm": {
+      "title": "8-K - Ocean Power Technologies, Inc. (0001378140) (Filer)",
+      "updated": "2025-12-16T06:07:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T11:28:38.133111+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1138723/000119312525319896/0001193125-25-319896-index.htm": {
+      "title": "8-K - ACCURAY INC (0001138723) (Filer)",
+      "updated": "2025-12-16T06:02:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-16T11:28:39.216897+00:00"
     }
   }
 }
