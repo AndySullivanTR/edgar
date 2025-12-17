@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-17T20:32:30.780068+00:00",
+  "last_checked": "2025-12-17T20:55:57.507472+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -37079,6 +37079,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-17T20:32:29.750177+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1615222/000199937125020539/0001999371-25-020539-index.htm": {
+      "title": "8-K - Moody National REIT II, Inc. (0001615222) (Filer)",
+      "updated": "2025-12-17T15:54:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T20:55:56.469981+00:00"
     }
   }
 }
