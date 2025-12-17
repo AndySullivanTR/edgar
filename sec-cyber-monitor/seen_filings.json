@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-17T14:59:02.896670+00:00",
+  "last_checked": "2025-12-17T15:34:55.886610+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -36799,6 +36799,62 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-17T14:59:01.865835+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1771514/000119312525321933/0001193125-25-321933-index.htm": {
+      "title": "8-K - ExchangeRight Income Fund (0001771514) (Filer)",
+      "updated": "2025-12-17T10:30:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T15:34:46.883578+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1820190/000119312525321928/0001193125-25-321928-index.htm": {
+      "title": "8-K - Scilex Holding Co (0001820190) (Filer)",
+      "updated": "2025-12-17T10:28:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T15:34:48.041312+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/844985/000153949725003303/0001539497-25-003303-index.htm": {
+      "title": "8-K - POSITRON CORP (0000844985) (Filer)",
+      "updated": "2025-12-17T10:21:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T15:34:49.192429+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331451/000133145125000250/0001331451-25-000250-index.htm": {
+      "title": "8-K/A - Federal Home Loan Bank of Chicago (0001331451) (Filer)",
+      "updated": "2025-12-17T10:19:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T15:34:50.309162+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1541157/000149315225028075/0001493152-25-028075-index.htm": {
+      "title": "8-K - Akari Therapeutics Plc (0001541157) (Filer)",
+      "updated": "2025-12-17T10:15:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T15:34:51.424205+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1662972/000166297225000201/0001662972-25-000201-index.htm": {
+      "title": "8-K - Blackstone Real Estate Income Trust, Inc. (0001662972) (Filer)",
+      "updated": "2025-12-17T10:08:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T15:34:52.563813+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/923139/000092313925000048/0000923139-25-000048-index.htm": {
+      "title": "8-K - FLUSHING FINANCIAL CORP (0000923139) (Filer)",
+      "updated": "2025-12-17T10:06:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T15:34:53.702190+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/774415/000168316825009213/0001683168-25-009213-index.htm": {
+      "title": "8-K - King Resources, Inc. (0000774415) (Filer)",
+      "updated": "2025-12-17T10:05:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T15:34:54.856939+00:00"
     }
   }
 }
