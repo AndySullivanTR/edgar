@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-17T12:59:34.883802+00:00",
+  "last_checked": "2025-12-17T13:39:52.788869+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -36540,6 +36540,160 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-17T12:59:33.854217+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1465740/000110465925121835/0001104659-25-121835-index.htm": {
+      "title": "8-K - TWO HARBORS INVESTMENT CORP. (0001465740) (Filer)",
+      "updated": "2025-12-17T08:38:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:28.737505+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1699150/000162828025057497/0001628280-25-057497-index.htm": {
+      "title": "8-K - Ingersoll Rand Inc. (0001699150) (Filer)",
+      "updated": "2025-12-17T08:35:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:29.825939+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1288847/000128884725000242/0001288847-25-000242-index.htm": {
+      "title": "8-K - Five9, Inc. (0001288847) (Filer)",
+      "updated": "2025-12-17T08:33:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:30.926611+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/350894/000035089425000126/0000350894-25-000126-index.htm": {
+      "title": "8-K - SEI INVESTMENTS CO (0000350894) (Filer)",
+      "updated": "2025-12-17T08:32:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:32.033349+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1659617/000143774925038079/0001437749-25-038079-index.htm": {
+      "title": "8-K - Moleculin Biotech, Inc. (0001659617) (Filer)",
+      "updated": "2025-12-17T08:30:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:33.122079+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1476204/000147620425000113/0001476204-25-000113-index.htm": {
+      "title": "8-K - Phillips Edison & Company, Inc. (0001476204) (Filer)",
+      "updated": "2025-12-17T08:26:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:34.211187+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1754195/000175419525000074/0001754195-25-000074-index.htm": {
+      "title": "8-K - Trulieve Cannabis Corp. (0001754195) (Filer)",
+      "updated": "2025-12-17T08:19:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:35.307827+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1981535/000149315225028063/0001493152-25-028063-index.htm": {
+      "title": "8-K - SharpLink Gaming, Inc. (0001981535) (Filer)",
+      "updated": "2025-12-17T08:15:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:36.398863+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1566044/000110465925121828/0001104659-25-121828-index.htm": {
+      "title": "8-K - VYNE Therapeutics Inc. (0001566044) (Filer)",
+      "updated": "2025-12-17T08:15:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:37.490935+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/720875/000106299325017362/0001062993-25-017362-index.htm": {
+      "title": "8-K - DYNATRONICS CORP (0000720875) (Filer)",
+      "updated": "2025-12-17T08:10:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:38.580379+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1662684/000110465925121827/0001104659-25-121827-index.htm": {
+      "title": "8-K - KULR Technology Group, Inc. (0001662684) (Filer)",
+      "updated": "2025-12-17T08:05:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:39.669108+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2030522/000121390025122544/0001213900-25-122544-index.htm": {
+      "title": "8-K - Marwynn Holdings, Inc. (0002030522) (Filer)",
+      "updated": "2025-12-17T08:04:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:40.758053+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2020987/000168316825009203/0001683168-25-009203-index.htm": {
+      "title": "8-K - YHN Acquisition I Ltd (0002020987) (Filer)",
+      "updated": "2025-12-17T08:03:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:41.850765+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1004980/000199937125020477/0001999371-25-020477-index.htm": {
+      "title": "8-K - PG&E Corp (0001004980) (Filer)",
+      "updated": "2025-12-17T08:00:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:42.952224+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/75488/000199937125020477/0001999371-25-020477-index.htm": {
+      "title": "8-K - PACIFIC GAS & ELECTRIC Co (0000075488) (Filer)",
+      "updated": "2025-12-17T08:00:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:44.044385+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1500198/000121390025122541/0001213900-25-122541-index.htm": {
+      "title": "8-K - NEUROONE MEDICAL TECHNOLOGIES Corp (0001500198) (Filer)",
+      "updated": "2025-12-17T08:00:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:45.142615+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1855644/000110465925121826/0001104659-25-121826-index.htm": {
+      "title": "8-K - Zura Bio Ltd (0001855644) (Filer)",
+      "updated": "2025-12-17T08:00:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:46.231394+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2038439/000173112225001681/0001731122-25-001681-index.htm": {
+      "title": "8-K - VisionWave Holdings, Inc. (0002038439) (Filer)",
+      "updated": "2025-12-17T08:00:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:47.323787+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1734750/000121390025122540/0001213900-25-122540-index.htm": {
+      "title": "8-K - Movano Inc. (0001734750) (Filer)",
+      "updated": "2025-12-17T08:00:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:48.417668+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1374690/000119312525321738/0001193125-25-321738-index.htm": {
+      "title": "8-K - Larimar Therapeutics, Inc. (0001374690) (Filer)",
+      "updated": "2025-12-17T08:00:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:49.570176+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1835022/000119312525321737/0001193125-25-321737-index.htm": {
+      "title": "8-K - Coya Therapeutics, Inc. (0001835022) (Filer)",
+      "updated": "2025-12-17T08:00:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:50.662157+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1551306/000155130625000218/0001551306-25-000218-index.htm": {
+      "title": "8-K - Progyny, Inc. (0001551306) (Filer)",
+      "updated": "2025-12-17T08:00:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:39:51.758768+00:00"
     }
   }
 }
