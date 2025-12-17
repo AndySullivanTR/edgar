@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-17T14:33:43.689892+00:00",
+  "last_checked": "2025-12-17T14:59:02.896670+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -36785,6 +36785,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-17T14:33:42.659589+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/27996/000110465925121857/0001104659-25-121857-index.htm": {
+      "title": "8-K - DELUXE CORP (0000027996) (Filer)",
+      "updated": "2025-12-17T09:52:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T14:59:00.731036+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1543418/000127956925001308/0001279569-25-001308-index.htm": {
+      "title": "8-K - Trilogy Metals Inc. (0001543418) (Filer)",
+      "updated": "2025-12-17T09:42:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T14:59:01.865835+00:00"
     }
   }
 }
