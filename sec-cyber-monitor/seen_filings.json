@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-17T15:34:55.886610+00:00",
+  "last_checked": "2025-12-17T15:58:29.128091+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -36855,6 +36855,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-17T15:34:54.856939+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1022671/000110465925121880/0001104659-25-121880-index.htm": {
+      "title": "8-K - STEEL DYNAMICS INC (0001022671) (Filer)",
+      "updated": "2025-12-17T10:54:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T15:58:26.973553+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/863894/000143774925038089/0001437749-25-038089-index.htm": {
+      "title": "10-K - VERU INC. (0000863894) (Filer)",
+      "updated": "2025-12-17T10:49:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T15:58:28.097442+00:00"
     }
   }
 }
