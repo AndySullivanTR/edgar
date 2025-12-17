@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-17T13:39:52.788869+00:00",
+  "last_checked": "2025-12-17T13:57:37.703210+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -36694,6 +36694,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-17T13:39:51.758768+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/737758/000073775825000105/0000737758-25-000105-index.htm": {
+      "title": "8-K - TORO CO (0000737758) (Filer)",
+      "updated": "2025-12-17T08:52:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:57:32.323939+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1127371/000162828025057501/0001628280-25-057501-index.htm": {
+      "title": "8-K - Community West Bancshares (0001127371) (Filer)",
+      "updated": "2025-12-17T08:47:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:57:33.412145+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1156041/000149315225028067/0001493152-25-028067-index.htm": {
+      "title": "8-K - ABUNDIA GLOBAL IMPACT GROUP, INC. (0001156041) (Filer)",
+      "updated": "2025-12-17T08:46:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:57:34.491881+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1137547/000113754725000130/0001137547-25-000130-index.htm": {
+      "title": "8-K - UNITED SECURITY BANCSHARES (0001137547) (Filer)",
+      "updated": "2025-12-17T08:46:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:57:35.591867+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1729427/000168316825009208/0001683168-25-009208-index.htm": {
+      "title": "8-K - CNS Pharmaceuticals, Inc. (0001729427) (Filer)",
+      "updated": "2025-12-17T08:43:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T13:57:36.672525+00:00"
     }
   }
 }
