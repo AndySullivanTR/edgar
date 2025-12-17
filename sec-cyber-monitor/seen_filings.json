@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-17T13:57:37.703210+00:00",
+  "last_checked": "2025-12-17T14:33:43.689892+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -36729,6 +36729,62 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-17T13:57:36.672525+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1397016/000149315225028071/0001493152-25-028071-index.htm": {
+      "title": "10-K - Optex Systems Holdings Inc (0001397016) (Filer)",
+      "updated": "2025-12-17T09:30:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T14:33:35.066581+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1921865/000147793225009004/0001477932-25-009004-index.htm": {
+      "title": "8-K - ASP Isotopes Inc. (0001921865) (Filer)",
+      "updated": "2025-12-17T09:30:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T14:33:36.154840+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/871763/000119312525321814/0001193125-25-321814-index.htm": {
+      "title": "8-K - ManpowerGroup Inc. (0000871763) (Filer)",
+      "updated": "2025-12-17T09:25:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T14:33:37.252993+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1403708/000119312525321801/0001193125-25-321801-index.htm": {
+      "title": "8-K - Evoke Pharma Inc (0001403708) (Filer)",
+      "updated": "2025-12-17T09:08:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T14:33:38.333208+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1618732/000119312525321799/0001193125-25-321799-index.htm": {
+      "title": "8-K - Nutanix, Inc. (0001618732) (Filer)",
+      "updated": "2025-12-17T09:06:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T14:33:39.413820+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1417926/000149315225028070/0001493152-25-028070-index.htm": {
+      "title": "8-K - INVO Fertility, Inc. (0001417926) (Filer)",
+      "updated": "2025-12-17T09:05:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T14:33:40.499143+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1820566/000182056625000210/0001820566-25-000210-index.htm": {
+      "title": "8-K - Inspirato Inc (0001820566) (Filer)",
+      "updated": "2025-12-17T09:03:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T14:33:41.580321+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1855447/000121390025122558/0001213900-25-122558-index.htm": {
+      "title": "8-K - TIGO ENERGY, INC. (0001855447) (Filer)",
+      "updated": "2025-12-17T09:00:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T14:33:42.659589+00:00"
     }
   }
 }
