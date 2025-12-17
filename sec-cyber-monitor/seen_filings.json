@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-17T21:29:03.059302+00:00",
+  "last_checked": "2025-12-17T21:46:11.612680+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -37107,6 +37107,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-17T21:29:02.027795+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1860742/000119312525322866/0001193125-25-322866-index.htm": {
+      "title": "8-K - Bausch & Lomb Corp (0001860742) (Filer)",
+      "updated": "2025-12-17T16:44:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T21:46:06.182322+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/858877/000085887725000199/0000858877-25-000199-index.htm": {
+      "title": "8-K - CISCO SYSTEMS, INC. (0000858877) (Filer)",
+      "updated": "2025-12-17T16:42:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T21:46:07.280336+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1783398/000178339825000056/0001783398-25-000056-index.htm": {
+      "title": "8-K - UWM Holdings Corp (0001783398) (Filer)",
+      "updated": "2025-12-17T16:40:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T21:46:08.399060+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1898604/000149315225028162/0001493152-25-028162-index.htm": {
+      "title": "8-K - Vestand Inc. (0001898604) (Filer)",
+      "updated": "2025-12-17T16:40:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T21:46:09.491099+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1382101/000119312525322859/0001193125-25-322859-index.htm": {
+      "title": "8-K - SUTRO BIOPHARMA, INC. (0001382101) (Filer)",
+      "updated": "2025-12-17T16:38:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T21:46:10.582115+00:00"
     }
   }
 }
