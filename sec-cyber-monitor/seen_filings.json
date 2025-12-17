@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-17T19:02:25.099821+00:00",
+  "last_checked": "2025-12-17T19:31:49.527227+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -36981,6 +36981,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-17T19:02:24.069320+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/878932/000109690625002097/0001096906-25-002097-index.htm": {
+      "title": "10-K/A - EQUUS TOTAL RETURN, INC. (0000878932) (Filer)",
+      "updated": "2025-12-17T14:30:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T19:31:42.890542+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/878932/000109690625002095/0001096906-25-002095-index.htm": {
+      "title": "10-Q/A - EQUUS TOTAL RETURN, INC. (0000878932) (Filer)",
+      "updated": "2025-12-17T14:24:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T19:31:43.995103+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/810136/000114036125045801/0001140361-25-045801-index.htm": {
+      "title": "10-K - PHOTRONICS INC (0000810136) (Filer)",
+      "updated": "2025-12-17T14:22:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T19:31:45.127828+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/878932/000109690625002093/0001096906-25-002093-index.htm": {
+      "title": "10-Q/A - EQUUS TOTAL RETURN, INC. (0000878932) (Filer)",
+      "updated": "2025-12-17T14:19:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T19:31:46.229562+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1870267/000110465925121973/0001104659-25-121973-index.htm": {
+      "title": "8-K - Redwood Enhanced Income Corp. (0001870267) (Filer)",
+      "updated": "2025-12-17T14:14:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T19:31:47.385743+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/878932/000109690625002090/0001096906-25-002090-index.htm": {
+      "title": "10-Q/A - EQUUS TOTAL RETURN, INC. (0000878932) (Filer)",
+      "updated": "2025-12-17T14:11:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T19:31:48.497478+00:00"
     }
   }
 }
