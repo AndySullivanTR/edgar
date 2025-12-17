@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-17T19:53:25.210351+00:00",
+  "last_checked": "2025-12-17T20:32:30.780068+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -37058,6 +37058,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-17T19:53:24.177897+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1976336/000110465925122002/0001104659-25-122002-index.htm": {
+      "title": "8-K - Antares Private Credit Fund (0001976336) (Filer)",
+      "updated": "2025-12-17T15:27:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T20:32:27.574003+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2026738/000119312525322573/0001193125-25-322573-index.htm": {
+      "title": "8-K - FORTRESS CREDIT REALTY INCOME TRUST (0002026738) (Filer)",
+      "updated": "2025-12-17T15:23:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T20:32:28.659057+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1013272/000119312525322570/0001193125-25-322570-index.htm": {
+      "title": "8-K - NORWOOD FINANCIAL CORP (0001013272) (Filer)",
+      "updated": "2025-12-17T15:21:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T20:32:29.750177+00:00"
     }
   }
 }
