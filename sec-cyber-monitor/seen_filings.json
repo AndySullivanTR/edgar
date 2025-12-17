@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-17T19:31:49.527227+00:00",
+  "last_checked": "2025-12-17T19:53:25.210351+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -37023,6 +37023,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-17T19:31:48.497478+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/878932/000109690625002103/0001096906-25-002103-index.htm": {
+      "title": "10-Q/A - EQUUS TOTAL RETURN, INC. (0000878932) (Filer)",
+      "updated": "2025-12-17T14:51:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T19:53:19.542130+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1999784/000199978425000058/0001999784-25-000058-index.htm": {
+      "title": "8-K - North Haven Net REIT (0001999784) (Filer)",
+      "updated": "2025-12-17T14:48:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T19:53:20.687770+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/878932/000109690625002101/0001096906-25-002101-index.htm": {
+      "title": "10-Q/A - EQUUS TOTAL RETURN, INC. (0000878932) (Filer)",
+      "updated": "2025-12-17T14:46:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T19:53:21.858489+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/878932/000109690625002099/0001096906-25-002099-index.htm": {
+      "title": "10-Q/A - EQUUS TOTAL RETURN, INC. (0000878932) (Filer)",
+      "updated": "2025-12-17T14:40:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T19:53:23.020552+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/737758/000073775825000115/0000737758-25-000115-index.htm": {
+      "title": "10-K - TORO CO (0000737758) (Filer)",
+      "updated": "2025-12-17T14:34:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T19:53:24.177897+00:00"
     }
   }
 }
