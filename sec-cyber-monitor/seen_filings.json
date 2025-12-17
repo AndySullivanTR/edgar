@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-17T21:46:11.612680+00:00",
+  "last_checked": "2025-12-17T22:27:12.193286+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -37142,6 +37142,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-17T21:46:10.582115+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1831481/000183148125000137/0001831481-25-000137-index.htm": {
+      "title": "8-K - Sable Offshore Corp. (0001831481) (Filer)",
+      "updated": "2025-12-17T17:26:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T22:27:08.805192+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1210708/000121070825000154/0001210708-25-000154-index.htm": {
+      "title": "8-K - Star Equity Holdings, Inc. (0001210708) (Filer)",
+      "updated": "2025-12-17T17:24:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T22:27:09.972405+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1045742/000162828025057711/0001628280-25-057711-index.htm": {
+      "title": "10-K - LIVE VENTURES Inc (0001045742) (Filer)",
+      "updated": "2025-12-17T17:22:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T22:27:11.164323+00:00"
     }
   }
 }
