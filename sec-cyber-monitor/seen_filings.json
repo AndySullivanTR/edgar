@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-17T11:45:46.188600+00:00",
+  "last_checked": "2025-12-17T12:59:34.883802+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -36456,6 +36456,90 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-17T11:29:46.035463+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1651562/000114036125045770/0001140361-25-045770-index.htm": {
+      "title": "8-K - Coursera, Inc. (0001651562) (Filer)",
+      "updated": "2025-12-17T07:57:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T12:59:21.870099+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1607939/000119312525321719/0001193125-25-321719-index.htm": {
+      "title": "8-K - Udemy, Inc. (0001607939) (Filer)",
+      "updated": "2025-12-17T07:45:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T12:59:22.983675+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1775734/000149315225028060/0001493152-25-028060-index.htm": {
+      "title": "8-K - Beneficient (0001775734) (Filer)",
+      "updated": "2025-12-17T07:45:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T12:59:24.064810+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/898293/000162828025057488/0001628280-25-057488-index.htm": {
+      "title": "8-K - JABIL INC (0000898293) (Filer)",
+      "updated": "2025-12-17T07:31:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T12:59:25.146076+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1123494/000117184325007972/0001171843-25-007972-index.htm": {
+      "title": "8-K - HARVARD BIOSCIENCE INC (0001123494) (Filer)",
+      "updated": "2025-12-17T07:30:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T12:59:26.239410+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1816017/000119312525321705/0001193125-25-321705-index.htm": {
+      "title": "8-K - Spire Global, Inc. (0001816017) (Filer)",
+      "updated": "2025-12-17T07:30:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T12:59:27.322452+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1811074/000110465925121822/0001104659-25-121822-index.htm": {
+      "title": "8-K - Texas Pacific Land Corp (0001811074) (Filer)",
+      "updated": "2025-12-17T07:15:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T12:59:28.429891+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/771497/000119312525321680/0001193125-25-321680-index.htm": {
+      "title": "8-K - ABM INDUSTRIES INC /DE/ (0000771497) (Filer)",
+      "updated": "2025-12-17T07:10:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T12:59:29.525891+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1400118/000110465925121819/0001104659-25-121819-index.htm": {
+      "title": "8-K - Sagimet Biosciences Inc. (0001400118) (Filer)",
+      "updated": "2025-12-17T07:05:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T12:59:30.606502+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1012100/000119312525321673/0001193125-25-321673-index.htm": {
+      "title": "8-K - SEALED AIR CORP/DE (0001012100) (Filer)",
+      "updated": "2025-12-17T07:04:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T12:59:31.690507+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/40704/000162828025057486/0001628280-25-057486-index.htm": {
+      "title": "8-K - GENERAL MILLS INC (0000040704) (Filer)",
+      "updated": "2025-12-17T07:02:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T12:59:32.771721+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/863894/000119312525321663/0001193125-25-321663-index.htm": {
+      "title": "8-K - VERU INC. (0000863894) (Filer)",
+      "updated": "2025-12-17T07:00:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T12:59:33.854217+00:00"
     }
   }
 }
