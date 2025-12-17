@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-17T15:58:29.128091+00:00",
+  "last_checked": "2025-12-17T16:41:06.425856+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -36869,6 +36869,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-17T15:58:28.097442+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1370238/000114036125045782/0001140361-25-045782-index.htm": {
+      "title": "8-K - BA Credit Card Funding, LLC (0001370238) (Filer)",
+      "updated": "2025-12-17T11:26:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T16:40:59.956606+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1128250/000114036125045782/0001140361-25-045782-index.htm": {
+      "title": "8-K - BA Credit Card Trust (0001128250) (Filer)",
+      "updated": "2025-12-17T11:26:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T16:41:01.062079+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/936988/000114036125045782/0001140361-25-045782-index.htm": {
+      "title": "8-K - BA Master Credit Card Trust II (0000936988) (Filer)",
+      "updated": "2025-12-17T11:26:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T16:41:02.145661+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1649744/000119312525322052/0001193125-25-322052-index.htm": {
+      "title": "10-Q - DULUTH HOLDINGS INC. (0001649744) (Filer)",
+      "updated": "2025-12-17T11:21:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T16:41:03.230467+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2027537/000119312525322032/0001193125-25-322032-index.htm": {
+      "title": "8-K - Goldman Sachs Real Estate Finance Trust Inc (0002027537) (Filer)",
+      "updated": "2025-12-17T11:18:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T16:41:04.312036+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1905956/000121390025122618/0001213900-25-122618-index.htm": {
+      "title": "8-K - TREASURE GLOBAL INC (0001905956) (Filer)",
+      "updated": "2025-12-17T11:15:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T16:41:05.395264+00:00"
     }
   }
 }
