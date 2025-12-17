@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-17T17:55:54.783000+00:00",
+  "last_checked": "2025-12-17T18:44:15.480163+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -36925,6 +36925,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-17T17:40:32.869014+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1267332/000199937125020531/0001999371-25-020531-index.htm": {
+      "title": "8-K - MERRILL LYNCH DEPOSITOR INC INDEXPLUS TRUST SERIES 2003-1 (0001267332) (Filer)",
+      "updated": "2025-12-17T13:40:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T18:44:09.000542+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2043759/000119312525322306/0001193125-25-322306-index.htm": {
+      "title": "8-K - LAGO Evergreen Credit (0002043759) (Filer)",
+      "updated": "2025-12-17T13:35:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T18:44:10.093323+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1126956/000119312525322260/0001193125-25-322260-index.htm": {
+      "title": "8-K - SPIRE INC (0001126956) (Filer)",
+      "updated": "2025-12-17T13:26:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T18:44:11.187664+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1827899/000121390025122671/0001213900-25-122671-index.htm": {
+      "title": "10-Q - Crown PropTech Acquisitions (0001827899) (Filer)",
+      "updated": "2025-12-17T13:22:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T18:44:12.268440+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1314152/000131415225000182/0001314152-25-000182-index.htm": {
+      "title": "8-K - JLL Income Property Trust, Inc. (0001314152) (Filer)",
+      "updated": "2025-12-17T13:11:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T18:44:13.359934+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1416090/000149315225028095/0001493152-25-028095-index.htm": {
+      "title": "8-K - BLUSKY AI INC. (0001416090) (Filer)",
+      "updated": "2025-12-17T13:06:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T18:44:14.449640+00:00"
     }
   }
 }
