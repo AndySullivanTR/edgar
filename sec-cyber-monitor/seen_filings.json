@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-17T18:44:15.480163+00:00",
+  "last_checked": "2025-12-17T19:02:25.099821+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -36967,6 +36967,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-17T18:44:14.449640+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1330399/000119312525322388/0001193125-25-322388-index.htm": {
+      "title": "8-K/A - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer)",
+      "updated": "2025-12-17T14:01:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T19:02:22.893161+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1692951/000169295125000282/0001692951-25-000282-index.htm": {
+      "title": "8-K - Cottonwood Communities, Inc. (0001692951) (Filer)",
+      "updated": "2025-12-17T13:53:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T19:02:24.069320+00:00"
     }
   }
 }
