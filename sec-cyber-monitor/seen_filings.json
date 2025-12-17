@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-17T20:55:57.507472+00:00",
+  "last_checked": "2025-12-17T21:29:03.059302+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -37086,6 +37086,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-17T20:55:56.469981+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325964/000107997325001867/0001079973-25-001867-index.htm": {
+      "title": "8-K - Lightwave Logic, Inc. (0001325964) (Filer)",
+      "updated": "2025-12-17T16:27:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T21:28:59.863431+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/14846/000001484625000043/0000014846-25-000043-index.htm": {
+      "title": "8-K - BRT Apartments Corp. (0000014846) (Filer)",
+      "updated": "2025-12-17T16:26:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T21:29:00.945638+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1947244/000149315225028151/0001493152-25-028151-index.htm": {
+      "title": "8-K - U.S. GoldMining Inc. (0001947244) (Filer)",
+      "updated": "2025-12-17T16:26:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-17T21:29:02.027795+00:00"
     }
   }
 }
