@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-18T13:02:06.269875+00:00",
+  "last_checked": "2025-12-18T13:49:42.429537+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -37436,6 +37436,188 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-18T13:02:05.238006+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1357971/000110465925122338/0001104659-25-122338-index.htm": {
+      "title": "8-K - Energy Services of America CORP (0001357971) (Filer)",
+      "updated": "2025-12-18T08:45:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:13.295961+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1401040/000143774925038211/0001437749-25-038211-index.htm": {
+      "title": "8-K - DiaMedica Therapeutics Inc. (0001401040) (Filer)",
+      "updated": "2025-12-18T08:45:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:14.433983+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1333493/000133349325000115/0001333493-25-000115-index.htm": {
+      "title": "8-K - eHealth, Inc. (0001333493) (Filer)",
+      "updated": "2025-12-18T08:44:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:15.536229+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1951276/000094337425000521/0000943374-25-000521-index.htm": {
+      "title": "8-K - SR Bancorp, Inc. (0001951276) (Filer)",
+      "updated": "2025-12-18T08:44:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:16.794655+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1630627/000119312525323802/0001193125-25-323802-index.htm": {
+      "title": "8-K - TREACE MEDICAL CONCEPTS, INC. (0001630627) (Filer)",
+      "updated": "2025-12-18T08:44:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:17.950261+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2030617/000182912625010129/0001829126-25-010129-index.htm": {
+      "title": "8-K - Picard Medical, Inc. (0002030617) (Filer)",
+      "updated": "2025-12-18T08:40:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:19.053979+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1636651/000119312525323798/0001193125-25-323798-index.htm": {
+      "title": "8-K - Ovid Therapeutics Inc. (0001636651) (Filer)",
+      "updated": "2025-12-18T08:39:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:20.186804+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1880343/000149315225028291/0001493152-25-028291-index.htm": {
+      "title": "8-K - AMAZE HOLDINGS, INC. (0001880343) (Filer)",
+      "updated": "2025-12-18T08:35:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:21.380637+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1570585/000157058525000232/0001570585-25-000232-index.htm": {
+      "title": "8-K - Liberty Global Ltd. (0001570585) (Filer)",
+      "updated": "2025-12-18T08:35:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:22.486323+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/723254/000072325425000038/0000723254-25-000038-index.htm": {
+      "title": "8-K - CINTAS CORP (0000723254) (Filer)",
+      "updated": "2025-12-18T08:31:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:23.644734+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1419951/000173112225001689/0001731122-25-001689-index.htm": {
+      "title": "8-K - Data Storage Corp (0001419951) (Filer)",
+      "updated": "2025-12-18T08:31:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:24.744085+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1785056/000119312525323793/0001193125-25-323793-index.htm": {
+      "title": "8-K - Interactive Strength, Inc. (0001785056) (Filer)",
+      "updated": "2025-12-18T08:30:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:25.839676+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1534254/000110465925122331/0001104659-25-122331-index.htm": {
+      "title": "8-K - CION Investment Corp (0001534254) (Filer)",
+      "updated": "2025-12-18T08:30:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:26.954922+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1946573/000149315225028290/0001493152-25-028290-index.htm": {
+      "title": "8-K - Kindly MD, Inc. (0001946573) (Filer)",
+      "updated": "2025-12-18T08:30:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:28.045751+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1597846/000149315225028288/0001493152-25-028288-index.htm": {
+      "title": "8-K - Greenpro Capital Corp. (0001597846) (Filer)",
+      "updated": "2025-12-18T08:25:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:29.156576+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1620463/000119312525323786/0001193125-25-323786-index.htm": {
+      "title": "8-K/A - Athira Pharma, Inc. (0001620463) (Filer)",
+      "updated": "2025-12-18T08:24:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:30.255922+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1785530/000119312525323787/0001193125-25-323787-index.htm": {
+      "title": "8-K - Werewolf Therapeutics, Inc. (0001785530) (Filer)",
+      "updated": "2025-12-18T08:24:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:31.347930+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000130/0001645590-25-000130-index.htm": {
+      "title": "10-K - Hewlett Packard Enterprise Co (0001645590) (Filer)",
+      "updated": "2025-12-18T08:23:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:32.443123+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2040491/000204049125000020/0002040491-25-000020-index.htm": {
+      "title": "8-K - Ategrity Specialty Insurance Co Holdings (0002040491) (Filer)",
+      "updated": "2025-12-18T08:17:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:33.565010+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1923891/000149315225028285/0001493152-25-028285-index.htm": {
+      "title": "10-K - Nano Nuclear Energy Inc. (0001923891) (Filer)",
+      "updated": "2025-12-18T08:17:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:34.647798+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1722482/000162828025057805/0001628280-25-057805-index.htm": {
+      "title": "8-K - Avantor, Inc. (0001722482) (Filer)",
+      "updated": "2025-12-18T08:17:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:35.752871+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2049662/000110465925122322/0001104659-25-122322-index.htm": {
+      "title": "8-K - Cartesian Growth Corp III (0002049662) (Filer)",
+      "updated": "2025-12-18T08:17:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:36.843779+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1849635/000114036125045947/0001140361-25-045947-index.htm": {
+      "title": "8-K - Trump Media & Technology Group Corp. (0001849635) (Filer)",
+      "updated": "2025-12-18T08:15:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:37.967285+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/315189/000110465925122321/0001104659-25-122321-index.htm": {
+      "title": "10-K - DEERE & CO (0000315189) (Filer)",
+      "updated": "2025-12-18T08:15:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:39.061570+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1569345/000119312525323772/0001193125-25-323772-index.htm": {
+      "title": "8-K - Sprinklr, Inc. (0001569345) (Filer)",
+      "updated": "2025-12-18T08:11:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:40.315129+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1340476/000119312525323768/0001193125-25-323768-index.htm": {
+      "title": "8-K - DIRTT ENVIRONMENTAL SOLUTIONS LTD (0001340476) (Filer)",
+      "updated": "2025-12-18T08:10:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:49:41.398091+00:00"
     }
   }
 }
