@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-18T14:30:06.061846+00:00",
+  "last_checked": "2025-12-18T14:52:39.433780+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -37744,6 +37744,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-18T14:30:05.031497+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1922335/000149315225028301/0001493152-25-028301-index.htm": {
+      "title": "8-K - Syra Health Corp (0001922335) (Filer)",
+      "updated": "2025-12-18T09:48:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:52:35.156272+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/836690/000110465925122364/0001104659-25-122364-index.htm": {
+      "title": "8-K - INNOVATIVE SOLUTIONS & SUPPORT INC (0000836690) (Filer)",
+      "updated": "2025-12-18T09:37:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:52:36.238429+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/27673/000110465925122363/0001104659-25-122363-index.htm": {
+      "title": "10-K - DEERE JOHN CAPITAL CORP (0000027673) (Filer)",
+      "updated": "2025-12-18T09:36:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:52:37.321104+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/58361/000005836125000049/0000058361-25-000049-index.htm": {
+      "title": "8-K - LEE ENTERPRISES, Inc (0000058361) (Filer)",
+      "updated": "2025-12-18T09:30:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:52:38.403402+00:00"
     }
   }
 }
