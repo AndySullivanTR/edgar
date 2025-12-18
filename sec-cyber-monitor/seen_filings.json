@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-18T21:42:10.862873+00:00",
+  "last_checked": "2025-12-18T21:55:11.982465+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -38143,6 +38143,97 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-18T21:42:09.830934+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2061670/000110465925122587/0001104659-25-122587-index.htm": {
+      "title": "8-K - Monroe Capital Enhanced Corporate Lending Fund (0002061670) (Filer)",
+      "updated": "2025-12-18T16:53:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:54:57.065194+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/878932/000109690625002133/0001096906-25-002133-index.htm": {
+      "title": "10-K/A - EQUUS TOTAL RETURN, INC. (0000878932) (Filer)",
+      "updated": "2025-12-18T16:52:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:54:58.220218+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1471824/000143774925038302/0001437749-25-038302-index.htm": {
+      "title": "8-K - Teucrium Commodity Trust (0001471824) (Filer)",
+      "updated": "2025-12-18T16:52:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:54:59.383133+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1569994/000143774925038299/0001437749-25-038299-index.htm": {
+      "title": "8-K - Waterstone Financial, Inc. (0001569994) (Filer)",
+      "updated": "2025-12-18T16:51:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:55:00.533384+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1043186/000143774925038295/0001437749-25-038295-index.htm": {
+      "title": "8-K - Stabilis Solutions, Inc. (0001043186) (Filer)",
+      "updated": "2025-12-18T16:50:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:55:01.655471+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1606909/000160690925000178/0001606909-25-000178-index.htm": {
+      "title": "8-K - Pangaea Logistics Solutions Ltd. (0001606909) (Filer)",
+      "updated": "2025-12-18T16:49:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:55:02.815371+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1655210/000165521025000220/0001655210-25-000220-index.htm": {
+      "title": "8-K - BEYOND MEAT, INC. (0001655210) (Filer)",
+      "updated": "2025-12-18T16:47:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:55:03.966177+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/878932/000109690625002131/0001096906-25-002131-index.htm": {
+      "title": "10-Q/A - EQUUS TOTAL RETURN, INC. (0000878932) (Filer)",
+      "updated": "2025-12-18T16:47:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:55:05.144055+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1841610/000118518525002124/0001185185-25-002124-index.htm": {
+      "title": "8-K - BPGC Acquisition Corp. (0001841610) (Filer)",
+      "updated": "2025-12-18T16:46:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:55:06.304786+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1488917/000143774925038291/0001437749-25-038291-index.htm": {
+      "title": "8-K - Electromed, Inc. (0001488917) (Filer)",
+      "updated": "2025-12-18T16:46:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:55:07.475844+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1981792/000110465925122577/0001104659-25-122577-index.htm": {
+      "title": "8-K - Howard Hughes Holdings Inc. (0001981792) (Filer)",
+      "updated": "2025-12-18T16:45:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:55:08.646299+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/885462/000119380525001753/0001193805-25-001753-index.htm": {
+      "title": "8-K - GULF RESOURCES, INC. (0000885462) (Filer)",
+      "updated": "2025-12-18T16:45:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:55:09.799816+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/755001/000119312525324977/0001193125-25-324977-index.htm": {
+      "title": "8-K - UNITIL CORP (0000755001) (Filer)",
+      "updated": "2025-12-18T16:45:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:55:10.951566+00:00"
     }
   }
 }
