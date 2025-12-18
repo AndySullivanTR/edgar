@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-18T21:23:23.936674+00:00",
+  "last_checked": "2025-12-18T21:42:10.862873+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -38080,6 +38080,69 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-18T21:23:22.904537+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2042022/000121390025123321/0001213900-25-123321-index.htm": {
+      "title": "8-K - WhiteFiber, Inc. (0002042022) (Filer)",
+      "updated": "2025-12-18T16:39:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:42:00.764143+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/936468/000093646825000057/0000936468-25-000057-index.htm": {
+      "title": "8-K - LOCKHEED MARTIN CORP (0000936468) (Filer)",
+      "updated": "2025-12-18T16:39:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:42:01.890287+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/878932/000109690625002128/0001096906-25-002128-index.htm": {
+      "title": "10-Q/A - EQUUS TOTAL RETURN, INC. (0000878932) (Filer)",
+      "updated": "2025-12-18T16:38:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:42:03.021990+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1409493/000120677425000807/0001206774-25-000807-index.htm": {
+      "title": "8-K - CHIMERA INVESTMENT CORP (0001409493) (Filer)",
+      "updated": "2025-12-18T16:38:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:42:04.176639+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1437925/000147793225009051/0001477932-25-009051-index.htm": {
+      "title": "8-K - Golden Matrix Group, Inc. (0001437925) (Filer)",
+      "updated": "2025-12-18T16:38:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:42:05.321510+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1665300/000119312525324953/0001193125-25-324953-index.htm": {
+      "title": "8-K - Phunware, Inc. (0001665300) (Filer)",
+      "updated": "2025-12-18T16:38:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:42:06.453729+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1410428/000110465925122574/0001104659-25-122574-index.htm": {
+      "title": "8-K - XWELL, Inc. (0001410428) (Filer)",
+      "updated": "2025-12-18T16:37:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:42:07.578328+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1018281/000143774925038287/0001437749-25-038287-index.htm": {
+      "title": "10-Q - INTEGRAL TECHNOLOGIES INC (0001018281) (Filer)",
+      "updated": "2025-12-18T16:37:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:42:08.704213+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1936756/000119983525000435/0001199835-25-000435-index.htm": {
+      "title": "10-Q - Next Bridge Hydrocarbons, Inc. (0001936756) (Filer)",
+      "updated": "2025-12-18T16:36:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:42:09.830934+00:00"
     }
   }
 }
