@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-18T19:42:32.971033+00:00",
+  "last_checked": "2025-12-18T19:55:47.288854+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -37919,6 +37919,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-18T19:42:31.940468+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/827099/000165495425014109/0001654954-25-014109-index.htm": {
+      "title": "10-Q - Ocean Thermal Energy Corp (0000827099) (Filer)",
+      "updated": "2025-12-18T14:54:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T19:55:44.088458+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2093119/000153949725003305/0001539497-25-003305-index.htm": {
+      "title": "8-K - Wells Fargo Commercial Mortgage Trust 2025-5C7 (0002093119) (Filer)",
+      "updated": "2025-12-18T14:52:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T19:55:45.171598+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1703057/000170305725000034/0001703057-25-000034-index.htm": {
+      "title": "8-K - AbCellera Biologics Inc. (0001703057) (Filer)",
+      "updated": "2025-12-18T14:43:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T19:55:46.256870+00:00"
     }
   }
 }
