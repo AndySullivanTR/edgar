@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-18T13:49:42.429537+00:00",
+  "last_checked": "2025-12-18T14:30:06.061846+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -37618,6 +37618,132 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-18T13:49:41.398091+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1339005/000114036125045950/0001140361-25-045950-index.htm": {
+      "title": "8-K - FEMASYS INC (0001339005) (Filer)",
+      "updated": "2025-12-18T09:27:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:29:45.763510+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325878/000132587825000266/0001325878-25-000266-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer)",
+      "updated": "2025-12-18T09:26:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:29:46.928367+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1591890/000149315225028299/0001493152-25-028299-index.htm": {
+      "title": "8-K - FG Nexus Inc. (0001591890) (Filer)",
+      "updated": "2025-12-18T09:25:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:29:48.052923+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1466593/000146659325000128/0001466593-25-000128-index.htm": {
+      "title": "8-K - Otter Tail Corp (0001466593) (Filer)",
+      "updated": "2025-12-18T09:16:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:29:49.180085+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1801661/000180166125000087/0001801661-25-000087-index.htm": {
+      "title": "8-K - Skillz Inc. (0001801661) (Filer)",
+      "updated": "2025-12-18T09:13:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:29:50.315426+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1437479/000117494725001454/0001174947-25-001454-index.htm": {
+      "title": "8-K - ENB Financial Corp (0001437479) (Filer)",
+      "updated": "2025-12-18T09:12:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:29:51.453504+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1836875/000183687525000199/0001836875-25-000199-index.htm": {
+      "title": "8-K - Nuvve Holding Corp. (0001836875) (Filer)",
+      "updated": "2025-12-18T09:06:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:29:52.590277+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1801661/000180166125000085/0001801661-25-000085-index.htm": {
+      "title": "8-K/A - Skillz Inc. (0001801661) (Filer)",
+      "updated": "2025-12-18T09:06:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:29:53.715988+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1070680/000119312525323818/0001193125-25-323818-index.htm": {
+      "title": "8-K - CF BANKSHARES INC. (0001070680) (Filer)",
+      "updated": "2025-12-18T09:04:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:29:54.841693+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1834032/000121390025123069/0001213900-25-123069-index.htm": {
+      "title": "8-K - Constellation Acquisition Corp I (0001834032) (Filer)",
+      "updated": "2025-12-18T09:03:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:29:55.977017+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1065696/000106569625000071/0001065696-25-000071-index.htm": {
+      "title": "8-K - LKQ CORP (0001065696) (Filer)",
+      "updated": "2025-12-18T09:01:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:29:57.113207+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1821806/000119312525323811/0001193125-25-323811-index.htm": {
+      "title": "10-K - Leslie's, Inc. (0001821806) (Filer)",
+      "updated": "2025-12-18T09:00:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:29:58.245896+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1819411/000110465925122353/0001104659-25-122353-index.htm": {
+      "title": "8-K - Gain Therapeutics, Inc. (0001819411) (Filer)",
+      "updated": "2025-12-18T09:00:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:29:59.369228+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1546853/000147793225009037/0001477932-25-009037-index.htm": {
+      "title": "8-K - Skkynet Cloud Systems, Inc. (0001546853) (Filer)",
+      "updated": "2025-12-18T09:00:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:30:00.496641+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1883788/000149315225028295/0001493152-25-028295-index.htm": {
+      "title": "8-K - DIH HOLDING US, INC. (0001883788) (Filer)",
+      "updated": "2025-12-18T09:00:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:30:01.631629+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1412486/000149315225028296/0001493152-25-028296-index.htm": {
+      "title": "8-K - Cocrystal Pharma, Inc. (0001412486) (Filer)",
+      "updated": "2025-12-18T09:00:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:30:02.761876+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1625101/000143774925038213/0001437749-25-038213-index.htm": {
+      "title": "8-K - PULSE BIOSCIENCES, INC. (0001625101) (Filer)",
+      "updated": "2025-12-18T09:00:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:30:03.906150+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1178697/000149315225028292/0001493152-25-028292-index.htm": {
+      "title": "8-K - SONIM TECHNOLOGIES INC (0001178697) (Filer)",
+      "updated": "2025-12-18T08:55:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T14:30:05.031497+00:00"
     }
   }
 }
