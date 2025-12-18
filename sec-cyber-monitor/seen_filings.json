@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-18T21:55:11.982465+00:00",
+  "last_checked": "2025-12-18T22:26:51.556343+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -38234,6 +38234,62 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-18T21:55:10.951566+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/888981/000107997325001876/0001079973-25-001876-index.htm": {
+      "title": "8-K - NOCOPI TECHNOLOGIES INC/MD/ (0000888981) (Filer)",
+      "updated": "2025-12-18T17:25:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T22:26:42.926436+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1083301/000110465925122616/0001104659-25-122616-index.htm": {
+      "title": "8-K - TERAWULF INC. (0001083301) (Filer)",
+      "updated": "2025-12-18T17:24:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T22:26:44.007950+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/740806/000165495425014119/0001654954-25-014119-index.htm": {
+      "title": "8-K - F&M BANK CORP (0000740806) (Filer)",
+      "updated": "2025-12-18T17:23:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T22:26:45.090939+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1003078/000100307825000187/0001003078-25-000187-index.htm": {
+      "title": "8-K - MSC INDUSTRIAL DIRECT CO INC (0001003078) (Filer)",
+      "updated": "2025-12-18T17:21:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T22:26:46.172612+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1346830/000110465925122615/0001104659-25-122615-index.htm": {
+      "title": "8-K - Tvardi Therapeutics, Inc. (0001346830) (Filer)",
+      "updated": "2025-12-18T17:21:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T22:26:47.253258+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1098151/000143774925038321/0001437749-25-038321-index.htm": {
+      "title": "8-K - FIDELITY D & D BANCORP INC (0001098151) (Filer)",
+      "updated": "2025-12-18T17:19:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T22:26:48.343063+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1646188/000121390025123366/0001213900-25-123366-index.htm": {
+      "title": "8-K - Ondas Holdings Inc. (0001646188) (Filer)",
+      "updated": "2025-12-18T17:19:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T22:26:49.432405+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1794669/000119312525325098/0001193125-25-325098-index.htm": {
+      "title": "8-K - Shift4 Payments, Inc. (0001794669) (Filer)",
+      "updated": "2025-12-18T17:18:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T22:26:50.525362+00:00"
     }
   }
 }
