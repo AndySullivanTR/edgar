@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-18T11:58:26.474596+00:00",
+  "last_checked": "2025-12-18T13:02:06.269875+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -37268,6 +37268,174 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-18T11:58:25.444187+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1830033/000119312525323749/0001193125-25-323749-index.htm": {
+      "title": "8-K - PureCycle Technologies, Inc. (0001830033) (Filer)",
+      "updated": "2025-12-18T08:00:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:01:39.100607+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1938338/000147793225009036/0001477932-25-009036-index.htm": {
+      "title": "8-K - GlobalTech Corp (0001938338) (Filer)",
+      "updated": "2025-12-18T08:00:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:01:40.225363+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1847986/000149315225028282/0001493152-25-028282-index.htm": {
+      "title": "8-K - Dragonfly Energy Holdings Corp. (0001847986) (Filer)",
+      "updated": "2025-12-18T08:00:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:01:41.349032+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1666071/000166607125000171/0001666071-25-000171-index.htm": {
+      "title": "8-K - Cardlytics, Inc. (0001666071) (Filer)",
+      "updated": "2025-12-18T08:00:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:01:42.473752+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/899051/000089905125000126/0000899051-25-000126-index.htm": {
+      "title": "8-K - ALLSTATE CORP (0000899051) (Filer)",
+      "updated": "2025-12-18T07:49:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:01:43.599080+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/886128/000110465925122302/0001104659-25-122302-index.htm": {
+      "title": "10-K - FUELCELL ENERGY INC (0000886128) (Filer)",
+      "updated": "2025-12-18T07:41:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:01:44.726653+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/886128/000110465925122295/0001104659-25-122295-index.htm": {
+      "title": "8-K - FUELCELL ENERGY INC (0000886128) (Filer)",
+      "updated": "2025-12-18T07:35:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:01:45.862271+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1921865/000147793225009035/0001477932-25-009035-index.htm": {
+      "title": "8-K - ASP Isotopes Inc. (0001921865) (Filer)",
+      "updated": "2025-12-18T07:34:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:01:46.986146+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1838406/000110465925122294/0001104659-25-122294-index.htm": {
+      "title": "8-K - BKV Corp (0001838406) (Filer)",
+      "updated": "2025-12-18T07:34:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:01:48.132514+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1754068/000119312525323706/0001193125-25-323706-index.htm": {
+      "title": "8-K - Kalaris Therapeutics, Inc. (0001754068) (Filer)",
+      "updated": "2025-12-18T07:29:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:01:49.256898+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1083301/000110465925122293/0001104659-25-122293-index.htm": {
+      "title": "8-K - TERAWULF INC. (0001083301) (Filer)",
+      "updated": "2025-12-18T07:28:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:01:50.381107+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1032220/000103222025000055/0001032220-25-000055-index.htm": {
+      "title": "8-K - MAXIMUS, INC. (0001032220) (Filer)",
+      "updated": "2025-12-18T07:26:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:01:51.504844+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1782223/000119312525323704/0001193125-25-323704-index.htm": {
+      "title": "8-K - Pyxis Oncology, Inc. (0001782223) (Filer)",
+      "updated": "2025-12-18T07:25:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:01:52.643169+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1620463/000119312525323692/0001193125-25-323692-index.htm": {
+      "title": "8-K - Athira Pharma, Inc. (0001620463) (Filer)",
+      "updated": "2025-12-18T07:16:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:01:53.787666+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1410636/000141063625000185/0001410636-25-000185-index.htm": {
+      "title": "8-K - American Water Works Company, Inc. (0001410636) (Filer)",
+      "updated": "2025-12-18T07:15:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:01:54.910366+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/775215/000077521525000060/0000775215-25-000060-index.htm": {
+      "title": "8-K - HBT Financial, Inc. (0000775215) (Filer)",
+      "updated": "2025-12-18T07:12:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:01:56.035073+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1710366/000171036625000035/0001710366-25-000035-index.htm": {
+      "title": "8-K - Core Natural Resources, Inc. (0001710366) (Filer)",
+      "updated": "2025-12-18T07:08:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:01:57.159093+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1012477/000110465925122274/0001104659-25-122274-index.htm": {
+      "title": "8-K - AVADEL PHARMACEUTICALS PLC (0001012477) (Filer)",
+      "updated": "2025-12-18T07:08:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:01:58.287572+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/940944/000094094425000067/0000940944-25-000067-index.htm": {
+      "title": "8-K - DARDEN RESTAURANTS INC (0000940944) (Filer)",
+      "updated": "2025-12-18T07:07:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:01:59.457878+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1400118/000110465925122272/0001104659-25-122272-index.htm": {
+      "title": "8-K - Sagimet Biosciences Inc. (0001400118) (Filer)",
+      "updated": "2025-12-18T07:05:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:02:00.617139+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/795800/000149315225028270/0001493152-25-028270-index.htm": {
+      "title": "8-K - NexMetals Mining Corp. (0000795800) (Filer)",
+      "updated": "2025-12-18T07:00:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:02:01.766861+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1648960/000121390025123053/0001213900-25-123053-index.htm": {
+      "title": "8-K - Myseum, Inc. (0001648960) (Filer)",
+      "updated": "2025-12-18T07:00:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:02:02.938987+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1736730/000173673025000111/0001736730-25-000111-index.htm": {
+      "title": "8-K - Camp4 Therapeutics Corp (0001736730) (Filer)",
+      "updated": "2025-12-18T07:00:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:02:04.082122+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1170010/000117001025000129/0001170010-25-000129-index.htm": {
+      "title": "8-K - CARMAX INC (0001170010) (Filer)",
+      "updated": "2025-12-18T06:59:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T13:02:05.238006+00:00"
     }
   }
 }
