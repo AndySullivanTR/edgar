@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-18T20:54:15.849288+00:00",
+  "last_checked": "2025-12-18T21:23:23.936674+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -37982,6 +37982,104 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-18T20:54:14.818396+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1831868/000143774925038276/0001437749-25-038276-index.htm": {
+      "title": "8-K - SeaStar Medical Holding Corp (0001831868) (Filer)",
+      "updated": "2025-12-18T16:22:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:23:08.197377+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1802974/000180297425000048/0001802974-25-000048-index.htm": {
+      "title": "10-K - Mission Produce, Inc. (0001802974) (Filer)",
+      "updated": "2025-12-18T16:22:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:23:09.335041+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/928465/000110465925122557/0001104659-25-122557-index.htm": {
+      "title": "8-K - AMCON DISTRIBUTING CO (0000928465) (Filer)",
+      "updated": "2025-12-18T16:21:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:23:10.462302+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1069899/000110465925122556/0001104659-25-122556-index.htm": {
+      "title": "8-K - PHIBRO ANIMAL HEALTH CORP (0001069899) (Filer)",
+      "updated": "2025-12-18T16:20:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:23:11.594466+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1455365/000110465925122555/0001104659-25-122555-index.htm": {
+      "title": "8-K - COGNITION THERAPEUTICS INC (0001455365) (Filer)",
+      "updated": "2025-12-18T16:20:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:23:12.717321+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1646614/000119312525324862/0001193125-25-324862-index.htm": {
+      "title": "8-K - Silver Point Specialty Lending Fund (0001646614) (Filer)",
+      "updated": "2025-12-18T16:20:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:23:13.850417+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1934850/000193485025000130/0001934850-25-000130-index.htm": {
+      "title": "8-K - F&G Annuities & Life, Inc. (0001934850) (Filer)",
+      "updated": "2025-12-18T16:19:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:23:14.981747+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1992508/000121390025123294/0001213900-25-123294-index.htm": {
+      "title": "8-K - 21Shares Ethereum ETF (0001992508) (Filer)",
+      "updated": "2025-12-18T16:18:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:23:16.125855+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/75252/000110465925122553/0001104659-25-122553-index.htm": {
+      "title": "8-K - OWENS & MINOR INC/VA/ (0000075252) (Filer)",
+      "updated": "2025-12-18T16:18:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:23:17.250622+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/795266/000079526625000109/0000795266-25-000109-index.htm": {
+      "title": "8-K - KB HOME (0000795266) (Filer)",
+      "updated": "2025-12-18T16:18:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:23:18.375366+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1756701/000119312525324855/0001193125-25-324855-index.htm": {
+      "title": "8-K - LINKBANCORP, Inc. (0001756701) (Filer)",
+      "updated": "2025-12-18T16:18:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:23:19.499845+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1902649/000114036125046029/0001140361-25-046029-index.htm": {
+      "title": "8-K - BlackRock Private Credit Fund (0001902649) (Filer)",
+      "updated": "2025-12-18T16:18:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:23:20.626604+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331875/000133187525000169/0001331875-25-000169-index.htm": {
+      "title": "8-K - Fidelity National Financial, Inc. (0001331875) (Filer)",
+      "updated": "2025-12-18T16:18:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:23:21.765608+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1555280/000119312525324853/0001193125-25-324853-index.htm": {
+      "title": "8-K - Zoetis Inc. (0001555280) (Filer)",
+      "updated": "2025-12-18T16:17:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T21:23:22.904537+00:00"
     }
   }
 }
