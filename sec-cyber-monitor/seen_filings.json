@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-18T15:57:04.287181+00:00",
+  "last_checked": "2025-12-18T16:41:01.038986+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -37807,6 +37807,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-18T15:57:03.257484+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2074652/000207465225000018/0002074652-25-000018-index.htm": {
+      "title": "10-Q - Venyra Corp (0002074652) (Filer)",
+      "updated": "2025-12-18T11:37:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T16:40:56.692412+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1326771/000132677125000229/0001326771-25-000229-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer)",
+      "updated": "2025-12-18T11:35:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T16:40:57.801613+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1901799/000119312525324041/0001193125-25-324041-index.htm": {
+      "title": "8-K - Bitcoin Depot Inc. (0001901799) (Filer)",
+      "updated": "2025-12-18T11:35:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T16:40:58.898264+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1000230/000143774925038228/0001437749-25-038228-index.htm": {
+      "title": "10-K - OPTICAL CABLE CORP (0001000230) (Filer)",
+      "updated": "2025-12-18T11:31:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T16:41:00.007457+00:00"
     }
   }
 }
