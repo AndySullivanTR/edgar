@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-18T20:31:57.447537+00:00",
+  "last_checked": "2025-12-18T20:54:15.849288+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -37947,6 +37947,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-18T20:31:56.414079+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1494413/000149441325000018/0001494413-25-000018-index.htm": {
+      "title": "8-K - Two Hands Corp (0001494413) (Filer)",
+      "updated": "2025-12-18T15:51:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T20:54:10.488314+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1988280/000119312525324753/0001193125-25-324753-index.htm": {
+      "title": "8-K - Manulife Private Credit Fund (0001988280) (Filer)",
+      "updated": "2025-12-18T15:51:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T20:54:11.567649+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325814/000132581425000231/0001325814-25-000231-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer)",
+      "updated": "2025-12-18T15:49:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T20:54:12.649451+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/718413/000165495425014113/0001654954-25-014113-index.htm": {
+      "title": "8-K - COMMUNITY BANCORP /VT (0000718413) (Filer)",
+      "updated": "2025-12-18T15:45:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T20:54:13.736286+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/866439/000168316825009248/0001683168-25-009248-index.htm": {
+      "title": "8-K - DarkPulse, Inc. (0000866439) (Filer)",
+      "updated": "2025-12-18T15:44:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T20:54:14.818396+00:00"
     }
   }
 }
