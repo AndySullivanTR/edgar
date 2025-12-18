@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-18T22:26:51.556343+00:00",
+  "last_checked": "2025-12-18T22:46:31.101275+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -38290,6 +38290,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-18T22:26:50.525362+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325670/000110465925122620/0001104659-25-122620-index.htm": {
+      "title": "8-K - Primis Financial Corp. (0001325670) (Filer)",
+      "updated": "2025-12-18T17:30:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T22:46:27.888283+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1333274/000119312525325130/0001193125-25-325130-index.htm": {
+      "title": "8-K - MERCER INTERNATIONAL INC. (0001333274) (Filer)",
+      "updated": "2025-12-18T17:30:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T22:46:28.980158+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/845385/000121390025123377/0001213900-25-123377-index.htm": {
+      "title": "8-K - PRINCETON CAPITAL CORP (0000845385) (Filer)",
+      "updated": "2025-12-18T17:27:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T22:46:30.070389+00:00"
     }
   }
 }
