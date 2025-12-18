@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-18T18:43:04.912182+00:00",
+  "last_checked": "2025-12-18T19:01:43.517273+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -37884,6 +37884,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-18T18:43:03.853800+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1756761/000175676125000146/0001756761-25-000146-index.htm": {
+      "title": "8-K - Invesco Real Estate Income Trust Inc. (0001756761) (Filer)",
+      "updated": "2025-12-18T13:57:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T19:01:40.268945+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1916099/000119312525324335/0001193125-25-324335-index.htm": {
+      "title": "8-K - Diameter Credit Co (0001916099) (Filer)",
+      "updated": "2025-12-18T13:54:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T19:01:41.381677+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331757/000133175725000222/0001331757-25-000222-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer)",
+      "updated": "2025-12-18T13:49:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T19:01:42.474075+00:00"
     }
   }
 }
