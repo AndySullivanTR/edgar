@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-18T10:56:37.730824+00:00",
+  "last_checked": "2025-12-18T11:27:35.501297+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -37163,6 +37163,76 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-17T22:27:11.164323+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1738177/000119312525323654/0001193125-25-323654-index.htm": {
+      "title": "8-K - Cambium Networks Corp (0001738177) (Filer)",
+      "updated": "2025-12-18T06:25:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T11:27:24.428642+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1526113/000110465925122246/0001104659-25-122246-index.htm": {
+      "title": "8-K - Global Net Lease, Inc. (0001526113) (Filer)",
+      "updated": "2025-12-18T06:16:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T11:27:25.530556+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1873875/000121390025123041/0001213900-25-123041-index.htm": {
+      "title": "8-K - Incannex Healthcare Inc. (0001873875) (Filer)",
+      "updated": "2025-12-18T06:08:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T11:27:26.672043+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1979306/000110465925122230/0001104659-25-122230-index.htm": {
+      "title": "8-K - Andalusian Credit Company, LLC (0001979306) (Filer)",
+      "updated": "2025-12-18T06:08:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T11:27:27.784603+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1838163/000149315225028256/0001493152-25-028256-index.htm": {
+      "title": "8-K - Brand Engagement Network Inc. (0001838163) (Filer)",
+      "updated": "2025-12-18T06:05:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T11:27:28.899240+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1847064/000110465925122218/0001104659-25-122218-index.htm": {
+      "title": "8-K - PSQ Holdings, Inc. (0001847064) (Filer)",
+      "updated": "2025-12-18T06:04:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T11:27:30.024306+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1498148/000149315225028254/0001493152-25-028254-index.htm": {
+      "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+      "updated": "2025-12-18T06:03:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T11:27:31.121701+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1651308/000165130825000151/0001651308-25-000151-index.htm": {
+      "title": "8-K - BeOne Medicines Ltd. (0001651308) (Filer)",
+      "updated": "2025-12-18T06:02:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T11:27:32.234031+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1618673/000119312525323612/0001193125-25-323612-index.htm": {
+      "title": "8-K - Performance Food Group Co (0001618673) (Filer)",
+      "updated": "2025-12-18T06:01:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T11:27:33.355886+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/43196/000143774925038207/0001437749-25-038207-index.htm": {
+      "title": "8-K - GRAY MEDIA, INC (0000043196) (Filer)",
+      "updated": "2025-12-18T06:01:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-18T11:27:34.470771+00:00"
     }
   }
 }
