@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-19T20:54:29.735827+00:00",
+  "last_checked": "2025-12-19T21:25:09.455577+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -38948,6 +38948,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-19T20:54:28.703977+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1874178/000187417825000060/0001874178-25-000060-index.htm": {
+      "title": "8-K - Rivian Automotive, Inc. / DE (0001874178) (Filer)",
+      "updated": "2025-12-19T16:23:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T21:24:56.388133+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1956741/000121390025123866/0001213900-25-123866-index.htm": {
+      "title": "8-K - CleanCore Solutions, Inc. (0001956741) (Filer)",
+      "updated": "2025-12-19T16:23:18-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T21:24:57.530970+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1968487/000119312525326924/0001193125-25-326924-index.htm": {
+      "title": "8-K - Worthington Steel, Inc. (0001968487) (Filer)",
+      "updated": "2025-12-19T16:23:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T21:24:58.744615+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1571934/000110465925123187/0001104659-25-123187-index.htm": {
+      "title": "8-K - TAO Synergies Inc. (0001571934) (Filer)",
+      "updated": "2025-12-19T16:23:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T21:24:59.881291+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1645460/000119312525326925/0001193125-25-326925-index.htm": {
+      "title": "8-K - Cue Biopharma, Inc. (0001645460) (Filer)",
+      "updated": "2025-12-19T16:22:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T21:25:01.286269+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1603145/000160314525000065/0001603145-25-000065-index.htm": {
+      "title": "8-K - XPLR Infrastructure, LP (0001603145) (Filer)",
+      "updated": "2025-12-19T16:21:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T21:25:02.500815+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/893538/000089353825000167/0000893538-25-000167-index.htm": {
+      "title": "8-K - SM Energy Co (0000893538) (Filer)",
+      "updated": "2025-12-19T16:20:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T21:25:03.621455+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1070235/000107023525000198/0001070235-25-000198-index.htm": {
+      "title": "10-Q - BLACKBERRY Ltd (0001070235) (Filer)",
+      "updated": "2025-12-19T16:20:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T21:25:04.810884+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1108426/000110842625000122/0001108426-25-000122-index.htm": {
+      "title": "8-K - TXNM ENERGY INC (0001108426) (Filer)",
+      "updated": "2025-12-19T16:20:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T21:25:06.027129+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/81023/000110842625000122/0001108426-25-000122-index.htm": {
+      "title": "8-K - PUBLIC SERVICE CO OF NEW MEXICO (0000081023) (Filer)",
+      "updated": "2025-12-19T16:20:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T21:25:07.225835+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/22767/000110842625000122/0001108426-25-000122-index.htm": {
+      "title": "8-K - TEXAS NEW MEXICO POWER CO (0000022767) (Filer)",
+      "updated": "2025-12-19T16:20:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T21:25:08.423538+00:00"
     }
   }
 }
