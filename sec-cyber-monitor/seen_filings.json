@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-19T21:55:55.321809+00:00",
+  "last_checked": "2025-12-19T22:28:14.334280+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39123,6 +39123,90 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-19T21:55:54.289652+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1591890/000149315225028609/0001493152-25-028609-index.htm": {
+      "title": "8-K - FG Nexus Inc. (0001591890) (Filer)",
+      "updated": "2025-12-19T17:25:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T22:28:01.203879+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1544522/000154452225000129/0001544522-25-000129-index.htm": {
+      "title": "8-K - Freshworks Inc. (0001544522) (Filer)",
+      "updated": "2025-12-19T17:25:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T22:28:02.288540+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2045370/000121390025123954/0001213900-25-123954-index.htm": {
+      "title": "8-K - Remora Capital Corp (0002045370) (Filer)",
+      "updated": "2025-12-19T17:25:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T22:28:03.384826+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1740279/000119312525327097/0001193125-25-327097-index.htm": {
+      "title": "8-K - IN8BIO, INC. (0001740279) (Filer)",
+      "updated": "2025-12-19T17:22:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T22:28:04.489102+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1032208/000103220825000070/0001032208-25-000070-index.htm": {
+      "title": "8-K - SEMPRA (0001032208) (Filer)",
+      "updated": "2025-12-19T17:22:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T22:28:05.575711+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/92108/000103220825000070/0001032208-25-000070-index.htm": {
+      "title": "8-K - SOUTHERN CALIFORNIA GAS CO (0000092108) (Filer)",
+      "updated": "2025-12-19T17:22:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T22:28:06.669688+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/86521/000103220825000070/0001032208-25-000070-index.htm": {
+      "title": "8-K - SAN DIEGO GAS & ELECTRIC CO (0000086521) (Filer)",
+      "updated": "2025-12-19T17:22:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T22:28:07.768556+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1530766/000149315225028606/0001493152-25-028606-index.htm": {
+      "title": "8-K - Streamex Corp. (0001530766) (Filer)",
+      "updated": "2025-12-19T17:22:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T22:28:08.858495+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1526119/000110465925123295/0001104659-25-123295-index.htm": {
+      "title": "8-K - Verastem, Inc. (0001526119) (Filer)",
+      "updated": "2025-12-19T17:21:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T22:28:09.960453+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1175535/000143774925038459/0001437749-25-038459-index.htm": {
+      "title": "8-K - Whitestone REIT (0001175535) (Filer)",
+      "updated": "2025-12-19T17:21:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T22:28:11.061683+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1812360/000149315225028605/0001493152-25-028605-index.htm": {
+      "title": "8-K - FOXO TECHNOLOGIES INC. (0001812360) (Filer)",
+      "updated": "2025-12-19T17:20:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T22:28:12.145407+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2037431/000182912625010193/0001829126-25-010193-index.htm": {
+      "title": "10-Q - Pelican Acquisition Corp (0002037431) (Filer)",
+      "updated": "2025-12-19T17:20:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T22:28:13.302192+00:00"
     }
   }
 }
