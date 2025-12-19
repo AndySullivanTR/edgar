@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-19T18:59:39.022999+00:00",
+  "last_checked": "2025-12-19T19:25:18.913139+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -38857,6 +38857,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-19T18:39:36.382794+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1689084/000147793225009084/0001477932-25-009084-index.htm": {
+      "title": "8-K - Qrons Inc. (0001689084) (Filer)",
+      "updated": "2025-12-19T14:22:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T19:25:14.464377+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1829311/000149315225028515/0001493152-25-028515-index.htm": {
+      "title": "8-K - BITMINE IMMERSION TECHNOLOGIES, INC. (0001829311) (Filer)",
+      "updated": "2025-12-19T14:21:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T19:25:15.605501+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/318299/000149315225028506/0001493152-25-028506-index.htm": {
+      "title": "10-Q - SPARTA COMMERCIAL SERVICES, INC. (0000318299) (Filer)",
+      "updated": "2025-12-19T14:10:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T19:25:16.744042+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/827099/000165495425014146/0001654954-25-014146-index.htm": {
+      "title": "10-Q - Ocean Thermal Energy Corp (0000827099) (Filer)",
+      "updated": "2025-12-19T14:03:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T19:25:17.879672+00:00"
     }
   }
 }
