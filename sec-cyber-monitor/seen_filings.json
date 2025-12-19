@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-19T13:40:10.900196+00:00",
+  "last_checked": "2025-12-19T13:56:48.589958+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -38577,6 +38577,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-19T13:40:09.868519+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1967097/000196709725000011/0001967097-25-000011-index.htm": {
+      "title": "10-K - Atmos Energy Kansas Securitization I, LLC (0001967097) (Filer)",
+      "updated": "2025-12-19T08:49:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:56:45.287127+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1048477/000119312525325856/0001193125-25-325856-index.htm": {
+      "title": "8-K - BIOMARIN PHARMACEUTICAL INC (0001048477) (Filer)",
+      "updated": "2025-12-19T08:47:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:56:46.415353+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1074828/000116169725000473/0001161697-25-000473-index.htm": {
+      "title": "8-K - USBC, Inc. (0001074828) (Filer)",
+      "updated": "2025-12-19T08:46:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:56:47.554654+00:00"
     }
   }
 }
