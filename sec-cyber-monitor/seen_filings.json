@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-19T15:55:05.608790+00:00",
+  "last_checked": "2025-12-19T16:35:03.273255+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -38689,6 +38689,69 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-19T15:55:04.577257+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1046025/000162828025058123/0001628280-25-058123-index.htm": {
+      "title": "8-K - HERITAGE FINANCIAL CORP /WA/ (0001046025) (Filer)",
+      "updated": "2025-12-19T11:33:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T16:34:53.544254+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/732026/000143774925038376/0001437749-25-038376-index.htm": {
+      "title": "8-K/A - TRIO-TECH INTERNATIONAL (0000732026) (Filer)",
+      "updated": "2025-12-19T11:32:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T16:34:54.652884+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1340909/000199937125020733/0001999371-25-020733-index.htm": {
+      "title": "8-K - STRATS SM TRUST FOR WAL-MART STORES, INC. SECURITIES, SERIES 2005-4 (0001340909) (Filer)",
+      "updated": "2025-12-19T11:23:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T16:34:55.734603+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1343491/000199937125020732/0001999371-25-020732-index.htm": {
+      "title": "8-K - STRATS(SM) TRUST FOR DOMINION RESOURCES, INC. SECURITIES, SERIES 2005-6 (0001343491) (Filer)",
+      "updated": "2025-12-19T11:21:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T16:34:56.817147+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/885568/000119312525326131/0001193125-25-326131-index.htm": {
+      "title": "8-K - OLD DOMINION ELECTRIC COOPERATIVE (0000885568) (Filer)",
+      "updated": "2025-12-19T11:18:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T16:34:57.900853+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1339920/000199937125020729/0001999371-25-020729-index.htm": {
+      "title": "8-K - STRATS SM TRUST FOR Goldman Sachs Cap I SEC SERIES 2005-3 (0001339920) (Filer)",
+      "updated": "2025-12-19T11:17:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T16:34:58.983473+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1328989/000199937125020728/0001999371-25-020728-index.htm": {
+      "title": "8-K - STRATS(SM) Trust For Goldman Sachs Capital I Securities, Series 2005-1 (0001328989) (Filer)",
+      "updated": "2025-12-19T11:14:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T16:35:00.068963+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1045942/000143774925038372/0001437749-25-038372-index.htm": {
+      "title": "8-K - Track Group, Inc. (0001045942) (Filer)",
+      "updated": "2025-12-19T11:09:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T16:35:01.157525+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/319654/000119312525326104/0001193125-25-326104-index.htm": {
+      "title": "8-K - PERMIAN BASIN ROYALTY TRUST (0000319654) (Filer)",
+      "updated": "2025-12-19T11:04:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T16:35:02.241515+00:00"
     }
   }
 }
