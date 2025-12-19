@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-19T11:56:27.856548+00:00",
+  "last_checked": "2025-12-19T12:59:09.573462+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -38346,6 +38346,90 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-19T11:56:26.825176+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1133416/000114036125046115/0001140361-25-046115-index.htm": {
+      "title": "8-K - GALECTIN THERAPEUTICS INC (0001133416) (Filer)",
+      "updated": "2025-12-19T07:55:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T12:58:56.626299+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/107687/000010768725000042/0000107687-25-000042-index.htm": {
+      "title": "8-K - WINNEBAGO INDUSTRIES INC (0000107687) (Filer)",
+      "updated": "2025-12-19T07:46:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T12:58:57.708845+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/23217/000002321725000094/0000023217-25-000094-index.htm": {
+      "title": "8-K - CONAGRA BRANDS INC. (0000023217) (Filer)",
+      "updated": "2025-12-19T07:32:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T12:58:58.793828+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1803498/000180349825000086/0001803498-25-000086-index.htm": {
+      "title": "8-K - Blackstone Private Credit Fund (0001803498) (Filer)",
+      "updated": "2025-12-19T07:30:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T12:58:59.877774+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1938046/000149315225028444/0001493152-25-028444-index.htm": {
+      "title": "8-K - MANGOCEUTICALS, INC. (0001938046) (Filer)",
+      "updated": "2025-12-19T07:30:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T12:59:00.960495+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1835856/000162828025058089/0001628280-25-058089-index.htm": {
+      "title": "8-K - Better Home & Finance Holding Co (0001835856) (Filer)",
+      "updated": "2025-12-19T07:15:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T12:59:02.042415+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1065059/000162828025058088/0001628280-25-058088-index.htm": {
+      "title": "8-K - CENTRUS ENERGY CORP (0001065059) (Filer)",
+      "updated": "2025-12-19T07:14:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T12:59:03.125415+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1059556/000105955625000197/0001059556-25-000197-index.htm": {
+      "title": "8-K - MOODYS CORP /DE/ (0001059556) (Filer)",
+      "updated": "2025-12-19T07:11:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T12:59:04.208556+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1857154/000185715425000143/0001857154-25-000143-index.htm": {
+      "title": "8-K - Krispy Kreme, Inc. (0001857154) (Filer)",
+      "updated": "2025-12-19T07:09:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T12:59:05.294064+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1921865/000147793225009061/0001477932-25-009061-index.htm": {
+      "title": "8-K - ASP Isotopes Inc. (0001921865) (Filer)",
+      "updated": "2025-12-19T07:06:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T12:59:06.375768+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2074973/000121390025123495/0001213900-25-123495-index.htm": {
+      "title": "8-K - Churchill Capital Corp XI (0002074973) (Filer)",
+      "updated": "2025-12-19T07:00:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T12:59:07.459968+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1023994/000121390025123494/0001213900-25-123494-index.htm": {
+      "title": "8-K - SAFE & GREEN HOLDINGS CORP. (0001023994) (Filer)",
+      "updated": "2025-12-19T07:00:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T12:59:08.542241+00:00"
     }
   }
 }
