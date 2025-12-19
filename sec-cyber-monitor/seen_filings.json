@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-19T19:41:11.699843+00:00",
+  "last_checked": "2025-12-19T19:54:02.524507+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -38899,6 +38899,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-19T19:41:10.667728+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/95953/000009595325000132/0000095953-25-000132-index.htm": {
+      "title": "8-K - ASCENT INDUSTRIES CO. (0000095953) (Filer)",
+      "updated": "2025-12-19T14:53:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T19:54:00.395650+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1868516/000110465925123033/0001104659-25-123033-index.htm": {
+      "title": "8-K - StratCap Digital Infrastructure REIT, Inc. (0001868516) (Filer)",
+      "updated": "2025-12-19T14:44:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T19:54:01.491955+00:00"
     }
   }
 }
