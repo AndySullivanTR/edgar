@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-19T13:56:48.589958+00:00",
+  "last_checked": "2025-12-19T14:31:07.903058+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -38598,6 +38598,62 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-19T13:56:47.554654+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2021042/000121390025123559/0001213900-25-123559-index.htm": {
+      "title": "8-K - EQV Ventures Acquisition Corp. (0002021042) (Filer)",
+      "updated": "2025-12-19T09:28:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T14:30:59.275416+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1938046/000149315225028463/0001493152-25-028463-index.htm": {
+      "title": "8-K - MANGOCEUTICALS, INC. (0001938046) (Filer)",
+      "updated": "2025-12-19T09:28:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T14:31:00.362471+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1178879/000114036125046134/0001140361-25-046134-index.htm": {
+      "title": "8-K - AMICUS THERAPEUTICS, INC. (0001178879) (Filer)",
+      "updated": "2025-12-19T09:24:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T14:31:01.448042+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1712184/000171218425000196/0001712184-25-000196-index.htm": {
+      "title": "8-K - Liberty Latin America Ltd. (0001712184) (Filer)",
+      "updated": "2025-12-19T09:20:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T14:31:02.530338+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1125259/000162828025058106/0001628280-25-058106-index.htm": {
+      "title": "8-K - CARNIVAL PLC (0001125259) (Filer)",
+      "updated": "2025-12-19T09:17:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T14:31:03.615686+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/815097/000162828025058106/0001628280-25-058106-index.htm": {
+      "title": "8-K - CARNIVAL CORP (0000815097) (Filer)",
+      "updated": "2025-12-19T09:17:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T14:31:04.698219+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/732026/000143774925038362/0001437749-25-038362-index.htm": {
+      "title": "8-K - TRIO-TECH INTERNATIONAL (0000732026) (Filer)",
+      "updated": "2025-12-19T09:10:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T14:31:05.780859+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1074828/000165495425014138/0001654954-25-014138-index.htm": {
+      "title": "10-K - USBC, Inc. (0001074828) (Filer)",
+      "updated": "2025-12-19T09:02:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T14:31:06.871444+00:00"
     }
   }
 }
