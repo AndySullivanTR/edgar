@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-19T17:27:38.099535+00:00",
+  "last_checked": "2025-12-19T17:42:15.672550+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -38787,6 +38787,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-19T17:27:37.066087+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1679273/000167927325000076/0001679273-25-000076-index.htm": {
+      "title": "10-Q - Lamb Weston Holdings, Inc. (0001679273) (Filer)",
+      "updated": "2025-12-19T12:35:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T17:42:14.640391+00:00"
     }
   }
 }
