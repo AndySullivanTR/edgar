@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-19T19:25:18.913139+00:00",
+  "last_checked": "2025-12-19T19:41:11.699843+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -38885,6 +38885,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-19T19:25:17.879672+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1747079/000121390025123742/0001213900-25-123742-index.htm": {
+      "title": "8-K/A - Bally's Corp (0001747079) (Filer)",
+      "updated": "2025-12-19T14:26:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T19:41:09.557280+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2096187/000153949725003315/0001539497-25-003315-index.htm": {
+      "title": "8-K - BANK5 2025-5YR18 (0002096187) (Filer)",
+      "updated": "2025-12-19T14:25:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T19:41:10.667728+00:00"
     }
   }
 }
