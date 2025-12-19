@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-19T17:55:31.744772+00:00",
+  "last_checked": "2025-12-19T18:39:37.414558+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -38815,6 +38815,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-19T17:55:30.713089+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1859919/000185991925000094/0001859919-25-000094-index.htm": {
+      "title": "8-K - Barings Private Credit Corp (0001859919) (Filer)",
+      "updated": "2025-12-19T13:37:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T18:39:30.914295+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1645731/000119312525326465/0001193125-25-326465-index.htm": {
+      "title": "8-K - Discover Funding LLC (0001645731) (Filer)",
+      "updated": "2025-12-19T13:33:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T18:39:32.007256+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1407200/000119312525326465/0001193125-25-326465-index.htm": {
+      "title": "8-K - Discover Card Execution Note Trust (0001407200) (Filer)",
+      "updated": "2025-12-19T13:33:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T18:39:33.099339+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/894329/000119312525326465/0001193125-25-326465-index.htm": {
+      "title": "8-K - DISCOVER CARD MASTER TRUST I (0000894329) (Filer)",
+      "updated": "2025-12-19T13:33:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T18:39:34.193188+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/92122/000009212225000100/0000092122-25-000100-index.htm": {
+      "title": "8-K - SOUTHERN CO (0000092122) (Filer)",
+      "updated": "2025-12-19T13:19:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T18:39:35.290704+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/41091/000009212225000100/0000092122-25-000100-index.htm": {
+      "title": "8-K - GEORGIA POWER CO (0000041091) (Filer)",
+      "updated": "2025-12-19T13:19:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T18:39:36.382794+00:00"
     }
   }
 }
