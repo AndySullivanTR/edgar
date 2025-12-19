@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-19T20:30:26.472905+00:00",
+  "last_checked": "2025-12-19T20:54:29.735827+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -38927,6 +38927,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-19T20:30:25.440596+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1408075/000119312525326730/0001193125-25-326730-index.htm": {
+      "title": "8-K - GRAPHIC PACKAGING HOLDING CO (0001408075) (Filer)",
+      "updated": "2025-12-19T15:43:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T20:54:26.444394+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1329842/000165495425014149/0001654954-25-014149-index.htm": {
+      "title": "8-K/A - Federal Home Loan Bank of New York (0001329842) (Filer)",
+      "updated": "2025-12-19T15:38:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T20:54:27.577841+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/868278/000149315225028537/0001493152-25-028537-index.htm": {
+      "title": "8-K - ProPhase Labs, Inc. (0000868278) (Filer)",
+      "updated": "2025-12-19T15:37:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T20:54:28.703977+00:00"
     }
   }
 }
