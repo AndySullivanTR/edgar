@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-19T12:59:09.573462+00:00",
+  "last_checked": "2025-12-19T13:40:10.900196+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -38430,6 +38430,153 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-19T12:59:08.542241+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/723531/000119312525325838/0001193125-25-325838-index.htm": {
+      "title": "8-K - PAYCHEX INC (0000723531) (Filer)",
+      "updated": "2025-12-19T08:36:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:39:48.092821+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1823794/000119312525325837/0001193125-25-325837-index.htm": {
+      "title": "8-K - ARKO Corp. (0001823794) (Filer)",
+      "updated": "2025-12-19T08:35:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:39:49.173557+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1624512/000162828025058104/0001628280-25-058104-index.htm": {
+      "title": "8-K - Boxlight Corp (0001624512) (Filer)",
+      "updated": "2025-12-19T08:35:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:39:50.254801+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1679273/000167927325000075/0001679273-25-000075-index.htm": {
+      "title": "8-K - Lamb Weston Holdings, Inc. (0001679273) (Filer)",
+      "updated": "2025-12-19T08:32:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:39:51.336742+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1649989/000110465925122786/0001104659-25-122786-index.htm": {
+      "title": "8-K - Outlook Therapeutics, Inc. (0001649989) (Filer)",
+      "updated": "2025-12-19T08:30:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:39:52.418294+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1782430/000149315225028455/0001493152-25-028455-index.htm": {
+      "title": "8-K - Strawberry Fields REIT, Inc. (0001782430) (Filer)",
+      "updated": "2025-12-19T08:30:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:39:53.500509+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1863460/000149315225028454/0001493152-25-028454-index.htm": {
+      "title": "8-K - PHP Ventures Acquisition Corp. (0001863460) (Filer)",
+      "updated": "2025-12-19T08:30:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:39:54.586637+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1759425/000119312525325825/0001193125-25-325825-index.htm": {
+      "title": "8-K - Mirum Pharmaceuticals, Inc. (0001759425) (Filer)",
+      "updated": "2025-12-19T08:30:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:39:55.669708+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1701108/000119312525325821/0001193125-25-325821-index.htm": {
+      "title": "8-K - Spero Therapeutics, Inc. (0001701108) (Filer)",
+      "updated": "2025-12-19T08:25:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:39:56.755856+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1644378/000110465925122783/0001104659-25-122783-index.htm": {
+      "title": "8-K - RMR GROUP INC. (0001644378) (Filer)",
+      "updated": "2025-12-19T08:23:53-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:39:57.849632+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/3545/000000354525000146/0000003545-25-000146-index.htm": {
+      "title": "8-K - ALICO, INC. (0000003545) (Filer)",
+      "updated": "2025-12-19T08:22:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:39:58.944567+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1819574/000162828025058100/0001628280-25-058100-index.htm": {
+      "title": "8-K - Bark, Inc. (0001819574) (Filer)",
+      "updated": "2025-12-19T08:20:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:40:00.026588+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/46250/000004625025000059/0000046250-25-000059-index.htm": {
+      "title": "8-K - HAWKINS INC (0000046250) (Filer)",
+      "updated": "2025-12-19T08:18:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:40:01.109446+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/899394/000119312525324816/0001193125-25-324816-index.htm": {
+      "title": "8-K - HARBOR DIVERSIFIED, INC. (0000899394) (Filer)",
+      "updated": "2025-12-19T08:17:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:40:02.227480+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1064728/000106472825000144/0001064728-25-000144-index.htm": {
+      "title": "8-K - PEABODY ENERGY CORP (0001064728) (Filer)",
+      "updated": "2025-12-19T08:13:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:40:03.323164+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1814287/000162828025058098/0001628280-25-058098-index.htm": {
+      "title": "8-K - Abacus Global Management, Inc. (0001814287) (Filer)",
+      "updated": "2025-12-19T08:12:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:40:04.412299+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1758766/000175876625000085/0001758766-25-000085-index.htm": {
+      "title": "8-K - STEM, INC. (0001758766) (Filer)",
+      "updated": "2025-12-19T08:01:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:40:05.496904+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1853070/000162828025058096/0001628280-25-058096-index.htm": {
+      "title": "8-K - Volato Group, Inc. (0001853070) (Filer)",
+      "updated": "2025-12-19T08:00:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:40:06.580726+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1823652/000155485525002295/0001554855-25-002295-index.htm": {
+      "title": "8-K - Eve Holding, Inc. (0001823652) (Filer)",
+      "updated": "2025-12-19T08:00:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:40:07.695618+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/4904/000000490425000198/0000004904-25-000198-index.htm": {
+      "title": "8-K - AMERICAN ELECTRIC POWER CO INC (0000004904) (Filer)",
+      "updated": "2025-12-19T08:00:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:40:08.780922+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1356093/000143774925038353/0001437749-25-038353-index.htm": {
+      "title": "8-K/A - CREATIVE REALITIES, INC. (0001356093) (Filer)",
+      "updated": "2025-12-19T08:00:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T13:40:09.868519+00:00"
     }
   }
 }
