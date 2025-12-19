@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-19T10:55:51.794202+00:00",
+  "last_checked": "2025-12-19T11:25:43.911657+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -38311,6 +38311,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-18T22:46:30.070389+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1976900/000149315225028430/0001493152-25-028430-index.htm": {
+      "title": "10-K - DFP HOLDINGS Ltd (0001976900) (Filer)",
+      "updated": "2025-12-19T06:15:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T11:25:41.796539+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1024305/000119312525325599/0001193125-25-325599-index.htm": {
+      "title": "8-K - COTY INC. (0001024305) (Filer)",
+      "updated": "2025-12-19T06:02:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T11:25:42.880273+00:00"
     }
   }
 }
