@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-19T22:28:14.334280+00:00",
+  "last_checked": "2025-12-19T22:46:49.247351+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39207,6 +39207,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-19T22:28:13.302192+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1661059/000110465925123305/0001104659-25-123305-index.htm": {
+      "title": "8-K - NextCure, Inc. (0001661059) (Filer)",
+      "updated": "2025-12-19T17:31:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T22:46:43.661279+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1843162/000121390025123957/0001213900-25-123957-index.htm": {
+      "title": "8-K - Chicago Atlantic BDC, Inc. (0001843162) (Filer)",
+      "updated": "2025-12-19T17:30:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T22:46:44.786664+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1967306/000110465925123303/0001104659-25-123303-index.htm": {
+      "title": "10-K - Mercer Bancorp, Inc. (0001967306) (Filer)",
+      "updated": "2025-12-19T17:29:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T22:46:45.962868+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1591890/000149315225028612/0001493152-25-028612-index.htm": {
+      "title": "8-K - FG Nexus Inc. (0001591890) (Filer)",
+      "updated": "2025-12-19T17:29:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T22:46:47.088512+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1803914/000162828025058362/0001628280-25-058362-index.htm": {
+      "title": "8-K - Playboy, Inc. (0001803914) (Filer)",
+      "updated": "2025-12-19T17:29:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T22:46:48.215091+00:00"
     }
   }
 }
