@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-19T11:43:12.592071+00:00",
+  "last_checked": "2025-12-19T11:56:27.856548+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -38332,6 +38332,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-19T11:43:11.561113+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/85961/000162828025058084/0001628280-25-058084-index.htm": {
+      "title": "8-K - RYDER SYSTEM INC (0000085961) (Filer)",
+      "updated": "2025-12-19T06:55:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T11:56:25.677826+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2064355/000119312525325746/0001193125-25-325746-index.htm": {
+      "title": "8-K - Bain Capital GSS Investment Corp. (0002064355) (Filer)",
+      "updated": "2025-12-19T06:45:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T11:56:26.825176+00:00"
     }
   }
 }
