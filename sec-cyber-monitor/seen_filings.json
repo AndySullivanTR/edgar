@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-19T21:42:43.466615+00:00",
+  "last_checked": "2025-12-19T21:55:55.321809+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39060,6 +39060,69 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-19T21:42:42.436048+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2070457/000121390025123918/0001213900-25-123918-index.htm": {
+      "title": "10-Q - Twenty One Capital, Inc. (0002070457) (Filer)",
+      "updated": "2025-12-19T16:55:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T21:55:45.541941+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1848756/000121390025123915/0001213900-25-123915-index.htm": {
+      "title": "8-K - Pyrophyte Acquisition Corp. (0001848756) (Filer)",
+      "updated": "2025-12-19T16:52:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T21:55:46.635347+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1435508/000110465925123243/0001104659-25-123243-index.htm": {
+      "title": "8-K - First Savings Financial Group, Inc. (0001435508) (Filer)",
+      "updated": "2025-12-19T16:51:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T21:55:47.727490+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1870404/000121390025123912/0001213900-25-123912-index.htm": {
+      "title": "8-K - CERO THERAPEUTICS HOLDINGS, INC. (0001870404) (Filer)",
+      "updated": "2025-12-19T16:49:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T21:55:48.821518+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1783398/000178339825000065/0001783398-25-000065-index.htm": {
+      "title": "8-K - UWM Holdings Corp (0001783398) (Filer)",
+      "updated": "2025-12-19T16:47:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T21:55:49.915282+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1040130/000104013025000108/0001040130-25-000108-index.htm": {
+      "title": "10-Q - PETMED EXPRESS INC (0001040130) (Filer)",
+      "updated": "2025-12-19T16:47:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T21:55:51.008958+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1529377/000162828025058325/0001628280-25-058325-index.htm": {
+      "title": "8-K - Ares Commercial Real Estate Corp (0001529377) (Filer)",
+      "updated": "2025-12-19T16:46:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T21:55:52.103090+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/896493/000121465925018293/0001214659-25-018293-index.htm": {
+      "title": "8-K - Hyperscale Data, Inc. (0000896493) (Filer)",
+      "updated": "2025-12-19T16:45:35-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T21:55:53.199017+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1892492/000149315225028582/0001493152-25-028582-index.htm": {
+      "title": "8-K - Eightco Holdings Inc. (0001892492) (Filer)",
+      "updated": "2025-12-19T16:45:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-19T21:55:54.289652+00:00"
     }
   }
 }
