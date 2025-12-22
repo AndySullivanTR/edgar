@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-22T20:30:22.306000+00:00",
+  "last_checked": "2025-12-22T20:55:21.875176+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39795,6 +39795,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-22T19:54:46.857767+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2037804/000158064225007963/0001580642-25-007963-index.htm": {
+      "title": "8-K - New Mountain Private Credit Fund (0002037804) (Filer)",
+      "updated": "2025-12-22T15:44:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T20:55:20.841901+00:00"
     }
   }
 }
