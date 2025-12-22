@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-22T17:29:01.297796+00:00",
+  "last_checked": "2025-12-22T17:46:40.329309+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39732,6 +39732,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-22T17:29:00.263245+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/723254/000095010325016413/0000950103-25-016413-index.htm": {
+      "title": "8-K - CINTAS CORP (0000723254) (Filer)",
+      "updated": "2025-12-22T12:30:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T17:46:39.297555+00:00"
     }
   }
 }
