@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-22T21:42:59.811695+00:00",
+  "last_checked": "2025-12-22T21:56:06.749342+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39907,6 +39907,69 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-22T21:42:58.779639+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1674440/000149315225028804/0001493152-25-028804-index.htm": {
+      "title": "8-K - AIRWA INC. (0001674440) (Filer)",
+      "updated": "2025-12-22T16:55:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T21:55:56.567794+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1658566/000119312525328893/0001193125-25-328893-index.htm": {
+      "title": "8-K - Permian Resources Corp (0001658566) (Filer)",
+      "updated": "2025-12-22T16:55:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T21:55:57.666200+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/945394/000094539425000124/0000945394-25-000124-index.htm": {
+      "title": "8-K - Service Properties Trust (0000945394) (Filer)",
+      "updated": "2025-12-22T16:53:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T21:55:58.910982+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2031750/000162828025058563/0001628280-25-058563-index.htm": {
+      "title": "8-K - Ares Core Infrastructure Fund (0002031750) (Filer)",
+      "updated": "2025-12-22T16:53:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T21:56:00.056524+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/101984/000010198425000245/0000101984-25-000245-index.htm": {
+      "title": "8-K - UNIVERSAL ELECTRONICS INC (0000101984) (Filer)",
+      "updated": "2025-12-22T16:51:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T21:56:01.295904+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1549346/000154934625000055/0001549346-25-000055-index.htm": {
+      "title": "8-K - Shutterstock, Inc. (0001549346) (Filer)",
+      "updated": "2025-12-22T16:51:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T21:56:02.410482+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2046386/000119312525328884/0001193125-25-328884-index.htm": {
+      "title": "8-K - Medline Inc. (0002046386) (Filer)",
+      "updated": "2025-12-22T16:48:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T21:56:03.514467+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1464423/000119312525328875/0001193125-25-328875-index.htm": {
+      "title": "8-K - PennyMac Mortgage Investment Trust (0001464423) (Filer)",
+      "updated": "2025-12-22T16:47:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T21:56:04.617923+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2046946/000110465925123783/0001104659-25-123783-index.htm": {
+      "title": "8-K - Ares Sports, Media & Entertainment Opportunities LP (0002046946) (Filer)",
+      "updated": "2025-12-22T16:47:07-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T21:56:05.716505+00:00"
     }
   }
 }
