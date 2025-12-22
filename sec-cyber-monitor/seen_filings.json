@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-22T12:58:15.076319+00:00",
+  "last_checked": "2025-12-22T13:40:58.293059+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39403,6 +39403,160 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-22T12:58:14.046013+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1280058/000128005825000060/0001280058-25-000060-index.htm": {
+      "title": "8-K - BLACKBAUD INC (0001280058) (Filer)",
+      "updated": "2025-12-22T08:34:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:33.677759+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1386570/000138657025000030/0001386570-25-000030-index.htm": {
+      "title": "8-K - Niagen Bioscience, Inc. (0001386570) (Filer)",
+      "updated": "2025-12-22T08:32:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:34.822768+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1137774/000119312525327631/0001193125-25-327631-index.htm": {
+      "title": "8-K - PRUDENTIAL FINANCIAL INC (0001137774) (Filer)",
+      "updated": "2025-12-22T08:31:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:36.047998+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2026353/000149315225028671/0001493152-25-028671-index.htm": {
+      "title": "8-K - Aether Holdings, Inc. (0002026353) (Filer)",
+      "updated": "2025-12-22T08:30:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:37.182482+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1718405/000149315225028670/0001493152-25-028670-index.htm": {
+      "title": "8-K - HYCROFT MINING HOLDING CORP (0001718405) (Filer)",
+      "updated": "2025-12-22T08:30:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:38.336706+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1662684/000110465925123511/0001104659-25-123511-index.htm": {
+      "title": "8-K - KULR Technology Group, Inc. (0001662684) (Filer)",
+      "updated": "2025-12-22T08:30:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:39.493941+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2082542/000182912625010212/0001829126-25-010212-index.htm": {
+      "title": "8-K - Bitcoin Infrastructure Acquisition Corp Ltd (0002082542) (Filer)",
+      "updated": "2025-12-22T08:30:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:40.593001+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1625641/000162564125000217/0001625641-25-000217-index.htm": {
+      "title": "8-K - CS Disco, Inc. (0001625641) (Filer)",
+      "updated": "2025-12-22T08:30:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:41.680842+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/711669/000071166925000171/0000711669-25-000171-index.htm": {
+      "title": "8-K - COLONY BANKCORP INC (0000711669) (Filer)",
+      "updated": "2025-12-22T08:30:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:42.791451+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1835856/000162828025058400/0001628280-25-058400-index.htm": {
+      "title": "8-K - Better Home & Finance Holding Co (0001835856) (Filer)",
+      "updated": "2025-12-22T08:28:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:43.876386+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1276531/000127653125000013/0001276531-25-000013-index.htm": {
+      "title": "8-K - SCIENTIFIC ENERGY, INC (0001276531) (Filer)",
+      "updated": "2025-12-22T08:25:00-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:45.030099+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1270436/000110465925123509/0001104659-25-123509-index.htm": {
+      "title": "8-K - Cohen & Co Inc. (0001270436) (Filer)",
+      "updated": "2025-12-22T08:24:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:46.123725+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1564708/000156470825000607/0001564708-25-000607-index.htm": {
+      "title": "8-K - NEWS CORP (0001564708) (Filer)",
+      "updated": "2025-12-22T08:18:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:47.256370+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/815556/000081555625000123/0000815556-25-000123-index.htm": {
+      "title": "8-K - FASTENAL CO (0000815556) (Filer)",
+      "updated": "2025-12-22T08:16:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:48.352006+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1500198/000121390025124165/0001213900-25-124165-index.htm": {
+      "title": "8-K - NEUROONE MEDICAL TECHNOLOGIES Corp (0001500198) (Filer)",
+      "updated": "2025-12-22T08:13:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:49.455475+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1829635/000110465925123500/0001104659-25-123500-index.htm": {
+      "title": "8-K - Transcode Therapeutics, Inc. (0001829635) (Filer)",
+      "updated": "2025-12-22T08:13:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:50.570363+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1803696/000119312525327611/0001193125-25-327611-index.htm": {
+      "title": "8-K - Adeia Inc. (0001803696) (Filer)",
+      "updated": "2025-12-22T08:07:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:51.656746+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1835856/000162828025058397/0001628280-25-058397-index.htm": {
+      "title": "8-K - Better Home & Finance Holding Co (0001835856) (Filer)",
+      "updated": "2025-12-22T08:06:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:52.785081+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2041610/000110465925123496/0001104659-25-123496-index.htm": {
+      "title": "8-K - Paramount Skydance Corp (0002041610) (Filer)",
+      "updated": "2025-12-22T08:05:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:53.993068+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/78814/000162828025058395/0001628280-25-058395-index.htm": {
+      "title": "8-K - PITNEY BOWES INC /DE/ (0000078814) (Filer)",
+      "updated": "2025-12-22T08:02:57-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:55.083593+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1840563/000121390025124162/0001213900-25-124162-index.htm": {
+      "title": "8-K - PMGC Holdings Inc. (0001840563) (Filer)",
+      "updated": "2025-12-22T08:00:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:56.173132+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1050446/000119312525327598/0001193125-25-327598-index.htm": {
+      "title": "8-K - Strategy Inc (0001050446) (Filer)",
+      "updated": "2025-12-22T08:00:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:40:57.260969+00:00"
     }
   }
 }
