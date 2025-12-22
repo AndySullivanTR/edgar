@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-22T13:57:35.539230+00:00",
+  "last_checked": "2025-12-22T14:31:07.300025+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39620,6 +39620,69 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-22T13:57:34.507108+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/33002/000119312525327862/0001193125-25-327862-index.htm": {
+      "title": "8-K - ENNIS, INC. (0000033002) (Filer)",
+      "updated": "2025-12-22T09:30:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T14:30:57.553744+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1526243/000110465925123538/0001104659-25-123538-index.htm": {
+      "title": "8-K - PERPETUA RESOURCES CORP. (0001526243) (Filer)",
+      "updated": "2025-12-22T09:23:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T14:30:58.646334+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1274173/000110465925123536/0001104659-25-123536-index.htm": {
+      "title": "8-K - JANUS HENDERSON GROUP PLC (0001274173) (Filer)",
+      "updated": "2025-12-22T09:19:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T14:30:59.743751+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/90168/000162828025058406/0001628280-25-058406-index.htm": {
+      "title": "8-K - SIFCO INDUSTRIES INC (0000090168) (Filer)",
+      "updated": "2025-12-22T09:05:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T14:31:00.830343+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/90168/000162828025058405/0001628280-25-058405-index.htm": {
+      "title": "10-K - SIFCO INDUSTRIES INC (0000090168) (Filer)",
+      "updated": "2025-12-22T09:05:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T14:31:01.919180+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1815974/000149315225028676/0001493152-25-028676-index.htm": {
+      "title": "8-K - Anebulo Pharmaceuticals, Inc. (0001815974) (Filer)",
+      "updated": "2025-12-22T09:00:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T14:31:03.006419+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1342958/000149315225028677/0001493152-25-028677-index.htm": {
+      "title": "8-K - DIGITAL ALLY, INC. (0001342958) (Filer)",
+      "updated": "2025-12-22T09:00:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T14:31:04.092006+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1418121/000119312525327827/0001193125-25-327827-index.htm": {
+      "title": "8-K - Apple Hospitality REIT, Inc. (0001418121) (Filer)",
+      "updated": "2025-12-22T09:00:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T14:31:05.182664+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1048477/000119312525327828/0001193125-25-327828-index.htm": {
+      "title": "8-K - BIOMARIN PHARMACEUTICAL INC (0001048477) (Filer)",
+      "updated": "2025-12-22T09:00:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T14:31:06.266551+00:00"
     }
   }
 }
