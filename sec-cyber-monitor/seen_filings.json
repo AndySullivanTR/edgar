@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-22T15:48:36.561345+00:00",
+  "last_checked": "2025-12-22T16:34:56.551506+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39697,6 +39697,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-22T15:48:35.528869+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325814/000162828025058416/0001628280-25-058416-index.htm": {
+      "title": "8-K/A - Federal Home Loan Bank of Des Moines (0001325814) (Filer)",
+      "updated": "2025-12-22T11:11:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T16:34:54.328946+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331757/000133175725000224/0001331757-25-000224-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer)",
+      "updated": "2025-12-22T11:10:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T16:34:55.521047+00:00"
     }
   }
 }
