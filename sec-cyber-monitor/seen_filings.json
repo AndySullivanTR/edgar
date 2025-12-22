@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-22T19:25:54.557918+00:00",
+  "last_checked": "2025-12-22T19:41:37.378681+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39774,6 +39774,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-22T19:25:53.524574+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1172178/000149315225028741/0001493152-25-028741-index.htm": {
+      "title": "8-K - LIBERTY STAR URANIUM & METALS CORP. (0001172178) (Filer)",
+      "updated": "2025-12-22T14:40:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T19:41:35.256738+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/800457/000114036125046361/0001140361-25-046361-index.htm": {
+      "title": "8-K - DONEGAL GROUP INC (0000800457) (Filer)",
+      "updated": "2025-12-22T14:39:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T19:41:36.345480+00:00"
     }
   }
 }
