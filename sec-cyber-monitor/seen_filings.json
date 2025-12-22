@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-22T21:56:06.749342+00:00",
+  "last_checked": "2025-12-22T22:28:56.470709+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39970,6 +39970,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-22T21:56:05.716505+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1098146/000143774925038571/0001437749-25-038571-index.htm": {
+      "title": "8-K - PATRIOT NATIONAL BANCORP INC (0001098146) (Filer)",
+      "updated": "2025-12-22T17:28:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T22:28:50.013820+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1774170/000149315225028843/0001493152-25-028843-index.htm": {
+      "title": "8-K - Powerfleet, Inc. (0001774170) (Filer)",
+      "updated": "2025-12-22T17:28:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T22:28:51.098282+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1880431/000149315225028842/0001493152-25-028842-index.htm": {
+      "title": "10-Q - Vocodia Holdings Corp (0001880431) (Filer)",
+      "updated": "2025-12-22T17:28:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T22:28:52.189087+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1918102/000110465925123840/0001104659-25-123840-index.htm": {
+      "title": "8-K - DEEP FISSION, INC. (0001918102) (Filer)",
+      "updated": "2025-12-22T17:27:49-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T22:28:53.272800+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1881487/000110465925123836/0001104659-25-123836-index.htm": {
+      "title": "8-K - ProFrac Holding Corp. (0001881487) (Filer)",
+      "updated": "2025-12-22T17:23:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T22:28:54.356547+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2076616/000121390025124661/0001213900-25-124661-index.htm": {
+      "title": "10-Q - Tailwind 2.0 Acquisition Corp. (0002076616) (Filer)",
+      "updated": "2025-12-22T17:22:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T22:28:55.438290+00:00"
     }
   }
 }
