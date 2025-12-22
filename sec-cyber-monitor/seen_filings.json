@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-22T18:39:53.850632+00:00",
+  "last_checked": "2025-12-22T18:59:23.647615+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39760,6 +39760,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-22T18:39:52.817910+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1711799/000171179925000024/0001711799-25-000024-index.htm": {
+      "title": "8-K - Nuveen Global Cities REIT, Inc. (0001711799) (Filer)",
+      "updated": "2025-12-22T13:58:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T18:59:22.614969+00:00"
     }
   }
 }
