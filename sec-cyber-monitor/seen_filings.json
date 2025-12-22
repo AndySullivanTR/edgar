@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-22T11:26:00.928935+00:00",
+  "last_checked": "2025-12-22T11:43:32.882275+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39305,6 +39305,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-22T11:25:59.896958+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2017950/000149315225028643/0001493152-25-028643-index.htm": {
+      "title": "8-K - DT Cloud Star Acquisition Corp (0002017950) (Filer)",
+      "updated": "2025-12-22T06:35:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T11:43:31.849964+00:00"
     }
   }
 }
