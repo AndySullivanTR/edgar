@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-22T14:54:41.848764+00:00",
+  "last_checked": "2025-12-22T15:29:33.084761+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39683,6 +39683,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-22T14:31:06.266551+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1672572/000109991025000279/0001099910-25-000279-index.htm": {
+      "title": "8-K - Landbay Inc (0001672572) (Filer)",
+      "updated": "2025-12-22T10:22:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T15:29:32.052664+00:00"
     }
   }
 }
