@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-22T18:59:23.647615+00:00",
+  "last_checked": "2025-12-22T19:25:54.557918+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39767,6 +39767,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-22T18:59:22.614969+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1218683/000121390025124379/0001213900-25-124379-index.htm": {
+      "title": "8-K - Mawson Infrastructure Group Inc. (0001218683) (Filer)",
+      "updated": "2025-12-22T14:09:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T19:25:53.524574+00:00"
     }
   }
 }
