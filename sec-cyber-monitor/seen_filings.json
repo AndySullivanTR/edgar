@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-22T11:43:32.882275+00:00",
+  "last_checked": "2025-12-22T11:55:34.388344+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39312,6 +39312,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-22T11:43:31.849964+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1411579/000110465925123452/0001104659-25-123452-index.htm": {
+      "title": "8-K - AMC ENTERTAINMENT HOLDINGS, INC. (0001411579) (Filer)",
+      "updated": "2025-12-22T06:51:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T11:55:33.356304+00:00"
     }
   }
 }
