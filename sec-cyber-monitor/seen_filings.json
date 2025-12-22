@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-22T11:55:34.388344+00:00",
+  "last_checked": "2025-12-22T12:58:15.076319+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39319,6 +39319,90 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-22T11:55:33.356304+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1158172/000115817225000100/0001158172-25-000100-index.htm": {
+      "title": "8-K - COMSCORE, INC. (0001158172) (Filer)",
+      "updated": "2025-12-22T07:41:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T12:58:01.579887+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1804745/000180474525000097/0001804745-25-000097-index.htm": {
+      "title": "8-K - Driven Brands Holdings Inc. (0001804745) (Filer)",
+      "updated": "2025-12-22T07:39:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T12:58:02.718246+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1866368/000095015725001016/0000950157-25-001016-index.htm": {
+      "title": "8-K - Clearwater Analytics Holdings, Inc. (0001866368) (Filer)",
+      "updated": "2025-12-22T07:38:36-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T12:58:03.845830+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/16058/000162828025058393/0001628280-25-058393-index.htm": {
+      "title": "8-K - CACI INTERNATIONAL INC /DE/ (0000016058) (Filer)",
+      "updated": "2025-12-22T07:32:56-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T12:58:04.972054+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1479615/000119312525327575/0001193125-25-327575-index.htm": {
+      "title": "8-K - Silence Therapeutics plc (0001479615) (Filer)",
+      "updated": "2025-12-22T07:32:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T12:58:06.145563+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1024305/000119312525327571/0001193125-25-327571-index.htm": {
+      "title": "8-K - COTY INC. (0001024305) (Filer)",
+      "updated": "2025-12-22T07:30:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T12:58:07.277233+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1141284/000121390025124150/0001213900-25-124150-index.htm": {
+      "title": "8-K/A - ACTELIS NETWORKS INC (0001141284) (Filer)",
+      "updated": "2025-12-22T07:20:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T12:58:08.407050+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1825079/000149315225028653/0001493152-25-028653-index.htm": {
+      "title": "8-K - Velo3D, Inc. (0001825079) (Filer)",
+      "updated": "2025-12-22T07:15:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T12:58:09.538734+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1455863/000119312525327562/0001193125-25-327562-index.htm": {
+      "title": "8-K - AMERICOLD REALTY TRUST (0001455863) (Filer)",
+      "updated": "2025-12-22T07:07:16-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T12:58:10.668283+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1625297/000162529725000078/0001625297-25-000078-index.htm": {
+      "title": "8-K - INDIVIOR PLC (0001625297) (Filer)",
+      "updated": "2025-12-22T07:03:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T12:58:11.791432+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2030522/000121390025124130/0001213900-25-124130-index.htm": {
+      "title": "10-Q - Marwynn Holdings, Inc. (0002030522) (Filer)",
+      "updated": "2025-12-22T07:01:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T12:58:12.917148+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1771706/000110465925123459/0001104659-25-123459-index.htm": {
+      "title": "8-K - Vireo Growth Inc. (0001771706) (Filer)",
+      "updated": "2025-12-22T07:00:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T12:58:14.046013+00:00"
     }
   }
 }
