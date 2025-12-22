@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-22T17:46:40.329309+00:00",
+  "last_checked": "2025-12-22T18:39:53.850632+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39739,6 +39739,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-22T17:46:39.297555+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1720286/000147793225009132/0001477932-25-009132-index.htm": {
+      "title": "8-K - INTERNET SCIENCES INC. (0001720286) (Filer)",
+      "updated": "2025-12-22T13:37:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T18:39:50.625504+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1376986/000137698625000060/0001376986-25-000060-index.htm": {
+      "title": "8-K - Tennessee Valley Authority (0001376986) (Filer)",
+      "updated": "2025-12-22T13:29:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T18:39:51.716280+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1893899/000106299325017444/0001062993-25-017444-index.htm": {
+      "title": "8-K - Alaska Silver Corp. (0001893899) (Filer)",
+      "updated": "2025-12-22T13:28:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T18:39:52.817910+00:00"
     }
   }
 }
