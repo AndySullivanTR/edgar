@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-22T10:56:06.914564+00:00",
+  "last_checked": "2025-12-22T11:26:00.928935+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39242,6 +39242,69 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-19T22:46:48.215091+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1647088/000175392625001926/0001753926-25-001926-index.htm": {
+      "title": "8-K - WillScot Holdings Corp (0001647088) (Filer)",
+      "updated": "2025-12-22T06:19:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T11:25:51.148240+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1099219/000109921925000239/0001099219-25-000239-index.htm": {
+      "title": "8-K - METLIFE INC (0001099219) (Filer)",
+      "updated": "2025-12-22T06:18:21-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T11:25:52.241830+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1881462/000121390025124094/0001213900-25-124094-index.htm": {
+      "title": "8-K - Spree Acquisition Corp. 1 Ltd (0001881462) (Filer)",
+      "updated": "2025-12-22T06:15:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T11:25:53.333152+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1802450/000119312525327465/0001193125-25-327465-index.htm": {
+      "title": "8-K - MSP Recovery, Inc. (0001802450) (Filer)",
+      "updated": "2025-12-22T06:10:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T11:25:54.431230+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1805521/000121390025124090/0001213900-25-124090-index.htm": {
+      "title": "8-K - FARADAY FUTURE INTELLIGENT ELECTRIC INC. (0001805521) (Filer)",
+      "updated": "2025-12-22T06:09:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T11:25:55.521171+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/773840/000077384025000125/0000773840-25-000125-index.htm": {
+      "title": "8-K - HONEYWELL INTERNATIONAL INC (0000773840) (Filer)",
+      "updated": "2025-12-22T06:05:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T11:25:56.620775+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1838163/000149315225028637/0001493152-25-028637-index.htm": {
+      "title": "8-K - Brand Engagement Network Inc. (0001838163) (Filer)",
+      "updated": "2025-12-22T06:05:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T11:25:57.713120+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1065280/000119312525327462/0001193125-25-327462-index.htm": {
+      "title": "8-K - NETFLIX INC (0001065280) (Filer)",
+      "updated": "2025-12-22T06:05:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T11:25:58.804711+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1498148/000149315225028635/0001493152-25-028635-index.htm": {
+      "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+      "updated": "2025-12-22T06:04:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T11:25:59.896958+00:00"
     }
   }
 }
