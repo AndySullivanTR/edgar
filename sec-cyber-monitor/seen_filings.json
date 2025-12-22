@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-22T15:29:33.084761+00:00",
+  "last_checked": "2025-12-22T15:48:36.561345+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39690,6 +39690,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-22T15:29:32.052664+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1588272/000119312525327989/0001193125-25-327989-index.htm": {
+      "title": "8-K - NexPoint Capital, Inc. (0001588272) (Filer)",
+      "updated": "2025-12-22T10:35:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T15:48:35.528869+00:00"
     }
   }
 }
