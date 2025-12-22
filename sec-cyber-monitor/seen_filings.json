@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-22T21:25:15.517825+00:00",
+  "last_checked": "2025-12-22T21:42:59.811695+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39830,6 +39830,83 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-22T21:25:14.483815+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1837671/000183767125000089/0001837671-25-000089-index.htm": {
+      "title": "8-K - Copper Property CTL Pass Through Trust (0001837671) (Filer)",
+      "updated": "2025-12-22T16:42:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T21:42:47.877556+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/920371/000162828025058560/0001628280-25-058560-index.htm": {
+      "title": "8-K - Simpson Manufacturing Co., Inc. (0000920371) (Filer)",
+      "updated": "2025-12-22T16:38:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T21:42:49.012898+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1829953/000147793225009154/0001477932-25-009154-index.htm": {
+      "title": "8-K - Corner Growth Acquisition Corp. (0001829953) (Filer)",
+      "updated": "2025-12-22T16:38:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T21:42:50.096810+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1808665/000110465925123772/0001104659-25-123772-index.htm": {
+      "title": "8-K - Assertio Holdings, Inc. (0001808665) (Filer)",
+      "updated": "2025-12-22T16:37:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T21:42:51.178468+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1948056/000194805625000074/0001948056-25-000074-index.htm": {
+      "title": "8-K - KKR Infrastructure Conglomerate LLC (0001948056) (Filer)",
+      "updated": "2025-12-22T16:37:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T21:42:52.260906+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/928658/000100888625000323/0001008886-25-000323-index.htm": {
+      "title": "8-K - COVENANT LOGISTICS GROUP, INC. (0000928658) (Filer)",
+      "updated": "2025-12-22T16:36:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T21:42:53.347352+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2017206/000119312525328840/0001193125-25-328840-index.htm": {
+      "title": "8-K - Millrose Properties, Inc. (0002017206) (Filer)",
+      "updated": "2025-12-22T16:36:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T21:42:54.435500+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/832489/000143774925038547/0001437749-25-038547-index.htm": {
+      "title": "8-K - GeoVax Labs, Inc. (0000832489) (Filer)",
+      "updated": "2025-12-22T16:35:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T21:42:55.519681+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1965934/000119312525328836/0001193125-25-328836-index.htm": {
+      "title": "8-K - Overland Advantage (0001965934) (Filer)",
+      "updated": "2025-12-22T16:35:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T21:42:56.608473+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1488813/000203985225000203/0002039852-25-000203-index.htm": {
+      "title": "8-K - Customers Bancorp, Inc. (0001488813) (Filer)",
+      "updated": "2025-12-22T16:35:17-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T21:42:57.691825+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1093557/000109355725000291/0001093557-25-000291-index.htm": {
+      "title": "8-K - DEXCOM INC (0001093557) (Filer)",
+      "updated": "2025-12-22T16:35:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T21:42:58.779639+00:00"
     }
   }
 }
