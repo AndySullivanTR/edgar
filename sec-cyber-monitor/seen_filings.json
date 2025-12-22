@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-22T16:34:56.551506+00:00",
+  "last_checked": "2025-12-22T16:59:05.598930+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39711,6 +39711,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-22T16:34:55.521047+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1633858/000119312525328120/0001193125-25-328120-index.htm": {
+      "title": "8-K - Audax Credit BDC Inc. (0001633858) (Filer)",
+      "updated": "2025-12-22T11:50:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T16:59:03.480082+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1742313/000174231325000086/0001742313-25-000086-index.htm": {
+      "title": "8-K - Monroe Capital Income Plus Corp (0001742313) (Filer)",
+      "updated": "2025-12-22T11:42:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T16:59:04.565450+00:00"
     }
   }
 }
