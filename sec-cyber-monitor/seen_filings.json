@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-22T13:40:58.293059+00:00",
+  "last_checked": "2025-12-22T13:57:35.539230+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -39557,6 +39557,69 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-22T13:40:57.260969+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1659617/000143774925038478/0001437749-25-038478-index.htm": {
+      "title": "8-K - Moleculin Biotech, Inc. (0001659617) (Filer)",
+      "updated": "2025-12-22T08:55:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:57:25.273357+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/93556/000119312525327646/0001193125-25-327646-index.htm": {
+      "title": "8-K - STANLEY BLACK & DECKER, INC. (0000093556) (Filer)",
+      "updated": "2025-12-22T08:49:45-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:57:26.393974+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/926617/000092661725000010/0000926617-25-000010-index.htm": {
+      "title": "8-K - Aspira Women's Health Inc. (0000926617) (Filer)",
+      "updated": "2025-12-22T08:49:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:57:27.562700+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/4281/000110465925123518/0001104659-25-123518-index.htm": {
+      "title": "8-K - Howmet Aerospace Inc. (0000004281) (Filer)",
+      "updated": "2025-12-22T08:46:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:57:28.676642+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1829311/000149315225028674/0001493152-25-028674-index.htm": {
+      "title": "8-K - BITMINE IMMERSION TECHNOLOGIES, INC. (0001829311) (Filer)",
+      "updated": "2025-12-22T08:45:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:57:29.808155+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1879403/000121390025124173/0001213900-25-124173-index.htm": {
+      "title": "8-K - La Rosa Holdings Corp. (0001879403) (Filer)",
+      "updated": "2025-12-22T08:45:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:57:30.931411+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1899287/000189928725000048/0001899287-25-000048-index.htm": {
+      "title": "8-K - Amprius Technologies, Inc. (0001899287) (Filer)",
+      "updated": "2025-12-22T08:43:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:57:32.097152+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/794323/000119312525327637/0001193125-25-327637-index.htm": {
+      "title": "8-K - Level 3 Parent, LLC (0000794323) (Filer)",
+      "updated": "2025-12-22T08:41:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:57:33.354364+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/18926/000119312525327637/0001193125-25-327637-index.htm": {
+      "title": "8-K - Lumen Technologies, Inc. (0000018926) (Filer)",
+      "updated": "2025-12-22T08:41:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-22T13:57:34.507108+00:00"
     }
   }
 }
