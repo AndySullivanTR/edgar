@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-23T14:49:49.099958+00:00",
+  "last_checked": "2025-12-23T15:29:53.703750+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -40271,6 +40271,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-23T14:28:12.561674+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1849089/000162828025058662/0001628280-25-058662-index.htm": {
+      "title": "8-K - Lafayette Square USA, Inc. (0001849089) (Filer)",
+      "updated": "2025-12-23T10:29:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T15:29:49.346039+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1849089/000162828025058659/0001628280-25-058659-index.htm": {
+      "title": "8-K - Lafayette Square USA, Inc. (0001849089) (Filer)",
+      "updated": "2025-12-23T10:17:58-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T15:29:50.459143+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1325878/000132587825000271/0001325878-25-000271-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer)",
+      "updated": "2025-12-23T10:15:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T15:29:51.578683+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1331754/000133175425000258/0001331754-25-000258-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer)",
+      "updated": "2025-12-23T10:10:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T15:29:52.670897+00:00"
     }
   }
 }
