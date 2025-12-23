@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-23T17:31:39.723722+00:00",
+  "last_checked": "2025-12-23T17:54:08.470934+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -40348,6 +40348,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-23T16:59:42.358833+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1713407/000171340725000152/0001713407-25-000152-index.htm": {
+      "title": "8-K - BROOKFIELD REAL ESTATE INCOME TRUST INC. (0001713407) (Filer)",
+      "updated": "2025-12-23T12:53:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T17:54:07.437480+00:00"
     }
   }
 }
