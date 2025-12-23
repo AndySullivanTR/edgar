@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-23T18:40:13.020568+00:00",
+  "last_checked": "2025-12-23T19:00:39.719201+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -40362,6 +40362,13 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-23T18:40:11.987965+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1895316/000110465925124088/0001104659-25-124088-index.htm": {
+      "title": "8-K - Brightwood Capital Corp I (0001895316) (Filer)",
+      "updated": "2025-12-23T13:55:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T19:00:38.685966+00:00"
     }
   }
 }
