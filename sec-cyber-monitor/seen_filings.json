@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-23T19:57:13.867395+00:00",
+  "last_checked": "2025-12-23T20:31:39.367705+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -40418,6 +40418,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-23T19:57:12.833854+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1590418/000168316825009339/0001683168-25-009339-index.htm": {
+      "title": "8-K - FOCUS UNIVERSAL INC. (0001590418) (Filer)",
+      "updated": "2025-12-23T15:28:09-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T20:31:37.251156+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1634452/000119312525330756/0001193125-25-330756-index.htm": {
+      "title": "8-K - AB Private Credit Investors Corp (0001634452) (Filer)",
+      "updated": "2025-12-23T15:25:02-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T20:31:38.334672+00:00"
     }
   }
 }
