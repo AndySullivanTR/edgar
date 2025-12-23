@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-23T21:55:58.593273+00:00",
+  "last_checked": "2025-12-23T22:28:09.547471+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -40572,6 +40572,97 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-23T21:55:57.559798+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1936756/000119983525000443/0001199835-25-000443-index.htm": {
+      "title": "10-Q - Next Bridge Hydrocarbons, Inc. (0001936756) (Filer)",
+      "updated": "2025-12-23T17:26:22-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T22:27:53.636105+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1830214/000162828025058791/0001628280-25-058791-index.htm": {
+      "title": "8-K - Ginkgo Bioworks Holdings, Inc. (0001830214) (Filer)",
+      "updated": "2025-12-23T17:26:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T22:27:54.720091+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1484769/000149315225029112/0001493152-25-029112-index.htm": {
+      "title": "8-K/A - FuboTV Inc. (0001484769) (Filer)",
+      "updated": "2025-12-23T17:26:01-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T22:27:55.804024+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1879373/000121390025125488/0001213900-25-125488-index.htm": {
+      "title": "10-K - GRAPHJET TECHNOLOGY (0001879373) (Filer)",
+      "updated": "2025-12-23T17:25:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T22:27:56.913681+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1001171/000114036125046590/0001140361-25-046590-index.htm": {
+      "title": "10-K/A - BROADWAY FINANCIAL CORP \\DE\\ (0001001171) (Filer)",
+      "updated": "2025-12-23T17:22:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T22:27:58.001252+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1857044/000149315225029107/0001493152-25-029107-index.htm": {
+      "title": "8-K - Indaptus Therapeutics, Inc. (0001857044) (Filer)",
+      "updated": "2025-12-23T17:22:31-05:00",
+      "label": "BOILERPLATE",
+      "reason": "llm_ok",
+      "first_seen": "2025-12-23T22:28:00.902188+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1539850/000149315225029106/0001493152-25-029106-index.htm": {
+      "title": "8-K - Starco Brands, Inc. (0001539850) (Filer)",
+      "updated": "2025-12-23T17:21:55-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T22:28:01.988258+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1111485/000119312525331151/0001193125-25-331151-index.htm": {
+      "title": "8-K - RxSight, Inc. (0001111485) (Filer)",
+      "updated": "2025-12-23T17:21:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T22:28:03.085673+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/802257/000118518525002170/0001185185-25-002170-index.htm": {
+      "title": "8-K - Mitesco, Inc. (0000802257) (Filer)",
+      "updated": "2025-12-23T17:21:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T22:28:04.170458+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1588014/000149315225029105/0001493152-25-029105-index.htm": {
+      "title": "8-K - ADM ENDEAVORS, INC. (0001588014) (Filer)",
+      "updated": "2025-12-23T17:21:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T22:28:05.256743+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1737523/000147793225009186/0001477932-25-009186-index.htm": {
+      "title": "8-K - BioNexus Gene Lab Corp (0001737523) (Filer)",
+      "updated": "2025-12-23T17:20:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T22:28:06.345380+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1869453/000119312525331149/0001193125-25-331149-index.htm": {
+      "title": "8-K - Blue Owl Technology Income Corp. (0001869453) (Filer)",
+      "updated": "2025-12-23T17:20:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T22:28:07.430723+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1166691/000162828025058790/0001628280-25-058790-index.htm": {
+      "title": "8-K - COMCAST CORP (0001166691) (Filer)",
+      "updated": "2025-12-23T17:19:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T22:28:08.514264+00:00"
     }
   }
 }
