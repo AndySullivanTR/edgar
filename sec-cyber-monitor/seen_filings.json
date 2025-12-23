@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-23T15:29:53.703750+00:00",
+  "last_checked": "2025-12-23T15:49:00.634647+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -40299,6 +40299,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-23T15:29:52.670897+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1437479/000117494725001473/0001174947-25-001473-index.htm": {
+      "title": "8-K - ENB Financial Corp (0001437479) (Filer)",
+      "updated": "2025-12-23T10:46:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T15:48:58.499788+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1326771/000132677125000233/0001326771-25-000233-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer)",
+      "updated": "2025-12-23T10:34:13-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T15:48:59.600859+00:00"
     }
   }
 }
