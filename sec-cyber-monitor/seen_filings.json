@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-23T15:49:00.634647+00:00",
+  "last_checked": "2025-12-23T16:36:23.042374+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -40313,6 +40313,34 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-23T15:48:59.600859+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1635327/000119312525330196/0001193125-25-330196-index.htm": {
+      "title": "8-K - Flutter Entertainment plc (0001635327) (Filer)",
+      "updated": "2025-12-23T11:30:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T16:36:18.753289+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2050338/000121390025124968/0001213900-25-124968-index.htm": {
+      "title": "10-K - Collab Z Inc. (0002050338) (Filer)",
+      "updated": "2025-12-23T11:26:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T16:36:19.837720+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1919369/000119312525330191/0001193125-25-330191-index.htm": {
+      "title": "8-K - VISTA CREDIT STRATEGIC LENDING CORP. (0001919369) (Filer)",
+      "updated": "2025-12-23T11:25:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T16:36:20.924562+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1923780/000157587225000771/0001575872-25-000771-index.htm": {
+      "title": "8-K - Northann Corp. (0001923780) (Filer)",
+      "updated": "2025-12-23T11:23:50-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T16:36:22.009597+00:00"
     }
   }
 }
