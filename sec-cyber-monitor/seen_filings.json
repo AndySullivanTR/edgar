@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-23T13:48:52.869120+00:00",
+  "last_checked": "2025-12-23T14:28:13.594127+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -40257,6 +40257,20 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-23T13:48:51.837295+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1860657/000121390025124935/0001213900-25-124935-index.htm": {
+      "title": "8-K - Allarity Therapeutics, Inc. (0001860657) (Filer)",
+      "updated": "2025-12-23T09:21:54-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T14:28:11.474675+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1018164/000101816425000159/0001018164-25-000159-index.htm": {
+      "title": "8-K - WILLIS LEASE FINANCE CORP (0001018164) (Filer)",
+      "updated": "2025-12-23T09:19:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T14:28:12.561674+00:00"
     }
   }
 }
