@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-23T20:31:39.367705+00:00",
+  "last_checked": "2025-12-23T20:54:37.792148+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -40432,6 +40432,27 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-23T20:31:38.334672+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2008748/000093041325003757/0000930413-25-003757-index.htm": {
+      "title": "8-K - Lord Abbett Private Credit Fund (0002008748) (Filer)",
+      "updated": "2025-12-23T15:53:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T20:54:34.591069+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2041841/000093041325003756/0000930413-25-003756-index.htm": {
+      "title": "8-K - Lord Abbett Private Credit Fund S (0002041841) (Filer)",
+      "updated": "2025-12-23T15:48:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T20:54:35.676425+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1350156/000107997325001898/0001079973-25-001898-index.htm": {
+      "title": "8-K - PREAXIA HEALTH CARE PAYMENT SYSTEMS INC. (0001350156) (Filer)",
+      "updated": "2025-12-23T15:43:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T20:54:36.759334+00:00"
     }
   }
 }
