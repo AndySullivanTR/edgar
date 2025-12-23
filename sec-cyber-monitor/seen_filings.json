@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-23T22:28:09.547471+00:00",
+  "last_checked": "2025-12-23T22:46:20.884253+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -40663,6 +40663,41 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-23T22:28:08.514264+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1919246/000175392625001964/0001753926-25-001964-index.htm": {
+      "title": "8-K - Pelthos Therapeutics Inc. (0001919246) (Filer)",
+      "updated": "2025-12-23T17:30:32-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T22:46:15.159146+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1960847/000121390025125491/0001213900-25-125491-index.htm": {
+      "title": "8-K - Toppoint Holdings Inc. (0001960847) (Filer)",
+      "updated": "2025-12-23T17:30:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T22:46:16.295944+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1674440/000149315225029123/0001493152-25-029123-index.htm": {
+      "title": "10-Q - AIRWA INC. (0001674440) (Filer)",
+      "updated": "2025-12-23T17:29:47-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T22:46:17.493243+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1679628/000149315225029124/0001493152-25-029124-index.htm": {
+      "title": "8-K - JUPITER NEUROSCIENCES, INC. (0001679628) (Filer)",
+      "updated": "2025-12-23T17:29:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T22:46:18.676436+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1879848/000149315225029122/0001493152-25-029122-index.htm": {
+      "title": "8-K - PHOENIX MOTOR INC. (0001879848) (Filer)",
+      "updated": "2025-12-23T17:29:11-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T22:46:19.851604+00:00"
     }
   }
 }
