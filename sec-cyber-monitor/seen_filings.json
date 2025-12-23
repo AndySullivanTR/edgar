@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-23T20:54:37.792148+00:00",
+  "last_checked": "2025-12-23T21:25:48.718110+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -40453,6 +40453,76 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-23T20:54:36.759334+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1289419/000128941925000178/0001289419-25-000178-index.htm": {
+      "title": "8-K - Morningstar, Inc. (0001289419) (Filer)",
+      "updated": "2025-12-23T16:24:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T21:25:37.808005+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1445942/000199937125021159/0001999371-25-021159-index.htm": {
+      "title": "10-K/A - Texas Mineral Resources Corp. (0001445942) (Filer)",
+      "updated": "2025-12-23T16:24:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T21:25:38.901364+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1709682/000170968225000043/0001709682-25-000043-index.htm": {
+      "title": "8-K - Custom Truck One Source, Inc. (0001709682) (Filer)",
+      "updated": "2025-12-23T16:23:37-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T21:25:39.994886+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1725210/000119312525330981/0001193125-25-330981-index.htm": {
+      "title": "8-K - Grayscale Ethereum Trust ETF (0001725210) (Filer)",
+      "updated": "2025-12-23T16:22:52-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T21:25:41.097968+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1720265/000119312525330977/0001193125-25-330977-index.htm": {
+      "title": "8-K - Grayscale Zcash Trust (ZEC) (0001720265) (Filer)",
+      "updated": "2025-12-23T16:21:42-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T21:25:42.191325+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1506251/000121390025125333/0001213900-25-125333-index.htm": {
+      "title": "10-K - Citius Pharmaceuticals, Inc. (0001506251) (Filer)",
+      "updated": "2025-12-23T16:21:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T21:25:43.286351+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1851484/000121390025125331/0001213900-25-125331-index.htm": {
+      "title": "10-K - CITIUS ONCOLOGY, INC. (0001851484) (Filer)",
+      "updated": "2025-12-23T16:20:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T21:25:44.385476+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1820878/000119312525330971/0001193125-25-330971-index.htm": {
+      "title": "8-K - Aimco OP L.P. (0001820878) (Filer)",
+      "updated": "2025-12-23T16:20:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T21:25:45.485619+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/922864/000119312525330971/0001193125-25-330971-index.htm": {
+      "title": "8-K - APARTMENT INVESTMENT & MANAGEMENT CO (0000922864) (Filer)",
+      "updated": "2025-12-23T16:20:27-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T21:25:46.588784+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/67215/000119312525330970/0001193125-25-330970-index.htm": {
+      "title": "8-K - DYCOM INDUSTRIES INC (0000067215) (Filer)",
+      "updated": "2025-12-23T16:20:06-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T21:25:47.684978+00:00"
     }
   }
 }
