@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-23T19:43:54.301782+00:00",
+  "last_checked": "2025-12-23T19:57:13.867395+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -40376,6 +40376,48 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-23T19:29:36.590527+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1050743/000119312525330703/0001193125-25-330703-index.htm": {
+      "title": "8-K - PEAPACK GLADSTONE FINANCIAL CORP (0001050743) (Filer)",
+      "updated": "2025-12-23T14:56:04-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T19:57:07.396955+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1316944/000131694425000248/0001316944-25-000248-index.htm": {
+      "title": "8-K - Federal Home Loan Bank of San Francisco (0001316944) (Filer)",
+      "updated": "2025-12-23T14:55:05-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T19:57:08.481635+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1975736/000110465925124125/0001104659-25-124125-index.htm": {
+      "title": "8-K - KKR FS Income Trust Select (0001975736) (Filer)",
+      "updated": "2025-12-23T14:50:43-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T19:57:09.565565+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2098047/000153949725003335/0001539497-25-003335-index.htm": {
+      "title": "8-K - BANK 2025-BNK51 (0002098047) (Filer)",
+      "updated": "2025-12-23T14:47:59-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T19:57:10.645793+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1471727/000149315225028965/0001493152-25-028965-index.htm": {
+      "title": "8-K - SRx Health Solutions, Inc. (0001471727) (Filer)",
+      "updated": "2025-12-23T14:45:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T19:57:11.728366+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1930679/000110465925124120/0001104659-25-124120-index.htm": {
+      "title": "8-K - KKR FS Income Trust (0001930679) (Filer)",
+      "updated": "2025-12-23T14:45:08-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T19:57:12.833854+00:00"
     }
   }
 }
