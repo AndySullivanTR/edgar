@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-23T11:57:36.810452+00:00",
+  "last_checked": "2025-12-23T13:01:53.946957+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -40096,6 +40096,111 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-23T11:44:32.836112+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2030522/000121390025124901/0001213900-25-124901-index.htm": {
+      "title": "8-K - Marwynn Holdings, Inc. (0002030522) (Filer)",
+      "updated": "2025-12-23T08:00:41-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:01:37.642352+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1687187/000121390025124900/0001213900-25-124900-index.htm": {
+      "title": "8-K - Ramaco Resources, Inc. (0001687187) (Filer)",
+      "updated": "2025-12-23T08:00:40-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:01:38.736412+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1018164/000101816425000156/0001018164-25-000156-index.htm": {
+      "title": "8-K - WILLIS LEASE FINANCE CORP (0001018164) (Filer)",
+      "updated": "2025-12-23T08:00:30-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:01:39.845510+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1084937/000168316825009310/0001683168-25-009310-index.htm": {
+      "title": "8-K - Green Rain Energy Holdings Inc. (0001084937) (Filer)",
+      "updated": "2025-12-23T08:00:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:01:40.934670+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/64472/000119312525329707/0001193125-25-329707-index.htm": {
+      "title": "8-K - GENCOR INDUSTRIES INC (0000064472) (Filer)",
+      "updated": "2025-12-23T08:00:23-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:01:42.026107+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1562476/000119312525329705/0001193125-25-329705-index.htm": {
+      "title": "8-K - Taylor Morrison Home Corp (0001562476) (Filer)",
+      "updated": "2025-12-23T08:00:15-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:01:43.110870+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1868275/000186827525000119/0001868275-25-000119-index.htm": {
+      "title": "8-K - Constellation Energy Corp (0001868275) (Filer)",
+      "updated": "2025-12-23T07:59:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:01:44.195375+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1168165/000186827525000119/0001868275-25-000119-index.htm": {
+      "title": "8-K - CONSTELLATION ENERGY GENERATION LLC (0001168165) (Filer)",
+      "updated": "2025-12-23T07:59:44-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:01:45.289762+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1818794/000119312525329511/0001193125-25-329511-index.htm": {
+      "title": "8-K - Dyne Therapeutics, Inc. (0001818794) (Filer)",
+      "updated": "2025-12-23T07:35:24-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:01:46.390995+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1849820/000184982025000314/0001849820-25-000314-index.htm": {
+      "title": "8-K - Nauticus Robotics, Inc. (0001849820) (Filer)",
+      "updated": "2025-12-23T07:20:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:01:47.477136+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1595248/000143774925038601/0001437749-25-038601-index.htm": {
+      "title": "8-K - Genprex, Inc. (0001595248) (Filer)",
+      "updated": "2025-12-23T07:15:48-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:01:48.558848+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1733861/000118518525002153/0001185185-25-002153-index.htm": {
+      "title": "10-Q - REST EZ Inc. (0001733861) (Filer)",
+      "updated": "2025-12-23T07:08:28-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:01:49.640424+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1832038/000119312525329488/0001193125-25-329488-index.htm": {
+      "title": "8-K - Invivyd, Inc. (0001832038) (Filer)",
+      "updated": "2025-12-23T07:08:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:01:50.721588+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1446847/000110465925123974/0001104659-25-123974-index.htm": {
+      "title": "8-K - IRONWOOD PHARMACEUTICALS INC (0001446847) (Filer)",
+      "updated": "2025-12-23T07:06:10-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:01:51.812703+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1000228/000119312525329486/0001193125-25-329486-index.htm": {
+      "title": "8-K - HENRY SCHEIN INC (0001000228) (Filer)",
+      "updated": "2025-12-23T07:00:20-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:01:52.914725+00:00"
     }
   }
 }
