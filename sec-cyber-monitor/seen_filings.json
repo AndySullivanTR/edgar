@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-23T10:56:39.742120+00:00",
+  "last_checked": "2025-12-23T11:27:09.924055+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -40033,6 +40033,55 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-22T22:48:06.484387+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1498710/000095010325016460/0000950103-25-016460-index.htm": {
+      "title": "8-K - Spirit Aviation Holdings, Inc. (0001498710) (Filer)",
+      "updated": "2025-12-23T06:17:29-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T11:27:02.310906+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1552033/000155203325000062/0001552033-25-000062-index.htm": {
+      "title": "8-K - TransUnion (0001552033) (Filer)",
+      "updated": "2025-12-23T06:16:25-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T11:27:03.405579+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1526113/000110465925123952/0001104659-25-123952-index.htm": {
+      "title": "8-K - Global Net Lease, Inc. (0001526113) (Filer)",
+      "updated": "2025-12-23T06:16:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T11:27:04.500271+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1859807/000121390025124826/0001213900-25-124826-index.htm": {
+      "title": "8-K - Profusa, Inc. (0001859807) (Filer)",
+      "updated": "2025-12-23T06:05:51-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T11:27:05.595723+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1655210/000119312525329436/0001193125-25-329436-index.htm": {
+      "title": "8-K - BEYOND MEAT, INC. (0001655210) (Filer)",
+      "updated": "2025-12-23T06:01:46-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T11:27:06.696272+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1133470/000110465925123938/0001104659-25-123938-index.htm": {
+      "title": "8-K - CALAVO GROWERS INC (0001133470) (Filer)",
+      "updated": "2025-12-23T06:01:34-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T11:27:07.795533+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/2068385/000182912625010245/0001829126-25-010245-index.htm": {
+      "title": "8-K - SharonAI Holdings, Inc. (0002068385) (Filer)",
+      "updated": "2025-12-23T06:01:19-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T11:27:08.889809+00:00"
     }
   }
 }
