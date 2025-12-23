@@ -1,5 +1,5 @@
 {
-  "last_checked": "2025-12-23T13:01:53.946957+00:00",
+  "last_checked": "2025-12-23T13:48:52.869120+00:00",
   "seen": {
     "https://www.sec.gov/Archives/edgar/data/311337/000110465925106731/0001104659-25-106731-index.htm": {
       "title": "",
@@ -40201,6 +40201,62 @@
       "label": "BOILERPLATE",
       "reason": null,
       "first_seen": "2025-12-23T13:01:52.914725+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1069530/000143774925038605/0001437749-25-038605-index.htm": {
+      "title": "8-K - CASSAVA SCIENCES INC (0001069530) (Filer)",
+      "updated": "2025-12-23T08:46:03-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:48:43.825502+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1794776/000119312525329795/0001193125-25-329795-index.htm": {
+      "title": "8-K - Palmer Square Capital BDC Inc. (0001794776) (Filer)",
+      "updated": "2025-12-23T08:35:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:48:44.959145+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1701963/000121390025124910/0001213900-25-124910-index.htm": {
+      "title": "8-K - Versus Systems Inc. (0001701963) (Filer)",
+      "updated": "2025-12-23T08:30:38-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:48:46.104183+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1402057/000119312525329779/0001193125-25-329779-index.htm": {
+      "title": "8-K - CDW Corp (0001402057) (Filer)",
+      "updated": "2025-12-23T08:30:26-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:48:47.298779+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1964333/000196433325000262/0001964333-25-000262-index.htm": {
+      "title": "8-K - Burke & Herbert Financial Services Corp. (0001964333) (Filer)",
+      "updated": "2025-12-23T08:30:12-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:48:48.430343+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1634117/000163411725000041/0001634117-25-000041-index.htm": {
+      "title": "8-K - Barnes & Noble Education, Inc. (0001634117) (Filer)",
+      "updated": "2025-12-23T08:07:39-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:48:49.563669+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1742927/000143774925038602/0001437749-25-038602-index.htm": {
+      "title": "8-K - REVIVA PHARMACEUTICALS HOLDINGS, INC. (0001742927) (Filer)",
+      "updated": "2025-12-23T08:05:14-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:48:50.694439+00:00"
+    },
+    "https://www.sec.gov/Archives/edgar/data/1465311/000168316825009312/0001683168-25-009312-index.htm": {
+      "title": "8-K - Zicix Corp (0001465311) (Filer)",
+      "updated": "2025-12-23T08:04:33-05:00",
+      "label": "BOILERPLATE",
+      "reason": null,
+      "first_seen": "2025-12-23T13:48:51.837295+00:00"
     }
   }
 }
